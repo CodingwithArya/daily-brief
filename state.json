@@ -322,6 +322,22 @@
    "topic": "Interpretability & safety",
    "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
   },
+  "77468b305b5c4967": {
+   "added": "2026-10-21",
+   "hits": 2,
+   "id": "77468b305b5c4967",
+   "item_ids": [
+    "77468b305b5c4967"
+   ],
+   "kind": "article",
+   "page": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+   "score": 1.139,
+   "section": "tech",
+   "source": "The Verge",
+   "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support"
+  },
   "8477c3daca9c4e08": {
    "added": "2026-10-21",
    "hits": 2,
@@ -1658,9 +1674,11 @@
   "2fd6845a87d5f232": "2026-10-21",
   "3b472cbf68062ef0": "2026-10-21",
   "50afaf72bfb9fbf4": "2026-10-21",
+  "5bb2f89b6a50045c": "2026-10-21",
   "6325f7d8c3024abd": "2026-10-21",
   "6def1af444f0bb8a": "2026-10-21",
   "71f8d53a63635fdc": "2026-10-21",
+  "77468b305b5c4967": "2026-10-21",
   "7a71cb195624ab24": "2026-10-21",
   "7dadac6a05821def": "2026-10-21",
   "7ec204846724037f": "2026-10-21",

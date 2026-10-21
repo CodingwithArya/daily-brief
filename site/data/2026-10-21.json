@@ -21,7 +21,7 @@
       "extra": {
        "ago": "12h ago"
       },
-      "score": 1.262,
+      "score": 1.2551,
       "why": "",
       "also_sections": [],
       "ago": "12h ago",
@@ -41,11 +41,31 @@
       "extra": {
        "ago": "21h ago"
       },
-      "score": 1.2547,
+      "score": 1.2494,
       "why": "",
       "also_sections": [],
       "ago": "21h ago",
       "id": "ad5e020c912015f0"
+     },
+     {
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 17:42:34+00:00",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0933,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "cb955289e6c2e0ad"
      },
      {
       "title": "Family of prison officer killed by IRA receives state apology",
@@ -61,31 +81,11 @@
       "extra": {
        "ago": "just now"
       },
-      "score": 1.0751,
+      "score": 1.0676,
       "why": "",
       "also_sections": [],
       "ago": "just now",
       "id": "f44fd305c0523698"
-     },
-     {
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "section": "world",
-      "kind": "article",
-      "published": "2026-10-21 16:38:06+00:00",
-      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-      "duration_min": null,
-      "popularity": 0.0,
-      "weight": 1.1,
-      "extra": {
-       "ago": "1h ago"
-      },
-      "score": 1.0636,
-      "why": "",
-      "also_sections": [],
-      "ago": "1h ago",
-      "id": "cb955289e6c2e0ad"
      }
     ]
    },
@@ -107,7 +107,7 @@
       "extra": {
        "ago": "just now"
       },
-      "score": 1.9238,
+      "score": 1.9104,
       "why": "",
       "also_sections": [],
       "ago": "just now",
@@ -127,7 +127,7 @@
       "extra": {
        "ago": "2h ago"
       },
-      "score": 1.8252,
+      "score": 1.8128,
       "why": "",
       "also_sections": [],
       "ago": "2h ago",
@@ -147,7 +147,7 @@
       "extra": {
        "ago": "3h ago"
       },
-      "score": 1.6016,
+      "score": 1.591,
       "why": "",
       "also_sections": [],
       "ago": "3h ago",
@@ -168,7 +168,7 @@
        "discussion": "https://news.ycombinator.com/item?id=50163277",
        "ago": "32h ago"
       },
-      "score": 1.46,
+      "score": 1.4575,
       "why": "",
       "also_sections": [],
       "ago": "32h ago",
@@ -181,39 +181,39 @@
       "section": "tech",
       "kind": "article",
       "published": "2026-10-21 13:45:33+00:00",
-      "summary": "746 points \u00b7 309 comments on HN",
+      "summary": "757 points \u00b7 441 comments on HN",
       "duration_min": null,
-      "popularity": 746.0,
+      "popularity": 757.0,
       "weight": 1.0,
       "extra": {
        "discussion": "https://news.ycombinator.com/item?id=50180873",
-       "ago": "3h ago"
+       "ago": "4h ago"
       },
-      "score": 1.3975,
+      "score": 1.3928,
       "why": "",
       "also_sections": [],
-      "ago": "3h ago",
+      "ago": "4h ago",
       "id": "11e92edf73fbbb01"
      },
      {
-      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
-      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-      "source": "Ars Technica",
+      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
+      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "source": "The Verge",
       "section": "tech",
       "kind": "article",
-      "published": "2026-10-20 21:14:33+00:00",
-      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "published": "2026-10-21 13:09:26+00:00",
+      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12,\u2026",
       "duration_min": null,
       "popularity": 0.0,
-      "weight": 0.8,
+      "weight": 0.6,
       "extra": {
-       "ago": "20h ago"
+       "ago": "4h ago"
       },
-      "score": 0.654,
+      "score": 1.139,
       "why": "",
       "also_sections": [],
-      "ago": "20h ago",
-      "id": "ede9488de6abf040"
+      "ago": "4h ago",
+      "id": "77468b305b5c4967"
      }
     ]
    },
@@ -221,6 +221,26 @@
     "id": "ai",
     "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
     "items": [
+     {
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 17:25:01+00:00",
+      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 2.1267,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "5bb2f89b6a50045c"
+     },
      {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making - Allen AI",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ub0R2MmM4OWV3UEtzY2pfZS03N1dFYmZrLVJCT1RGbG5KekhuWGgwQW4zZWNvamtscjl1ZXhDcHNDTkVrRWFISEc2QQ?oc=5",
@@ -235,7 +255,7 @@
       "extra": {
        "ago": "24h ago"
       },
-      "score": 1.8477,
+      "score": 1.8452,
       "why": "",
       "also_sections": [],
       "ago": "24h ago",
@@ -255,7 +275,7 @@
       "extra": {
        "ago": "10h ago"
       },
-      "score": 1.8433,
+      "score": 1.8407,
       "why": "",
       "also_sections": [],
       "ago": "10h ago",
@@ -275,7 +295,7 @@
       "extra": {
        "ago": "5d ago"
       },
-      "score": 1.6895,
+      "score": 1.6883,
       "why": "",
       "also_sections": [],
       "ago": "5d ago",
@@ -293,12 +313,12 @@
       "popularity": 0.0,
       "weight": 1.2,
       "extra": {
-       "ago": "19h ago"
+       "ago": "20h ago"
       },
-      "score": 1.2739,
+      "score": 1.2683,
       "why": "",
       "also_sections": [],
-      "ago": "19h ago",
+      "ago": "20h ago",
       "id": "1f9571a16d8d1805"
      },
      {
@@ -315,31 +335,11 @@
       "extra": {
        "ago": "1h ago"
       },
-      "score": 1.2485,
+      "score": 1.2399,
       "why": "",
       "also_sections": [],
       "ago": "1h ago",
       "id": "f18edfcf2f2ed061"
-     },
-     {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 - Allen AI",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVTd1ZWJLbC1paGlWdnBwblYteTB1WXZNMkhSRnNST3ZRcUxCRTZHR0d3dHo3dXc1Q2ZJdGw4TmlNNnVWNjlxdmxIZw?oc=5",
-      "source": "AI2 blog",
-      "section": "ai",
-      "kind": "article",
-      "published": "2026-10-14 16:55:21+00:00",
-      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 \u00a0\u00a0 Allen AI",
-      "duration_min": null,
-      "popularity": 0.0,
-      "weight": 1.2,
-      "extra": {
-       "ago": "7d ago"
-      },
-      "score": 1.2199,
-      "why": "",
-      "also_sections": [],
-      "ago": "7d ago",
-      "id": "6325f7d8c3024abd"
      }
     ]
    },
@@ -362,12 +362,12 @@
        "pdf": "https://arxiv.org/pdf/2610.27785",
        "arxiv_id": "2610.27785",
        "authors": "Chenda Li, Tianhua Li, Yiming Chen, Wei Wang et al.",
-       "ago": "33h ago"
+       "ago": "34h ago"
       },
-      "score": 3.8733,
+      "score": 3.8683,
       "why": "",
       "also_sections": [],
-      "ago": "33h ago",
+      "ago": "34h ago",
       "id": "85af95429a86ecc6"
      },
      {
@@ -387,7 +387,7 @@
        "authors": "Yifei Zhou, Zhiying Zhu, Yuxiao Jiang, Yihan Mao et al.",
        "ago": "2d ago"
       },
-      "score": 2.5808,
+      "score": 2.5777,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -413,7 +413,7 @@
       "extra": {
        "ago": "2h ago"
       },
-      "score": 2.1288,
+      "score": 2.1256,
       "why": "",
       "also_sections": [],
       "ago": "2h ago",
@@ -433,7 +433,7 @@
       "extra": {
        "ago": "2d ago"
       },
-      "score": 1.9416,
+      "score": 1.9393,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -456,7 +456,7 @@
        "authors": "Xijia Wang, TianZhang He, Mohammad Goudarzi",
        "ago": "2d ago"
       },
-      "score": 1.9384,
+      "score": 1.9362,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -476,7 +476,7 @@
       "extra": {
        "ago": "2d ago"
       },
-      "score": 1.9174,
+      "score": 1.9151,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -496,7 +496,7 @@
       "extra": {
        "ago": "4h ago"
       },
-      "score": 1.7443,
+      "score": 1.7418,
       "why": "",
       "also_sections": [],
       "ago": "4h ago",
@@ -516,7 +516,7 @@
       "extra": {
        "ago": "7d ago"
       },
-      "score": 1.6827,
+      "score": 1.6818,
       "why": "",
       "also_sections": [],
       "ago": "7d ago",
@@ -528,27 +528,6 @@
     "id": "listen",
     "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
     "items": [
-     {
-      "title": "The Importance of Niche Expertise: How Kim Meehan Became a Leading Voice in Perinatal Mental Health",
-      "url": "https://rss.com/podcasts/no-prior-auth/3250490",
-      "source": "No Priors",
-      "section": "listen",
-      "kind": "podcast",
-      "published": "2026-10-20 22:01:00+00:00",
-      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Kim Meehan has 185,000 followers, and if a client finds her through social media, she refers them to somebody else. On purpose. She's had a six-month waitlist for four years and has never paid\u2026",
-      "duration_min": 50,
-      "popularity": 0.0,
-      "weight": 1.4,
-      "extra": {
-       "audio": "https://content.rss.com/episodes/381987/3250490/no-prior-auth/2026_10_20_17_33_04_51a5023d-18b9-467a-af88-68f65b318005.mp3",
-       "ago": "19h ago"
-      },
-      "score": 0.8305,
-      "why": "",
-      "also_sections": [],
-      "ago": "19h ago",
-      "id": "2fd6845a87d5f232"
-     },
      {
       "title": "Seinfeld",
       "url": "https://www.acquired.fm/episodes/seinfeld",
@@ -564,11 +543,32 @@
        "audio": "https://pscrb.fm/rss/p/media.transistor.fm/96a5f313/515377c5.mp3",
        "ago": "2d ago"
       },
-      "score": 0.8303,
+      "score": 0.8294,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
       "id": "7ec204846724037f"
+     },
+     {
+      "title": "The Importance of Niche Expertise: How Kim Meehan Became a Leading Voice in Perinatal Mental Health",
+      "url": "https://rss.com/podcasts/no-prior-auth/3250490",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-20 22:01:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Kim Meehan has 185,000 followers, and if a client finds her through social media, she refers them to somebody else. On purpose. She's had a six-month waitlist for four years and has never paid\u2026",
+      "duration_min": 50,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3250490/no-prior-auth/2026_10_20_17_33_04_51a5023d-18b9-467a-af88-68f65b318005.mp3",
+       "ago": "19h ago"
+      },
+      "score": 0.8268,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "2fd6845a87d5f232"
      },
      {
       "title": "Zelenskyy Mending Ties, Trump In North Carolina, Saudi Arabia Gets British Support",
@@ -585,7 +585,7 @@
        "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/20bcda5a-23fb-4b26-a3cc-aa1fb0832878/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=20bcda5a-23fb-4b26-a3cc-aa1fb0832878&feed=HMwRVgVt&t=podcast&e=nx-s1-6010363&p=510318&d=750&size=12012608",
        "ago": "7h ago"
       },
-      "score": 0.714,
+      "score": 0.7096,
       "why": "",
       "also_sections": [],
       "ago": "7h ago",
@@ -606,7 +606,7 @@
        "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/kyle_harper.mp3?dest-id=5264190",
        "ago": "2d ago"
       },
-      "score": 0.5733,
+      "score": 0.5727,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -627,13 +627,13 @@
       "published": "2026-10-20 16:21:03+00:00",
       "summary": "Macroscope can auto-approve your team's PRs safely. Try it here: https://macroscope.com/?utm_source=fireship Google\u2019s new model claims to beat GPT-6 and Opus 5.5, so I took them all for a test drive. Let's dive in. Want more Fireship? \ud83d\uddde\ufe0f\u2026",
       "duration_min": null,
-      "popularity": 1403.962,
+      "popularity": 1404.223,
       "weight": 1.2,
       "extra": {
        "thumb": "https://i3.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
        "ago": "25h ago"
       },
-      "score": 2.0076,
+      "score": 2.0024,
       "why": "",
       "also_sections": [],
       "ago": "25h ago",
@@ -648,13 +648,13 @@
       "published": "2026-10-19 08:49:21+00:00",
       "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers \ud83d\udcdd Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/\u2026",
       "duration_min": null,
-      "popularity": 202.096,
+      "popularity": 202.14,
       "weight": 1.0,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
        "ago": "2d ago"
       },
-      "score": 1.5933,
+      "score": 1.5922,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -669,13 +669,13 @@
       "published": "2026-10-20 14:00:11+00:00",
       "summary": "Want to support our craft and save our asses? This is the best way: https://shop.kgs.link/Calendar27 Our 12,027 Human Era Calendar is out now, giving you something beautiful and science-inspired in return for funding all that we do. Every\u2026",
       "duration_min": null,
-      "popularity": 3229.115,
+      "popularity": 3230.043,
       "weight": 1.0,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/PXbVn-f_wuM/hqdefault.jpg",
        "ago": "27h ago"
       },
-      "score": 1.4372,
+      "score": 1.4361,
       "why": "",
       "also_sections": [],
       "ago": "27h ago",
@@ -690,13 +690,13 @@
       "published": "2026-10-16 16:15:20+00:00",
       "summary": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the\u2026",
       "duration_min": null,
-      "popularity": 2337.38,
+      "popularity": 2337.413,
       "weight": 1.5,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
        "ago": "5d ago"
       },
-      "score": 1.4002,
+      "score": 1.3996,
       "why": "",
       "also_sections": [],
       "ago": "5d ago",
@@ -771,167 +771,167 @@
   "n_items": 32,
   "read_min": 72,
   "listen_min": 437,
-  "generated": "10:40 AM PDT",
+  "generated": "10:53 AM PDT",
   "feed_url": "podcasts/feed.xml"
  },
  "jobs": [
   {
-   "kind": "topic",
-   "topic": "Hearables & on-device audio AI",
-   "title": "Hearables & on-device audio AI: 4 new papers",
-   "sources": [
-    {
-     "id": "arxiv:2610.27785",
-     "item_ids": [
-      "85af95429a86ecc6"
-     ],
-     "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
-     "kind": "paper",
-     "section": "pool",
-     "source": "arXiv \u2014 efficient / on-device / audio ML",
-     "url": "https://arxiv.org/pdf/2610.27785",
-     "page": "https://arxiv.org/abs/2610.27785",
-     "topic": "Hearables & on-device audio AI",
-     "hits": 2,
-     "score": 3.8733,
-     "added": "2026-10-21"
-    },
-    {
-     "id": "arxiv:2610.24696",
-     "item_ids": [
-      "17e0ebdb6b319d26"
-     ],
-     "title": "SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression",
-     "kind": "paper",
-     "section": "lab",
-     "source": "arXiv \u2014 your lab's area",
-     "url": "https://arxiv.org/pdf/2610.24696",
-     "page": "https://arxiv.org/abs/2610.24696",
-     "topic": "Hearables & on-device audio AI",
-     "hits": 2,
-     "score": 2.4117,
-     "added": "2026-10-21"
-    },
-    {
-     "id": "arxiv:2610.21773",
-     "item_ids": [
-      "211eb756c29d1d09"
-     ],
-     "title": "CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge",
-     "kind": "paper",
-     "section": "lab",
-     "source": "arXiv \u2014 your lab's area",
-     "url": "https://arxiv.org/pdf/2610.21773",
-     "page": "https://arxiv.org/abs/2610.21773",
-     "topic": "Hearables & on-device audio AI",
-     "hits": 4,
-     "score": 2.3396,
-     "added": "2026-10-21"
-    },
-    {
-     "id": "arxiv:2610.21588",
-     "item_ids": [
-      "df85b1f67f2dcebf"
-     ],
-     "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
-     "kind": "paper",
-     "section": "lab",
-     "source": "arXiv \u2014 your lab's area",
-     "url": "https://arxiv.org/pdf/2610.21588",
-     "page": "https://arxiv.org/abs/2610.21588",
-     "topic": "Hearables & on-device audio AI",
-     "hits": 1,
-     "score": 2.3198,
-     "added": "2026-10-21"
-    }
-   ],
    "date": "2026-10-21",
-   "key": "ep:2026-10-21:hearables-on-device-audio-ai-4-new-papers",
    "item_ids": [
     "85af95429a86ecc6",
     "17e0ebdb6b319d26",
     "211eb756c29d1d09",
     "df85b1f67f2dcebf"
-   ]
-  },
-  {
+   ],
+   "key": "ep:2026-10-21:hearables-on-device-audio-ai-4-new-papers",
    "kind": "topic",
-   "topic": "On-device & efficient ML",
-   "title": "On-device & efficient ML: 4 new papers",
    "sources": [
     {
-     "id": "arxiv:2610.27952",
-     "item_ids": [
-      "ad2f10e038fe8241"
-     ],
-     "title": "Unsupervised Head Network Personalization for Split Computing via Federated Learning",
-     "kind": "paper",
-     "section": "pool",
-     "source": "arXiv \u2014 efficient / on-device / audio ML",
-     "url": "https://arxiv.org/pdf/2610.27952",
-     "page": "https://arxiv.org/abs/2610.27952",
-     "topic": "On-device & efficient ML",
+     "added": "2026-10-21",
      "hits": 2,
-     "score": 2.3533,
-     "added": "2026-10-21"
-    },
-    {
-     "id": "arxiv:2610.27379",
+     "id": "arxiv:2610.27785",
      "item_ids": [
-      "aac01ea1ebb4e86d"
+      "85af95429a86ecc6"
      ],
-     "title": "DStill: Trajectory Consistency Distillation for Accelerated One-Step Drafting in Block Diffusion Speculative Decoding",
      "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.27785",
+     "score": 3.8733,
      "section": "pool",
      "source": "arXiv \u2014 efficient / on-device / audio ML",
-     "url": "https://arxiv.org/pdf/2610.27379",
-     "page": "https://arxiv.org/abs/2610.27379",
-     "topic": "On-device & efficient ML",
+     "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2610.27785"
+    },
+    {
+     "added": "2026-10-21",
      "hits": 2,
-     "score": 2.3013,
-     "added": "2026-10-21"
+     "id": "arxiv:2610.24696",
+     "item_ids": [
+      "17e0ebdb6b319d26"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.24696",
+     "score": 2.4117,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2610.24696"
     },
     {
-     "id": "arxiv:2610.19072",
-     "item_ids": [
-      "d2b30f9620e9d06b"
-     ],
-     "title": "Tracing Knowledge Lineage for Federated Unlearning under Mutual Distillation",
-     "kind": "paper",
-     "section": "swe",
-     "source": "arXiv \u2014 distributed systems",
-     "url": "https://arxiv.org/pdf/2610.19072",
-     "page": "https://arxiv.org/abs/2610.19072",
-     "topic": "On-device & efficient ML",
-     "hits": 3,
-     "score": 2.1087,
-     "added": "2026-10-21"
-    },
-    {
-     "id": "arxiv:2610.25460",
-     "item_ids": [
-      "d1d2ea406bd9697a"
-     ],
-     "title": "Reliability-Preserving Compression for Deployable Medical Image Segmentation",
-     "kind": "paper",
-     "section": "pool",
-     "source": "arXiv \u2014 efficient / on-device / audio ML",
-     "url": "https://arxiv.org/pdf/2610.25460",
-     "page": "https://arxiv.org/abs/2610.25460",
-     "topic": "On-device & efficient ML",
+     "added": "2026-10-21",
      "hits": 4,
-     "score": 1.9813,
-     "added": "2026-10-21"
+     "id": "arxiv:2610.21773",
+     "item_ids": [
+      "211eb756c29d1d09"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.21773",
+     "score": 2.3396,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2610.21773"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 1,
+     "id": "arxiv:2610.21588",
+     "item_ids": [
+      "df85b1f67f2dcebf"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.21588",
+     "score": 2.3198,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2610.21588"
     }
    ],
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "topic": "Hearables & on-device audio AI"
+  },
+  {
    "date": "2026-10-21",
-   "key": "ep:2026-10-21:on-device-efficient-ml-4-new-papers",
    "item_ids": [
     "ad2f10e038fe8241",
     "aac01ea1ebb4e86d",
     "d2b30f9620e9d06b",
     "d1d2ea406bd9697a"
-   ]
+   ],
+   "key": "ep:2026-10-21:on-device-efficient-ml-4-new-papers",
+   "kind": "topic",
+   "sources": [
+    {
+     "added": "2026-10-21",
+     "hits": 2,
+     "id": "arxiv:2610.27952",
+     "item_ids": [
+      "ad2f10e038fe8241"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.27952",
+     "score": 2.3533,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Unsupervised Head Network Personalization for Split Computing via Federated Learning",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2610.27952"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 2,
+     "id": "arxiv:2610.27379",
+     "item_ids": [
+      "aac01ea1ebb4e86d"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.27379",
+     "score": 2.3013,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "DStill: Trajectory Consistency Distillation for Accelerated One-Step Drafting in Block Diffusion Speculative Decoding",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2610.27379"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 3,
+     "id": "arxiv:2610.19072",
+     "item_ids": [
+      "d2b30f9620e9d06b"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.19072",
+     "score": 2.1087,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "Tracing Knowledge Lineage for Federated Unlearning under Mutual Distillation",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2610.19072"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 4,
+     "id": "arxiv:2610.25460",
+     "item_ids": [
+      "d1d2ea406bd9697a"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.25460",
+     "score": 1.9813,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Reliability-Preserving Compression for Deployable Medical Image Segmentation",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2610.25460"
+    }
+   ],
+   "title": "On-device & efficient ML: 4 new papers",
+   "topic": "On-device & efficient ML"
   }
  ]
 }
