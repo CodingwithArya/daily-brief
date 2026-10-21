@@ -178,6 +178,38 @@
    "topic": "LLM reasoning & test-time compute",
    "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc"
   },
+  "0d8d033795840d49": {
+   "added": "2026-10-21",
+   "hits": 2,
+   "id": "0d8d033795840d49",
+   "item_ids": [
+    "0d8d033795840d49"
+   ],
+   "kind": "article",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "score": 1.5565,
+   "section": "tech",
+   "source": "The Verge",
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "topic": "AI agents & tool use",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+  },
+  "31d21f1698418345": {
+   "added": "2026-10-21",
+   "hits": 2,
+   "id": "31d21f1698418345",
+   "item_ids": [
+    "31d21f1698418345"
+   ],
+   "kind": "article",
+   "page": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
+   "score": 0.5717,
+   "section": "tech",
+   "source": "The Verge",
+   "title": "Meta says it would\u2019ve made over $22 billion if it didn\u2019t have to pay a child safety settlement",
+   "topic": "Interpretability & safety",
+   "url": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement"
+  },
   "38b571c318030a31": {
    "added": "2026-10-21",
    "hits": 2,
@@ -353,6 +385,22 @@
    "title": "Empowering frontline maternal care with AI-assisted ultrasound",
    "topic": "Wireless & acoustic sensing",
    "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/"
+  },
+  "89a2c6e8757c1903": {
+   "added": "2026-10-21",
+   "hits": 2,
+   "id": "89a2c6e8757c1903",
+   "item_ids": [
+    "89a2c6e8757c1903"
+   ],
+   "kind": "article",
+   "page": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
+   "score": 1.0985,
+   "section": "tech",
+   "source": "The Verge",
+   "title": "Walmart is inviting AI agents to shop for you",
+   "topic": "AI agents & tool use",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
   },
   "a4fedcec07875b42": {
    "added": "2026-10-21",
@@ -1618,6 +1666,22 @@
    "topic": "Distributed systems & databases",
    "url": "https://blog.cloudflare.com/full-transaction-waf/"
   },
+  "f0eb317dc7b31ad6": {
+   "added": "2026-10-21",
+   "hits": 2,
+   "id": "f0eb317dc7b31ad6",
+   "item_ids": [
+    "f0eb317dc7b31ad6"
+   ],
+   "kind": "article",
+   "page": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers",
+   "score": 0.8995,
+   "section": "tech",
+   "source": "The Verge",
+   "title": "Bose acquires Skullcandy to help it reach a wider audience",
+   "topic": "Hearables & on-device audio AI",
+   "url": "https://www.theverge.com/tech/1015276/bose-acquisition-skullcandy-headphones-earbuds-speakers"
+  },
   "f18edfcf2f2ed061": {
    "added": "2026-10-21",
    "hits": 2,
@@ -1666,7 +1730,9 @@
   "yt:aiexplained-official": "UCNJ1Ymd5yFuUPtn21xtRbbw"
  },
  "seen": {
+  "029a83da49ffcb2a": "2026-10-21",
   "0332cf37946b41bb": "2026-10-21",
+  "0d8d033795840d49": "2026-10-21",
   "11e92edf73fbbb01": "2026-10-21",
   "1745c0e441417c01": "2026-10-21",
   "1f9571a16d8d1805": "2026-10-21",
@@ -1674,21 +1740,27 @@
   "2fd6845a87d5f232": "2026-10-21",
   "3b472cbf68062ef0": "2026-10-21",
   "50afaf72bfb9fbf4": "2026-10-21",
+  "518bc84cd4f7c2fe": "2026-10-21",
   "5bb2f89b6a50045c": "2026-10-21",
   "6325f7d8c3024abd": "2026-10-21",
   "6def1af444f0bb8a": "2026-10-21",
   "71f8d53a63635fdc": "2026-10-21",
   "77468b305b5c4967": "2026-10-21",
+  "798315b96cc92fe1": "2026-10-21",
   "7a71cb195624ab24": "2026-10-21",
   "7dadac6a05821def": "2026-10-21",
   "7ec204846724037f": "2026-10-21",
+  "820bd24a41c4e68d": "2026-10-21",
   "8282af0e3a432169": "2026-10-21",
   "85af95429a86ecc6": "2026-10-21",
+  "89a2c6e8757c1903": "2026-10-21",
   "8fdcc82ca2f27bcc": "2026-10-21",
   "9078ee3add537918": "2026-10-21",
   "9d75b452b5ac1386": "2026-10-21",
   "ad5e020c912015f0": "2026-10-21",
   "af9076f8cfd4975f": "2026-10-21",
+  "bb96f64cc1d49918": "2026-10-21",
+  "bbc988e4da29f244": "2026-10-21",
   "bc6f7d6d13e5ee6f": "2026-10-21",
   "c55b4c3c8ca25718": "2026-10-21",
   "c83d7267f480811b": "2026-10-21",
@@ -1697,6 +1769,7 @@
   "d5f5b896866a7ed7": "2026-10-21",
   "dfccc413e799e824": "2026-10-21",
   "ede9488de6abf040": "2026-10-21",
+  "efb625fc7d792df5": "2026-10-21",
   "f18edfcf2f2ed061": "2026-10-21",
   "f44fd305c0523698": "2026-10-21",
   "f63c13b7be81d935": "2026-10-21"

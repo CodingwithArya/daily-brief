@@ -8,6 +8,26 @@
     "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
     "items": [
      {
+      "title": "Ex-prosecutor charged with treason in Mexico over US drug raid",
+      "url": "https://www.bbc.co.uk/news/articles/ckx2qpw4rjd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 20:19:51+00:00",
+      "summary": "C\u00e9sar J\u00e1uregui Moreno is accused of allowing US agents to join a raid on a suspected drugs lab in April.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.4467,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "798315b96cc92fe1"
+     },
+     {
       "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - The Financial Express",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm9tcUVvOE1TMF8yZEZkUm9QQVNZRmx0b0JUR0VCVWlrTWFKLUVPeXRHU09oWDBPaXR6VS1sRzM3WjdwS2xRcGpaa21OSE9oazNUOWR4SWxsVW9fWUMyQWRXSFk5eEF5UFZUMjlDUXpsR21vRXlZWndQOURvenV1ZGdMZHZ6dDNsOGNqeXRnVDdhbGc3UGNzeXJKcFJMb3ZaMHphMlFkWVlKS3UwZVNaNTZKc2dfZE9YYTgw?oc=5",
       "source": "Reuters (via Google News)",
@@ -19,73 +39,53 @@
       "popularity": 0.0,
       "weight": 1.0,
       "extra": {
-       "ago": "12h ago"
+       "ago": "16h ago"
       },
-      "score": 1.2551,
+      "score": 1.1319,
       "why": "",
       "also_sections": [],
-      "ago": "12h ago",
+      "ago": "16h ago",
       "id": "8282af0e3a432169"
      },
      {
-      "title": "China says US' DeepSeek ban disregards Xi-Trump consensus - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPak9Kd1hvX05mbjBaRWhaaVpUZWhrV0NVZk5zR3lWWjExWnU4ZXVIY3VxbEdvT3cxMU1hNkdZTnlBek1WV1VWa1E3cXRDaDNEdS0tR2NkX09yS3ZreGxiUWcwRUVxbXN0SFVTbE12RUItdUhwMWM5RFVpMHhlZGtYeFJ5UG9iYzhhSjFjT3dXSlhsay1TWldtVXMzd2lRZ0FQMDNCOEhzMTgycEdTTC1UNW1vUzFSUEtwOU1aRGdyWUY2Q1dJTTRV?oc=5",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 22:02:18+00:00",
+      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0911,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "029a83da49ffcb2a"
+     },
+     {
+      "title": "OpenAI to sell its top models on Google Cloud in latest enterprise push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcF9EWG9QTDRBLU5tUVpFUXNUVW8wU2s3WVNTY2RnQUd0SEZfaXRyVmhpTFg4dGhuZ1RlN3JpOGVSNmY4VDNOUzFSNG9OVnZGTm1oXzk1VTFjakdIOVcyMm9qN2tPMEVJYjl1TzdtdkpCZjNSRlRZdFVGR3JFSC1mX3prVEJOYWI3aUdBbWx1WW40bUhSZmxJMV9kS01RMHBVc3huVWszcE5MTTA3M2RKTGZyMmpNczhpU3ZRcm5fMFA?oc=5",
       "source": "Reuters (via Google News)",
       "section": "world",
       "kind": "article",
-      "published": "2026-10-20 20:02:29+00:00",
-      "summary": "China says US' DeepSeek ban disregards Xi-Trump consensus \u00a0\u00a0 Reuters",
+      "published": "2026-10-21 12:02:09+00:00",
+      "summary": "OpenAI to sell its top models on Google Cloud in latest enterprise push \u00a0\u00a0 Reuters",
       "duration_min": null,
       "popularity": 0.0,
       "weight": 1.0,
       "extra": {
-       "ago": "21h ago"
+       "ago": "10h ago"
       },
-      "score": 1.2494,
+      "score": 1.035,
       "why": "",
       "also_sections": [],
-      "ago": "21h ago",
-      "id": "ad5e020c912015f0"
-     },
-     {
-      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "section": "world",
-      "kind": "article",
-      "published": "2026-10-21 17:42:34+00:00",
-      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
-      "duration_min": null,
-      "popularity": 0.0,
-      "weight": 1.1,
-      "extra": {
-       "ago": "just now"
-      },
-      "score": 1.0933,
-      "why": "",
-      "also_sections": [],
-      "ago": "just now",
-      "id": "cb955289e6c2e0ad"
-     },
-     {
-      "title": "Family of prison officer killed by IRA receives state apology",
-      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "section": "world",
-      "kind": "article",
-      "published": "2026-10-21 16:58:16+00:00",
-      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
-      "duration_min": null,
-      "popularity": 0.0,
-      "weight": 1.1,
-      "extra": {
-       "ago": "just now"
-      },
-      "score": 1.0676,
-      "why": "",
-      "also_sections": [],
-      "ago": "just now",
-      "id": "f44fd305c0523698"
+      "ago": "10h ago",
+      "id": "efb625fc7d792df5"
      }
     ]
    },
@@ -105,12 +105,12 @@
       "popularity": 0.0,
       "weight": 1.4,
       "extra": {
-       "ago": "just now"
+       "ago": "5h ago"
       },
-      "score": 1.9104,
+      "score": 1.669,
       "why": "",
       "also_sections": [],
-      "ago": "just now",
+      "ago": "5h ago",
       "id": "7a71cb195624ab24"
      },
      {
@@ -125,95 +125,95 @@
       "popularity": 0.0,
       "weight": 1.4,
       "extra": {
-       "ago": "2h ago"
+       "ago": "6h ago"
       },
-      "score": 1.8128,
+      "score": 1.5907,
       "why": "",
       "also_sections": [],
-      "ago": "2h ago",
+      "ago": "6h ago",
       "id": "1745c0e441417c01"
      },
      {
-      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
       "source": "The Verge",
       "section": "tech",
       "kind": "article",
-      "published": "2026-10-21 13:57:43+00:00",
-      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [\u2026]",
+      "published": "2026-10-21 19:53:20+00:00",
+      "summary": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [\u2026]",
       "duration_min": null,
       "popularity": 0.0,
       "weight": 0.6,
       "extra": {
-       "ago": "3h ago"
+       "ago": "2h ago"
       },
-      "score": 1.591,
+      "score": 1.5565,
       "why": "",
       "also_sections": [],
-      "ago": "3h ago",
-      "id": "c55b4c3c8ca25718"
+      "ago": "2h ago",
+      "id": "0d8d033795840d49"
      },
      {
-      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/",
       "source": "Hacker News",
       "section": "tech",
       "kind": "article",
-      "published": "2026-10-20 09:08:54+00:00",
-      "summary": "2288 points \u00b7 876 comments on HN",
+      "published": "2026-10-21 19:20:55+00:00",
+      "summary": "314 points \u00b7 91 comments on HN",
       "duration_min": null,
-      "popularity": 2288.0,
+      "popularity": 314.0,
       "weight": 1.0,
       "extra": {
-       "discussion": "https://news.ycombinator.com/item?id=50163277",
-       "ago": "32h ago"
+       "discussion": "https://news.ycombinator.com/item?id=50186129",
+       "ago": "2h ago"
       },
-      "score": 1.4575,
+      "score": 1.383,
       "why": "",
       "also_sections": [],
-      "ago": "32h ago",
-      "id": "dfccc413e799e824"
+      "ago": "2h ago",
+      "id": "820bd24a41c4e68d"
      },
      {
-      "title": "PHP 8.2.35",
-      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "title": "EA is shutting down BioWare",
+      "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
       "source": "Hacker News",
       "section": "tech",
       "kind": "article",
-      "published": "2026-10-21 13:45:33+00:00",
-      "summary": "757 points \u00b7 441 comments on HN",
+      "published": "2026-10-21 17:29:33+00:00",
+      "summary": "421 points \u00b7 257 comments on HN",
       "duration_min": null,
-      "popularity": 757.0,
+      "popularity": 421.0,
       "weight": 1.0,
       "extra": {
-       "discussion": "https://news.ycombinator.com/item?id=50180873",
+       "discussion": "https://news.ycombinator.com/item?id=50184586",
        "ago": "4h ago"
       },
-      "score": 1.3928,
+      "score": 1.3573,
       "why": "",
       "also_sections": [],
       "ago": "4h ago",
-      "id": "11e92edf73fbbb01"
+      "id": "bbc988e4da29f244"
      },
      {
-      "title": "Nvidia\u2019s latest GPU driver brings a new way to speed up PC games",
-      "url": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+      "title": "Walmart is inviting AI agents to shop for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
       "source": "The Verge",
       "section": "tech",
       "kind": "article",
-      "published": "2026-10-21 13:09:26+00:00",
-      "summary": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spikes. Microsoft's Advanced Shader Delivery works by offloading shader compilation for different hardware combinations to the cloud. \"Using DirectX 12,\u2026",
+      "published": "2026-10-21 19:30:00+00:00",
+      "summary": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to use an AI agent on the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, which [\u2026]",
       "duration_min": null,
       "popularity": 0.0,
       "weight": 0.6,
       "extra": {
-       "ago": "4h ago"
+       "ago": "2h ago"
       },
-      "score": 1.139,
+      "score": 1.0985,
       "why": "",
       "also_sections": [],
-      "ago": "4h ago",
-      "id": "77468b305b5c4967"
+      "ago": "2h ago",
+      "id": "89a2c6e8757c1903"
      }
     ]
    },
@@ -222,24 +222,44 @@
     "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
     "items": [
      {
-      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbHVFZTRuSG1Cam5rQllpVVRvVkItRnZwVVlWODVDWU54Vm5jMzA0M1dza09rT1kxbFNTbGVYWWtmdmVGdzQxUjJ0SkczUWFBd3l5MUFWSlN4dWc4Y0FDc1F4S2c0TGNyUGVESUo1MGJpR0VfVXdDYXhDUXNadkRob0ZuVkotUQ?oc=5",
+      "title": "Read our 2026 Public Benefit Report - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kcHFUX1BSYlFQRkNKQnU2c3FJeFh5X2N4Zk54Xzd3eTZONVM1RlljckdKeGZvLV9OSDFCelhTX0kxeEdOdko0bHNvVzhDalplVzZqUjQ3b1lsUTQ?oc=5",
       "source": "Anthropic news",
       "section": "ai",
       "kind": "article",
-      "published": "2026-10-21 17:25:01+00:00",
-      "summary": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust \u00a0\u00a0 Anthropic",
+      "published": "2026-10-21 19:18:30+00:00",
+      "summary": "Read our 2026 Public Benefit Report \u00a0\u00a0 Anthropic",
       "duration_min": null,
       "popularity": 0.0,
       "weight": 1.2,
       "extra": {
-       "ago": "just now"
+       "ago": "2h ago"
       },
-      "score": 2.1267,
+      "score": 1.9656,
       "why": "",
       "also_sections": [],
-      "ago": "just now",
-      "id": "5bb2f89b6a50045c"
+      "ago": "2h ago",
+      "id": "518bc84cd4f7c2fe"
+     },
+     {
+      "title": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxTV92LUpSMkM3VmtLNU5VN3VPNUFfRVFOUDY2b19URFhNUGtiX3pNdWZoT1ExT3dNSVpXQk5menJPQU9iYTVjWnlvZVU2eUk3XzBEWVROanFhNmp2Y0FYSTBFU0trTDhQeUVlOFpzTTJCNVBBRUg2RC04cGkzU1U?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 18:54:02+00:00",
+      "summary": "Anthropic 2026 Public Benefit Report Taking stock of our progress toward our charter \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.9412,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "bb96f64cc1d49918"
      },
      {
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making - Allen AI",
@@ -253,12 +273,12 @@
       "popularity": 0.0,
       "weight": 1.2,
       "extra": {
-       "ago": "24h ago"
+       "ago": "28h ago"
       },
-      "score": 1.8452,
+      "score": 1.7965,
       "why": "",
       "also_sections": [],
-      "ago": "24h ago",
+      "ago": "28h ago",
       "id": "9078ee3add537918"
      },
      {
@@ -273,12 +293,12 @@
       "popularity": 0.0,
       "weight": 1.1,
       "extra": {
-       "ago": "10h ago"
+       "ago": "15h ago"
       },
-      "score": 1.8407,
+      "score": 1.7894,
       "why": "",
       "also_sections": [],
-      "ago": "10h ago",
+      "ago": "15h ago",
       "id": "7dadac6a05821def"
      },
      {
@@ -295,51 +315,31 @@
       "extra": {
        "ago": "5d ago"
       },
-      "score": 1.6883,
+      "score": 1.6644,
       "why": "",
       "also_sections": [],
       "ago": "5d ago",
       "id": "6def1af444f0bb8a"
      },
      {
-      "title": "Using Claude to reduce the attack surface of code - Anthropic",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
-      "source": "Anthropic news",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 - Allen AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVTd1ZWJLbC1paGlWdnBwblYteTB1WXZNMkhSRnNST3ZRcUxCRTZHR0d3dHo3dXc1Q2ZJdGw4TmlNNnVWNjlxdmxIZw?oc=5",
+      "source": "AI2 blog",
       "section": "ai",
       "kind": "article",
-      "published": "2026-10-20 21:43:55+00:00",
-      "summary": "Using Claude to reduce the attack surface of code \u00a0\u00a0 Anthropic",
+      "published": "2026-10-14 16:55:21+00:00",
+      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 \u00a0\u00a0 Allen AI",
       "duration_min": null,
       "popularity": 0.0,
       "weight": 1.2,
       "extra": {
-       "ago": "20h ago"
+       "ago": "7d ago"
       },
-      "score": 1.2683,
+      "score": 1.206,
       "why": "",
       "also_sections": [],
-      "ago": "20h ago",
-      "id": "1f9571a16d8d1805"
-     },
-     {
-      "title": "Panache \u2014 RTS Belle \u00c9poque pour mobile",
-      "url": "https://simonwillison.net/2026/Oct/21/panache/",
-      "source": "Simon Willison",
-      "section": "ai",
-      "kind": "article",
-      "published": "2026-10-21 16:25:16+00:00",
-      "summary": "Panache \u2014 RTS Belle \u00c9poque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de strat\u00e9gie en temps r\u00e9el pour mobile et navigateur, dans la France de la Belle \u00c9poque (vers 1900) : dirigeables,\u2026",
-      "duration_min": null,
-      "popularity": 0.0,
-      "weight": 1.3,
-      "extra": {
-       "ago": "1h ago"
-      },
-      "score": 1.2399,
-      "why": "",
-      "also_sections": [],
-      "ago": "1h ago",
-      "id": "f18edfcf2f2ed061"
+      "ago": "7d ago",
+      "id": "6325f7d8c3024abd"
      }
     ]
    },
@@ -362,12 +362,12 @@
        "pdf": "https://arxiv.org/pdf/2610.27785",
        "arxiv_id": "2610.27785",
        "authors": "Chenda Li, Tianhua Li, Yiming Chen, Wei Wang et al.",
-       "ago": "34h ago"
+       "ago": "1d ago"
       },
-      "score": 3.8683,
+      "score": 3.7705,
       "why": "",
       "also_sections": [],
-      "ago": "34h ago",
+      "ago": "1d ago",
       "id": "85af95429a86ecc6"
      },
      {
@@ -387,7 +387,7 @@
        "authors": "Yifei Zhou, Zhiying Zhu, Yuxiao Jiang, Yihan Mao et al.",
        "ago": "2d ago"
       },
-      "score": 2.5777,
+      "score": 2.5175,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -411,12 +411,12 @@
       "popularity": 0.0,
       "weight": 1.2,
       "extra": {
-       "ago": "2h ago"
+       "ago": "6h ago"
       },
-      "score": 2.1256,
+      "score": 2.0644,
       "why": "",
       "also_sections": [],
-      "ago": "2h ago",
+      "ago": "6h ago",
       "id": "c83d7267f480811b"
      },
      {
@@ -433,7 +433,7 @@
       "extra": {
        "ago": "2d ago"
       },
-      "score": 1.9393,
+      "score": 1.8939,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -456,7 +456,7 @@
        "authors": "Xijia Wang, TianZhang He, Mohammad Goudarzi",
        "ago": "2d ago"
       },
-      "score": 1.9362,
+      "score": 1.8919,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -476,7 +476,7 @@
       "extra": {
        "ago": "2d ago"
       },
-      "score": 1.9151,
+      "score": 1.8702,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -494,12 +494,12 @@
       "popularity": 0.0,
       "weight": 1.0,
       "extra": {
-       "ago": "4h ago"
+       "ago": "9h ago"
       },
-      "score": 1.7418,
+      "score": 1.6921,
       "why": "",
       "also_sections": [],
-      "ago": "4h ago",
+      "ago": "9h ago",
       "id": "50afaf72bfb9fbf4"
      },
      {
@@ -516,7 +516,7 @@
       "extra": {
        "ago": "7d ago"
       },
-      "score": 1.6818,
+      "score": 1.6636,
       "why": "",
       "also_sections": [],
       "ago": "7d ago",
@@ -543,7 +543,7 @@
        "audio": "https://pscrb.fm/rss/p/media.transistor.fm/96a5f313/515377c5.mp3",
        "ago": "2d ago"
       },
-      "score": 0.8294,
+      "score": 0.8111,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -562,12 +562,12 @@
       "weight": 1.4,
       "extra": {
        "audio": "https://content.rss.com/episodes/381987/3250490/no-prior-auth/2026_10_20_17_33_04_51a5023d-18b9-467a-af88-68f65b318005.mp3",
-       "ago": "19h ago"
+       "ago": "24h ago"
       },
-      "score": 0.8268,
+      "score": 0.7604,
       "why": "",
       "also_sections": [],
-      "ago": "19h ago",
+      "ago": "24h ago",
       "id": "2fd6845a87d5f232"
      },
      {
@@ -583,12 +583,12 @@
       "weight": 0.9,
       "extra": {
        "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/20bcda5a-23fb-4b26-a3cc-aa1fb0832878/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=20bcda5a-23fb-4b26-a3cc-aa1fb0832878&feed=HMwRVgVt&t=podcast&e=nx-s1-6010363&p=510318&d=750&size=12012608",
-       "ago": "7h ago"
+       "ago": "12h ago"
       },
-      "score": 0.7096,
+      "score": 0.6318,
       "why": "",
       "also_sections": [],
-      "ago": "7h ago",
+      "ago": "12h ago",
       "id": "8fdcc82ca2f27bcc"
      },
      {
@@ -606,7 +606,7 @@
        "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/kyle_harper.mp3?dest-id=5264190",
        "ago": "2d ago"
       },
-      "score": 0.5727,
+      "score": 0.5596,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -627,16 +627,16 @@
       "published": "2026-10-20 16:21:03+00:00",
       "summary": "Macroscope can auto-approve your team's PRs safely. Try it here: https://macroscope.com/?utm_source=fireship Google\u2019s new model claims to beat GPT-6 and Opus 5.5, so I took them all for a test drive. Let's dive in. Want more Fireship? \ud83d\uddde\ufe0f\u2026",
       "duration_min": null,
-      "popularity": 1404.223,
+      "popularity": 1499.589,
       "weight": 1.2,
       "extra": {
        "thumb": "https://i3.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
-       "ago": "25h ago"
+       "ago": "29h ago"
       },
-      "score": 2.0024,
+      "score": 1.9081,
       "why": "",
       "also_sections": [],
-      "ago": "25h ago",
+      "ago": "29h ago",
       "id": "f63c13b7be81d935"
      },
      {
@@ -648,13 +648,13 @@
       "published": "2026-10-19 08:49:21+00:00",
       "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers \ud83d\udcdd Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/\u2026",
       "duration_min": null,
-      "popularity": 202.14,
+      "popularity": 205.07,
       "weight": 1.0,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
        "ago": "2d ago"
       },
-      "score": 1.5922,
+      "score": 1.5697,
       "why": "",
       "also_sections": [],
       "ago": "2d ago",
@@ -669,16 +669,16 @@
       "published": "2026-10-20 14:00:11+00:00",
       "summary": "Want to support our craft and save our asses? This is the best way: https://shop.kgs.link/Calendar27 Our 12,027 Human Era Calendar is out now, giving you something beautiful and science-inspired in return for funding all that we do. Every\u2026",
       "duration_min": null,
-      "popularity": 3230.043,
+      "popularity": 3479.766,
       "weight": 1.0,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/PXbVn-f_wuM/hqdefault.jpg",
-       "ago": "27h ago"
+       "ago": "32h ago"
       },
-      "score": 1.4361,
+      "score": 1.4144,
       "why": "",
       "also_sections": [],
-      "ago": "27h ago",
+      "ago": "32h ago",
       "id": "3b472cbf68062ef0"
      },
      {
@@ -690,13 +690,13 @@
       "published": "2026-10-16 16:15:20+00:00",
       "summary": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the\u2026",
       "duration_min": null,
-      "popularity": 2337.413,
+      "popularity": 2350.732,
       "weight": 1.5,
       "extra": {
        "thumb": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
        "ago": "5d ago"
       },
-      "score": 1.3996,
+      "score": 1.3873,
       "why": "",
       "also_sections": [],
       "ago": "5d ago",
@@ -771,7 +771,7 @@
   "n_items": 32,
   "read_min": 72,
   "listen_min": 437,
-  "generated": "10:53 AM PDT",
+  "generated": "3:17 PM PDT",
   "feed_url": "podcasts/feed.xml"
  },
  "jobs": [
