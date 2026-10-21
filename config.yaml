@@ -337,5 +337,5 @@ notebooklm:
 # ── Delivery ─────────────────────────────────────────────────────────────────
 output_dir: site            # HTML + Markdown digests; publish with GitHub Pages
 email:
-  enabled: false            # set SMTP_* secrets (see README) and flip to true
+  enabled: true            # set SMTP_* secrets (see README) and flip to true
   to: ""
