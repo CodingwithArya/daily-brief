@@ -14,6 +14,15 @@ def send_email(cfg: dict, subject: str, html: str, markdown: str) -> None:
     to = (em.get("to") or os.environ.get("BRIEF_EMAIL_TO") or "").strip()
     host, user, pw = ((os.environ.get(k) or "").strip() for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASS"))
     pw = pw.replace(" ", "")  # Gmail app passwords are shown with spaces
+
+    # diagnostic: show which vars resolved (values redacted)
+    log.info("email: enabled=%r, to=%s, SMTP_HOST=%s, SMTP_USER=%s, SMTP_PASS=%s",
+             em.get("enabled"),
+             repr(to[:3] + "***") if to else "(empty)",
+             repr(host) if host else "(empty)",
+             repr(user[:3] + "***") if user else "(empty)",
+             "set (%d chars)" % len(pw) if pw else "(empty)")
+
     if not em.get("enabled"):
         log.info("email: skipped — email.enabled is false in config.yaml")
         return
