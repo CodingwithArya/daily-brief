@@ -1,0 +1,51 @@
+name: daily-brief
+
+on:
+  schedule:
+    - cron: "17 13 * * *"     # 6:17am Pacific (PDT); GitHub cron is UTC — use 14 in winter (PST)
+  workflow_dispatch: {}
+  push:                        # your laptop pushing new podcasts → just redeploy Pages
+    paths: ["site/podcasts/**"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency: { group: daily-brief, cancel-in-progress: false }
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12", cache: pip }
+      - run: pip install -r requirements.txt
+      - name: Build today's brief
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}   # optional
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}                   # optional (email)
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          BRIEF_EMAIL_TO: ${{ secrets.BRIEF_EMAIL_TO }}
+        run: python run.py digest
+      - name: Commit state + site
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "daily-brief-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json site
+          git diff --cached --quiet || git commit -m "brief $(date +%F)"
+          git pull --rebase --autostash && git push
+      - uses: actions/upload-pages-artifact@v3
+        with: { path: site }
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment: { name: github-pages, url: "${{ steps.d.outputs.page_url }}" }
+    steps:
+      - id: d
+        uses: actions/deploy-pages@v4

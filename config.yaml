@@ -1,0 +1,341 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# daily-brief config — edit freely. Everything here is optional except `sections`.
+# ─────────────────────────────────────────────────────────────────────────────
+
+timezone: America/Los_Angeles
+lookback_hours: 36          # how far back "recent" means for daily items
+weekly_lookback_hours: 192  # for weekly-cadence sources (newsletters, long podcasts)
+
+# What you care about. Matched against title + summary (case-insensitive).
+# Weight = how much a match boosts an item. Negative weights demote.
+interests:
+  # your research (UW Mobile Intelligence Lab)
+  hearable: 4
+  earable: 4
+  earbud: 4
+  hearing aid: 4
+  target speech: 4
+  speech separation: 3
+  sound source separation: 3
+  spatial audio: 3
+  acoustic sensing: 4
+  wireless sensing: 4
+  backscatter: 4
+  battery-free: 4
+  wearable: 3
+  on-device: 3
+  edge ai: 3
+  low-power: 2
+  mobile health: 3
+  # AI / ML
+  llm: 2
+  language model: 2
+  transformer: 2
+  agent: 2
+  reasoning: 2
+  reinforcement learning: 2
+  rlhf: 2
+  fine-tuning: 2
+  lora: 3
+  distillation: 2
+  quantization: 3
+  inference: 2
+  scaling law: 3
+  diffusion: 1
+  multimodal: 2
+  interpretability: 2
+  alignment: 1
+  open-source model: 2
+  anthropic: 2
+  openai: 1
+  ai2: 3
+  allen institute: 3
+  # SWE / systems
+  distributed system: 3
+  consensus: 3
+  raft: 3
+  paxos: 3
+  database: 2
+  storage: 2
+  kubernetes: 1
+  system design: 3
+  latency: 2
+  postgres: 2
+  rust: 1
+  compiler: 1
+  gpu: 2
+  cuda: 2
+  outage: 2
+  postmortem: 3
+  incident: 2
+  scalability: 2
+  recommendation: 2
+  ml platform: 3
+  feature store: 3
+  uber: 3
+  # career / Seattle
+  new grad: 3
+  hiring: 1
+  layoff: 1
+  seattle: 2
+  university of washington: 3
+  uw: 1
+  microsoft: 1
+  amazon: 1
+  # demote noise
+  crypto: -2
+  nft: -3
+  sponsored: -3
+  deal of the day: -5
+
+# Optional: Claude writes a 1–2 line "why it matters" + an opinion prompt per top item.
+# Set ANTHROPIC_API_KEY in your env / GitHub secret to enable. Falls back gracefully.
+llm:
+  enabled: true
+  model: claude-sonnet-5-5
+  max_items: 14
+  opinion_prompts: 3   # "take a stance" questions at the bottom of the brief
+
+# ── Sections: order = order in the brief. `max` = how many items to show. ──
+sections:
+  - id: world
+    title: "🌍 World — be the person who knows what's going on"
+    max: 4
+  - id: tech
+    title: "📰 Tech & Seattle"
+    max: 6
+  - id: ai
+    title: "🤖 AI / ML — news & analysis"
+    max: 6
+  - id: papers_hot
+    title: "🔥 Papers everyone is talking about (HF Daily Papers)"
+    max: 4
+  - id: lab
+    title: "🎧 Mobile Intelligence Lab radar (hearables · sensing · on-device)"
+    max: 5
+  - id: swe
+    title: "🛠️ SWE & distributed systems"
+    max: 6
+  - id: listen
+    title: "🎙️ Listen (runs + commute)"
+    max: 4
+  - id: watch
+    title: "📺 Watch (instead of Netflix)"
+    max: 4
+  - id: newsletters
+    title: "📬 Sunday newsletter catch-up"
+    max: 8
+    weekdays: [sun]
+  - id: events
+    title: "📅 Seattle AI events"
+    max: 5
+    weekdays: [mon, thu]
+
+# ── Sources ──────────────────────────────────────────────────────────────────
+# kind: rss | hn | hf_papers | arxiv | youtube | podcast | luma
+# weight: base importance (1.0 = normal). cadence: daily | weekly (sets lookback)
+sources:
+  # World / general — a few neutral, wire-style feeds
+  - {name: AP Top News,      kind: rss, section: world, weight: 1.2, url: "https://feedx.net/rss/ap.xml"}
+  - {name: BBC World,        kind: rss, section: world, weight: 1.1, url: "https://feeds.bbci.co.uk/news/world/rss.xml"}
+  - {name: NPR News,         kind: rss, section: world, weight: 1.0, url: "https://feeds.npr.org/1001/rss.xml"}
+  - {name: Reuters (via Google News), kind: rss, section: world, weight: 1.0, url: "https://news.google.com/rss/search?q=when:1d+source:Reuters&hl=en-US&gl=US&ceid=US:en"}
+  - {name: Quanta Magazine,  kind: rss, section: world, weight: 0.9, url: "https://www.quantamagazine.org/feed/", cadence: weekly}
+
+  # Tech & Seattle
+  - {name: GeekWire,         kind: rss, section: tech, weight: 1.4, url: "https://www.geekwire.com/feed/"}
+  - {name: Hacker News,      kind: hn,  section: tech, weight: 1.0, min_points: 250}
+  - {name: Ars Technica,     kind: rss, section: tech, weight: 0.8, url: "https://feeds.arstechnica.com/arstechnica/index"}
+  - {name: The Verge,        kind: rss, section: tech, weight: 0.6, url: "https://www.theverge.com/rss/index.xml"}
+
+  # AI / ML news & analysis
+  - {name: Import AI (Jack Clark),  kind: rss, section: ai, weight: 1.5, url: "https://importai.substack.com/feed", cadence: weekly, also: newsletters}
+  - {name: The Batch (deeplearning.ai), kind: rss, section: ai, weight: 1.3, url: "https://www.deeplearning.ai/the-batch/feed/", cadence: weekly, also: newsletters}
+  - {name: Simon Willison,          kind: rss, section: ai, weight: 1.3, url: "https://simonwillison.net/atom/everything/"}
+  - {name: Interconnects (Nathan Lambert, AI2), kind: rss, section: ai, weight: 1.3, url: "https://www.interconnects.ai/feed", cadence: weekly}
+  - {name: Latent Space,            kind: rss, section: ai, weight: 1.1, url: "https://www.latent.space/feed", cadence: weekly}
+  - {name: Karpathy's blog,         kind: rss, section: ai, weight: 2.0, url: "https://karpathy.bearblog.dev/feed/", cadence: weekly}
+  - {name: Anthropic news,          kind: rss, section: ai, weight: 1.2, url: "https://news.google.com/rss/search?q=site:anthropic.com&hl=en-US&gl=US&ceid=US:en"}
+  - {name: Google Research blog,    kind: rss, section: ai, weight: 1.0, url: "https://research.google/blog/rss/"}
+  - {name: AI2 blog,                kind: rss, section: ai, weight: 1.2, url: "https://news.google.com/rss/search?q=site:allenai.org&hl=en-US&gl=US&ceid=US:en", cadence: weekly}
+
+  # Papers
+  - {name: HF Daily Papers, kind: hf_papers, section: papers_hot, weight: 1.0, min_upvotes: 15}
+  - name: arXiv — your lab's area
+    kind: arxiv
+    section: lab
+    weight: 1.6
+    cadence: weekly
+    max_results: 60
+    # arXiv API query syntax. Categories: audio/speech, signal processing, HCI, networking, mobile/ubiquitous.
+    query: >
+      (cat:eess.AS OR cat:cs.SD OR cat:eess.SP OR cat:cs.HC OR cat:cs.NI OR cat:cs.ET)
+      AND (abs:hearable OR abs:earable OR abs:earbuds OR abs:"hearing aid" OR abs:"target speech"
+           OR abs:"acoustic sensing" OR abs:"wireless sensing" OR abs:backscatter OR abs:"battery-free"
+           OR abs:"on-device" OR abs:wearable OR abs:"spatial audio" OR abs:"speech separation")
+  - {name: arXiv — Gollakota / lab authors, kind: arxiv, section: lab, weight: 2.5, cadence: weekly, max_results: 15,
+     query: 'au:Gollakota OR au:"Bandhav Veluri" OR au:"Malek Itani" OR au:"Tuochao Chen"'}
+  - name: arXiv — distributed systems
+    kind: arxiv
+    section: swe
+    weight: 0.9
+    cadence: weekly
+    max_results: 40
+    query: >
+      (cat:cs.DC OR cat:cs.DB OR cat:cs.OS)
+      AND (abs:consensus OR abs:replication OR abs:"distributed database" OR abs:"LLM serving"
+           OR abs:"inference serving" OR abs:scheduler OR abs:"fault tolerance")
+
+  # Podcast-only pool (section: pool → never shown in the brief, only feeds NotebookLM episodes)
+  - name: arXiv — efficient / on-device / audio ML
+    kind: arxiv
+    section: pool
+    weight: 1.0
+    cadence: weekly
+    max_results: 50
+    query: >
+      (cat:cs.LG OR cat:cs.CL OR cat:eess.AS OR cat:cs.SD)
+      AND (abs:"on-device" OR abs:quantization OR abs:"speculative decoding" OR abs:"KV cache"
+           OR abs:"audio language model" OR abs:"speech language model" OR abs:"small language model")
+
+  # SWE / systems engineering blogs
+  - {name: The Pragmatic Engineer, kind: rss, section: swe, weight: 1.4, url: "https://newsletter.pragmaticengineer.com/feed", cadence: weekly}
+  - {name: ByteByteGo newsletter,  kind: rss, section: swe, weight: 1.2, url: "https://blog.bytebytego.com/feed", cadence: weekly}
+  - {name: Uber Engineering,       kind: rss, section: swe, weight: 1.5, url: "https://www.uber.com/blog/engineering/rss/", cadence: weekly}
+  - {name: Netflix TechBlog,       kind: rss, section: swe, weight: 1.1, url: "https://netflixtechblog.com/feed", cadence: weekly}
+  - {name: Cloudflare blog,        kind: rss, section: swe, weight: 1.0, url: "https://blog.cloudflare.com/rss/", cadence: weekly}
+  - {name: Meta Engineering,       kind: rss, section: swe, weight: 1.0, url: "https://engineering.fb.com/feed/", cadence: weekly}
+  - {name: Murat Demirbas (Metadata), kind: rss, section: swe, weight: 1.3, url: "https://muratbuffalo.blogspot.com/feeds/posts/default", cadence: weekly}
+  - {name: Martin Kleppmann,       kind: rss, section: swe, weight: 1.4, url: "https://martin.kleppmann.com/feed.xml", cadence: weekly}
+  - {name: Julia Evans,            kind: rss, section: swe, weight: 1.0, url: "https://jvns.ca/atom.xml", cadence: weekly}
+
+  # Newsletters you read on Sunday (shown in the Sunday catch-up section)
+  - {name: Lenny's Newsletter, kind: rss, section: newsletters, weight: 1.2, url: "https://www.lennysnewsletter.com/feed", cadence: weekly}
+
+  # Podcasts — just names; feed URLs are auto-resolved via the iTunes directory and cached.
+  # `max_minutes` lets the picker prefer shorter episodes for weekday commutes.
+  - {name: No Priors,                       kind: podcast, section: listen, weight: 1.4}
+  - {name: Lenny's Podcast,                 kind: podcast, section: listen, weight: 1.1}
+  - {name: Software Engineering Daily,      kind: podcast, section: listen, weight: 1.2}
+  - {name: Lex Fridman Podcast,             kind: podcast, section: listen, weight: 1.1, cadence: weekly}
+  - {name: Acquired,                        kind: podcast, section: listen, weight: 1.2, cadence: weekly}
+  - {name: Dwarkesh Podcast,                kind: podcast, section: listen, weight: 1.3, cadence: weekly}
+  - {name: Latent Space The AI Engineer Podcast, kind: podcast, section: listen, weight: 1.1, cadence: weekly}
+  - {name: Hard Fork,                       kind: podcast, section: listen, weight: 1.0, cadence: weekly}
+  - {name: Up First NPR,                    kind: podcast, section: listen, weight: 0.9, max_minutes: 20}
+  - {name: Huberman Lab,                    kind: podcast, section: listen, weight: 0.7, cadence: weekly}
+  - {name: Dan Carlin's Hardcore History,   kind: podcast, section: listen, weight: 0.8, cadence: weekly}
+  - {name: Sean Carroll's Mindscape,        kind: podcast, section: listen, weight: 0.8, cadence: weekly}
+  - {name: Radiolab,                        kind: podcast, section: listen, weight: 0.8, cadence: weekly}
+
+  # YouTube — handles are resolved to channel IDs automatically (or pin `channel_id:`).
+  - {name: Andrej Karpathy, kind: youtube, section: watch, weight: 2.0, handle: AndrejKarpathy, channel_id: UCXUPKJO5MZQN11PqgIvyuvQ, cadence: weekly}
+  - {name: 3Blue1Brown,     kind: youtube, section: watch, weight: 1.5, handle: 3blue1brown, channel_id: UCYO_jab_esuFRV4b17AJtAw, cadence: weekly}
+  - {name: ByteByteGo,      kind: youtube, section: watch, weight: 1.3, handle: ByteByteGo, cadence: weekly}
+  - {name: Fireship,        kind: youtube, section: watch, weight: 1.2, handle: Fireship, channel_id: UCsBjURrPoezykLs9EqgamOA}
+  - {name: Two Minute Papers, kind: youtube, section: watch, weight: 1.0, handle: TwoMinutePapers, cadence: weekly}
+  - {name: AI Explained,    kind: youtube, section: watch, weight: 1.0, handle: aiexplained-official, cadence: weekly}
+  - {name: Dwarkesh Patel,  kind: youtube, section: watch, weight: 0.9, handle: DwarkeshPatel, cadence: weekly}
+  - {name: Kurzgesagt,      kind: youtube, section: watch, weight: 1.0, handle: kurzgesagt, channel_id: UCsXVk37bltHxD1rDPwtNM8Q, cadence: weekly}
+  - {name: TED,             kind: youtube, section: watch, weight: 0.6, handle: TED}
+  - {name: CrashCourse,     kind: youtube, section: watch, weight: 0.6, handle: crashcourse, channel_id: UCX6b17PVsYBQ0ip5gyeme-Q, cadence: weekly}
+
+  # Events (best-effort scrape of Luma calendars)
+  - {name: AI House Seattle, kind: luma, section: events, weight: 1.5, url: "https://luma.com/aihouse"}
+
+# ── Curriculum: things that aren't "news" but you want on a schedule ────────
+curriculum:
+  # Classic papers → NotebookLM podcasts, in your order. One drops on each listed weekday.
+  classic_papers_weekdays: [mon, thu]
+  classic_papers:
+    - {title: "Hidden Technical Debt in Machine Learning Systems", url: "https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf", track: MLE Systems, topic: "LLM serving & ML infrastructure"}
+    - {title: "In Search of an Understandable Consensus Algorithm (Raft)", url: "https://raft.github.io/raft.pdf", track: Distributed Systems, topic: "Distributed systems & databases"}
+    - {title: "Dynamo: Amazon's Highly Available Key-value Store", url: "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf", track: Distributed Systems, topic: "Distributed systems & databases"}
+    - {title: "Chord: A Scalable Peer-to-peer Lookup Service", url: "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf", track: Distributed Systems, topic: "Distributed systems & databases"}
+    - {title: "MapReduce: Simplified Data Processing on Large Clusters", url: "https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf", track: Distributed Systems, topic: "Distributed systems & databases"}
+    - {title: "Batch Normalization", url: "https://arxiv.org/pdf/1502.03167", track: MLE Foundations, topic: "Training & scaling"}
+    - {title: "Adam: A Method for Stochastic Optimization", url: "https://arxiv.org/pdf/1412.6980", track: MLE Foundations, topic: "Training & scaling"}
+    - {title: "Attention Is All You Need", url: "https://arxiv.org/pdf/1706.03762", track: MLE Foundations, topic: "Training & scaling"}
+    - {title: "BERT: Pre-training of Deep Bidirectional Transformers", url: "https://arxiv.org/pdf/1810.04805", track: MLE Foundations, topic: "Training & scaling"}
+    - {title: "LoRA: Low-Rank Adaptation of Large Language Models", url: "https://arxiv.org/pdf/2106.09685", track: MLE Foundations, topic: "On-device & efficient ML"}
+    - {title: "Scaling Laws for Neural Language Models", url: "https://arxiv.org/pdf/2001.08361", track: MLE Systems, topic: "Training & scaling"}
+    - {title: "Spanner: Google's Globally-Distributed Database", url: "https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf", track: Distributed Systems, topic: "Distributed systems & databases"}
+    - {title: "Deep Neural Networks for YouTube Recommendations", url: "https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf", track: Production ML, topic: "Recommendation & production ML"}
+    - {title: "Practical Lessons from Predicting Clicks on Ads at Facebook", url: "https://quinonero.net/Publications/predicting-clicks-facebook.pdf", track: Production ML, topic: "Recommendation & production ML"}
+    - {title: "MLflow: A System for Machine Learning Lifecycle", url: "https://people.eecs.berkeley.edu/~matei/papers/2018/ieee_mlflow.pdf", track: MLE Systems, topic: "LLM serving & ML infrastructure"}
+
+  # Saturday-evening video series, one per week, in order.
+  series_weekday: sat
+  series:
+    name: "Neural Networks: Zero to Hero"
+    videos:
+      - {title: "The spelled-out intro to neural networks and backpropagation: building micrograd", url: "https://www.youtube.com/watch?v=VMj-3S1tku0"}
+      - {title: "The spelled-out intro to language modeling: building makemore", url: "https://www.youtube.com/watch?v=PaCmpygFfXo"}
+      - {title: "Building makemore Part 2: MLP", url: "https://www.youtube.com/watch?v=TCH_1BHY58I"}
+      - {title: "Building makemore Part 3: Activations & Gradients, BatchNorm", url: "https://www.youtube.com/watch?v=P6sfmUTpUmc"}
+      - {title: "Building makemore Part 4: Becoming a Backprop Ninja", url: "https://www.youtube.com/watch?v=q8SA3rM6ckI"}
+      - {title: "Building makemore Part 5: Building a WaveNet", url: "https://www.youtube.com/watch?v=t3YJ5hKiMQ0"}
+      - {title: "Let's build GPT: from scratch, in code, spelled out", url: "https://www.youtube.com/watch?v=kCc8FmEb1nY"}
+      - {title: "Let's build the GPT Tokenizer", url: "https://www.youtube.com/watch?v=zduSFxRajkE"}
+      - {title: "Let's reproduce GPT-2 (124M)", url: "https://www.youtube.com/watch?v=l8pRSuU81PU"}
+
+# ── NotebookLM → podcast episodes ────────────────────────────────────────────
+# Every day the planner builds up to `episodes_per_day` episodes:
+#   • on classic-paper days: the next classic, bundled with up to 2 fresh items on the same topic ("then & now")
+#   • otherwise / after the 14 classics are done: TOPIC episodes — several new papers, blog posts or videos
+#     on one topic go into ONE notebook, and NotebookLM makes a single synthesis episode from all of them.
+# Candidates come from a rolling 7-day pool (papers from lab/hot/arXiv + strong AI/SWE posts + videos),
+# so slow days still get good episodes and nothing is ever podcasted twice.
+notebooklm:
+  enabled: true
+  episodes_per_day: 2
+  pool_days: 7
+  max_sources_per_episode: 4      # NotebookLM handles many more; 3–4 keeps a 20-min episode focused
+  min_sources_per_topic: 2        # fewer → falls back to a single-paper deep dive (if it's strong)
+  max_non_papers_per_episode: 2   # blog posts / YouTube videos allowed alongside papers
+  topic_cooldown_days: 2          # a topic covered in the last N days only repeats if nothing else qualifies
+  format: deep-dive               # deep-dive | brief | critique | debate
+  length: default                 # short | default | long  (bundles use `long` automatically if ≥3 sources)
+  keep_notebooks: true            # keep them so you can chat with the sources later
+  output_dir: podcasts
+  public_base_url: ""
+  # Topics are how items get grouped. Add/rename freely; `boost` favors a topic when choosing episodes.
+  topics:
+    - {name: "Hearables & on-device audio AI", boost: 1.6,
+       keywords: [hearable, earable, earbud, hearing aid, target speech, speech separation, spatial audio, binaural, noise cancellation, audio language model, speech enhancement]}
+    - {name: "Wireless & acoustic sensing", boost: 1.5,
+       keywords: [wireless sensing, acoustic sensing, backscatter, battery-free, rf sensing, wifi sensing, mmwave, radar, ultrasound, sonar, wearable]}
+    - {name: "On-device & efficient ML", boost: 1.3,
+       keywords: [on-device, edge, quantization, distillation, pruning, low-power, efficient inference, small language model, lora, mobile]}
+    - {name: "LLM reasoning & test-time compute",
+       keywords: [reasoning, chain-of-thought, test-time, reinforcement learning, rlvr, verifier, math, thinking]}
+    - {name: "AI agents & tool use",
+       keywords: [agent, agentic, tool use, computer use, coding agent, swe-bench, mcp]}
+    - {name: "Training & scaling",
+       keywords: [scaling law, pretraining, data mixture, optimizer, mixture of experts, moe, long context, attention, transformer, normalization]}
+    - {name: "LLM serving & ML infrastructure", boost: 1.2,
+       keywords: [serving, inference serving, kv cache, speculative decoding, gpu, batching, ml platform, feature store, mlops, technical debt, throughput]}
+    - {name: "Distributed systems & databases", boost: 1.2,
+       keywords: [consensus, raft, paxos, replication, distributed database, transaction, consistency, storage, fault tolerance, key-value, sharding, postgres]}
+    - {name: "Interpretability & safety",
+       keywords: [interpretability, mechanistic, sparse autoencoder, alignment, safety, jailbreak, reward hacking]}
+    - {name: "Recommendation & production ML",
+       keywords: [recommendation, recommender, ranking, click-through, ads, retrieval, embedding, two-tower]}
+    - {name: "Multimodal & vision-language",
+       keywords: [multimodal, vision-language, vlm, video generation, image generation, world model]}
+  listener_profile: >
+    The listener is a UW CS senior about to start as a new-grad software engineer, who
+    works in the Mobile Intelligence Lab (hearables, acoustic/wireless sensing, on-device AI)
+    and is preparing for MLE and distributed-systems interviews.
+  prompt: >
+    Explain the problem and why earlier approaches fell short; the core ideas with concrete
+    intuition (walk through a small example); the key design decisions and their tradeoffs; what
+    the results actually show and their limitations; and how these ideas show up in real production
+    systems today. End with 3 interview-style questions and crisp answers, plus one open question
+    worth having an opinion on.
+
+# ── Delivery ─────────────────────────────────────────────────────────────────
+output_dir: site            # HTML + Markdown digests; publish with GitHub Pages
+email:
+  enabled: false            # set SMTP_* secrets (see README) and flip to true
+  to: ""

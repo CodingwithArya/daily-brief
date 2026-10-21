@@ -1,0 +1,6 @@
+feedparser>=6.0
+requests>=2.31
+PyYAML>=6.0
+Jinja2>=3.1
+# only needed on the machine that makes NotebookLM podcasts:
+# notebooklm-py[browser]>=0.8
