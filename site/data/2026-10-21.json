@@ -1,0 +1,937 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, October 21, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports - The Financial Express",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbm9tcUVvOE1TMF8yZEZkUm9QQVNZRmx0b0JUR0VCVWlrTWFKLUVPeXRHU09oWDBPaXR6VS1sRzM3WjdwS2xRcGpaa21OSE9oazNUOWR4SWxsVW9fWUMyQWRXSFk5eEF5UFZUMjlDUXpsR21vRXlZWndQOURvenV1ZGdMZHZ6dDNsOGNqeXRnVDdhbGc3UGNzeXJKcFJMb3ZaMHphMlFkWVlKS3UwZVNaNTZKc2dfZE9YYTgw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 05:21:39+00:00",
+      "summary": "Anthropic logged net loss of over $80 billion in first half of 2026, WSJ reports \u00a0\u00a0 The Financial Express",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.262,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "8282af0e3a432169"
+     },
+     {
+      "title": "China says US' DeepSeek ban disregards Xi-Trump consensus - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPak9Kd1hvX05mbjBaRWhaaVpUZWhrV0NVZk5zR3lWWjExWnU4ZXVIY3VxbEdvT3cxMU1hNkdZTnlBek1WV1VWa1E3cXRDaDNEdS0tR2NkX09yS3ZreGxiUWcwRUVxbXN0SFVTbE12RUItdUhwMWM5RFVpMHhlZGtYeFJ5UG9iYzhhSjFjT3dXSlhsay1TWldtVXMzd2lRZ0FQMDNCOEhzMTgycEdTTC1UNW1vUzFSUEtwOU1aRGdyWUY2Q1dJTTRV?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-20 20:02:29+00:00",
+      "summary": "China says US' DeepSeek ban disregards Xi-Trump consensus \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.2547,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "ad5e020c912015f0"
+     },
+     {
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 16:58:16+00:00",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0751,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "f44fd305c0523698"
+     },
+     {
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 16:38:06+00:00",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0636,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "cb955289e6c2e0ad"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Endurance Energy hits a brief milestone in its quest for undersea geothermal power",
+      "url": "https://www.geekwire.com/2026/endurance-energy-hits-a-brief-milestone-in-its-quest-for-undersea-geothermal-power/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-21 17:06:12+00:00",
+      "summary": "Seattle startup Endurance Energy put a small power plant on the ocean floor off Oregon and briefly generated more electricity than the system used. The run lasted just 8.7 seconds, but it gives the company a starting point for testing whether undersea geothermal power can become a practical energy source. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.9238,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "7a71cb195624ab24"
+     },
+     {
+      "title": "UW protein institute led by Nobel winner unveils its first AI model co-developed with Nvidia",
+      "url": "https://www.geekwire.com/2026/uw-protein-institute-led-by-nobel-winner-unveils-its-first-ai-model-co-developed-with-nvidia/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-21 15:26:33+00:00",
+      "summary": "UW\u2019s Institute for Protein Design and Nvidia have released their first jointly developed AI model for creating proteins with specific jobs. The release follows a computing grant from Nvidia CEO Jensen Huang's foundation that IPD director and Nobel laureate David Baker says has been \u201ctransformational\u201d for the institute\u2019s work. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.8252,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "1745c0e441417c01"
+     },
+     {
+      "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-21 13:57:43+00:00",
+      "summary": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks. In one incident, OpenAI says its GPT-6 Astra agent disabled its safety monitor when copying reference code - and then lied about it. \"The reference didn't configure a monitor, and Astra decided that was reason [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.6016,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "c55b4c3c8ca25718"
+     },
+     {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-20 09:08:54+00:00",
+      "summary": "2288 points \u00b7 876 comments on HN",
+      "duration_min": null,
+      "popularity": 2288.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50163277",
+       "ago": "32h ago"
+      },
+      "score": 1.46,
+      "why": "",
+      "also_sections": [],
+      "ago": "32h ago",
+      "id": "dfccc413e799e824"
+     },
+     {
+      "title": "PHP 8.2.35",
+      "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-21 13:45:33+00:00",
+      "summary": "746 points \u00b7 309 comments on HN",
+      "duration_min": null,
+      "popularity": 746.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50180873",
+       "ago": "3h ago"
+      },
+      "score": 1.3975,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "11e92edf73fbbb01"
+     },
+     {
+      "title": "Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix",
+      "url": "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-20 21:14:33+00:00",
+      "summary": "Xbox maker is also apparently planning its own gaming handheld for next year.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 0.654,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "ede9488de6abf040"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making - Allen AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5Ub0R2MmM4OWV3UEtzY2pfZS03N1dFYmZrLVJCT1RGbG5KekhuWGgwQW4zZWNvamtscjl1ZXhDcHNDTkVrRWFISEc2QQ?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-20 17:31:40+00:00",
+      "summary": "FairStress: A deeper evaluation of fairness in LLM decision-making \u00a0\u00a0 Allen AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.8477,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "9078ee3add537918"
+     },
+     {
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 06:54:09+00:00",
+      "summary": "An open source \u201cbomb\u201d drops from China",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.8433,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "7dadac6a05821def"
+     },
+     {
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-16 04:16:45+00:00",
+      "summary": "Nick Cammarata out of nowhere with some major claims!",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "5d ago"
+      },
+      "score": 1.6895,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "6def1af444f0bb8a"
+     },
+     {
+      "title": "Using Claude to reduce the attack surface of code - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZS2tNLWxGRlIzaHJvVTlwMExjckxUMDJ4VUhiaGMyZFBXRmc1T25HbjFkWFdtS3pSbWJWS01nNjFPelZEd3JLdENNUlR1QmtHVWJCNzI0VG9YbDZmdmdFdEN0VlhZSW5CZlVR?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-20 21:43:55+00:00",
+      "summary": "Using Claude to reduce the attack surface of code \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.2739,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "1f9571a16d8d1805"
+     },
+     {
+      "title": "Panache \u2014 RTS Belle \u00c9poque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 16:25:16+00:00",
+      "summary": "Panache \u2014 RTS Belle \u00c9poque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and adds an animated intro! Panache est un jeu de strat\u00e9gie en temps r\u00e9el pour mobile et navigateur, dans la France de la Belle \u00c9poque (vers 1900) : dirigeables,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.2485,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "f18edfcf2f2ed061"
+     },
+     {
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 - Allen AI",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9TVTd1ZWJLbC1paGlWdnBwblYteTB1WXZNMkhSRnNST3ZRcUxCRTZHR0d3dHo3dXc1Q2ZJdGw4TmlNNnVWNjlxdmxIZw?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-14 16:55:21+00:00",
+      "summary": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost | Ai2 \u00a0\u00a0 Allen AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.2199,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "6325f7d8c3024abd"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
+      "url": "https://arxiv.org/abs/2610.27785",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-20 07:50:43+00:00",
+      "summary": "Speech separation (SS) has witnessed substantial progress in recent years with the advent of neural network-based methods, achieving notable improvements on signal-level evaluation metrics. Existing speech separation systems are mostly optimized with signal-level objectives, and often yield outputs that are acceptable in waveform metrics but\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.27785",
+       "arxiv_id": "2610.27785",
+       "authors": "Chenda Li, Tianhua Li, Yiming Chen, Wei Wang et al.",
+       "ago": "33h ago"
+      },
+      "score": 3.8733,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "85af95429a86ecc6"
+     },
+     {
+      "title": "UnO-NeSy: Optimizing Neuro-Symbolic Computing with Unified FeFET Based In-Memory System",
+      "url": "https://arxiv.org/abs/2610.26530",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-19 14:56:41+00:00",
+      "summary": "Neuro-symbolic artificial intelligence (NeSy AI) combines neural perception with symbolic reasoning, enabling logical reasoning. Hyperdimensional computing (HDC) is promising for NeSy AI, owing to its high parallelism and strong robustness to noise. However, the dense neural operations and memory-intensive symbolic inference in NeSy impose a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.26530",
+       "arxiv_id": "2610.26530",
+       "authors": "Yifei Zhou, Zhiying Zhu, Yuxiao Jiang, Yihan Mao et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.5808,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "71f8d53a63635fdc"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "LLM Prompt Caching Versus Semantic Caching",
+      "url": "https://blog.bytebytego.com/p/llm-prompt-caching-versus-semantic",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-21 15:31:08+00:00",
+      "summary": "In this article, we\u2019ll look at how LLM caching works in detail.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 2.1288,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "c83d7267f480811b"
+     },
+     {
+      "title": "How Uber Built a Genie to Answer Questions Correctly",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-genie-to-answer-051",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-19 15:31:03+00:00",
+      "summary": "In this article, we will understand how Genie prepares knowledge, retrieves it, and generates answers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 1.9416,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "af9076f8cfd4975f"
+     },
+     {
+      "title": "CEMA-Router: Infrastructure-Aware Batch Routing for LLM Inference in Cloud-Edge Systems",
+      "url": "https://arxiv.org/abs/2610.26171",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-19 11:03:04+00:00",
+      "summary": "Large language models (LLM) are increasingly integrated into pervasive applications spanning heterogeneous cloud-edge resources. These heterogeneous resources differ in computational capacity, energy efficiency, network conditions, and deployed model quality, creating trade-offs among response quality, monetary cost, energy consumption, and batch\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.26171",
+       "arxiv_id": "2610.26171",
+       "authors": "Xijia Wang, TianZhang He, Mohammad Goudarzi",
+       "ago": "2d ago"
+      },
+      "score": 1.9384,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "d20860ab31a51fba"
+     },
+     {
+      "title": "GenRecs Tokenization: Transforming Ads Recommendation at Meta with Stable Model Vocabulary",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/genrecs-tokenization-transforming-ads-recommendation-at-meta-with-stable-model-vocabulary/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-19 16:00:47+00:00",
+      "summary": "Generative Recommenders (GenRecs) represent a paradigm shift from scoring every ad to reasoning about ad content and user preferences together in order to predict the best outcome for advertisers. Leveraging the world knowledge built into LLMs makes ad matching more intelligent and precise, compounding gains for advertisers. GenRecs Tokenization is the foundational data representation that [...]\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 1.9174,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "d5f5b896866a7ed7"
+     },
+     {
+      "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+      "url": "https://blog.cloudflare.com/webmcp-commerce/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-21 13:00:00+00:00",
+      "summary": "Almost 100,000 Commerce.com domains now give AI agents real shopping tools through WebMCP on Cloudflare. Here's how we turned it on across every store at once, while keeping each merchant in control.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.7443,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "50afaf72bfb9fbf4"
+     },
+     {
+      "title": "Uber\u2019s AI infra, from the inside",
+      "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-14 17:06:56+00:00",
+      "summary": "Uber Distinguished Engineer Uday Kiran Medisetty shares how Uber builds internal developer tools, integrates AI agents into engineering workflows, and measures their impact on productivity.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.6827,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "bc6f7d6d13e5ee6f"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "The Importance of Niche Expertise: How Kim Meehan Became a Leading Voice in Perinatal Mental Health",
+      "url": "https://rss.com/podcasts/no-prior-auth/3250490",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-20 22:01:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Kim Meehan has 185,000 followers, and if a client finds her through social media, she refers them to somebody else. On purpose. She's had a six-month waitlist for four years and has never paid\u2026",
+      "duration_min": 50,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3250490/no-prior-auth/2026_10_20_17_33_04_51a5023d-18b9-467a-af88-68f65b318005.mp3",
+       "ago": "19h ago"
+      },
+      "score": 0.8305,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "2fd6845a87d5f232"
+     },
+     {
+      "title": "Seinfeld",
+      "url": "https://www.acquired.fm/episodes/seinfeld",
+      "source": "Acquired",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-19 04:00:46+00:00",
+      "summary": "Seinfeld, which ended three decades ago, has been watched by 72 million Americans so far THIS YEAR. Behind that incredible stat is an equally incredible business story: obsessive creators, perfect market timing, an ownership structure that aligned incentives for the long term\u2026all of which created\u2026",
+      "duration_min": 230,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://pscrb.fm/rss/p/media.transistor.fm/96a5f313/515377c5.mp3",
+       "ago": "2d ago"
+      },
+      "score": 0.8303,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "7ec204846724037f"
+     },
+     {
+      "title": "Zelenskyy Mending Ties, Trump In North Carolina, Saudi Arabia Gets British Support",
+      "url": "https://www.npr.org/2026/10/21/nx-s1-6010363/zelenskyy-mending-ties-trump-in-north-carolina-saudi-arabia-gets-british-support",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-21 10:01:27+00:00",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is trying to repair ties with Washington as President Trump\u2019s envoy Steve Witkoff carries new peace proposals to Russia. President Trump is campaigning in North Carolina as Republicans struggle in key races and he ties federal relief promises to the outcome\u2026",
+      "duration_min": 12,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/20bcda5a-23fb-4b26-a3cc-aa1fb0832878/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=20bcda5a-23fb-4b26-a3cc-aa1fb0832878&feed=HMwRVgVt&t=podcast&e=nx-s1-6010363&p=510318&d=750&size=12012608",
+       "ago": "7h ago"
+      },
+      "score": 0.714,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "8fdcc82ca2f27bcc"
+     },
+     {
+      "title": "371 | Kyle Harper on How Humans Have Shaped Life on Earth",
+      "url": "https://preposterousuniverse.com/podcast/2026/10/19/371-kyle-harper-on-how-humans-have-shaped-life-on-earth/",
+      "source": "Sean Carroll's Mindscape",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-19 10:43:00+00:00",
+      "summary": "Humanity is merely one species out of millions living on Earth, but we have a disproportionate impact on the rest of the biosphere. Recent transformations have accelerated that impact, but in fact it stretches back to the earliest days in human history. In his new book The Last Animal: Human\u2026",
+      "duration_min": 85,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/kyle_harper.mp3?dest-id=5264190",
+       "ago": "2d ago"
+      },
+      "score": 0.5733,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "208912f4bb80a4f9"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Did Google just dethrone OpenAI and Anthropic?",
+      "url": "https://www.youtube.com/watch?v=b2tjnxX8IHU",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-20 16:21:03+00:00",
+      "summary": "Macroscope can auto-approve your team's PRs safely. Try it here: https://macroscope.com/?utm_source=fireship Google\u2019s new model claims to beat GPT-6 and Opus 5.5, so I took them all for a test drive. Let's dive in. Want more Fireship? \ud83d\uddde\ufe0f\u2026",
+      "duration_min": null,
+      "popularity": 1403.962,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/b2tjnxX8IHU/hqdefault.jpg",
+       "ago": "25h ago"
+      },
+      "score": 2.0076,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "f63c13b7be81d935"
+     },
+     {
+      "title": "Gemini 4 Argon Is Not What I Expected",
+      "url": "https://www.youtube.com/watch?v=LWxX6vvHfrc",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-19 08:49:21+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers \ud83d\udcdd Gemini 4 Argon + report are available here: https://deepmind.google/models/model-cards/gemini-4-argon/\u2026",
+      "duration_min": null,
+      "popularity": 202.096,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/LWxX6vvHfrc/hqdefault.jpg",
+       "ago": "2d ago"
+      },
+      "score": 1.5933,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "9d75b452b5ac1386"
+     },
+     {
+      "title": "You Will Only Like Half of This Video",
+      "url": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
+      "source": "Kurzgesagt",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-20 14:00:11+00:00",
+      "summary": "Want to support our craft and save our asses? This is the best way: https://shop.kgs.link/Calendar27 Our 12,027 Human Era Calendar is out now, giving you something beautiful and science-inspired in return for funding all that we do. Every\u2026",
+      "duration_min": null,
+      "popularity": 3229.115,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/PXbVn-f_wuM/hqdefault.jpg",
+       "ago": "27h ago"
+      },
+      "score": 1.4372,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "3b472cbf68062ef0"
+     },
+     {
+      "title": "There's never been a better time to go into math",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "source": "3Blue1Brown",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-16 16:15:20+00:00",
+      "summary": "Sharing a few thoughts on the future of math These videos are funded directly by viewers: https://3b1b.co/support An equally valuable form of support is to simply share the videos. Home page: https://www.3blue1brown.com If you want a finger on the\u2026",
+      "duration_min": null,
+      "popularity": 2337.38,
+      "weight": 1.5,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/LKrwhjOI8Nc/hqdefault.jpg",
+       "ago": "5d ago"
+      },
+      "score": 1.4002,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "0332cf37946b41bb"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-21:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
+      "url": "https://arxiv.org/abs/2610.27785",
+      "kind": "paper"
+     },
+     {
+      "title": "SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression",
+      "url": "https://arxiv.org/abs/2610.24696",
+      "kind": "paper"
+     },
+     {
+      "title": "CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge",
+      "url": "https://arxiv.org/abs/2610.21773",
+      "kind": "paper"
+     },
+     {
+      "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
+      "url": "https://arxiv.org/abs/2610.21588",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-21:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Unsupervised Head Network Personalization for Split Computing via Federated Learning",
+      "url": "https://arxiv.org/abs/2610.27952",
+      "kind": "paper"
+     },
+     {
+      "title": "DStill: Trajectory Consistency Distillation for Accelerated One-Step Drafting in Block Diffusion Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.27379",
+      "kind": "paper"
+     },
+     {
+      "title": "Tracing Knowledge Lineage for Federated Unlearning under Mutual Distillation",
+      "url": "https://arxiv.org/abs/2610.19072",
+      "kind": "paper"
+     },
+     {
+      "title": "Reliability-Preserving Compression for Deployable Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2610.25460",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 32,
+  "read_min": 72,
+  "listen_min": 437,
+  "generated": "10:40 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.27785",
+     "item_ids": [
+      "85af95429a86ecc6"
+     ],
+     "title": "SLM-SS: Token-Based Speech Separation with Speech Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.27785",
+     "page": "https://arxiv.org/abs/2610.27785",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.8733,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.24696",
+     "item_ids": [
+      "17e0ebdb6b319d26"
+     ],
+     "title": "SpikeAid: A Streaming Spiking Hearing Aid Framework for Joint Noise Reduction and Wide Dynamic Range Compression",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.24696",
+     "page": "https://arxiv.org/abs/2610.24696",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.4117,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.21773",
+     "item_ids": [
+      "211eb756c29d1d09"
+     ],
+     "title": "CF-AVSS: A Coarse-to-Fine Audio-Visual Speech Separation Framework with Target-Speaker Refinement and Post-Fusion for Real-World AVSE Challenge",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.21773",
+     "page": "https://arxiv.org/abs/2610.21773",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 4,
+     "score": 2.3396,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.21588",
+     "item_ids": [
+      "df85b1f67f2dcebf"
+     ],
+     "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.21588",
+     "page": "https://arxiv.org/abs/2610.21588",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 2.3198,
+     "added": "2026-10-21"
+    }
+   ],
+   "date": "2026-10-21",
+   "key": "ep:2026-10-21:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "85af95429a86ecc6",
+    "17e0ebdb6b319d26",
+    "211eb756c29d1d09",
+    "df85b1f67f2dcebf"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.27952",
+     "item_ids": [
+      "ad2f10e038fe8241"
+     ],
+     "title": "Unsupervised Head Network Personalization for Split Computing via Federated Learning",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.27952",
+     "page": "https://arxiv.org/abs/2610.27952",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3533,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.27379",
+     "item_ids": [
+      "aac01ea1ebb4e86d"
+     ],
+     "title": "DStill: Trajectory Consistency Distillation for Accelerated One-Step Drafting in Block Diffusion Speculative Decoding",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.27379",
+     "page": "https://arxiv.org/abs/2610.27379",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3013,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.19072",
+     "item_ids": [
+      "d2b30f9620e9d06b"
+     ],
+     "title": "Tracing Knowledge Lineage for Federated Unlearning under Mutual Distillation",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.19072",
+     "page": "https://arxiv.org/abs/2610.19072",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.1087,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.25460",
+     "item_ids": [
+      "d1d2ea406bd9697a"
+     ],
+     "title": "Reliability-Preserving Compression for Deployable Medical Image Segmentation",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.25460",
+     "page": "https://arxiv.org/abs/2610.25460",
+     "topic": "On-device & efficient ML",
+     "hits": 4,
+     "score": 1.9813,
+     "added": "2026-10-21"
+    }
+   ],
+   "date": "2026-10-21",
+   "key": "ep:2026-10-21:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "ad2f10e038fe8241",
+    "aac01ea1ebb4e86d",
+    "d2b30f9620e9d06b",
+    "d1d2ea406bd9697a"
+   ]
+  }
+ ]
+}
