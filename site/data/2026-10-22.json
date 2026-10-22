@@ -1,0 +1,1026 @@
+{
+ "ctx": {
+  "date_long": "Thursday, October 22, 2026",
+  "weekday": "Thursday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Ilhan Omar says 'bizarre' pre-dawn raid on her home is forcing her to move out",
+      "url": "https://www.bbc.co.uk/news/articles/cm75p1kxryl5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-22 13:36:21+00:00",
+      "summary": "The congresswoman said federal agents seized over a dozen items, including cell phones and notebooks, as part of a federal investigation.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.3434,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "08320a6760697a3e"
+     },
+     {
+      "title": "Amazon is gaining ground in grocery thanks to items like berries - FreshPlaza",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYjAwN1FzLUtqSzY4Wko5UjNnNVVRVUh5RG5vUTNwdzJqQ2RrQy15U1NuWFlMenY4MVBUWjRFRm1oMURBN0F1WVBaaUxHeGw1QzQyTmt2QXE2Yjl5VThQVXM3Nl90bEp0MEd0a2tUVUl1Skg0ajVDYXlUeEFwdnJDZmhaOXNmUy0yOVFDcGdzN1haZm1YUXBrNXBzWGJvZnBiYmVZWjB2N0d2X0loUkE0SFpNSG1GMmp3QUNRUEFPdw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-22 12:17:50+00:00",
+      "summary": "Amazon is gaining ground in grocery thanks to items like berries \u00a0\u00a0 FreshPlaza",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.175,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "2729cf10e98148ef"
+     },
+     {
+      "title": "Total ban on protests in Marseille and Lyon after riots",
+      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-22 17:45:44+00:00",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0923,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "4d95afcd128d12e9"
+     },
+     {
+      "title": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRFFieGdGQjNVTEpWeTlmUG5ZOW5rRjgwSmpnV1RWdTUzRG5fZW1BQmxBdElRdEtfOVYzcWlaMjR1SGJqZWdPR200RzJuV2JZajJMYmhiSmh4VFdYVjdLQXNxRWo1ZEprRWpKQW1vQkhoMm5jT1RKNzJVczV4aUxHdDNWQ0JoSXVOYzN0WDhFMmh4cjg5RWNmZFhtaHlQTlJ0NmVnRlNpQjg?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-21 20:05:00+00:00",
+      "summary": "Meta puts Muse agent at heart of AI strategy, plans new stock to power investments \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.0215,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "1f25cb669bbc7488"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Startup Spotlight: Ex-Amazon duo finds the right fit for indie artists with apparel marketplace",
+      "url": "https://www.geekwire.com/2026/startup-spotlight-ex-amazon-duo-finds-the-right-fit-for-indie-artists-with-apparel-marketplace/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 17:00:00+00:00",
+      "summary": "Loomerang works by handling everything but the art on T-shirts. Artists open storefronts for free, set their own prices, and get 60% of what\u2019s left after manufacturing costs. The company prints, inspects and ships every order. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.8992,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "4e5249031d88d013"
+     },
+     {
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 13:33:39+00:00",
+      "summary": "618 points \u00b7 464 comments on HN",
+      "duration_min": null,
+      "popularity": 618.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50195110",
+       "ago": "4h ago"
+      },
+      "score": 1.4242,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "c857d00b04e61c1b"
+     },
+     {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 14:32:38+00:00",
+      "summary": "412 points \u00b7 143 comments on HN",
+      "duration_min": null,
+      "popularity": 412.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50195959",
+       "ago": "3h ago"
+      },
+      "score": 1.4157,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "d2f362921d4537c8"
+     },
+     {
+      "title": "Fusion startup Helion lines up potential $175M CHIPS award to develop advanced semiconductors",
+      "url": "https://www.geekwire.com/2026/fusion-startup-helion-lines-up-potential-175m-chips-award-to-develop-advanced-semiconductors/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 16:21:48+00:00",
+      "summary": "Helion, the Everett, Wash., startup chasing fusion energy, is expanding its semiconductor work with a potential $175 million federal award and plans for more than 100 local jobs. The goal is to develop U.S.-made chips that can more efficiently handle the huge electrical pulses its fusion systems require. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.3294,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "44ba9b5c7c11e3f2"
+     },
+     {
+      "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 15:50:30+00:00",
+      "summary": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.2331,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "540e896edf86465f"
+     },
+     {
+      "title": "Amazon renames Kindle Unlimited to Kindle Plus and expands access to audiobooks",
+      "url": "https://www.theverge.com/tech/1016789/amazon-kindle-unlimited-plus-subscription-ai-audiobooks",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 17:46:40+00:00",
+      "summary": "The plus-ification of subscription services continues unabated with Amazon becoming the latest company to follow suit with a Kindle Unlimited rebrand. The subscription service is now known as Kindle Plus but will continue to offer unlimited access to a select collection of ebooks, comics, and magazines from the Kindle catalog for $11.99 per month. Thousands [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.8345,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "16d868d4397040a8"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+      "url": "https://www.latent.space/p/modal-d",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 17:40:57+00:00",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.976,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d636564ee5d912b3"
+     },
+     {
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 15:34:13+00:00",
+      "summary": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. \u2014 Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.6858,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "e4d084039ab11f8d"
+     },
+     {
+      "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+      "url": "https://www.latent.space/p/crossing-the-threshold",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-14 21:40:52+00:00",
+      "summary": "At AI Engineer New York, frontier labs and financial firms explored how to give agents useful autonomy while keeping consequential decisions under control.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.4567,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "5f0e4286e522ac24"
+     },
+     {
+      "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+      "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-20 17:04:21+00:00",
+      "summary": "Western open models strike back",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 0.9627,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "34b84ef907f5fd9b"
+     },
+     {
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 18:41:53+00:00",
+      "summary": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have been exploits circulating since last night, thanks to a leak in the coordinated disclosure process. This post from the PHP Foundation explain what went so wrong:\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 0.7188,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "3ec4507df8a0c920"
+     },
+     {
+      "title": "Meta shakes up the frontiers, open and closed",
+      "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-17 14:06:54+00:00",
+      "summary": "US open weights are back!",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5d ago"
+      },
+      "score": 0.6875,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "987754dece6755c3"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Optimized Compressor Parameterization for Produced Music in Hearing Aids",
+      "url": "https://arxiv.org/abs/2610.29613",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 11:55:09+00:00",
+      "summary": "Hearing aid compression is typically designed for speech, yet music demands different trade-offs due to its narrower dynamic range (DR) and impulsive transients. This paper investigates whether music fitting benefits from being signal-aware, both in mapping compression demand across signal-audiogram conditions and in tuning its parameters to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29613",
+       "arxiv_id": "2610.29613",
+       "authors": "Robin Holland, Christoph Hoog Antink, Henning Puder",
+       "ago": "30h ago"
+      },
+      "score": 3.4331,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "da3fb072fdf46258"
+     },
+     {
+      "title": "5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond",
+      "url": "https://arxiv.org/abs/2610.29155",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 03:45:25+00:00",
+      "summary": "In this paper, we present 5uGUE, a large language model (LLM)-driven hardware-in-the-loop agent, which enables the wireless fuzzing of 5G-enabled devices (such as mobile phones). 5uGUE combines multi-step reasoning with tool-assisted interaction and integrates into the fuzzing pipeline by leveraging specialized tools for internet search, 5G\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29155",
+       "arxiv_id": "2610.29155",
+       "authors": "Guoqiang Hua, Sakshi Udeshi, Matheus Eduardo Garbelini, Daisuke Mashima et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.2719,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "3250fe3e2d237560"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Why Distributed Systems Prefer Independence over Coordination",
+      "url": "https://blog.bytebytego.com/p/why-distributed-systems-prefer-independence",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-22 15:30:47+00:00",
+      "summary": "In this article, we\u2019ll look at why coordination is a challenge for distributed systems.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 2.5965,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "77ecbb38aac248fb"
+     },
+     {
+      "title": "The End of Consensus Research?",
+      "url": "https://arxiv.org/abs/2610.30114",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-21 17:55:19+00:00",
+      "summary": "Consensus is a fundamental problem in distributed computing and at the core of state machine replication (SMR). Despite decades of active human research, discovering practical low-latency solutions to the problem is still open, as it requires combining protocol knowledge, correctness reasoning, implementation, and experimental evaluation. We\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.30114",
+       "arxiv_id": "2610.30114",
+       "authors": "Cl\u00e9ment Burgelin, Rachid Guerraoui, Zicong Hong, Yinan Hu et al.",
+       "ago": "24h ago"
+      },
+      "score": 2.311,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "f382acf8c91912cd"
+     },
+     {
+      "title": "The Pulse: Time to rethink software security because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-22 14:08:21+00:00",
+      "summary": "A month\u2019s worth of security breaches in a single day \u2013 will things get worse before they improve? Also: Anthropic accused of version control \u201crip off\u201d, and more",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.9101,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "c4f0d40ba70c1c71"
+     },
+     {
+      "title": "Hard and Soft Real-Time DNN Inference Scheduling on Heterogeneous Multi-Accelerator Systems via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2610.29503",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-21 09:52:28+00:00",
+      "summary": "We present a scheduling framework for heterogeneous multi-accelerator systems executing both hard real-time and soft real-time QoS-aware DNN inference workloads. The framework combines an online reinforcement learning (RL) scheduler with a deterministic runtime safety layer. The RL scheduler dynamically generates candidate schedules by jointly\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29503",
+       "arxiv_id": "2610.29503",
+       "authors": "Francesco Giulio Blanco, Enrico Russo, Giuseppe Ascia, Davide Patti et al.",
+       "ago": "32h ago"
+      },
+      "score": 1.9077,
+      "why": "",
+      "also_sections": [],
+      "ago": "32h ago",
+      "id": "1f6a44ea57dda52c"
+     },
+     {
+      "title": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do",
+      "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-19 15:30:37+00:00",
+      "summary": "Sometimes, giving an AI agent all of the knowledge it needs is the wrong approach. At Meta, we\u2019ve seen notable improvements in efficiency and accuracy by keeping the orchestration layer of our data pipeline agents deliberately thin: It routes work and enforces reliability checks, while specialized agents do the domain reasoning. We\u2019re sharing our own [...] Read More... The post The Thin\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.4283,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "dbb53c4e8ada17e8"
+     },
+     {
+      "title": "The revised rules of engineering management with Will Larson",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-21 16:58:21+00:00",
+      "summary": "Will Larson, CTO of Imprint, explores how AI and shifting industry expectations are changing engineering management, career ladders, and the path from engineer to CTO.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "25h ago"
+      },
+      "score": 1.1913,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "28a12ec0950ea74a"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "What will computer chips look like in 2045?",
+      "url": "https://www.dwarkesh.com/p/intel-tour",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-22 15:02:21+00:00",
+      "summary": "I spent two days touring Intel\u2019s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like. A lot of what's coming next \u2013 gate-all-around transistors, backside power, CFET, hybrid bonding \u2013 is hard to follow without actually seeing it, so\u2026",
+      "duration_min": 69,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/221632772/30c38515d3ea0554c60350beead67f42.mp3",
+       "ago": "2h ago"
+      },
+      "score": 1.2745,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "fff294f4b81d8d3d"
+     },
+     {
+      "title": "Blitzy and Autonomous Software Development for Enterprise",
+      "url": "https://softwareengineeringdaily.com/podcasts/blitzy-and-autonomous-software-development-for-enterprise/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-22 09:00:00+00:00",
+      "summary": "Codebases in enterprise organizations often span hundreds of thousands, or even millions, of lines of code. In many cases, changes must follow established patterns precisely, or risk introducing costly security or operational issues. A common challenge with AI coding tools is that they struggle at\u2026",
+      "duration_min": 51,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/dd637ae2/ead5439c.mp3",
+       "ago": "8h ago"
+      },
+      "score": 0.9179,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "caf2cb0b3abdf0d7"
+     },
+     {
+      "title": "Democratic Surrogates Campaign, US & Israel Plan Iran Strikes, Tesla SpaceX Merger",
+      "url": "https://www.npr.org/2026/10/22/nx-s1-6012014/democratic-surrogates-campaign-us-israel-plan-iran-strikes-tesla-spacex-merger",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-22 10:08:23+00:00",
+      "summary": "Democrats are sending former President Barack Obama and former Vice President Kamala Harris into competitive Senate races to help the party win in Republican territory. NPR has learned the U.S. and Israel are preparing for a possible attack on Iran after the midterms, while Americans face settler\u2026",
+      "duration_min": 12,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/c6e17d3a-3dd6-4174-8492-f307d68c01bc/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=c6e17d3a-3dd6-4174-8492-f307d68c01bc&feed=HMwRVgVt&t=podcast&e=nx-s1-6012014&p=510318&d=746&size=11941138",
+       "ago": "7h ago"
+      },
+      "score": 0.7103,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "1aecbc9f70b74659"
+     },
+     {
+      "title": "Essentials: Developing a Rational Approach to Supplementation for Health & Performance",
+      "url": "https://www.hubermanlab.com/episode/essentials-developing-a-rational-approach-to-supplementation-for-health-and-performance",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-22 08:00:00+00:00",
+      "summary": "In this Huberman Lab Essentials episode, I explain how to develop a rational supplementation protocol tailored to your specific needs, nutrition and budget. I discuss foundational supplements and single-ingredient supplements for sleep, hormone support and cognitive enhancement and focus,\u2026",
+      "duration_min": 38,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM2223124209.mp3",
+       "ago": "9h ago"
+      },
+      "score": 0.6551,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "e72369e9d1e6225e"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Top 5 AI Building Blocks Every Engineer Should Know",
+      "url": "https://www.youtube.com/watch?v=Dddv7P_k60o",
+      "source": "ByteByteGo",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-22 15:30:15+00:00",
+      "summary": "To get better at system design, subscribe to our weekly newsletter: https://newsletter.bytebytego.com Checkout our bestselling System Design Interview books: Volume 1: https://amzn.to/3Ou7gkd Volume 2: https://amzn.to/3HqGozy ABOUT US: Covering\u2026",
+      "duration_min": null,
+      "popularity": 2.756,
+      "weight": 1.3,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/Dddv7P_k60o/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 3.4127,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "5228d8510d93f7a6"
+     },
+     {
+      "title": "The last real programmers are dying out...",
+      "url": "https://www.youtube.com/watch?v=zv6B6PQOuHE",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-22 15:09:31+00:00",
+      "summary": "Get real-time search data from a single API. Fireship viewers get 1,000 free searches: https://serpapi.com/fireship Yes the very foundations of the internet are currently crumbling to pieces, but before we look at that, let's distract ourselves\u2026",
+      "duration_min": null,
+      "popularity": 160.178,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/zv6B6PQOuHE/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 1.6974,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "6979bde72442f150"
+     },
+     {
+      "title": "Inside the \u201cPlay Labs\u201d Helping Refugee Kids Heal | Erum Mariam | TED",
+      "url": "https://www.youtube.com/watch?v=j11fPNKe5mY",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-22 15:00:04+00:00",
+      "summary": "What does healing look like for a refugee child? That's the question educational leader Erum Mariam asked when her team built the humanitarian \"play labs\": small, welcoming spaces where children displaced from their homes can play and reconnect\u2026",
+      "duration_min": null,
+      "popularity": 8.735,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/j11fPNKe5mY/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 1.1461,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "60583d1d6eca4a2a"
+     },
+     {
+      "title": "Is the Electoral College Broken?: Crash Course US Government #5",
+      "url": "https://www.youtube.com/watch?v=9Q9WAe_aqPs",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-20 16:00:23+00:00",
+      "summary": "Is the Electoral College broken? More and more people in the U.S. are voicing dissatisfaction with the way we elect presidents. In this episode, we\u2019ll unpack how the Electoral College works, why some people think it doesn\u2019t work, and possible\u2026",
+      "duration_min": null,
+      "popularity": 88.662,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/9Q9WAe_aqPs/hqdefault.jpg",
+       "ago": "2d ago"
+      },
+      "score": 1.0417,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "c9c43ea51752301e"
+     }
+    ]
+   },
+   {
+    "id": "events",
+    "title": "\ud83d\udcc5 Seattle AI events",
+    "items": [
+     {
+      "title": "Build Day #5: A developer hiring event",
+      "url": "https://luma.com/8oczx4ha",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-22 17:58:42.909004+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-10-23 00:00:00+00:00",
+       "ago": "just now",
+       "start_local": "Thu Oct 22, 5:00 PM"
+      },
+      "score": 2.1,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "bb351fd55c6a27fd"
+     },
+     {
+      "title": "Cash Libre Book Chat: Reclaim Your Purpose and Financial Freedom",
+      "url": "https://luma.com/ajmclmes",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-22 17:58:42.909004+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-10-23 17:00:00+00:00",
+       "ago": "just now",
+       "start_local": "Fri Oct 23, 10:00 AM"
+      },
+      "score": 1.5,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "28bf3b5b78a63b8b"
+     },
+     {
+      "title": "#SeattleAIWeek Opening Reception",
+      "url": "https://luma.com/9hfhvzkt",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-22 17:58:42.909004+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-10-26 22:00:00+00:00",
+       "ago": "just now",
+       "start_local": "Mon Oct 26, 3:00 PM"
+      },
+      "score": 1.5,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "bf531fc682736e26"
+     },
+     {
+      "title": "AI in Government Panel - AI Week",
+      "url": "https://luma.com/mydp0sfj",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-22 17:58:42.909004+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-10-27 23:00:00+00:00",
+       "ago": "just now",
+       "start_local": "Tue Oct 27, 4:00 PM"
+      },
+      "score": 1.5,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "8b151c5ec8390152"
+     },
+     {
+      "title": "Pitch Please #12: Halloween Edition",
+      "url": "https://luma.com/8m0o7idx",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-22 17:58:42.909004+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-10-28 20:00:00+00:00",
+       "ago": "just now",
+       "start_local": "Wed Oct 28, 1:00 PM"
+      },
+      "score": 1.5,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "9bc1fae8330c0f71"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-22:hidden-technical-debt-in-machine-learning-systems",
+    "label": "Classic paper 1/15 \u00b7 LLM serving & ML infrastructure",
+    "title": "Hidden Technical Debt in Machine Learning Systems \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Hidden Technical Debt in Machine Learning Systems",
+      "url": "https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+      "kind": "paper"
+     },
+     {
+      "title": "RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.29527",
+      "kind": "paper"
+     },
+     {
+      "title": "System X: An LLM Decision Model That Replies from Its Own KV Cache",
+      "url": "https://arxiv.org/abs/2610.25456",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-22:llm-reasoning-test-time-compute-4-new-papers",
+    "label": "Topic episode \u00b7 LLM reasoning & test-time compute",
+    "title": "LLM reasoning & test-time compute: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network",
+      "url": "https://arxiv.org/abs/2610.29511",
+      "kind": "paper"
+     },
+     {
+      "title": "UnO-NeSy: Optimizing Neuro-Symbolic Computing with Unified FeFET Based In-Memory System",
+      "url": "https://arxiv.org/abs/2610.26530",
+      "kind": "paper"
+     },
+     {
+      "title": "CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation",
+      "url": "https://arxiv.org/abs/2610.27677",
+      "kind": "paper"
+     },
+     {
+      "title": "SKAD: Sketch-Guided Audio-Contrastive Decoding for Reasoning in Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2610.28146",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 37,
+  "read_min": 87,
+  "listen_min": 230,
+  "generated": "10:58 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "Hidden Technical Debt in Machine Learning Systems \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+     "title": "Hidden Technical Debt in Machine Learning Systems",
+     "kind": "paper",
+     "url": "https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+     "page": "https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+     "source": "Classic \u00b7 MLE Systems"
+    },
+    {
+     "id": "arxiv:2610.29527",
+     "item_ids": [
+      "80e9936d5a1abebf"
+     ],
+     "title": "RCSD: Reinforcement and Continual Learning for Domain-Specific Speculative Decoding",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.29527",
+     "page": "https://arxiv.org/abs/2610.29527",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.7978,
+     "added": "2026-10-22"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 2,
+     "id": "arxiv:2610.25456",
+     "item_ids": [
+      "6dc58e53aebd54f5"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.25456",
+     "score": 1.7167,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "System X: An LLM Decision Model That Replies from Its Own KV Cache",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2610.25456"
+    }
+   ],
+   "date": "2026-10-22",
+   "key": "ep:2026-10-22:hidden-technical-debt-in-machine-learning-systems",
+   "item_ids": [
+    "classic:https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf",
+    "80e9936d5a1abebf",
+    "6dc58e53aebd54f5"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM reasoning & test-time compute",
+   "title": "LLM reasoning & test-time compute: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.29511",
+     "item_ids": [
+      "8bae92db025d826c"
+     ],
+     "title": "Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.29511",
+     "page": "https://arxiv.org/abs/2610.29511",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 2,
+     "score": 2.8723,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.26530",
+     "item_ids": [
+      "71f8d53a63635fdc"
+     ],
+     "title": "UnO-NeSy: Optimizing Neuro-Symbolic Computing with Unified FeFET Based In-Memory System",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.26530",
+     "page": "https://arxiv.org/abs/2610.26530",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 2,
+     "score": 2.5808,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.27677",
+     "item_ids": [
+      "186fbb46edc2d900"
+     ],
+     "title": "CovNav: Conformal Prediction-Guided Adaptive Inference for Object Goal Navigation",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.27677",
+     "page": "https://arxiv.org/abs/2610.27677",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 1,
+     "score": 2.3918,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.28146",
+     "item_ids": [
+      "18f0cbd003019804"
+     ],
+     "title": "SKAD: Sketch-Guided Audio-Contrastive Decoding for Reasoning in Large Audio-Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.28146",
+     "page": "https://arxiv.org/abs/2610.28146",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 2,
+     "score": 2.1618,
+     "added": "2026-10-21"
+    }
+   ],
+   "date": "2026-10-22",
+   "key": "ep:2026-10-22:llm-reasoning-test-time-compute-4-new-papers",
+   "item_ids": [
+    "8bae92db025d826c",
+    "71f8d53a63635fdc",
+    "186fbb46edc2d900",
+    "18f0cbd003019804"
+   ]
+  }
+ ]
+}
