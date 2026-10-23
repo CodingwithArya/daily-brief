@@ -1,0 +1,919 @@
+{
+ "ctx": {
+  "date_long": "Friday, October 23, 2026",
+  "weekday": "Friday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-23 16:59:51+00:00",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0691,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "8baade6458ce4322"
+     },
+     {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-23 16:33:11+00:00",
+      "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0541,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "3375e6939b19ece8"
+     },
+     {
+      "title": "A D.C. park was made 'for the pleasure of the people.' Trump's plan would change that",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6010488/east-potomac-trump-golf-hains-point",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-23 17:35:14+00:00",
+      "summary": "Trump's most recent rendering of East Potomac Park overtakes the D.C. peninsula with a sprawling golf course, without the grassy areas and road beloved by locals. That's prompted grassroots pushback.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9905,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "646d5daadb259075"
+     },
+     {
+      "title": "Health officials race to trace source of Nigeria's Ebola infection - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2VLQlZPa3RzLUR1M3hnR1J6LXAwLXFrUGlvVlI0SlliYjlieGNhQ1RveEtwOTJnLUhBWHFuSTFyaE5MYXNKRlNsZmc2SWREdG9JWnU3V2gycmpXY1h4VEhscVFfbGg4RGxjRmk2TnNjSHcxR0N5V0VmRFRvSHpuNGpyYV9NLVZRd295RzVhWmlvVUNzb1RYYUNFN2lBbWNQbDRSSmdjdm9lZDROTmpCajlUVQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-23 17:19:17+00:00",
+      "summary": "Health officials race to trace source of Nigeria's Ebola infection \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9821,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "fd252e9bd4d3549c"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Watching fruit ripen pays off: Seattle ag-tech startup Strella lands $4.25M",
+      "url": "https://www.geekwire.com/2026/watching-fruit-ripen-pays-off-seattle-ag-tech-startup-strella-lands-4-25m/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-23 16:23:23+00:00",
+      "summary": "Seattle startup Strella raised $4.25 million to expand its technology that tracks how fruit is ripening as it moves from growers to grocery stores. The goal is to help businesses spot potential spoilage and waste less food. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.4023,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "31d0a90504035435"
+     },
+     {
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 22:54:43+00:00",
+      "summary": "423 points \u00b7 260 comments on HN",
+      "duration_min": null,
+      "popularity": 423.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50202217",
+       "ago": "18h ago"
+      },
+      "score": 1.5881,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "1360bd8eb5a8e67e"
+     },
+     {
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-22 17:44:06+00:00",
+      "summary": "480 points \u00b7 206 comments on HN",
+      "duration_min": null,
+      "popularity": 480.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50198675",
+       "ago": "24h ago"
+      },
+      "score": 1.4953,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "5626bc2aa90f18a5"
+     },
+     {
+      "title": "New facility at Washington national lab will give researchers free access to automated tools",
+      "url": "https://www.geekwire.com/2026/new-facility-at-washington-national-lab-will-give-researchers-free-access-to-automated-tools/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-23 17:27:41+00:00",
+      "summary": "Pacific Northwest National Laboratory (PNNL) is building a facility where automated instruments will grow and study microbes, taking on some of the repetitive work scientists do by hand. When it opens in 2029, researchers will be able to apply to use it for free. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3811,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "093b82f35872db59"
+     },
+     {
+      "title": "Crows can evaluate visual info twice as fast as mammals",
+      "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-23 17:32:58+00:00",
+      "summary": "Birds' compact nervous system seems to help them handle tasks very quickly.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7914,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "347637be1578cbcf"
+     },
+     {
+      "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+      "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-23 17:18:31+00:00",
+      "summary": "Company says foreign-made robotic vehicles are crucial to US chip production.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7853,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b2b7ebe6730fbedf"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "An alignment assessment of the UK AISI cybertesting incident - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hcjNRbVFacnhzLWNNYnRkSTlVM2FkMnotYTd0MEpwTmlsQ2N1NlVPdjJjdXJhNG9FbC14d3FIR3pVaEh0SEdIamRWWmNTazRXVGNxbFg3dEFZN0RQT0tVcWpWZlpGTlZYb29uTW9PQQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-23 13:29:39+00:00",
+      "summary": "An alignment assessment of the UK AISI cybertesting incident \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 3.1391,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "925cae36fc2747fd"
+     },
+     {
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Ai2 - Allen AI",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5vOXdudU1hcnJMaWczOGFTbVJiMldFNjlEcE44ZGpkUzJPUVNaVjl2eHZweVc5SDByT3lkUE9HRmRxSktkTG1YTXR2MUdwaGds?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 16:01:15+00:00",
+      "summary": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet | Ai2 \u00a0\u00a0 Allen AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "25h ago"
+      },
+      "score": 2.2348,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "895ce0909ac70f00"
+     },
+     {
+      "title": "Donating Agent Skills to the Agentic AI Foundation - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOEZpcUwyanBJN3AtN3hwdGdNeS1obVZxc1c5c2lWZ3ZZUWFWM2M2SHFKNHB2Z3ZlQndXWUNMU3NGU3g1NElZeEw1M1pHaUJOZzZqeWsxSlFDSzUwcGFVUmxOUDhuZklpeDZ1ODVQc2dHNnZkUnVSTjE1dzU5R1ZVcjJURHl6RW1z?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 18:25:44+00:00",
+      "summary": "Donating Agent Skills to the Agentic AI Foundation \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.7198,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "f037511acdbd1b05"
+     },
+     {
+      "title": "Why AI Compute Comes in Rectangles \u2014 Erik Bernhardsson, Modal CEO",
+      "url": "https://latent.space/p/modal-d/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 17:40:57+00:00",
+      "summary": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.6932,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "a4d3526d3b30867d"
+     },
+     {
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "url": "https://latent.space/p/ainews-agents-disprove-polysemanticity/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-16 04:16:45+00:00",
+      "summary": "Nick Cammarata out of nowhere with some major claims!",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.4785,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "483d6307e687a2d8"
+     },
+     {
+      "title": "OlmoEarth v1. 3m beddings - Allen AI",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qQWZiNmZzenN1NmpfNmE4VUlxUzQ0bGJWcE5IcTlyM2ZnWDA4NHFJS3laM1ZxbUliX1ptT1pHZlM0QXhoajN3ZTQxV2lpa3JlSlRj?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 20:13:07+00:00",
+      "summary": "OlmoEarth v1. 3m beddings \u00a0\u00a0 Allen AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.0424,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "4fc1811e27c4cb19"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Semblance Distance Analysis for Channel Quality Assessment in Distributed Acoustic Sensing",
+      "url": "https://arxiv.org/abs/2610.30401",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 20:06:02+00:00",
+      "summary": "Distributed Acoustic Sensing (DAS) enables dense, kilometer-scale measurements for seismic and environmental monitoring, but its performance is limited by spatially heterogeneous noise and fiber to ground coupling. Identifying high-quality sensing channels remains a challenge, particularly in nonstationary and complex noise environments where\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.30401",
+       "arxiv_id": "2610.30401",
+       "authors": "Reinhardt Rading, Markus Hoffmann, Norbert Meyners, Holger Schlarb et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.1344,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "9c044ba6af6ade1a"
+     },
+     {
+      "title": "MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching",
+      "url": "https://arxiv.org/abs/2610.29119",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 03:03:10+00:00",
+      "summary": "Target speech extraction (TSE) isolates a speaker's voice given an enrollment utterance, but existing work is validated almost exclusively without music. Discriminative methods are content-faithful yet masking-bounded; generative methods improve naturalness but may hallucinate, drift in identity, and require many steps. We present MuseFlow-TSE, a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29119",
+       "arxiv_id": "2610.29119",
+       "authors": "Lu Ma, Yongliang Wang, Zhewen Su, Xin Tian",
+       "ago": "2d ago"
+      },
+      "score": 2.8613,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "e1782e11f2fe27d7"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "HPTS 2026 (Day 2 and Day 3)",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/hpts-2026-day-2-and-day-3.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-23 16:45:30+00:00",
+      "summary": "This is the second half of my HPTS 2026 notes. Day 1 was mostly about AI and the importance of specifications . Day 2 and day 3 cover hardware, object storage, failures, consensus, and lakehouses. Session 5: Hardware will save us all (chair: Natassa Ailamaki) The Fastest Way to be the Fastest (Bobbi Yogatama, NVIDIA) GPUs and databases have a love-hate relationship, and Bobbi listed the three\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 3.6125,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "198a02c6be24d39a"
+     },
+     {
+      "title": "uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage",
+      "url": "https://arxiv.org/abs/2610.30868",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-22 07:45:58+00:00",
+      "summary": "Data-intensive GPU applications increasingly rely on NVMe SSDs to extend GPU memory. NVIDIA GPU Direct Storage (GDS) enables direct SSD-GPU transfers via PCIe peer-to-peer DMA, eliminating host staging. However, GDS retains three key limitations: (1) its control path traverses the kernel for every I/O request, introducing software overhead; (2)\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.30868",
+       "arxiv_id": "2610.30868",
+       "authors": "Jing Wei, Guanyi Chen, Qi Chen, Chuyu Zhang et al.",
+       "ago": "34h ago"
+      },
+      "score": 1.8851,
+      "why": "",
+      "also_sections": [],
+      "ago": "34h ago",
+      "id": "4608aa97600a683f"
+     },
+     {
+      "title": "WaRP: Workload-Aware Request Planning for Vector Retrieval on Object Storage",
+      "url": "https://arxiv.org/abs/2610.29689",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-21 13:01:30+00:00",
+      "summary": "Modern vector search systems keep payload vectors in cloud object storage and only a compact routing index on fast local storage, typically using cluster-based ANN indexes. This design inherits a problem existing systems do not address. On object storage, small Range-GETs have latency dominated by fixed per-request overhead and are billed per\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29689",
+       "arxiv_id": "2610.29689",
+       "authors": "Ruipeng Wan, Xinyu Zeng, Yiming Qiao, Huanchen Zhang",
+       "ago": "2d ago"
+      },
+      "score": 1.4351,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "295dcc99b533ee7e"
+     },
+     {
+      "title": "Single-tenant Titus: VM-level isolation on a multi-tenant container platform",
+      "url": "https://netflixtechblog.com/single-tenant-titus-vm-level-isolation-on-a-multi-tenant-container-platform-6d8b1909d163?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-22 22:19:12+00:00",
+      "summary": "Samartha Chandrashekar & Nick Parker You click play on a Friday night, and in the second that follows, dozens of services answer in milliseconds. Most of them run on Titus, our internal container platform. Titus is, in essence, a Kubernetes-based container hosting platform: we keep both the control plane and the data plane (the container hosts that actually run containers) patched and up to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.1618,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "f04dfee991c978e3"
+     },
+     {
+      "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+      "url": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-19 19:12:53+00:00",
+      "summary": "When our AI code reviewer's cost per run doubled, we dug into the token usage to find out why. Learn how we used prompt caching and intelligent model routing to slash our inference bill by 68% while speeding up reviews.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.0664,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "fa45f57b682bff93"
+     },
+     {
+      "title": "EP229: 8 Chunking strategies for RAG-based agents",
+      "url": "https://blog.bytebytego.com/p/ep229-8-chunking-strategies-for-rag",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-17 15:30:51+00:00",
+      "summary": "Which chunking strategy are you running in production?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6d ago"
+      },
+      "score": 1.0616,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "6821afa77b49f964"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "What\u2019s the Deal With Billy Evans? A Spoiler-Filled Guide to \u2018You Can See Everything\u2019",
+      "url": "https://www.nytimes.com/column/hard-fork",
+      "source": "Hard Fork",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-23 11:00:00+00:00",
+      "summary": "\u201cYou shouldn\u2019t overbeat scrambled eggs.\u201d",
+      "duration_min": 59,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/72852413-419c-4509-90ec-ab167c241f50/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=72852413-419c-4509-90ec-ab167c241f50&feed=6HKOhNgS",
+       "ago": "6h ago"
+      },
+      "score": 0.955,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "4802e16531eabf86"
+     },
+     {
+      "title": "Octomom",
+      "url": "https://www.radiolab.org",
+      "source": "Radiolab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-23 14:00:00+00:00",
+      "summary": "A mile under the ocean, we get to watch an octopus perform a heroic act of heart and determination.",
+      "duration_min": 34,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/55f11499-9702-4a86-a534-fb5724d5707c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=55f11499-9702-4a86-a534-fb5724d5707c&feed=EmVW7VGp",
+       "ago": "3h ago"
+      },
+      "score": 0.7794,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "f8937822d5ed3bf8"
+     },
+     {
+      "title": "US Prepares For Possible Strikes, Midterm Early Voting, Trump BBC Deposition",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6013298/us-prepares-for-possible-strikes-midterm-early-voting-trump-bbc-deposition",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-23 10:12:18+00:00",
+      "summary": "The U.S. is sending a third aircraft carrier to the Middle East as oil prices climb and the prospect of another attack on Iran grows. More than 19 million Americans have already voted, with strong turnout among Democrats and voters of color, but the numbers can\u2019t tell us who will win. A judge has\u2026",
+      "duration_min": 14,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/7598d7a4-b298-443f-8689-56b9358725e0/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=7598d7a4-b298-443f-8689-56b9358725e0&feed=HMwRVgVt&t=podcast&e=nx-s1-6013298&p=510318&d=842&size=13478392",
+       "ago": "7h ago"
+      },
+      "score": 0.7135,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "f1ac592e4e51491c"
+     },
+     {
+      "title": "What Makes Great Leaders & How to Live an Extraordinary Life | Dr. Jared Diamond",
+      "url": "https://www.hubermanlab.com/episode/what-makes-great-leaders-and-how-to-live-an-extraordinary-life-jared-diamond",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-19 08:00:00+00:00",
+      "summary": "Dr. Jared Diamond, PhD, is a Pulitzer Prize-winning author, physiologist, evolutionary biologist and Professor at UCLA. We discuss the surprising and often chance events that shaped human history and leadership in politics, religion, business and athletics. As one of the most influential\u2026",
+      "duration_min": 114,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM4640433403.mp3",
+       "ago": "4d ago"
+      },
+      "score": 0.396,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "761e9f6c3a6798da"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "What will computer chips look like in 2045?",
+      "url": "https://www.youtube.com/watch?v=frYSOKvNiiE",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-22 16:00:07+00:00",
+      "summary": "I spent two days touring Intel\u2019s most advanced fab and talking to its technical leadership to understand what the chips of the future will look like. A lot of what's coming next \u2013 gate-all-around transistors, backside power, CFET, hybrid bonding \u2013\u2026",
+      "duration_min": null,
+      "popularity": 119.103,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/frYSOKvNiiE/hqdefault.jpg",
+       "ago": "25h ago"
+      },
+      "score": 1.3618,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "b2450b98aeba8d0d"
+     },
+     {
+      "title": "How do we Mine Minerals?: Crash Course Geology #22",
+      "url": "https://www.youtube.com/watch?v=uJA1qZirWVc",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-22 16:00:05+00:00",
+      "summary": "Minerals\u2014they\u2019re in our homes and our smartphones. But can we meet the demand for them without hurting the places and communities they come from? In this episode of Crash Course Geology, we\u2019ll learn about mining, the critical minerals that power\u2026",
+      "duration_min": null,
+      "popularity": 55.078,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/uJA1qZirWVc/hqdefault.jpg",
+       "ago": "25h ago"
+      },
+      "score": 1.0328,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "a24293f2f41a1ed4"
+     },
+     {
+      "title": "How to Stop Homelessness Before It Starts | Jen Loving | TED",
+      "url": "https://www.youtube.com/watch?v=cTHwSER_l-8",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-23 15:00:35+00:00",
+      "summary": "Homelessness can feel like an issue that\u2019s too big and complicated to fix, something we've learned to walk past. Jen Loving, who leads the nonprofit Destination: Home, has spent her entire life proving that mindset is wrong. She shows why we must\u2026",
+      "duration_min": null,
+      "popularity": 7.302,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/cTHwSER_l-8/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 0.8807,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "e0b72dc5584c0516"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-23:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Semblance Distance Analysis for Channel Quality Assessment in Distributed Acoustic Sensing",
+      "url": "https://arxiv.org/abs/2610.30401",
+      "kind": "paper"
+     },
+     {
+      "title": "PULSE: Personalized Opportunistic Learning for Wearable Devices",
+      "url": "https://arxiv.org/abs/2610.28081",
+      "kind": "paper"
+     },
+     {
+      "title": "The Rise of Personal Trackers as the Next Infrastructure for Ubiquitous Positioning",
+      "url": "https://arxiv.org/abs/2610.24249",
+      "kind": "paper"
+     },
+     {
+      "title": "Memento: Communicating Sensor Observations Through Shared Memory",
+      "url": "https://arxiv.org/abs/2610.19227",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-23:distributed-systems-databases-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Distributed systems & databases",
+    "title": "Distributed systems & databases: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "HPTS 2026 (Day 2 and Day 3)",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/hpts-2026-day-2-and-day-3.html",
+      "kind": "article"
+     },
+     {
+      "title": "The End of Consensus Research?",
+      "url": "https://arxiv.org/abs/2610.30114",
+      "kind": "paper"
+     },
+     {
+      "title": "Superposed analog memory for vector storage in neural networks",
+      "url": "https://arxiv.org/abs/2610.26118",
+      "kind": "paper"
+     },
+     {
+      "title": "System-Level Evaluation of Uplink Access Schemes for Ambient IoT",
+      "url": "https://arxiv.org/abs/2610.30856",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 31,
+  "read_min": 72,
+  "listen_min": 266,
+  "generated": "10:52 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.30401",
+     "item_ids": [
+      "9c044ba6af6ade1a"
+     ],
+     "title": "Semblance Distance Analysis for Channel Quality Assessment in Distributed Acoustic Sensing",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.30401",
+     "page": "https://arxiv.org/abs/2610.30401",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 3.1344,
+     "added": "2026-10-23"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 2,
+     "id": "arxiv:2610.28081",
+     "item_ids": [
+      "16ea40f708fe70be"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.28081",
+     "score": 1.8198,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "PULSE: Personalized Opportunistic Learning for Wearable Devices",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2610.28081"
+    },
+    {
+     "id": "arxiv:2610.24249",
+     "item_ids": [
+      "5cf76ca73b0c7ee7"
+     ],
+     "title": "The Rise of Personal Trackers as the Next Infrastructure for Ubiquitous Positioning",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.24249",
+     "page": "https://arxiv.org/abs/2610.24249",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 1.7392,
+     "added": "2026-10-21"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 1,
+     "id": "arxiv:2610.19227",
+     "item_ids": [
+      "2fd1cb88644bd5ae"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.19227",
+     "score": 1.555,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Memento: Communicating Sensor Observations Through Shared Memory",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2610.19227"
+    }
+   ],
+   "date": "2026-10-23",
+   "key": "ep:2026-10-23:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "9c044ba6af6ade1a",
+    "16ea40f708fe70be",
+    "5cf76ca73b0c7ee7",
+    "2fd1cb88644bd5ae"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Distributed systems & databases",
+   "title": "Distributed systems & databases: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "198a02c6be24d39a",
+     "item_ids": [
+      "198a02c6be24d39a"
+     ],
+     "title": "HPTS 2026 (Day 2 and Day 3)",
+     "kind": "article",
+     "section": "swe",
+     "source": "Murat Demirbas (Metadata)",
+     "url": "https://muratbuffalo.blogspot.com/2026/10/hpts-2026-day-2-and-day-3.html",
+     "page": "https://muratbuffalo.blogspot.com/2026/10/hpts-2026-day-2-and-day-3.html",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 3.6125,
+     "added": "2026-10-23"
+    },
+    {
+     "id": "arxiv:2610.30114",
+     "item_ids": [
+      "f382acf8c91912cd"
+     ],
+     "title": "The End of Consensus Research?",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.30114",
+     "page": "https://arxiv.org/abs/2610.30114",
+     "topic": "Distributed systems & databases",
+     "hits": 3,
+     "score": 2.311,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.26118",
+     "item_ids": [
+      "72f1fba465c75ed7"
+     ],
+     "title": "Superposed analog memory for vector storage in neural networks",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.26118",
+     "page": "https://arxiv.org/abs/2610.26118",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 2.0582,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.30856",
+     "item_ids": [
+      "85528ce6d0c4a214"
+     ],
+     "title": "System-Level Evaluation of Uplink Access Schemes for Ambient IoT",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.30856",
+     "page": "https://arxiv.org/abs/2610.30856",
+     "topic": "Distributed systems & databases",
+     "hits": 1,
+     "score": 1.802,
+     "added": "2026-10-23"
+    }
+   ],
+   "date": "2026-10-23",
+   "key": "ep:2026-10-23:distributed-systems-databases-3-new-papers-1-more",
+   "item_ids": [
+    "198a02c6be24d39a",
+    "f382acf8c91912cd",
+    "72f1fba465c75ed7",
+    "85528ce6d0c4a214"
+   ]
+  }
+ ]
+}
