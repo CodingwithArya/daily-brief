@@ -1,0 +1,821 @@
+{
+ "ctx": {
+  "date_long": "Saturday, October 24, 2026",
+  "weekday": "Saturday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Watch as fire engulfs Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-24 15:56:48+00:00",
+      "summary": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0773,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "da898d0e78c00f91"
+     },
+     {
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-24 15:21:44+00:00",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0574,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "d69fc49bdc3c99c6"
+     },
+     {
+      "title": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says - Nepali Patro",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUcXZDWnFmaElOenR6RzdUWDlmdTBpWUJFeTJlUE5IZlBMS0J6NjR5NTc3WXhmcVQ4ZHJONi1tNGhPYWtQa091cUZTVU9sb0hLLXVJV0RsZHhVUQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-24 13:13:34+00:00",
+      "summary": "North Korea's Kim Jong Un visits China via Dandong bridge, Yonhap says \u00a0\u00a0 Nepali Patro",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 0.8993,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "f132f2c4455eda37"
+     },
+     {
+      "title": "Perspective: The next James Bond",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6004258/perspective-the-next-james-bond",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-24 12:00:00+00:00",
+      "summary": "A new James Bond is nigh, to replace the last actor in the 64 year-old movie franchise. What evil forces will the new 007 face? Killer Drones? Killer AI? Killer lettuce?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.8667,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "5536c0af6695db3f"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+      "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 13:09:28+00:00",
+      "summary": "310 points \u00b7 338 comments on HN",
+      "duration_min": null,
+      "popularity": 310.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50220913",
+       "ago": "3h ago"
+      },
+      "score": 1.3946,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "44115490bcb6b7ca"
+     },
+     {
+      "title": "Amazon ends its six-year legal fight with former AWS managers over alleged data center kickbacks",
+      "url": "https://www.geekwire.com/2026/amazon-ends-its-six-year-legal-fight-with-former-aws-managers-over-alleged-data-center-kickbacks/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 02:57:35+00:00",
+      "summary": "Two former Amazon real estate managers have resolved their six-year legal fight with the company, acknowledging they received personal payments tied to data center deals they handled and apologizing for violating its ethical standards. Amazon\u2019s case against the developer accused of paying the kickbacks continues. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "13h ago"
+      },
+      "score": 1.3304,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "45f95d03e88a0aad"
+     },
+     {
+      "title": "Root shell on Samsung TV",
+      "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 05:49:57+00:00",
+      "summary": "409 points \u00b7 148 comments on HN",
+      "duration_min": null,
+      "popularity": 409.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50218633",
+       "ago": "10h ago"
+      },
+      "score": 1.2506,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "30e2978fb6472d9d"
+     },
+     {
+      "title": "The Garage never should have existed: Why Microsoft\u2019s grassroots innovation lab worked for so long",
+      "url": "https://www.geekwire.com/2026/the-garage-never-should-have-existed-why-microsofts-grassroots-innovation-lab-worked-for-so-long/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-23 18:53:07+00:00",
+      "summary": "Microsoft Garage co-founder Quinn Hawkins explains how the employee innovation program outlasted bigger, better-funded efforts inside Microsoft for 17 years, as the company winds it down. He credits four choices, including backing people who built projects rather than voting on ideas, and getting business groups to pay for their own events. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.1164,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "fc761a79188dc838"
+     },
+     {
+      "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+      "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 11:50:28+00:00",
+      "summary": "A new model suggests Mars may host ice-forming physics never directly observed before.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.6901,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "77a2412996833ea1"
+     },
+     {
+      "title": "Ice sheet expansion may have started 2,000 years ago, but we canceled that",
+      "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 11:00:09+00:00",
+      "summary": "The tiny remains of the Laurentide Ice Sheet began getting somewhat less tiny.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.6732,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "5bb272a35065dcc0"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE53TVd0MHpZN2NwQUs2aElVUXlXNTl5OVhGYU5Xd2NGV1JKRUdueF9MZTkxcmJOenJkc3BpQjFQNWhoN3hKYTR6Ug?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-23 17:21:59+00:00",
+      "summary": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 2.2713,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "32b40d9f2afb6a5e"
+     },
+     {
+      "title": "A crop-mapping benchmark for the tropics - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lajlzc2dMZVk0Rm1QOVZxRFltVHFIakFoSWNOVlhpMWtDcGItekxKSGFxeTBGZGpvMkZwRG12ek0tZVZlVGtUag?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 17:24:32+00:00",
+      "summary": "A crop-mapping benchmark for the tropics \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "1d ago"
+      },
+      "score": 1.9737,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "0edd89533e67d98a"
+     },
+     {
+      "title": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster making $22m/day at ~80% margin for a 81 day payback",
+      "url": "https://latent.space/p/ainews-deepseek-deepinfer-open-source/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 06:54:09+00:00",
+      "summary": "An open source \u201cbomb\u201d drops from China",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.2426,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "f8078d89c26a395a"
+     },
+     {
+      "title": "[AINews] OpenAI\u2019s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
+      "url": "https://latent.space/p/ainews-openais-patch-the-planet-program/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 07:42:44+00:00",
+      "summary": "The Big Hardening begins",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 1.0925,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "dc028fea27bbb478"
+     },
+     {
+      "title": "battledrones v14: Compass Rose, a four player map",
+      "url": "https://simonwillison.net/2026/Oct/24/battledrones/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-24 03:59:57+00:00",
+      "summary": "Release: battledrones v14: Compass Rose, a four player map I added four player online mode to Battledrones - previous maps were limited to two. Here's the initial prompt I used: Add a new map for a four player battle - four way rotational symmetry, up to four AI players, works with the WebSocket non-audio based multiplayer mode so up to four human players can join (any spare slots use AI) Claude\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 0.9052,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "2a01162c0ca3d9be"
+     },
+     {
+      "title": "Quick Study",
+      "url": "https://simonwillison.net/2026/Oct/23/quick-study-painter/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-23 21:35:13+00:00",
+      "summary": "Tool: Quick Study Prompt to Claude Opus 5.5 High : Build an artifact where you open a photo and it rapidly (in a few seconds) paints a version of that photo using a canvas element and simulated paintbrush See also my previous experiment getting Claude Fable to simulate a watercolor illustration with P5.js. Quick Study uses Sobel edge detection , with no external libraries beyond Google Fonts.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 0.7817,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "65b2952c2f3cf9c3"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Deep Reinforcement Learning Assistance for Resilient Haptic Teleoperation over a 5G Network",
+      "url": "https://arxiv.org/abs/2610.29511",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 10:01:41+00:00",
+      "summary": "Haptic teleoperation requires low-latency and reliable communication to preserve stable and responsive interaction between a human operator and a remote environment. However, network congestion can strongly degrade teleoperation performance, particularly when haptic traffic competes with other data flows for limited radio resources. This work\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29511",
+       "arxiv_id": "2610.29511",
+       "authors": "Georgios Kokkinis, Aitor Hernandez Herranz, Qi Zhang",
+       "ago": "3d ago"
+      },
+      "score": 2.2414,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "8bae92db025d826c"
+     },
+     {
+      "title": "SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones",
+      "url": "https://arxiv.org/abs/2610.29733",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 13:35:39+00:00",
+      "summary": "Diffusion transformers are widely used in image-editing services. To preserve both efficiency and privacy, existing systems commonly rely on cloud-device collaboration. Keeping request-specific inference on the device avoids sending personal images and prompts to the cloud. These workloads often use common templates, such as in face swapping and\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29733",
+       "arxiv_id": "2610.29733",
+       "authors": "Shuncheng Jie, Desen Sun, Ri Hong, Yuyang Tian et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.0723,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "f6b133d01794efcc"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "What Do the Frontier Labs Actually Believe?",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/what-do-frontier-labs-actually-believe.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-24 16:30:00+00:00",
+      "summary": "I listened to a recent episode of Cal Newport's \"Deep Questions\" podcast, where he interviews Emile P. Torres. Cal says that if you want to understand what is happening in AI, you have to understand the futurist ideologies that shape the people running the frontier labs. Torres is a researcher who studies eschatological and utopian movements. They spent a decade inside this movement as a true\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.2992,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "80195c6bc8a99f2f"
+     },
+     {
+      "title": "How Not to Be Censored: Inclusion Safety in Client-Led Consensus",
+      "url": "https://arxiv.org/abs/2610.29497",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-21 09:50:44+00:00",
+      "summary": "Blockchain consensus protocols implicitly follow a client-server architecture: validators are the only active participants, while clients (i.e., users) merely submit transactions and rely on validators to include them. This abstraction obscures a fundamental question: what should a client do to guarantee the timely inclusion of its own\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29497",
+       "arxiv_id": "2610.29497",
+       "authors": "Yackolley Amoussou-Guenou, Andrea Canidio",
+       "ago": "3d ago"
+      },
+      "score": 1.2597,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "ec97b38e82eb19cb"
+     },
+     {
+      "title": "Resuming Vision-Language Inference across Onboard Interruptions",
+      "url": "https://arxiv.org/abs/2610.29183",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-21 04:14:43+00:00",
+      "summary": "Executing vision-language models (VLMs) aboard low-Earth orbit satellites enables flexible processing of observation data without first downlinking it to the ground. On commercial off-the-shelf payloads, however, a request may span multiple execution windows: power and thermal constraints, fault-triggered reboots, and competing payload demands\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.29183",
+       "arxiv_id": "2610.29183",
+       "authors": "Xiaolong Huang, Yinyuan Zhang, Daliang Xu, Yun Ma et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.2276,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "b06205b707f6eb46"
+     },
+     {
+      "title": "Origin Range Requests: Serving large files without range-request tuning",
+      "url": "https://blog.cloudflare.com/origin-range-requests/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-23 18:22:59+00:00",
+      "summary": "Naive byte-range caching can waste gigabytes of origin bandwidth on small requests. We rebuilt our cache architecture in Pingora to coordinate partial fetches automatically, cutting R2 p99 latency in half.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.2121,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "20d42f4887085c51"
+     },
+     {
+      "title": "EP230: RAG vs Agentic RAG",
+      "url": "https://blog.bytebytego.com/p/ep230-rag-vs-agentic-rag",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-24 15:30:37+00:00",
+      "summary": "Here's how RAG and agentic RAG typically work.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.1913,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "0900cb93a7331a5d"
+     },
+     {
+      "title": "Beyond API Compatibility: Building a Tool to Measure the Blast Radius of Library Changes",
+      "url": "https://netflixtechblog.com/beyond-api-compatibility-building-a-tool-to-measure-the-blast-radius-of-library-changes-9474f2fd4f90?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-23 18:32:51+00:00",
+      "summary": "By Roberto Perez Alcolea , Java Platform Team Quasar connects a proposed API change with observed references in consumer repositories, giving the producer evidence for a release decision At Netflix, shared Java libraries support applications developed across a large, independently evolving repository ecosystem. A library change begins in one repository, but its impact can reach many others.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.9533,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "2740539d9b47ddc0"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Websites Go Offline, Protests in France, Netflix Downsizes",
+      "url": "https://www.npr.org/2026/10/24/nx-s1-6014537/websites-go-offline-protests-in-france-netflix-downsizes",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-24 13:46:36+00:00",
+      "summary": "AI discovered a vulnerability in part of the internet's architecture, called PHP2SHELL. Security researchers rushed to fix it, but the news leaked and hackers have swooped in. France deploys hordes of police as another wave of protests begin. Netflix is regrouping after the release of its latest\u2026",
+      "duration_min": 16,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/bb8e4510-99da-4c48-94c5-513d3c945281/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=bb8e4510-99da-4c48-94c5-513d3c945281&feed=HMwRVgVt&t=podcast&e=nx-s1-6014537&p=510318&d=938&size=15016482",
+       "ago": "2h ago"
+      },
+      "score": 0.8232,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "1dcb67f0f46b67f2"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "The most vulnerable week in internet history...",
+      "url": "https://www.youtube.com/watch?v=SMGg7iisHmc",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-23 18:19:58+00:00",
+      "summary": "Semgrep Guardian catches the risky code and packages your agent introduces. Try it free for 60 days:\u2026",
+      "duration_min": null,
+      "popularity": 1138.85,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/SMGg7iisHmc/hqdefault.jpg",
+       "ago": "22h ago"
+      },
+      "score": 1.5468,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "fbd22f4cc73a5c90"
+     }
+    ]
+   }
+  ],
+  "queue": [
+   {
+    "label": "Neural Networks: Zero to Hero \u00b7 1/9 (Saturday evening)",
+    "title": "The spelled-out intro to neural networks and backpropagation: building micrograd",
+    "url": "https://www.youtube.com/watch?v=VMj-3S1tku0",
+    "note": "Code along \u2014 don't just watch."
+   }
+  ],
+  "episodes": [
+   {
+    "key": "ep:2026-10-24:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Optimized Compressor Parameterization for Produced Music in Hearing Aids",
+      "url": "https://arxiv.org/abs/2610.29613",
+      "kind": "paper"
+     },
+     {
+      "title": "MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching",
+      "url": "https://arxiv.org/abs/2610.29119",
+      "kind": "paper"
+     },
+     {
+      "title": "MOMO: Human Motion from Moving Sounds",
+      "url": "https://arxiv.org/abs/2610.24522",
+      "kind": "paper"
+     },
+     {
+      "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
+      "url": "https://arxiv.org/abs/2610.31083",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-24:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "SQuAT: Spherical Lattice Vector Quantization-Aware Training",
+      "url": "https://arxiv.org/abs/2610.31412",
+      "kind": "paper"
+     },
+     {
+      "title": "Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization",
+      "url": "https://arxiv.org/abs/2610.31309",
+      "kind": "paper"
+     },
+     {
+      "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
+      "url": "https://arxiv.org/abs/2610.29378",
+      "kind": "paper"
+     },
+     {
+      "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
+      "url": "https://arxiv.org/abs/2610.30480",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 26,
+  "read_min": 72,
+  "listen_min": 31,
+  "generated": "9:35 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.29613",
+     "item_ids": [
+      "da3fb072fdf46258"
+     ],
+     "title": "Optimized Compressor Parameterization for Produced Music in Hearing Aids",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.29613",
+     "page": "https://arxiv.org/abs/2610.29613",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.4331,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.29119",
+     "item_ids": [
+      "e1782e11f2fe27d7"
+     ],
+     "title": "MuseFlow-TSE: Music-Aware Target Speech Extraction via Cross-Source Band-Splitting and Data-to-Data Flow Matching",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.29119",
+     "page": "https://arxiv.org/abs/2610.29119",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.2586,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.24522",
+     "item_ids": [
+      "eac5c4580adea5a6"
+     ],
+     "title": "MOMO: Human Motion from Moving Sounds",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.24522",
+     "page": "https://arxiv.org/abs/2610.24522",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 1.9893,
+     "added": "2026-10-21"
+    },
+    {
+     "id": "arxiv:2610.31083",
+     "item_ids": [
+      "504b7a49621293b4"
+     ],
+     "title": "MQAScore: Fine-Grained Text-Music Alignment Evaluation via Large Audio Language Model",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.31083",
+     "page": "https://arxiv.org/abs/2610.31083",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 1.806,
+     "added": "2026-10-23"
+    }
+   ],
+   "date": "2026-10-24",
+   "key": "ep:2026-10-24:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "da3fb072fdf46258",
+    "e1782e11f2fe27d7",
+    "eac5c4580adea5a6",
+    "504b7a49621293b4"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.31412",
+     "item_ids": [
+      "3bfb0da4b7b9fdd8"
+     ],
+     "title": "SQuAT: Spherical Lattice Vector Quantization-Aware Training",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.31412",
+     "page": "https://arxiv.org/abs/2610.31412",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5275,
+     "added": "2026-10-23"
+    },
+    {
+     "id": "arxiv:2610.31309",
+     "item_ids": [
+      "e19b44d2e52f309d"
+     ],
+     "title": "Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.31309",
+     "page": "https://arxiv.org/abs/2610.31309",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5103,
+     "added": "2026-10-23"
+    },
+    {
+     "id": "arxiv:2610.29378",
+     "item_ids": [
+      "b97960adfc6eacbb"
+     ],
+     "title": "Right On Q: Recovering Reasoning under Quantization via Self-Generated Trajectories",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.29378",
+     "page": "https://arxiv.org/abs/2610.29378",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4195,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.30480",
+     "item_ids": [
+      "97d572a01c94d414"
+     ],
+     "title": "FIGFLEX: A Mixed-Precision FP-INT GEMM Accelerator Co-Designed with Low-Bit LLM Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.30480",
+     "page": "https://arxiv.org/abs/2610.30480",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.2845,
+     "added": "2026-10-23"
+    }
+   ],
+   "date": "2026-10-24",
+   "key": "ep:2026-10-24:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "3bfb0da4b7b9fdd8",
+    "e19b44d2e52f309d",
+    "b97960adfc6eacbb",
+    "97d572a01c94d414"
+   ]
+  }
+ ]
+}
