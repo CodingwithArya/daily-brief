@@ -1,0 +1,793 @@
+{
+ "ctx": {
+  "date_long": "Sunday, October 25, 2026",
+  "weekday": "Sunday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-25 16:21:40+00:00",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0752,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "58ab98120ed44a2b"
+     },
+     {
+      "title": "Early reports suggest record high turnout in Serbia elections",
+      "url": "https://www.bbc.co.uk/news/articles/c6jdmj1ej715o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-25 16:05:15+00:00",
+      "summary": "Serbia is heading to the polls as a student movement attempts to oust longtime populist leader Aleksandar Vu\u010di\u0107.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0658,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "50853fa59b600df4"
+     },
+     {
+      "title": "Israelis have changed. Will they change their leadership?",
+      "url": "https://www.npr.org/2026/10/25/g-s1-149563/israel-election-war-netanyahu",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-25 16:00:00+00:00",
+      "summary": "Israel is holding a general election this week after years of war. For many Israelis, shaken by the Oct. 7, 2023, attacks and years of war, it is the most consequential in decades.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9662,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "874917b14fe95dd1"
+     },
+     {
+      "title": "What makes a good spine-tingler? Stephen Graham Jones says it's all in the ending",
+      "url": "https://www.npr.org/2026/10/25/nx-s1-6007348/what-makes-a-good-spine-tingler-stephen-graham-jones-says-its-all-in-the-ending",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-25 15:03:17+00:00",
+      "summary": "Horror writer Stephen Graham Jones says horror's current moment is powered by more than just fear.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9378,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "dc03b62c5b019450"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 09:58:27+00:00",
+      "summary": "312 points \u00b7 74 comments on HN",
+      "duration_min": null,
+      "popularity": 312.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50219700",
+       "ago": "31h ago"
+      },
+      "score": 1.4156,
+      "why": "",
+      "also_sections": [],
+      "ago": "31h ago",
+      "id": "c64b90fa4d7c0680"
+     },
+     {
+      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+      "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-25 09:00:40+00:00",
+      "summary": "446 points \u00b7 302 comments on HN",
+      "duration_min": null,
+      "popularity": 446.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50229587",
+       "ago": "8h ago"
+      },
+      "score": 1.3563,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "f0796ab74553a7d4"
+     },
+     {
+      "title": "Week in Review: Most popular stories on GeekWire for the week of Oct. 18, 2026",
+      "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-10-18/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-25 15:00:02+00:00",
+      "summary": "See the technology stories that people were reading on GeekWire for the week of Oct. 18, 2026. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.3107,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "1b7be7550766963f"
+     },
+     {
+      "title": "Exit interview: Microsoft\u2019s comms chief on CEOs, reporters, what he got wrong, and stories that stuck",
+      "url": "https://www.geekwire.com/2026/exit-interview-microsofts-comms-chief-on-ceos-reporters-what-he-got-wrong-and-stories-that-stuck/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-24 16:58:06+00:00",
+      "summary": "Microsoft communications chief Frank X. Shaw, who is leaving the company at the end of the year, reflects on nearly three decades of shaping its public image. He talks about working for Bill Gates, Steve Ballmer and Satya Nadella, the mistakes he\u2019d handle differently, his behind-the-scenes dealings with top tech reporters, and how communications and media are changing in the AI era. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.0678,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "38c12bb649dc5ccf"
+     },
+     {
+      "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+      "url": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-25 17:00:00+00:00",
+      "summary": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both the original Switch and the larger Switch 2, continues the tradition of [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.5987,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "0c010e6571678155"
+     },
+     {
+      "title": "Now you can watch Instagram Reels on your Apple TV",
+      "url": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-25 16:20:17+00:00",
+      "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December of last year. Then, in June, it launched a slew of new features [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.586,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "6cc3d7a00b17e8af"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "OlmoEarth Studio - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15NVpCaU9NX3pSZnY1anRHVnU0WjI0RDRFRTNNdlhfX3N2NC1FN1BuWExPa29zeVFKcFFIdTY2cWtfbHI5RDVSeHJ1dm5zcUhGT2c?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-22 16:05:18+00:00",
+      "summary": "OlmoEarth Studio \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.7264,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "2859b333b1acbbb7"
+     },
+     {
+      "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+      "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-25 11:49:00+00:00",
+      "summary": "#20",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.255,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "cb0e6541c41d00d8"
+     },
+     {
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://latent.space/p/claude-mods/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-21 13:04:19+00:00",
+      "summary": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4d ago"
+      },
+      "score": 0.8922,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "5c33d37c37b5fa3c"
+     },
+     {
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3\u00d7 speed",
+      "url": "https://latent.space/p/ainews-kimi-31/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-24 07:18:29+00:00",
+      "summary": "We have Fable at home... or so we are being told by paid shills",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "33h ago"
+      },
+      "score": 0.888,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "c1ad71a16e1f5eab"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Every Alarm Has a Cause: An Open Generator of Telecom Alarm Storms with Exact Root Causes, Bound to NORIA-O, RFC 8632 and TMF642",
+      "url": "https://arxiv.org/abs/2610.30004",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-21 16:40:00+00:00",
+      "summary": "Alarm root-cause analysis is studied on data that cannot be shared. Operator logs are confidential, so what the field publishes is a causal graph between alarm types rather than per-incident causes, a fixed scenario set, gated, or never released. Two recent benchmarks carry per-incident root causes at scale; neither states a download location or\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.30004",
+       "arxiv_id": "2610.30004",
+       "authors": "Madhulatha Mandarapu, Sandeep Kunkunuru",
+       "ago": "4d ago"
+      },
+      "score": 1.6938,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "7f5564e14ec34dd1"
+     },
+     {
+      "title": "Unsupervised Head Network Personalization for Split Computing via Federated Learning",
+      "url": "https://arxiv.org/abs/2610.27952",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-20 09:57:52+00:00",
+      "summary": "Split Computing (SC) is a distributed inference method designed for balancing computational load and reducing latency by partitioning a neural network into head and tail networks and deploying them across both a mobile device and a server, respectively. Due to the limited bandwidth and computational power of mobile devices, the head network is\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.27952",
+       "arxiv_id": "2610.27952",
+       "authors": "Yutaro Horikawa, Takayuki Nishio",
+       "ago": "5d ago"
+      },
+      "score": 1.5061,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "ad2f10e038fe8241"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "GPU-Accelerated Construction of the Gabriel Graph: Parallelization Strategies and Applications to Large-Margin Classification and Graph-Based Clustering",
+      "url": "https://arxiv.org/abs/2610.28759",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-20 18:03:08+00:00",
+      "summary": "The Gabriel graph is a proximity graph widely used in computational geometry and geometric machine learning, underlying large-margin classifiers and, as we show in this work, density-aware clustering methods. Its construction, however, has cubic time complexity $O(N^3)$ in the naive formulation, which severely limits its use on datasets beyond a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.28759",
+       "arxiv_id": "2610.28759",
+       "authors": "Diego Sanches Nere dos Santos, Luiz Carlos Bambirra Torres",
+       "ago": "4d ago"
+      },
+      "score": 0.8718,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "6442b0fbe7901f3f"
+     },
+     {
+      "title": "SARP: An On-SSD Index for KVCache with Fast Prefix Matching and Recovery",
+      "url": "https://arxiv.org/abs/2610.26849",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-19 17:59:39+00:00",
+      "summary": "Distributed LLM serving relies on a global index to locate reusable key-value cache (KVCache) blocks through prefix matching. Losing the index after a crash or restart forces affected requests to recompute existing KVCache on GPUs. Persisting the index restores access after a failure. Existing persistent indexes face a tension between\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.26849",
+       "arxiv_id": "2610.26849",
+       "authors": "Jun Kong, Qi Lin, Zhichao Cao",
+       "ago": "5d ago"
+      },
+      "score": 0.8042,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "74928e4da41380c1"
+     },
+     {
+      "title": "HPTS 2026 (Day 1)",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/hpts-2026-day-1.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-21 19:58:55+00:00",
+      "summary": "Jim Gray started HPTS \u00a042 years ago, and it still runs the same way at Asilomar with 0 proceedings, 1 track, 100 invited people, and ample discussion breaks. It's one of my favorite events, and I look forward to attending it every two years. This is my...umm...fifth HPTS. I have been attending all of them since 2015 , but I seem to have missed it in 2019 . Yep, my life is a blur, even for me.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 0.7754,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "ad2bafad938c2bd0"
+     },
+     {
+      "title": "What\u2019s the ROI of software engineers\u2019 spending on AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-20 17:34:18+00:00",
+      "summary": "AI spending has greatly increased at most companies this year, but has it actually changed shipping velocity and PR output? We analyse data from 27 companies \u2013 with some interesting findings",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4d ago"
+      },
+      "score": 0.7521,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "536d96aeb1a62728"
+     },
+     {
+      "title": "Bringing post-quantum cryptography to geographically fenced key management",
+      "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-23 18:06:56+00:00",
+      "summary": "Cloudflare's new post-quantum GeoKey Manager protects geographically fenced decryption keys from harvest now, decrypt later attacks. Learn how we redesigned our cryptography stack to support strict data sovereignty in a post-quantum world.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1d ago"
+      },
+      "score": 0.7486,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "5d93986f3f764f68"
+     },
+     {
+      "title": "Introducing tsrs: A port of TypeScript to Rust",
+      "url": "https://blog.cloudflare.com/typescript-rust-port/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-20 13:00:00+00:00",
+      "summary": "Cloudflare is collaborating on tsrs, a Rust port of TypeScript that is up to 8x faster and uses 70% less memory.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5d ago"
+      },
+      "score": 0.7399,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "5e241867830c6ea7"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Why We Should Design Cities Like Disney | Zach DeBoer | TED",
+      "url": "https://www.youtube.com/watch?v=46v8M4RsCzg",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-25 15:00:34+00:00",
+      "summary": "Where you live shapes your relationships, your emotions and even how long you live, says community designer Zach DeBoer. After studying what a century of building cities around cars has done to downtowns in the US, he turned to lessons from some of\u2026",
+      "duration_min": null,
+      "popularity": 2.797,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/46v8M4RsCzg/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 1.1619,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "051aea0896c33501"
+     }
+    ]
+   },
+   {
+    "id": "newsletters",
+    "title": "\ud83d\udcec Sunday newsletter catch-up",
+    "items": [
+     {
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-10-21 20:25:18+00:00",
+      "summary": "Watch now (16 mins) | \ud83c\udf99\ufe0f I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.5777,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "a76f8995ad566798"
+     },
+     {
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-10-18 12:31:36+00:00",
+      "summary": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.2084,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "20469758d30fb714"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-25:ai-agents-tool-use-4-new-papers",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond",
+      "url": "https://arxiv.org/abs/2610.29155",
+      "kind": "paper"
+     },
+     {
+      "title": "Cache Engineering for Agents",
+      "url": "https://arxiv.org/abs/2610.28577",
+      "kind": "paper"
+     },
+     {
+      "title": "LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems",
+      "url": "https://arxiv.org/abs/2610.24231",
+      "kind": "paper"
+     },
+     {
+      "title": "Beyond Accuracy: Disentangling Decomposition from Typed-State Quality Assurance in Multi-Agent LLM Pipelines",
+      "url": "https://arxiv.org/abs/2610.31280",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-25:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon",
+      "url": "https://arxiv.org/abs/2610.31479",
+      "kind": "paper"
+     },
+     {
+      "title": "Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving",
+      "url": "https://arxiv.org/abs/2610.30791",
+      "kind": "paper"
+     },
+     {
+      "title": "uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage",
+      "url": "https://arxiv.org/abs/2610.30868",
+      "kind": "paper"
+     },
+     {
+      "title": "TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2610.24499",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 25,
+  "read_min": 72,
+  "listen_min": 15,
+  "generated": "10:03 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.29155",
+     "item_ids": [
+      "3250fe3e2d237560"
+     ],
+     "title": "5uGUE: Agentic Hardware-in-the-Loop Fuzzing for 5G Devices and beyond",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.29155",
+     "page": "https://arxiv.org/abs/2610.29155",
+     "topic": "AI agents & tool use",
+     "hits": 3,
+     "score": 3.2719,
+     "added": "2026-10-22"
+    },
+    {
+     "id": "arxiv:2610.28577",
+     "item_ids": [
+      "e1a68b9af98c3bf6"
+     ],
+     "title": "Cache Engineering for Agents",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.28577",
+     "page": "https://arxiv.org/abs/2610.28577",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.5665,
+     "added": "2026-10-21"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 2,
+     "id": "arxiv:2610.24231",
+     "item_ids": [
+      "c95dac7537466f86"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.24231",
+     "score": 2.2573,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "LoopHIL: Looping Hardware into LLM-assisted Agents for Wireless Embedded Systems",
+     "topic": "AI agents & tool use",
+     "url": "https://arxiv.org/pdf/2610.24231"
+    },
+    {
+     "id": "arxiv:2610.31280",
+     "item_ids": [
+      "32cceb30a766c67c"
+     ],
+     "title": "Beyond Accuracy: Disentangling Decomposition from Typed-State Quality Assurance in Multi-Agent LLM Pipelines",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.31280",
+     "page": "https://arxiv.org/abs/2610.31280",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.171,
+     "added": "2026-10-23"
+    }
+   ],
+   "date": "2026-10-25",
+   "key": "ep:2026-10-25:ai-agents-tool-use-4-new-papers",
+   "item_ids": [
+    "3250fe3e2d237560",
+    "e1a68b9af98c3bf6",
+    "c95dac7537466f86",
+    "32cceb30a766c67c"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.31479",
+     "item_ids": [
+      "019005310b3a0a7f"
+     ],
+     "title": "Evaluating the Applicability of LLM Inference Optimizations on Apple Silicon",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.31479",
+     "page": "https://arxiv.org/abs/2610.31479",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.5404,
+     "added": "2026-10-23"
+    },
+    {
+     "id": "arxiv:2610.30791",
+     "item_ids": [
+      "5c53aafd621848da"
+     ],
+     "title": "Gandalf: Flash Shall Not Die! Increasing Flash Storage Lifetime for KV Cache Offloading in LLM Serving",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.30791",
+     "page": "https://arxiv.org/abs/2610.30791",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 5,
+     "score": 2.3942,
+     "added": "2026-10-23"
+    },
+    {
+     "id": "arxiv:2610.30868",
+     "item_ids": [
+      "4608aa97600a683f"
+     ],
+     "title": "uGDS: A User-Space Development Kit for High-Performance GPU Direct Storage",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.30868",
+     "page": "https://arxiv.org/abs/2610.30868",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.8851,
+     "added": "2026-10-23"
+    },
+    {
+     "added": "2026-10-21",
+     "hits": 1,
+     "id": "arxiv:2610.24499",
+     "item_ids": [
+      "e4c4ba56e61e83cb"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.24499",
+     "score": 1.5211,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "TideKV: Delayed KV Eviction via Layer-Wise Chunked Prefill for Memory-Efficient Long-Context LLM Inference",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2610.24499"
+    }
+   ],
+   "date": "2026-10-25",
+   "key": "ep:2026-10-25:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "019005310b3a0a7f",
+    "5c53aafd621848da",
+    "4608aa97600a683f",
+    "e4c4ba56e61e83cb"
+   ]
+  }
+ ]
+}
