@@ -1,0 +1,878 @@
+{
+ "ctx": {
+  "date_long": "Tuesday, October 27, 2026",
+  "weekday": "Tuesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-27 18:28:23+00:00",
+      "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0921,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "646283d248187f18"
+     },
+     {
+      "title": "Nanotyrannus skeleton sells for $47.3m in New York auction",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-27 17:10:15+00:00",
+      "summary": "The sale of the rare skeleton reignites debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0475,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "b70c9bc7c518d055"
+     },
+     {
+      "title": "Around 1,000 soldiers from El Salvador have deployed to Haiti, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVklKeUlFQWMxbm1WZHp1b0VPRVZYVWI5cFhfOTdvQm15SkxnaWFlSmlhNkcwUGRDcUV6cDFLVHhvakVNNkhtdkdHTjBIMndPclItemNJOHhpZlNYSVJpalJLQUpwdU5HT1F3WmR2LWE5UjRIVTRMVHpqdHFaWjNsbE1hUWdmX1N4VV9ZeV9zbVZiMGFyNWlwVUVGcE5fckFIRThJYXRRcHJneXdfN3RDTEpBeFJ6QQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-27 17:53:22+00:00",
+      "summary": "Around 1,000 soldiers from El Salvador have deployed to Haiti, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9743,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "8e4dab7a671a2e2b"
+     },
+     {
+      "title": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObkMzNXNRUEgtVnNOZEtDa25adERvb0Z5Y3R5ZmVMTFpxOE9adkd0cTBRN0dUVll2LVpyNlNUQ3NCTXhNMXRTUUJNMnVFcFdWWGUxTmpHYU1KVzA3WGkyZmdXSnpIcktPVWNxMldQdkpWb3YwZDVlV3NmN213d3duU3YwbkEzWms1T3o2bEtiZWpHSFpPODhnZEMzX1FjZWpSR2dZekdaYkpFc2hwSWh1aDYtS1dCR2ctZHZJam1ITVU?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-27 17:42:40+00:00",
+      "summary": "Flavio Bolsonaro leaves Brazil for US after election defeat, source, media say \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9688,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "f7a53ccc5c2c37da"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+      "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 16:03:21+00:00",
+      "summary": "The Seattle startup says bookings grew nearly fivefold over the past year as employers look for ways to rein in rising health care costs. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 3.3475,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "99aeabb66db69fbc"
+     },
+     {
+      "title": "Who\u2019s getting Anthropic\u2019s compute spending? IPO filing shows where the tech giants really stand",
+      "url": "https://www.geekwire.com/2026/whos-getting-anthropics-compute-spending-ipo-filing-shows-where-the-tech-giants-really-stand/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 13:53:08+00:00",
+      "summary": "Anthropic's IPO filing details more than $750 billion in computing deals, with more going to Google's chips and Elon Musk's SpaceX than to Amazon or Microsoft. Amazon's biggest payoff is its stake, which it valued at $190.4 billion in June. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.8932,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "76bb326162c051bf"
+     },
+     {
+      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-26 15:11:59+00:00",
+      "summary": "809 points \u00b7 106 comments on HN",
+      "duration_min": null,
+      "popularity": 809.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50245138",
+       "ago": "27h ago"
+      },
+      "score": 1.4671,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "d1a3b4fa5d93fb49"
+     },
+     {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 16:06:01+00:00",
+      "summary": "346 points \u00b7 197 comments on HN",
+      "duration_min": null,
+      "popularity": 346.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50261319",
+       "ago": "2h ago"
+      },
+      "score": 1.3936,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "5ef94984dce414f6"
+     },
+     {
+      "title": "Anthropic\u2019s elaborate plan to keep Wall Street at bay",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 16:51:22+00:00",
+      "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model capabilities bring greater risks, and shareholders eager for returns may [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0183,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "5d9174dd4f1a7b53"
+     },
+     {
+      "title": "Ford simplifies using your EV as a home battery with the $30K Fathom",
+      "url": "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 16:17:58+00:00",
+      "summary": "The Fathom pickup won\u2019t need a wall-mounted inverter to output 10 kW to your house.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7413,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "9006af7c3927ecdf"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 18:40:19+00:00",
+      "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model\u2019s \u201cbrain\u201d from the agent\u2019s \u201chands,\u201d scaling APIs, and building reliable managed agents. A new introduction ...",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 3.2995,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "beb92a3cbb63bc7e"
+     },
+     {
+      "title": "Coding From the Himalayas With an Offline AI Agent",
+      "url": "https://latent.space/p/offline-coding/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 14:41:25+00:00",
+      "summary": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.9274,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "6dd70bb9a79dbb69"
+     },
+     {
+      "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 17:35:00+00:00",
+      "summary": "Education Innovation",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.7368,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "feb4caa835f163bd"
+     },
+     {
+      "title": "GPT-6.1 Terra",
+      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-26 23:53:07+00:00",
+      "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We\u2019re introducing GPT-6.1 Terra , a fast, efficient model that combines detailed visual reasoning and precise computer use alongside clearer, more natural writing. A significant step up from\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.5698,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "80a542b5bf27d832"
+     },
+     {
+      "title": "webframe: evaluated as a scraper and a sandbox",
+      "url": "https://simonwillison.net/2026/Oct/26/webframe-evaluation/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-26 16:15:00+00:00",
+      "summary": "Research: webframe: evaluated as a scraper and a sandbox webframe is a neat little project from Jeff Lindsay which lets you \"run a web page like a program\" - you point it at a URL or file and it executes it in a hidden headless web view and outputs console.log() to standard output and any exceptions to standard error. It's written in Go on top of the glaze library, which provides access to a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 0.6802,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "64aef28bd77a4657"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Fading Suppression in Distributed Acoustic Sensing Using Frequency-Domain Replica Reconstruction and Noise-Whitened Principal Component Combining",
+      "url": "https://arxiv.org/abs/2610.34224",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-25 11:39:35+00:00",
+      "summary": "Frequency-selective Rayleigh fading in distributed acoustic sensing (DAS) based on phase-sensitive optical time-domain reflectometry (phi-OTDR) calls for effective diversity, but existing rotated-vector-sum (RVS) combining of nonoverlapping subbands incurs a spatial-resolution penalty. In this letter, we propose frequency-domain replica\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.34224",
+       "arxiv_id": "2610.34224",
+       "authors": "Ziang Chen, Zhiyang Xue, Huan Huang, Yuhan Jiang et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.9802,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "92b162502a858906"
+     },
+     {
+      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+      "url": "https://arxiv.org/abs/2610.33966",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-25 00:44:29+00:00",
+      "summary": "People have long dreamed of an assistant that is always there to guide them and remind what they forget, from new dishes to lost keys. Powered by multimodal large language models (MLLMs), egocentric AI assistants on wearable devices are bringing this dream within reach: they see what the user sees and give instructions for user's physical work\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.33966",
+       "arxiv_id": "2610.33966",
+       "authors": "Qinsi Wang, Wei Wen, Chong Zhou, Saksham Suri et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.5997,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "c164413124bcfeb3"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How Apple Fits an LLM on Your iPhone",
+      "url": "https://blog.bytebytego.com/p/how-apple-fits-an-llm-on-your-iphone",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 15:31:04+00:00",
+      "summary": "How is Apple able to fit such a model on an iPhone without any adverse impact on the device?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.1143,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "2862aed6fff3043f"
+     },
+     {
+      "title": "ScaleRLT: Exact Log-Probabilities and Fast Deferred Rollouts for Reinforcement Learning on Looped Transformers",
+      "url": "https://arxiv.org/abs/2610.34427",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-25 16:35:30+00:00",
+      "summary": "Looped language models such as Ouro reuse one block of layers several times per token. A rollout engine can batch the deeper loops of several response positions and run them only when a deep readout is due. This deferred schedule is fast, but the learner of an on-policy RL algorithm recomputes the sampled tokens' log-probabilities with a dense\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.34427",
+       "arxiv_id": "2610.34427",
+       "authors": "Dezhen Lu, Zixiang Ni, Runguo Li",
+       "ago": "2d ago"
+      },
+      "score": 1.9864,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "b329d907578f8258"
+     },
+     {
+      "title": "Cross-Modal Data Co-Locality for Heterogeneous Storage Systems",
+      "url": "https://arxiv.org/abs/2610.34595",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-25 21:52:23+00:00",
+      "summary": "Distributed vector stores increasingly serve multimodal workloads whose representations are jointly accessed but independently partitioned and placed. As a result, cross-modal physical locality remains largely unoptimized. Multimodal queries can incur remote accesses and cross-tier data movement even when each modality's ANN search remains\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.34595",
+       "arxiv_id": "2610.34595",
+       "authors": "Abdullah Al-Mamun",
+       "ago": "1d ago"
+      },
+      "score": 1.7726,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "f174c5a9e10aaa91"
+     },
+     {
+      "title": "AI SRE: what is it, how could it change on-call \u2013 and does it work?",
+      "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 16:19:22+00:00",
+      "summary": "\u201cAI SRE\u201d is fast becoming a trending term fueled by flashy demos from vendors, but has an AI SRE ever really been on-call while engineers slept? Deepdive",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.3778,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "3bd3315ede2e153c"
+     },
+     {
+      "title": "Last chance to get every live course in one membership",
+      "url": "https://blog.bytebytego.com/p/last-chance-to-get-every-live-course",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-26 20:24:39+00:00",
+      "summary": "We\u2019ll stop selling ByteByteGo Live annual memberships on October 28 at 2 PM PT. After that, courses will be sold individually.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.0384,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "834b1be2f9ad3e0d"
+     },
+     {
+      "title": "PrivacyLib: Privacy Controls at the Data Access Boundary",
+      "url": "https://engineering.fb.com/2026/10/27/security/privacylib/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 16:00:12+00:00",
+      "summary": "This latest deep dive into Meta\u2019s Privacy Aware Infrastructure (PAI) takes a look at PrivacyLib. A privacy requirement must hold as data moves through Meta\u2019s diverse data and processing systems. Historically, supporting a new requirement meant implementing the same enforcement logic separately in each system. PrivacyLib replaces this with a common library that runs inside [...] Read More... The\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.982,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "8200dab1236b6727"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "#503 \u2013 AI Crisis in Math: Navier-Stokes, Riemann Hypothesis & Complexity Theory",
+      "url": "https://lexfridman.com/math-ai-crisis/?utm_source=rss&utm_medium=rss&utm_campaign=math-ai-crisis",
+      "source": "Lex Fridman Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-26 22:52:28+00:00",
+      "summary": "Ankur Moitra, Steven Brunton and Alex Kontorovich are three mathematicians who can speak to this incredible moment in the history of mathematics, when AI solved some of its hardest problems: Navier-Stokes, the quasi-Riemann hypothesis, the unique games conjecture and hundreds of other problems.\u2026",
+      "duration_min": 223,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "audio": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_math_ai_crisis.mp3",
+       "ago": "19h ago"
+      },
+      "score": 0.9666,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "bcd59c0c42ed9ac3"
+     },
+     {
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://softwareengineeringdaily.com/podcasts/managing-ai-coding-costs-at-scale/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-27 09:00:00+00:00",
+      "summary": "Over the past couple of years, companies raced to get their employees using AI, often encouraging them to lean on it as much as possible. However, as AI coding tools spread through engineering teams, many companies watched their AI bills explode. That kind of runaway cost growth can threaten a\u2026",
+      "duration_min": 61,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/6e0e955f/43980af7.mp3",
+       "ago": "9h ago"
+      },
+      "score": 0.9004,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "de199d76d1344358"
+     },
+     {
+      "title": "Democrats Lead In NPR Poll, Preparations For Election Challenge, Israel Voting Begins",
+      "url": "https://www.npr.org/2026/10/27/nx-s1-6019096/democrats-lead-in-npr-poll-preparations-for-election-challenge-israel-voting-begins",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-27 10:01:32+00:00",
+      "summary": "A new NPR/PBS News/Marist poll gives Democrats an eight-point lead on the congressional ballot, but lagging enthusiasm among young voters and independents could complicate their push to win Congress. Democrats are preparing legal and political responses to possible election challenges from\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/1331dd71-7f89-44b4-b744-b58082cf5303/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=1331dd71-7f89-44b4-b744-b58082cf5303&feed=HMwRVgVt&t=podcast&e=nx-s1-6019096&p=510318&d=788&size=12615306",
+       "ago": "8h ago"
+      },
+      "score": 0.6942,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "3c728a8c351d767d"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "How I Survived Late-Stage Cancer (A Fun Story)",
+      "url": "https://www.youtube.com/watch?v=5_Fayfx2NUM",
+      "source": "Kurzgesagt",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-27 15:00:01+00:00",
+      "summary": "Discover Odoo \ud83d\udc49 https://www.odoo.com/r/EgUR The first app is free for life. Thanks to Odoo for sponsoring this video! Support another year of kurzgesagt with a brand new 12,027 Human Era Calendar: https://shop.kgs.link/calendar27 You get twelve\u2026",
+      "duration_min": null,
+      "popularity": 623.589,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/5_Fayfx2NUM/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 1.4262,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "151bec4da649f519"
+     },
+     {
+      "title": "Why You Should Share a Recipe with a Stranger | Anuj Gupta | TED",
+      "url": "https://www.youtube.com/watch?v=tu6tF-lVDJI",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-27 15:00:00+00:00",
+      "summary": "Can we eat our way to a stronger democracy? Civic leader Anuj Gupta believes that food is one of our last common denominators. Drawing on a decade spent bringing together strangers for shared meals, he explains how the stories and memories behind\u2026",
+      "duration_min": null,
+      "popularity": 10.92,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/tu6tF-lVDJI/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.8815,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "b77030aa9f48ab65"
+     },
+     {
+      "title": "How Big of a Problem is Voter Fraud?: Crash Course US Government #6",
+      "url": "https://www.youtube.com/watch?v=2b-H-rxQ8m8",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-27 16:00:04+00:00",
+      "summary": "Was the 2020 election stolen? Well, no. But a lot of people seemed to think it was. So, how hard is it, really, to commit election fraud? In this episode, we dig into how our voting system really works, and how we keep our elections secure. Chapter\u2026",
+      "duration_min": null,
+      "popularity": 7.964,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/2b-H-rxQ8m8/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 0.8651,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "68ed3406153acf41"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-27:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Fading Suppression in Distributed Acoustic Sensing Using Frequency-Domain Replica Reconstruction and Noise-Whitened Principal Component Combining",
+      "url": "https://arxiv.org/abs/2610.34224",
+      "kind": "paper"
+     },
+     {
+      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+      "url": "https://arxiv.org/abs/2610.33966",
+      "kind": "paper"
+     },
+     {
+      "title": "Unlocking the Specialization Capability of PPG Foundation Models for Wearable Signals through Structured Pruning and Adaptive Fine-Tuning",
+      "url": "https://arxiv.org/abs/2610.33788",
+      "kind": "paper"
+     },
+     {
+      "title": "Sounding Surgical Instrument Localisation through Audio-Visual Correspondence",
+      "url": "https://arxiv.org/abs/2610.32816",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-27:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
+      "url": "https://arxiv.org/abs/2610.34415",
+      "kind": "paper"
+     },
+     {
+      "title": "In-Context Adapter Generation for Compositional Generalization in Large Audio Language Models",
+      "url": "https://arxiv.org/abs/2610.34413",
+      "kind": "paper"
+     },
+     {
+      "title": "AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360$^\\circ$ Videos",
+      "url": "https://arxiv.org/abs/2610.34401",
+      "kind": "paper"
+     },
+     {
+      "title": "SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression",
+      "url": "https://arxiv.org/abs/2610.32981",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 29,
+  "read_min": 69,
+  "listen_min": 342,
+  "generated": "11:41 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.34224",
+     "item_ids": [
+      "92b162502a858906"
+     ],
+     "title": "Fading Suppression in Distributed Acoustic Sensing Using Frequency-Domain Replica Reconstruction and Noise-Whitened Principal Component Combining",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.34224",
+     "page": "https://arxiv.org/abs/2610.34224",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.9802,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.33966",
+     "item_ids": [
+      "c164413124bcfeb3"
+     ],
+     "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.33966",
+     "page": "https://arxiv.org/abs/2610.33966",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.5997,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.33788",
+     "item_ids": [
+      "e44f41d4df36f888"
+     ],
+     "title": "Unlocking the Specialization Capability of PPG Foundation Models for Wearable Signals through Structured Pruning and Adaptive Fine-Tuning",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.33788",
+     "page": "https://arxiv.org/abs/2610.33788",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 1.9529,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.32816",
+     "item_ids": [
+      "7f2e1e11b5506637"
+     ],
+     "title": "Sounding Surgical Instrument Localisation through Audio-Visual Correspondence",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.32816",
+     "page": "https://arxiv.org/abs/2610.32816",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 1.8609,
+     "added": "2026-10-26"
+    }
+   ],
+   "date": "2026-10-27",
+   "key": "ep:2026-10-27:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "92b162502a858906",
+    "c164413124bcfeb3",
+    "e44f41d4df36f888",
+    "7f2e1e11b5506637"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.34415",
+     "item_ids": [
+      "b41754369f762471"
+     ],
+     "title": "Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.34415",
+     "page": "https://arxiv.org/abs/2610.34415",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.5844,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.34413",
+     "item_ids": [
+      "0e18bb4cb011f27e"
+     ],
+     "title": "In-Context Adapter Generation for Compositional Generalization in Large Audio Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.34413",
+     "page": "https://arxiv.org/abs/2610.34413",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.2022,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.34401",
+     "item_ids": [
+      "07228eae9343e526"
+     ],
+     "title": "AV-QTSS: Class-Query Target Sound Spatialization in Multi-Source 360$^\\circ$ Videos",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.34401",
+     "page": "https://arxiv.org/abs/2610.34401",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 1.8781,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.32981",
+     "item_ids": [
+      "332e618be948c681"
+     ],
+     "title": "SEMAC: Spherical Energy Matching Ambisonics Codec for Efficient Higher-Order Ambisonics Compression",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.32981",
+     "page": "https://arxiv.org/abs/2610.32981",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 1.6712,
+     "added": "2026-10-26"
+    }
+   ],
+   "date": "2026-10-27",
+   "key": "ep:2026-10-27:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "b41754369f762471",
+    "0e18bb4cb011f27e",
+    "07228eae9343e526",
+    "332e618be948c681"
+   ]
+  }
+ ]
+}
