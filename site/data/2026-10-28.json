@@ -1,0 +1,856 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, October 28, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "What we know so far about deadly Spain train crash",
+      "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-28 15:36:11+00:00",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.3895,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "81bbc102336e36f5"
+     },
+     {
+      "title": "New book revisits the 2023 killing of an unhoused man in crisis on the NYC subway",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6019370/jordan-neely-daniel-penny-anand-giridharadas-man-in-the-mirror",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-28 18:07:33+00:00",
+      "summary": "Jordan Neely was frightening fellow passengers. A former Marine named Daniel Penny put Neely into a chokehold, killing him. Journalist Anand Giridharadas investigates the incident in Man in the Mirror.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3672,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "ce395c2a4dd88192"
+     },
+     {
+      "title": "Myanmar diplomat breaks down as he urges world to 'end our suffering'",
+      "url": "https://www.bbc.co.uk/news/videos/cqz0ve10jxn2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-28 17:34:41+00:00",
+      "summary": "Kyaw Moe Tun - Myanmar's representative to the UN - makes an emotional appeal after saying the international community had failed the country's people.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0556,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "f06ba23a05503906"
+     },
+     {
+      "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQi1pQlpXMFg0djlmZFhkcGFlc3hJWmxKNXIzeFlTOWRxSXd5YWtCX1FRdUdlWWM1NEZxQVpOWktKbVkyWWR1aFRhbFd3SnRRcW5SZTJ0YXRvQTZ6MjlmVmFMVThhSldFTUpseWRtblVrel8tM0VISmVOVmdVend5UTFOTHhKazBXalpIOHVUdkVmcm5YdTI4UWk3MUJObk9GMzRYOEpkeEFXVnhwZXc?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-28 18:35:02+00:00",
+      "summary": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9911,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "5cef56de7224c9e4"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "PicoBrew\u2019s patents are back on the market, six years after the Seattle homebrew startup\u2019s collapse",
+      "url": "https://www.geekwire.com/2026/picobrews-patents-are-back-on-the-market-six-years-after-the-seattle-homebrew-startups-collapse/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-28 17:36:01+00:00",
+      "summary": "Hilco Global is marketing 17 patents and applications from the defunct Seattle homebrew startup on behalf of Pico Craft Group, which bought the assets in 2024. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.4199,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "9b3b7e7447b7d69d"
+     },
+     {
+      "title": "Amazon earnings preview: AWS is booked up, and Wall Street wants to know what comes next",
+      "url": "https://www.geekwire.com/2026/amazon-earnings-preview-aws-is-booked-up-and-wall-street-wants-to-know-what-comes-next/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-28 15:11:28+00:00",
+      "summary": "Amazon reports third-quarter earnings Thursday with more demand for its AWS cloud services than it can supply, after CEO Andy Jassy said capacity is booked for this year and most of next. Analysts expect revenue of about $202 billion, up 12%, as investors look for signals about the company's spending plans for 2027. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.7464,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "312fd265e1c1e924"
+     },
+     {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 19:55:06+00:00",
+      "summary": "491 points \u00b7 184 comments on HN",
+      "duration_min": null,
+      "popularity": 491.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50264853",
+       "ago": "22h ago"
+      },
+      "score": 1.5225,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "62b1fcdba263ec2d"
+     },
+     {
+      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-27 15:28:26+00:00",
+      "summary": "560 points \u00b7 282 comments on HN",
+      "duration_min": null,
+      "popularity": 560.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50260814",
+       "ago": "27h ago"
+      },
+      "score": 1.4595,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "a4c44e96b0a94df5"
+     },
+     {
+      "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+      "url": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-28 18:05:22+00:00",
+      "summary": "The Echo Studio with Home Camera can \"see and understand what's in front of the camera.\"",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0924,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "970654ebfc0fbf90"
+     },
+     {
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-28 18:36:26+00:00",
+      "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official announcement from LG, Samsung, [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.8331,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d0753be868cc7807"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/opus55/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 18:53:10+00:00",
+      "summary": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 2.0724,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "80e5637a67e1a525"
+     },
+     {
+      "title": "The October inflection point for vibe game development",
+      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-28 13:55:15+00:00",
+      "summary": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games . Tree Appreciator Emberwick Battle\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.0071,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "ab6005b5fba9cb8f"
+     },
+     {
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-28 08:50:30+00:00",
+      "summary": "Since coding is solved, why code for the job?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.8524,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "625efce5713df3eb"
+     },
+     {
+      "title": "Who\u2019s Aligned to Whom? How AI Agents Shape Experts\u2019 Research Judgment Calls - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBfcG1yTHNVOEV0LVFGSkN4VW9UZ3BwNmdvUHJrMU5OMk5ybU8xRGNJUXRuRlZmRmxYNlpUTEFPYVNydDlPbVNfcUdtNWFrYVpHbDItandSdlR6Q3Z6YTB4NTFUNkZ3REo0Zk5ydXZfS2E3enNadExoaTJFSm9PVTg?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 19:21:48+00:00",
+      "summary": "Who\u2019s Aligned to Whom? How AI Agents Shape Experts\u2019 Research Judgment Calls \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.7184,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "59b7ee228168193a"
+     },
+     {
+      "title": "How AI agents shape experts\u2019 judgment calls - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IaTRIX2lBc1kwcDRXenZsRXRxcy1vZWVQVlBGdlJsS1p1bkpOQzBpblRRU0l6elhUa0Z3a0RmOVlaV1NmUlgxU3pQWjE2UTVNcEdMdDBBQ0VobFBMS2k5MS1yQ3dQMzQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 18:50:53+00:00",
+      "summary": "How AI agents shape experts\u2019 judgment calls \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.7024,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "6471ddac99dc4fec"
+     },
+     {
+      "title": "Artificial Analysis v5 and the benchmarker's dilemma",
+      "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-28 12:58:39+00:00",
+      "summary": "A sort of review of the benchmarking industry and what's missing.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.2498,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "45f878f3f6da2df1"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "StreamSE: Neural Audio Codec-based Streaming Speech Enhancement for On-device Inference",
+      "url": "https://arxiv.org/abs/2610.37024",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-27 11:01:17+00:00",
+      "summary": "Recent generative speech enhancement (SE) models achieve high perceptual quality, but their non-causal processing and expensive computation make them difficult to use for streaming, on-device inference. We propose StreamSE, a 20M-parameter streaming SE model that operates in the latent space of a frozen pretrained neural audio codec. At each\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.37024",
+       "arxiv_id": "2610.37024",
+       "authors": "Hyunjin Choi, Zinu Kim, Junwon Moon, Jeongyun Chae et al.",
+       "ago": "31h ago"
+      },
+      "score": 3.9193,
+      "why": "",
+      "also_sections": [],
+      "ago": "31h ago",
+      "id": "31daa357eec0f2a3"
+     },
+     {
+      "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.35957",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-25 05:37:27+00:00",
+      "summary": "Distributed speculative decoding has emerged as a promising approach for device--server collaborative large language model (LLM) inference, but its decoding speedup is often limited by the vocabulary-scale communication overhead. In existing distributed speculative decoding methods, exact rejection sampling requires transmitting full token\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.35957",
+       "arxiv_id": "2610.35957",
+       "authors": "Joohyun Shin, Byeonghyeon Park, Keumseo Ryum, Joonhyuk Kang",
+       "ago": "3d ago"
+      },
+      "score": 2.964,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "eba88fa97d76b1fb"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-28 15:31:05+00:00",
+      "summary": "In this article, we\u2019ll look at how Uber built this gateway in detail.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 3.5199,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "ccdcae5827c6090a"
+     },
+     {
+      "title": "TLA-Verus: LLM agents prove temporal properties of TLA+ specs",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/tla-verus-llm-agents-prove-temporal.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 19:13:12+00:00",
+      "summary": "This NeurIPS'26 workshop paper takes TLA+ specs from GitHub, translates them into Verus, and has LLM agents prove the safety and liveness properties in the specs. The motivation The paper aims to address two problems it raises with TLA+. First, nothing ties the spec to the code, so they drift apart. And second, it claims that proof support is thin: TLC only checks small configurations, and TLAPS\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 2.9004,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "a67468a060b5262a"
+     },
+     {
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "url": "https://arxiv.org/abs/2610.37230",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-27 13:38:44+00:00",
+      "summary": "Agentic services alternate between model inference on clustered GPUs and external tools on distributed CPUs. In this scenario, existing systems (1) overlook tool-return readiness in service evaluation, wasting limited resources, and (2) use heuristic strategies to decide admission and placement on GPUs, resulting in suboptimal scheduling\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.37230",
+       "arxiv_id": "2610.37230",
+       "authors": "Shuhuai Li, Shengdong Ye, Dongdong Ge, Yinyu Ye et al.",
+       "ago": "29h ago"
+      },
+      "score": 2.2395,
+      "why": "",
+      "also_sections": [],
+      "ago": "29h ago",
+      "id": "e703e432320a5d1a"
+     },
+     {
+      "title": "DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving",
+      "url": "https://arxiv.org/abs/2610.33501",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-24 07:10:20+00:00",
+      "summary": "Large language model (LLM) serving relies on batching to improve inference throughput, but the key-value (KV) cache grows with sequence length and limits GPU-resident concurrency. CPU offloading can expand KV capacity using host memory, yet existing systems remain largely GPU-gated: CPU-resident requests make progress only when the GPU scheduler\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.33501",
+       "arxiv_id": "2610.33501",
+       "authors": "YuXuan Lin, KeQiang Wu, Kingsum Chow",
+       "ago": "4d ago"
+      },
+      "score": 1.5166,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "aa8e036d1fb95fa8"
+     },
+     {
+      "title": "Meta Andromeda: Powering the Next Generation of Ads Retrieval Through Model-System Co-Design",
+      "url": "https://engineering.fb.com/2026/10/28/ml-applications/meta-andromeda-next-gen-ads-retrieval-gpu-co-design/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-28 16:00:01+00:00",
+      "summary": "This post describes the next generation of Meta Andromeda, Meta\u2019s personalized ads retrieval engine, and how co-designing the model, system, and GPU hardware unlocks a new efficiency frontier for ads retrieval. In production, the system scores every eligible ad with near ranking-level model performance at retrieval scale and surfaces the top candidates at over one [...] Read More... The post\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.3733,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "7a5fec0b961daf67"
+     },
+     {
+      "title": "Python Typing Survey 2026: AI Tools and the Shifting Checker Landscape",
+      "url": "https://engineering.fb.com/2026/10/27/developer-tools/python-typing-survey-2026-ai-tools-checker-landscape/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 15:59:24+00:00",
+      "summary": "The 2026 Python Typing Survey received 1,794 responses. Type hint use changed little across three years, but checker selection changed sharply. Among respondents who reported which checkers they use, half selected more than one, and missing library type information was the most common difficulty. For the third consecutive year, we asked Python developers how they [...] Read More... The post\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 0.8413,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "a7fcfcf24af1c1ba"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Earn Your Spot on the Stage\u201d | Miriam Dineen, MMS, PA-C, CAQ-Psych",
+      "url": "https://rss.com/podcasts/no-prior-auth/3255239",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-27 22:00:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Miriam Dineen had no training in sexual addiction. Her patients brought it to her anyway, and instead of referring the topic away, she learned it \u2014 all the way to a national stage at Psych\u2026",
+      "duration_min": 38,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3255239/no-prior-auth/2026_10_21_20_48_45_27a9870f-41f8-49ae-b22f-7f706230e807.mp3",
+       "ago": "20h ago"
+      },
+      "score": 0.8107,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "061b8479bd261d5a"
+     },
+     {
+      "title": "Trump Rallies For Republicans, Israel Election Results, Fed Interest Rates Meeting",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020166/trump-rallies-for-republicans-israel-election-results-fed-interest-rates-meeting",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-28 09:56:00+00:00",
+      "summary": "President Trump rallied for Republican Senate candidate Ken Paxton in Texas, but his personal grievances kept competing with his party\u2019s closing message ahead of the midterms. Israel\u2019s election remains too close to call, with Benjamin Netanyahu and Gadi Eisenkot both short of a governing majority\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/550765f1-a761-4d80-b829-adb84cf37e08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=550765f1-a761-4d80-b829-adb84cf37e08&feed=HMwRVgVt&t=podcast&e=nx-s1-6020166&p=510318&d=775&size=12403400",
+       "ago": "8h ago"
+      },
+      "score": 0.6894,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "03bad32d2db90e07"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Deepseek's New AI Has A Secret",
+      "url": "https://www.youtube.com/watch?v=pryCaGv8wuo",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-28 17:32:40+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers \ud83d\udcdd DeepSeek v4.1 Flash 1017 is available here: https://api-docs.deepseek.com/news/news261017/ Sources:\u2026",
+      "duration_min": null,
+      "popularity": 5.918,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/pryCaGv8wuo/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 1.9876,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "5d6eeb1af720b84f"
+     },
+     {
+      "title": "Did the AI bubble just pop?",
+      "url": "https://www.youtube.com/watch?v=nEaJMdM1djM",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-28 13:31:29+00:00",
+      "summary": "Try Hyperagent for free, or sign in with ChatGPT to get more usage from your existing plan: https://www.hyperagent.com/login?utm_source=youtube&utm_medium=influencer&utm_campaign=FIRESHIP Are we cooked chat? Want more Fireship? \ud83d\uddde\ufe0f Newsletter:\u2026",
+      "duration_min": null,
+      "popularity": 622.739,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/nEaJMdM1djM/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.6173,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "3beab9b7ae57bad7"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-28:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models",
+      "url": "https://arxiv.org/abs/2610.37336",
+      "kind": "paper"
+     },
+     {
+      "title": "Watermark Basins: Black-Box Detection of Distilled LLMs",
+      "url": "https://arxiv.org/abs/2610.37266",
+      "kind": "paper"
+     },
+     {
+      "title": "AIPC: Evidence-Guided Agent Workflows for PyTorch Project Deployment",
+      "url": "https://arxiv.org/abs/2610.34890",
+      "kind": "paper"
+     },
+     {
+      "title": "Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference",
+      "url": "https://arxiv.org/abs/2610.28947",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-28:ai-agents-tool-use-2-new-papers-2-more",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 2 new papers + 2 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+      "url": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+      "kind": "article"
+     },
+     {
+      "title": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+      "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+      "kind": "article"
+     },
+     {
+      "title": "AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents",
+      "url": "https://arxiv.org/abs/2610.37319",
+      "kind": "paper"
+     },
+     {
+      "title": "BellowsKV: One Latent for Many Layers, Expanded on Demand",
+      "url": "https://arxiv.org/abs/2610.35023",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 28,
+  "read_min": 72,
+  "listen_min": 81,
+  "generated": "11:51 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.37336",
+     "item_ids": [
+      "22aba48f2af1546b"
+     ],
+     "title": "CoS-VQ: Coordinated Shared-Scale Vector Quantization for Large Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.37336",
+     "page": "https://arxiv.org/abs/2610.37336",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5045,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.37266",
+     "item_ids": [
+      "a9950b98713a13a6"
+     ],
+     "title": "Watermark Basins: Black-Box Detection of Distilled LLMs",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.37266",
+     "page": "https://arxiv.org/abs/2610.37266",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4936,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.34890",
+     "item_ids": [
+      "c41bd2f59e2b326c"
+     ],
+     "title": "AIPC: Evidence-Guided Agent Workflows for PyTorch Project Deployment",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.34890",
+     "page": "https://arxiv.org/abs/2610.34890",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3829,
+     "added": "2026-10-27"
+    },
+    {
+     "added": "2026-10-22",
+     "hits": 2,
+     "id": "arxiv:2610.28947",
+     "item_ids": [
+      "0c3bd6fa2fe8a7eb"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.28947",
+     "score": 2.2809,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Is 2:4 Sparsity Still Worth It? Semi-Structured Sparsity versus Quantization in LLM Inference",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2610.28947"
+    }
+   ],
+   "date": "2026-10-28",
+   "key": "ep:2026-10-28:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "22aba48f2af1546b",
+    "a9950b98713a13a6",
+    "c41bd2f59e2b326c",
+    "0c3bd6fa2fe8a7eb"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 2 new papers + 2 more",
+   "sources": [
+    {
+     "id": "ccdcae5827c6090a",
+     "item_ids": [
+      "ccdcae5827c6090a"
+     ],
+     "title": "How Uber Built A Gateway For AI Agents To Access Tools",
+     "kind": "article",
+     "section": "swe",
+     "source": "ByteByteGo newsletter",
+     "url": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+     "page": "https://blog.bytebytego.com/p/how-uber-built-a-gateway-for-ai-agents",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 3.5199,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "99aeabb66db69fbc",
+     "item_ids": [
+      "99aeabb66db69fbc"
+     ],
+     "title": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+     "kind": "article",
+     "section": "tech",
+     "source": "GeekWire",
+     "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+     "page": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 3.3475,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.37319",
+     "item_ids": [
+      "c4b179312b61a759"
+     ],
+     "title": "AnalogScout: Simulation-Efficient PVT-Aware Analog Sizing with LLM Agents",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.37319",
+     "page": "https://arxiv.org/abs/2610.37319",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.502,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.35023",
+     "item_ids": [
+      "c0ddb9ca166f56a2"
+     ],
+     "title": "BellowsKV: One Latent for Many Layers, Expanded on Demand",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.35023",
+     "page": "https://arxiv.org/abs/2610.35023",
+     "topic": "AI agents & tool use",
+     "hits": 1,
+     "score": 2.0948,
+     "added": "2026-10-27"
+    }
+   ],
+   "date": "2026-10-28",
+   "key": "ep:2026-10-28:ai-agents-tool-use-2-new-papers-2-more",
+   "item_ids": [
+    "ccdcae5827c6090a",
+    "99aeabb66db69fbc",
+    "c4b179312b61a759",
+    "c0ddb9ca166f56a2"
+   ]
+  }
+ ]
+}
