@@ -1,0 +1,917 @@
+{
+ "ctx": {
+  "date_long": "Thursday, October 29, 2026",
+  "weekday": "Thursday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Microsoft expects to raise $25 billion in US bond sale, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNakliRm9KY3R6ekRkaEl2SzZaUWtUdzczRlRyYmJNd2V2MDBLdkVVZjZQSmtVd3pzYk5JREM4M29hVHREdHBLWGljQ19rTWV5LVJMcmM0UW1OME9EY2MtTGcyRUpCcjVaYmcyVk1ZMEY5aWdvRmRpdy0tMGRfSWF2anVwQlBEOFNtaklfNDdsQURObDVXOERYejh6U3hTYzh0RGpJUDk4cU1KOE01N1FDdl9R?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-29 18:02:10+00:00",
+      "summary": "Microsoft expects to raise $25 billion in US bond sale, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3588,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "52fbbf2941d3cbed"
+     },
+     {
+      "title": "Details of thousands of US immigration agents leaked in major hack",
+      "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-29 01:30:43+00:00",
+      "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "17h ago"
+      },
+      "score": 1.2308,
+      "why": "",
+      "also_sections": [],
+      "ago": "17h ago",
+      "id": "626e2117ee6f36d3"
+     },
+     {
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-29 17:02:59+00:00",
+      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0348,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "1595737f04099b42"
+     },
+     {
+      "title": "Anthropic tells California governor courts should be able to block risky AI models - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQb3lwQkM2YlRwQ3lBT0UxOUtJTks3bkNxb0Rfbm90ZFAxdGZyT05KMXY2ZEVEYTJZeHFqd0YyMTFVQXBfOEtWeHFUdGt3cWRTNXhqTjloNGVEdkoyU0RxUHowMUw4UXNwVWUzdjQzMmZpTmRCakZjdzJLcE10dGcyUm15TGY5Y0I0Q0VhM3ZtUUlsTUFHWlAtT01XRkZYZXY5cjdzMmYwTnlfSkZkaWxtaTI5dmphVHhkQVhRUko1b1ctTldPaGlFamVONlE?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-28 19:04:22+00:00",
+      "summary": "Anthropic tells California governor courts should be able to block risky AI models \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 0.9844,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "351b990422fa2972"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Seattle-area startup Group14 raises $169M, plans battery materials factory in Spain",
+      "url": "https://www.geekwire.com/2026/seattle-area-startup-group14-raises-169m-plans-battery-materials-factory-in-spain/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 12:00:00+00:00",
+      "summary": "Group14 has raised $169 million and plans to build a battery materials factory in Spain as it expands beyond Washington and South Korea. Meanwhile, the Seattle-area startup now expects to bring the first module of its delayed Moses Lake factory online in mid-2027. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 2.0385,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "d34274acdad11d79"
+     },
+     {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 10:44:49+00:00",
+      "summary": "255 points \u00b7 167 comments on HN",
+      "duration_min": null,
+      "popularity": 255.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50287001",
+       "ago": "8h ago"
+      },
+      "score": 1.8599,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "e813585790afea0f"
+     },
+     {
+      "title": "Claude Code regularly sends each background agent\u2019s transcript to its model",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 03:33:42+00:00",
+      "summary": "543 points \u00b7 218 comments on HN",
+      "duration_min": null,
+      "popularity": 543.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50284255",
+       "ago": "15h ago"
+      },
+      "score": 1.6875,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "271134257c4af766"
+     },
+     {
+      "title": "Bigger than Bing or Xbox: Microsoft\u2019s OpenAI haul reaches $10B in quarterly revenue",
+      "url": "https://www.geekwire.com/2026/bigger-than-bing-or-xbox-microsofts-openai-haul-reaches-10b-in-quarterly-revenue/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-28 23:28:53+00:00",
+      "summary": "OpenAI generated $10 billion in revenue for Microsoft in the quarter ended Sept. 30, about 11% of Microsoft's total, according to the company's quarterly filing. That's more than Microsoft made in the quarter from Xbox, search and advertising, or Windows PC licensing and Surface devices. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.5004,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "3d468605e0594021"
+     },
+     {
+      "title": "Massive leak exposes 41,000 DHS workers and undercover ICE agents",
+      "url": "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 12:58:34+00:00",
+      "summary": "The leak reveals undercover agents, surveillance groups, and sensitive DHS access.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.1979,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "8df56ffee5c880b1"
+     },
+     {
+      "title": "Report: Trump did nothing with intel that China planted spy close to Nvidia CEO",
+      "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 18:29:12+00:00",
+      "summary": "Spy accused of exploiting Trump ties to Huang, funneling secrets to China.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7878,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "4f4bed045acfcb54"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Can we trust LLMs to judge whether a research idea is novel? - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40N2JRSjhQTl9ORlBVeDR4enktVmxMNTJ1RjFuM3FWX0ZNRkQ0b1B5X3pENE1TZU5Gbnp2a18tN3dYTjdmaVdiXzloLWRyOXc?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 16:41:38+00:00",
+      "summary": "Can we trust LLMs to judge whether a research idea is novel? \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 2.6461,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "99dec6710d08d32e"
+     },
+     {
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "url": "https://latent.space/p/elorian/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-29 16:00:00+00:00",
+      "summary": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian\u2019s Glimpse tries to bridge it by thinking with images.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.9409,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "2df0e95472f64437"
+     },
+     {
+      "title": "Building a multiplayer game world with autonomous Fable-class models",
+      "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-29 17:00:26+00:00",
+      "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with agentic engineering against frontier models. Spawn is a massively multiplayer gaming environment where players can use prompts (to the in-game agent, Savi) to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.7098,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "cdb15afccd2d9213"
+     },
+     {
+      "title": "Why Agents Love Supabase",
+      "url": "https://latent.space/p/supabase/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-28 19:48:05+00:00",
+      "summary": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.7041,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "a075480e28a06b30"
+     },
+     {
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-29 14:06:27+00:00",
+      "summary": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. \u2014 Ben Hylak Tags: model-context-protocol , ai",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.565,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "e9400fb735df969e"
+     },
+     {
+      "title": "AI for Science expands to foundations and research institutions - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE8xTmRrRUZtQndpOVdCTUFQQ2ZXSjl5Tk4zeXB0RzhSVzRYaUt3S091Y3FmRnVvT1c0UXhIVW0xZF83R2c1VUwtNjhNUkcxYWI0MFRXWXcxT2ZLdkF6bUd5V0JpTWJla3BzOWNORmdFN0ZTUkplbmZRcjRNdm5GSUVDUXp5QWwxNkRoN3JCVXo?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-28 20:14:19+00:00",
+      "summary": "AI for Science expands to foundations and research institutions \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.2067,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "b582c7c1e1cdc90e"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Understanding Everyday Communication Patterns, Stress, and Productivity in Hybrid Work through Egocentric Wearable Audio Sensing",
+      "url": "https://arxiv.org/abs/2610.37270",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-27 14:02:16+00:00",
+      "summary": "The hybrid work trend in the post-COVID period has transformed how people communicate while at work. However, there is a lack of quantitative understanding of how home and office environments shape communicative behavior and affective well-being. To study this, as a part of a larger study of the role of work environment on stress, we designed an\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.37270",
+       "arxiv_id": "2610.37270",
+       "authors": "Tiantian Feng, Aditya Kommineni, Emily Zhou, Burcin Becerik-Gerber et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.5504,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "0297e940f1a49fb2"
+     },
+     {
+      "title": "A Wearable Sensor Array on Conductive Textiles for Body Surface Temperature Mapping",
+      "url": "https://arxiv.org/abs/2610.37008",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-27 10:51:37+00:00",
+      "summary": "Continuous monitoring of body-surface temperature distributions can provide useful information for wearable health and thermal-condition monitoring. However, practical daily-use wearable systems for distributed temperature sensing remain difficult to implement because multiple sensor nodes require power delivery and data collection across a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.37008",
+       "arxiv_id": "2610.37008",
+       "authors": "Amiri Onuki, Akihito Noda",
+       "ago": "2d ago"
+      },
+      "score": 2.5074,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "1a0e7be5f2bd69d0"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Data Movement Strategies In System Design",
+      "url": "https://blog.bytebytego.com/p/data-movement-strategies-in-system",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-29 15:31:02+00:00",
+      "summary": "To manage this movement of data, you need to make decisions about when and how information should travel within a system and outside it.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.5795,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "a86185eb36d2fb05"
+     },
+     {
+      "title": "LLMs in Cloud: A Discussion on Architecture, Orchestration, and Inference",
+      "url": "https://arxiv.org/abs/2610.33475",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-24 05:53:48+00:00",
+      "summary": "The widespread deployment of foundational Large Language Models (LLM) across cloud datacenters marks a fundamental paradigm shift from stateless deep learning toward distributed, memory-intensive generative workloads. However, serving massive foundation models under stringent Service Level Objectives (SLO) exposes critical physical and system\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.33475",
+       "arxiv_id": "2610.33475",
+       "authors": "Jannatun Noor, Athar Noor Mohammad Rafee, Md. Sadman Haque, Sreezon Das Gupta et al.",
+       "ago": "5d ago"
+      },
+      "score": 1.3838,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "ce7aa22a223624f8"
+     },
+     {
+      "title": "Catching Bugs Before They Land: JiTTesting\u2019s Human-on-the-Loop Approach at Full Scale",
+      "url": "https://engineering.fb.com/2026/10/29/security/catching-bugs-before-they-land-jittestings-human-on-the-loop-approach-at-full-scale/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-29 16:00:12+00:00",
+      "summary": "Over the last year we\u2019ve been sharing our work leveraging large language models to catch bugs on the fly \u2014 a novel approach we call Catching Just-in-Time Tests (JiTTests). Now, we\u2019re sharing the results and positive impact we\u2019ve seen with Catching JiTTests deployed into production. Our paper, \u201cJust-in-Time Catching Test Generation at Meta,\u201d fully details [...] Read More... The post Catching Bugs\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.3724,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "2b2f487795f0e5d2"
+     },
+     {
+      "title": "Software engineering at Google & CS education with Titus Winters",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-29 13:37:13+00:00",
+      "summary": "Titus Winters shares lessons from engineering at Google\u2019s scale and explores how AI is reshaping developer productivity and computer science education.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.3507,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "22a42169ff916c20"
+     },
+     {
+      "title": "MANTA: Unlocking DAG Flexibility in Asynchronous BFT",
+      "url": "https://arxiv.org/abs/2610.34419",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-25 16:18:51+00:00",
+      "summary": "DAG-based BFT protocols marked a shift in consensus design by replacing single-leader proposal paths with concurrent block proposals linked through a shared graph, where references encode consensus evidence. However, under heterogeneous wide-area networks (WANs), existing designs suffer from prolonged rounds and degraded performance due to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.34419",
+       "arxiv_id": "2610.34419",
+       "authors": "Mohan Yu, Chenlin Wu, Jianyu Niu, Cong Wang et al.",
+       "ago": "4d ago"
+      },
+      "score": 1.1536,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "e32d814c896f58f5"
+     },
+     {
+      "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+      "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-29 12:55:00+00:00",
+      "summary": "Cloudflare mitigated over 8,200 DDoS attacks per hour in Q3 2026 as attackers shifted to shorter, high-frequency strikes. Explore the latest threat data, including the collapse of CLDAP vectors and the impact of recent botnet takedowns.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 0.9603,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "efe72c6018e6d6bd"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "What I learned about power from LBJ and Robert Moses",
+      "url": "https://www.dwarkesh.com/p/lessons-in-power",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-29 16:48:39+00:00",
+      "summary": "I recently got to interview Robert Caro, who is my favorite author of all time. This gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses, and to compile my prep notes into this video essay. These guys pulled off some truly incredible schemes. Thanks to Max Farrens, who\u2026",
+      "duration_min": 25,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/222663001/6186ffb07362cafe940665b0be4b2936.mp3",
+       "ago": "2h ago"
+      },
+      "score": 1.2813,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "ad9d884cc236986c"
+     },
+     {
+      "title": "AI Regulation and What Every Tech Company Should Know",
+      "url": "https://softwareengineeringdaily.com/podcasts/ai-regulation-and-what-every-tech-company-should-know/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-29 09:00:00+00:00",
+      "summary": "The rapid rise of AI has set off a flurry of legal and regulatory activity. There is no single AI law to follow. Instead, there are overlapping circles of regulation, where privacy, cybersecurity, consumer protection, employment, and IP laws all continue to apply alongside newer AI-specific rules.\u2026",
+      "duration_min": 53,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/2c187aae/31e43b05.mp3",
+       "ago": "9h ago"
+      },
+      "score": 0.894,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "f3b6244c60c47405"
+     },
+     {
+      "title": "Midterm Spending Blitz, GDP & Inflations Reports, Israel Election Deadlock & Iran War",
+      "url": "https://www.npr.org/2026/10/29/nx-s1-6021969/midterm-spending-blitz-gdp-inflations-reports-israel-election-deadlock-iran-war",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-29 09:56:01+00:00",
+      "summary": "Ad spending in Kansas\u2019 Senate race has jumped tenfold in weeks as Democrats pour money into Republican-heavy districts in the final days before the midterms. The economy appears to be growing at a solid pace, but inflation is still running ahead of wages and leaving many Americans feeling worse\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/403f08a6-9425-44b7-922a-519df253da08/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=403f08a6-9425-44b7-922a-519df253da08&feed=HMwRVgVt&t=podcast&e=nx-s1-6021969&p=510318&d=772&size=12365366",
+       "ago": "9h ago"
+      },
+      "score": 0.6875,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "03cc2b6e064c9ffb"
+     },
+     {
+      "title": "Essentials: How Smells Influence Our Hormones, Health & Behavior | Dr. Noam Sobel",
+      "url": "https://www.hubermanlab.com/episode/essentials-how-smells-influence-our-hormones-health-and-behavior-noam-sobel",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-29 08:00:00+00:00",
+      "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Noam Sobel, PhD, a Professor of Neurobiology at the Weizmann Institute of Science and an expert on the human sense of smell. We discuss how the brain processes odors and how smell shapes our lives more than we realize, influencing everything\u2026",
+      "duration_min": 35,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM9049912461.mp3",
+       "ago": "10h ago"
+      },
+      "score": 0.6509,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "d2427b60f7a7e3b6"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "What If You Could Read the DNA of Your Future Child? | Noor Siddiqui | TED",
+      "url": "https://www.youtube.com/watch?v=3RSEuMA4qbE",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-29 15:00:37+00:00",
+      "summary": "For all of human history, a baby's DNA was determined by chance at conception: the so-called genetic lottery. \"That era is over,\" says Noor Siddiqui, whose company builds screening tools to read the whole genome of embryos in an effort to give\u2026",
+      "duration_min": null,
+      "popularity": 16.503,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/3RSEuMA4qbE/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 1.1301,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "1d9b8f21c4e87022"
+     },
+     {
+      "title": "How an unelected man ruled New York for 30 years",
+      "url": "https://www.youtube.com/watch?v=kX_WmQK_tt0",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-29 16:51:24+00:00",
+      "summary": "I recently got to interview Robert Caro, who is my favorite author of all time. This gave me the excuse to reread his biographies of Lyndon Johnson and Robert Moses. I decided to compile their lessons about power into this video essay. Thanks to\u2026",
+      "duration_min": null,
+      "popularity": 2.78,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/kX_WmQK_tt0/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 1.0306,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "bdee9a37e2d953e6"
+     },
+     {
+      "title": "How Geologists Can Tell if the World is Warming : Crash Course Geology #23",
+      "url": "https://www.youtube.com/watch?v=y5RqfQvCaBY",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-29 16:00:26+00:00",
+      "summary": "Geology can\u2019t tell us the future, but it can tell us a whole lot about the past. And when it comes to climate change on Earth, there really is nothing new under the sun. In this episode, we\u2019ll talk about one of Earth\u2019s hottest periods \u2013 the\u2026",
+      "duration_min": null,
+      "popularity": 8.974,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/y5RqfQvCaBY/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 0.8975,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "9c98d5779d61c5ac"
+     }
+    ]
+   },
+   {
+    "id": "events",
+    "title": "\ud83d\udcc5 Seattle AI events",
+    "items": [
+     {
+      "title": "Engineering the Future of Media - Seattle Community Meetup",
+      "url": "https://luma.com/zzs80ht1",
+      "source": "AI House Seattle",
+      "section": "events",
+      "kind": "event",
+      "published": "2026-10-29 18:57:43.900250+00:00",
+      "summary": "",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.5,
+      "extra": {
+       "start": "2026-11-19 01:30:00+00:00",
+       "ago": "just now",
+       "start_local": "Wed Nov 18, 5:30 PM"
+      },
+      "score": 2.7,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b575f0a4276a9e8b"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-29:dynamo-amazon-s-highly-available-key-value-store-t",
+    "label": "Classic paper 3/15 \u00b7 Distributed systems & databases",
+    "title": "Dynamo: Amazon's Highly Available Key-value Store \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Dynamo: Amazon's Highly Available Key-value Store",
+      "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+      "kind": "paper"
+     },
+     {
+      "title": "Cross-Modal Data Co-Locality for Heterogeneous Storage Systems",
+      "url": "https://arxiv.org/abs/2610.34595",
+      "kind": "paper"
+     },
+     {
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "kind": "article"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-29:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+      "url": "https://arxiv.org/abs/2610.35957",
+      "kind": "paper"
+     },
+     {
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "url": "https://arxiv.org/abs/2610.37230",
+      "kind": "paper"
+     },
+     {
+      "title": "FastSAR: High-Throughput, High-Fidelity Open-Source SAR Image Formation on CPUs, GPUs and TPUs",
+      "url": "https://arxiv.org/abs/2610.33932",
+      "kind": "paper"
+     },
+     {
+      "title": "DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving",
+      "url": "https://arxiv.org/abs/2610.33501",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 32,
+  "read_min": 75,
+  "listen_min": 171,
+  "generated": "11:57 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Distributed systems & databases",
+   "title": "Dynamo: Amazon's Highly Available Key-value Store \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+     "title": "Dynamo: Amazon's Highly Available Key-value Store",
+     "kind": "paper",
+     "url": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+     "page": "https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+     "source": "Classic \u00b7 Distributed Systems"
+    },
+    {
+     "id": "arxiv:2610.34595",
+     "item_ids": [
+      "f174c5a9e10aaa91"
+     ],
+     "title": "Cross-Modal Data Co-Locality for Heterogeneous Storage Systems",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.34595",
+     "page": "https://arxiv.org/abs/2610.34595",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 1.7726,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "e813585790afea0f",
+     "item_ids": [
+      "e813585790afea0f"
+     ],
+     "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+     "kind": "article",
+     "section": "tech",
+     "source": "Hacker News",
+     "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+     "page": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 1.8599,
+     "added": "2026-10-29"
+    }
+   ],
+   "date": "2026-10-29",
+   "key": "ep:2026-10-29:dynamo-amazon-s-highly-available-key-value-store-t",
+   "item_ids": [
+    "classic:https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf",
+    "f174c5a9e10aaa91",
+    "e813585790afea0f"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.35957",
+     "item_ids": [
+      "eba88fa97d76b1fb"
+     ],
+     "title": "Distributed LLM Inference via Communication-Efficient Speculative Decoding",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.35957",
+     "page": "https://arxiv.org/abs/2610.35957",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.964,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.37230",
+     "item_ids": [
+      "e703e432320a5d1a"
+     ],
+     "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.37230",
+     "page": "https://arxiv.org/abs/2610.37230",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 2.2395,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.33932",
+     "item_ids": [
+      "04b72a96b123d5f3"
+     ],
+     "title": "FastSAR: High-Throughput, High-Fidelity Open-Source SAR Image Formation on CPUs, GPUs and TPUs",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.33932",
+     "page": "https://arxiv.org/abs/2610.33932",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 1.9212,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "arxiv:2610.33501",
+     "item_ids": [
+      "aa8e036d1fb95fa8"
+     ],
+     "title": "DualPace: Decoupled Scheduling and Cooperative GPU--CPU Decoding for LLM Serving",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.33501",
+     "page": "https://arxiv.org/abs/2610.33501",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 6,
+     "score": 1.8669,
+     "added": "2026-10-27"
+    }
+   ],
+   "date": "2026-10-29",
+   "key": "ep:2026-10-29:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "eba88fa97d76b1fb",
+    "e703e432320a5d1a",
+    "04b72a96b123d5f3",
+    "aa8e036d1fb95fa8"
+   ]
+  }
+ ]
+}
