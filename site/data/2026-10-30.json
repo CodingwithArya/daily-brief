@@ -1,0 +1,837 @@
+{
+ "ctx": {
+  "date_long": "Friday, October 30, 2026",
+  "weekday": "Friday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "The hawkish pause, Lula's market meltdown, and the Anthropic IPO bombshell: The financial week in five charts - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORzZSdUpvaFdlYlFMUDJUcVRQMktBM2IxSFo5dVlTWXBGZHc3bW9ncElFZHgwYzRGREJ4NlZUM21KSFRxN0pxYUllRkhLVS1tdmZCclF3RGNwVTFTMk42ZUlTUGdiS3Y5b1ZtRDFUNnp0aWlkai1Pd3RyQ29PS1lrRjl0OFpPNnVXSThCUERmNDBoOVhXUHJLVGlvblpUNWMySzE2TUVpenM3Q0k4dHJZZWMzbWtlaHM5ZFpJNUlfQUFyTk53dVVzSndsOXpsRUVnVWs0VG1qN2JVRXVGT3BBa3ln?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-30 11:51:22+00:00",
+      "summary": "The hawkish pause, Lula's market meltdown, and the Anthropic IPO bombshell: The financial week in five charts \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.4638,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "2bc64aafc74717a2"
+     },
+     {
+      "title": "The two most interesting risks to Anthropic",
+      "url": "https://www.npr.org/sections/planet-money/2026/10/30/nx-s1-6022515/the-two-most-interesting-risks-to-anthropic",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-30 11:00:00+00:00",
+      "summary": "Anthropic gave a 94-page list of risk factors in its S-1 this week. Two of them stood out.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 1.4288,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "b6084b803dfec3c8"
+     },
+     {
+      "title": "Human rights lawyer couple sentenced to 10 years' prison in Pakistan",
+      "url": "https://www.bbc.co.uk/news/articles/crq5nplyvlg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-30 07:53:38+00:00",
+      "summary": "Imaan Mazari and Hadi Ali Chattha were charged over an incident in 2024, when England's cricket team was touring Pakistan.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.1241,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "51c5a9a27baea595"
+     },
+     {
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-30 18:17:27+00:00",
+      "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0879,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "08fba5843841774b"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 21:40:28+00:00",
+      "summary": "382 points \u00b7 161 comments on HN",
+      "duration_min": null,
+      "popularity": 382.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50296486",
+       "ago": "20h ago"
+      },
+      "score": 1.4825,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "d8eb5a4b641ea994"
+     },
+     {
+      "title": "Tech Moves: Former Amazon execs depart Warner Bros. Discovery; Amazon leader returns to Microsoft",
+      "url": "https://www.geekwire.com/2026/tech-moves-former-amazon-execs-depart-warner-bros-discovery-amazon-leader-returns-to-microsoft/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 22:16:28+00:00",
+      "summary": "Two former Amazon executives who helped build Discovery\u2019s direct-to-consumer operation in Bellevue, Wash., are stepping down; an Amazon leader is returning to Microsoft to join its CoreAI effort; VertueLab names ED; and more personnel moves. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 1.4739,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "3e0dee3c43dac3dc"
+     },
+     {
+      "title": "LLM Voice",
+      "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-29 14:57:55+00:00",
+      "summary": "575 points \u00b7 311 comments on HN",
+      "duration_min": null,
+      "popularity": 575.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50290177",
+       "ago": "27h ago"
+      },
+      "score": 1.3959,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "5f69be5256070c7c"
+     },
+     {
+      "title": "Andy Jassy\u2019s prediction: Amazon could have two $1 trillion businesses within a decade",
+      "url": "https://www.geekwire.com/2026/andy-jassys-prediction-amazon-could-have-two-1-trillion-businesses-within-a-decade/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 01:08:02+00:00",
+      "summary": "Amazon CEO Andy Jassy says AWS and the company's stores business could each reach $1 trillion in annual revenue in the next five to 10 years, something no business has ever done. AWS is at a $184 billion annual run rate, and Jassy expects it to grow more than 40% in both 2027 and 2028. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "17h ago"
+      },
+      "score": 1.2171,
+      "why": "",
+      "also_sections": [],
+      "ago": "17h ago",
+      "id": "299655a798b86d54"
+     },
+     {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 17:38:19+00:00",
+      "summary": "Low costs and offline security mean magnetic tape still has a job.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7748,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "09484dfee9e7507c"
+     },
+     {
+      "title": "Thousands of \u201cghost students\u201d use AI to steal millions in student loans, DOJ says",
+      "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 16:53:49+00:00",
+      "summary": "Applying for FAFSA may get messy as DOJ \u201cghost student\u201d crackdown ramps up.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.7568,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "871b81f930c7e6ad"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+      "url": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-30 08:24:29+00:00",
+      "summary": "Mistral\u2019s open-weight release, frontier monitoring, and the day\u2019s AI Twitter and Reddit recaps.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.85,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "371b1e06db16bd42"
+     },
+     {
+      "title": "API credits benefit for eligible ChatGPT subscriptions",
+      "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-29 22:48:29+00:00",
+      "summary": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.5372,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "15d030bc4c0dfa39"
+     },
+     {
+      "title": "Was I wrong about open models & cyber risks?",
+      "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-30 17:36:56+00:00",
+      "summary": "Last week coined the term \u201cBlack October\u201c after an onslaught of critical vulnerability disclosures, including PHP2Shell and GitLab, signified the moment when the cyber risks of AI models started to materialize.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.2911,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "77b8021d805e32e5"
+     },
+     {
+      "title": "[AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn",
+      "url": "https://latent.space/p/ainews-anthropic-s1/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-27 07:24:59+00:00",
+      "summary": "The S-1, the numbers, and the reactions.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 1.2339,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "95af72b561e4ee73"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "AKDQ: Adaptive Key-Delta Quantization for Low-Bitrate RVQ-based Neural Speech Codecs",
+      "url": "https://arxiv.org/abs/2610.39885",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-29 11:59:07+00:00",
+      "summary": "Low-bitrate speech coding is essential for bandwidth-constrained channels and on-device applications, but conventional residual vector quantization (RVQ)-based codecs employ a fixed number of codebooks per frame regardless of content. Adjacent speech frames often exhibit strong similarity, and quantizing them independently with the same scheme\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.39885",
+       "arxiv_id": "2610.39885",
+       "authors": "Xiao-Hang Jiang, Yang Ai, Zhen-Hua Ling, Ji Wu",
+       "ago": "30h ago"
+      },
+      "score": 3.6842,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "96e226cf9539df1a"
+     },
+     {
+      "title": "Wearable Biosensors for Early Detection and Continuous Monitoring of Postpartum Depression: A Human-Centered Approach",
+      "url": "https://arxiv.org/abs/2610.39191",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-29 02:13:12+00:00",
+      "summary": "Postpartum depression (PPD) is the leading cause of maternal mortality in the United States. However, there are significant gaps in PPD screening, detection, and treatment. A main challenge stems from limitations in existing methods for early PPD diagnosis and subsequent monitoring and intervention. Mobile technology that incorporates interactive\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.39191",
+       "arxiv_id": "2610.39191",
+       "authors": "Emma Ricci-De Lucca, Elizabeth L. Murnane",
+       "ago": "1d ago"
+      },
+      "score": 2.7339,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "79514bd06831c7aa"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "The Pulse: Anthropic kills the coding interview",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-30 16:37:51+00:00",
+      "summary": "AI is rendering the Leetcode-style interview pointless and now Anthropic has deleted it from its interview loop. Also: details of incident.io\u2019s AI spend, Microsoft\u2019s exit offer to engineers, and more",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 3.3149,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "8492851df22e040d"
+     },
+     {
+      "title": "PDScope: Breaking the Prefill-Decode Seesaw for Memory-Bound MoE Inference",
+      "url": "https://arxiv.org/abs/2610.39216",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-29 02:37:09+00:00",
+      "summary": "Local deployment of MoE-based LLMs on CPU-GPU nodes is attractive for cost and privacy reasons, yet limited GPU memory forces most experts into CPU memory. Prefill is then compute-bound and benefits from aggressive GPU loading, while decode is I/O-bound and requires conservative PCIe transfers. These demands cannot be amortized under low\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.39216",
+       "arxiv_id": "2610.39216",
+       "authors": "Enda Yu, Dezun Dong, Zhaoning Zhang, Xiaojian Yang et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.1018,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "525358f7f8e5decd"
+     },
+     {
+      "title": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
+      "url": "https://arxiv.org/abs/2610.40562",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-29 17:41:23+00:00",
+      "summary": "How does the number of sampled opinions affect the time required to reach consensus in distributed consensus dynamics? We study the synchronous $h$-\\textsf{Majority}, in which every node independently samples $h$ nodes uniformly at random with replacement in each round and adopts a most frequent sampled opinion, breaking ties uniformly at random.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.40562",
+       "arxiv_id": "2610.40562",
+       "authors": "Francesco d'Amore, Joel Rybicki, Nobutaka Shimizu, Takeharu Shiraga et al.",
+       "ago": "24h ago"
+      },
+      "score": 1.6855,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "bfb422f9472400a2"
+     },
+     {
+      "title": "4 real? Tracking exploitation and patching of eMudhra\u2019s weak keys",
+      "url": "https://blog.cloudflare.com/emudhra-patching/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-30 17:38:50+00:00",
+      "summary": "Four, just four: that\u2019s the key to break into any unpatched connection on the Internet that is using eMudhra certificates. Here\u2019s how we quickly patched Cloudflare, what evidence we can see of attempted exploitation, and how much of the rest of the Internet remains exposed.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9934,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "16ec2c40ac77b51d"
+     },
+     {
+      "title": "Cloudflare services for private origins is now generally available",
+      "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-30 14:23:43+00:00",
+      "summary": "Public traffic to private origins, with WAF, bot management, caching, and Workers, is now available to every customer with Cloudflare One connectivity.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.9719,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "1c645bca188b35a5"
+     },
+     {
+      "title": "Meta Networking at the 2026 OCP Global Summit: Open Innovation for Scale-Up, Scale-Out, and Scale-Across AI Networks",
+      "url": "https://engineering.fb.com/2026/10/26/open-source/ocp-summit-2026-meta-networking-talks/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-26 16:00:07+00:00",
+      "summary": "At the 2026 Open Compute Project (OCP) Global Summit, Meta shared the networking innovations that are directly supporting our latest AI models, including Muse Wonder and Muse Spark, and our gigawatt-scale Prometheus cluster. Highlights IcePack & IceCube: Meta\u2019s first liquid-cooled network rack with 102.4T switch blades (128\u00d7800G, Broadcom Tomahawk 6C and NVIDIA Spectrum-6 variants), running\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4d ago"
+      },
+      "score": 0.5827,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "9401fe00400266b3"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Robert Caro \u2013 The master biographer reflects at 91",
+      "url": "https://www.dwarkesh.com/p/robert-caro",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-30 16:56:02+00:00",
+      "summary": "The Robert Caro interview. Watch on YouTube ; read the transcript . Sponsors * Antithesis lets you run thorough simulation tests on every PR your coding agents ship. That\u2019s because Antithesis is FAST. On a recent project, it packed fifteen hours of simulation into each fifteen-minute run: every\u2026",
+      "duration_min": 61,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/222791845/56a1d43c065b8f432a85b78b449d6b1f.mp3",
+       "ago": "1h ago"
+      },
+      "score": 1.7993,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "69cf72c5fffcba32"
+     },
+     {
+      "title": "Final Days Of Midterm Campaigning, Alaska Senate Race Controversy, Iran War Plans",
+      "url": "https://www.npr.org/2026/10/30/nx-s1-6023035/final-days-of-midterm-campaigning-alaska-senate-race-controversy-iran-war-plans",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-30 10:01:13+00:00",
+      "summary": "President Trump is changing his final campaign strategy as Republicans try to close an early-voting gap and hold off Democratic gains in competitive races across the country. Alaska\u2019s tight Senate race is facing new scrutiny after allegations that Democrats helped recruit a spoiler candidate with\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e95cdcd-0fd3-48da-8276-fb6a4799f399/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e95cdcd-0fd3-48da-8276-fb6a4799f399&feed=HMwRVgVt&t=podcast&e=nx-s1-6023035&p=510318&d=770&size=12326496",
+       "ago": "8h ago"
+      },
+      "score": 0.6953,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "d636410106b5c7b4"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "OpenAI Claims It Just Did The Impossible",
+      "url": "https://www.youtube.com/watch?v=CWdTBLsbaQs",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-30 15:57:16+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers \ud83d\udcdd OpenAI's paper is available here: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Our paper\u2026",
+      "duration_min": null,
+      "popularity": 24.494,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/CWdTBLsbaQs/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 2.1522,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "0cbc10f1b16c54fa"
+     },
+     {
+      "title": "What Robert Caro learned about power after studying it for 50 years",
+      "url": "https://www.youtube.com/watch?v=f0J_EeW42Lo",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-30 17:18:35+00:00",
+      "summary": "\ud835\udc04\ud835\udc0f\ud835\udc08\ud835\udc12\ud835\udc0e\ud835\udc03\ud835\udc04 \ud835\udc0b\ud835\udc08\ud835\udc0d\ud835\udc0a\ud835\udc12 * Transcript: https://www.dwarkesh.com/p/robert-caro * Apple Podcasts: https://podcasts.apple.com/us/podcast/robert-caro-the-master-biographer-reflects-at-91/id1516093381?i=1000798931746 * Spotify:\u2026",
+      "duration_min": null,
+      "popularity": 3.214,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/f0J_EeW42Lo/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 1.0895,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "37b2c37b5ec453a9"
+     },
+     {
+      "title": "The Joy of Foraging Your Own Food | Alexis Nikole Nelson | TED",
+      "url": "https://www.youtube.com/watch?v=8bk1Llgvs4o",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-10-30 15:00:28+00:00",
+      "summary": "There's a whole world of food growing right outside our doors \u2014 in our backyards, on sidewalks, in the parks we walk through every day \u2014 and most of us pass by it without a second glance. Alexis Nikole Nelson wants to change that. A self-described\u2026",
+      "duration_min": null,
+      "popularity": 10.875,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/8bk1Llgvs4o/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.9066,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "24c8fdc89f847be7"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-10-30:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Understanding Everyday Communication Patterns, Stress, and Productivity in Hybrid Work through Egocentric Wearable Audio Sensing",
+      "url": "https://arxiv.org/abs/2610.37270",
+      "kind": "paper"
+     },
+     {
+      "title": "A Wearable Sensor Array on Conductive Textiles for Body Surface Temperature Mapping",
+      "url": "https://arxiv.org/abs/2610.37008",
+      "kind": "paper"
+     },
+     {
+      "title": "Wearable Biosensors for Early Detection and Continuous Monitoring of Postpartum Depression: A Human-Centered Approach",
+      "url": "https://arxiv.org/abs/2610.39191",
+      "kind": "paper"
+     },
+     {
+      "title": "ItemCompass: Real-Time Edge-AI Wearable Vision for Tag-Free Domestic Object Retrieval",
+      "url": "https://arxiv.org/abs/2610.38629",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-30:hearables-on-device-audio-ai-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "StreamSE: Neural Audio Codec-based Streaming Speech Enhancement for On-device Inference",
+      "url": "https://arxiv.org/abs/2610.37024",
+      "kind": "paper"
+     },
+     {
+      "title": "Design and Architecture of Airmod: An Active Noise Cancellation and Deep Learning System for Real-Time Respiratory Rate Estimation from Tracheal Sounds",
+      "url": "https://arxiv.org/abs/2610.37083",
+      "kind": "paper"
+     },
+     {
+      "title": "HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement",
+      "url": "https://arxiv.org/abs/2610.30818",
+      "kind": "paper"
+     },
+     {
+      "title": "Nothing\u2019s eye-catching Ear 3A earbuds are matching their best price to date",
+      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+      "kind": "article"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 27,
+  "read_min": 66,
+  "listen_min": 119,
+  "generated": "11:37 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.37270",
+     "item_ids": [
+      "0297e940f1a49fb2"
+     ],
+     "title": "Understanding Everyday Communication Patterns, Stress, and Productivity in Hybrid Work through Egocentric Wearable Audio Sensing",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37270",
+     "page": "https://arxiv.org/abs/2610.37270",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.9266,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.37008",
+     "item_ids": [
+      "1a0e7be5f2bd69d0"
+     ],
+     "title": "A Wearable Sensor Array on Conductive Textiles for Body Surface Temperature Mapping",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37008",
+     "page": "https://arxiv.org/abs/2610.37008",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.8714,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.39191",
+     "item_ids": [
+      "79514bd06831c7aa"
+     ],
+     "title": "Wearable Biosensors for Early Detection and Continuous Monitoring of Postpartum Depression: A Human-Centered Approach",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.39191",
+     "page": "https://arxiv.org/abs/2610.39191",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.7339,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.38629",
+     "item_ids": [
+      "4156295d62c4a98f"
+     ],
+     "title": "ItemCompass: Real-Time Edge-AI Wearable Vision for Tag-Free Domestic Object Retrieval",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.38629",
+     "page": "https://arxiv.org/abs/2610.38629",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.5107,
+     "added": "2026-10-30"
+    }
+   ],
+   "date": "2026-10-30",
+   "key": "ep:2026-10-30:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "0297e940f1a49fb2",
+    "1a0e7be5f2bd69d0",
+    "79514bd06831c7aa",
+    "4156295d62c4a98f"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "arxiv:2610.37024",
+     "item_ids": [
+      "31daa357eec0f2a3"
+     ],
+     "title": "StreamSE: Neural Audio Codec-based Streaming Speech Enhancement for On-device Inference",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37024",
+     "page": "https://arxiv.org/abs/2610.37024",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.9193,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.37083",
+     "item_ids": [
+      "3b5b6a80c704fec8"
+     ],
+     "title": "Design and Architecture of Airmod: An Active Noise Cancellation and Deep Learning System for Real-Time Respiratory Rate Estimation from Tracheal Sounds",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37083",
+     "page": "https://arxiv.org/abs/2610.37083",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 1.3123,
+     "added": "2026-10-28"
+    },
+    {
+     "added": "2026-10-23",
+     "hits": 2,
+     "id": "arxiv:2610.30818",
+     "item_ids": [
+      "2979798185bae4b2"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.30818",
+     "score": 1.2814,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "HC-AINet: An Auditory-Inspired Network with Harmonic Compensation for Low-Complexity Speech Enhancement",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2610.30818"
+    },
+    {
+     "added": "2026-10-26",
+     "hits": 2,
+     "id": "46af7b57ae99366a",
+     "item_ids": [
+      "46af7b57ae99366a"
+     ],
+     "kind": "article",
+     "page": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+     "score": 1.5807,
+     "section": "tech",
+     "source": "The Verge",
+     "title": "Nothing\u2019s eye-catching Ear 3A earbuds are matching their best price to date",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale"
+    }
+   ],
+   "date": "2026-10-30",
+   "key": "ep:2026-10-30:hearables-on-device-audio-ai-3-new-papers-1-more",
+   "item_ids": [
+    "31daa357eec0f2a3",
+    "3b5b6a80c704fec8",
+    "2979798185bae4b2",
+    "46af7b57ae99366a"
+   ]
+  }
+ ]
+}
