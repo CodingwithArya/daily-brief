@@ -1,0 +1,754 @@
+{
+ "ctx": {
+  "date_long": "Saturday, October 31, 2026",
+  "weekday": "Saturday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-31 15:50:41+00:00",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0356,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "6f8aeb613fa89d31"
+     },
+     {
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-31 15:16:20+00:00",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.0172,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "d7a55add61b013f4"
+     },
+     {
+      "title": "OPEC+ set to keep production targets unchanged in December, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTk80ZVBzRVczc0hyRHU0RkJiTWx5ZDUwdnBHb0FWSmJyQWJzWHRYR0hZd0MzTW1INnFtSWRISVVRb1RncDltYW16eTYxRU9NcWJzanRqMmp4LWFXUVNTV2tzT3JCM0doS01hWDdGeUhNdHZ3WTdYXy14Q0luZTRmOWdQNlp2ZThtYlQ0cWhNSVk0c0ZkOUFyMExMUWRHMXRKamU2ZHRLa2pPMG9heUhzN2YwTnpCZw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-31 17:01:46+00:00",
+      "summary": "OPEC+ set to keep production targets unchanged in December, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9775,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "e1711c012d1958e9"
+     },
+     {
+      "title": "Rubio and Brazil's foreign minister to meet after election tension, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUmVTUWlGdkFmblZKTmJTRUZCLS01dWJocVZmVmd1UUtkR3ZLZlMyaG8wMVphRV83QU5RV3haOWlDeG50eG10cU80UkhaeWtnOXgyeHhXV3MzNktnNmgyY1BoMndvVzNTWGtLVnJYQVV3cER4eG93QXdEVWtsU1dnME1SdjJnMlEtSXBqcUlXR3A0MTV4RDE5cGQySHhJYUdUYWZUR3p0Z1J4SWoyeGJ4dlFScmJid2tVTG9lRkZ3?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-10-31 15:13:44+00:00",
+      "summary": "Rubio and Brazil's foreign minister to meet after election tension, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9235,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "0e8aba25963184c0"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Microsoft\u2019s big buyout, Amazon\u2019s trillion-dollar future, and an AI wearable reviews our show",
+      "url": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-31 15:45:58+00:00",
+      "summary": "Microsoft offers buyouts to about 60,000 employees, Amazon CEO Andy Jassy predicts two trillion-dollar businesses, and we let Amazon's Bee AI wearable listen to the show and critique our conversation. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 3.9443,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "c783774107d28edb"
+     },
+     {
+      "title": "Madrona Prize goes to UW research on agents that shrink AI models to run on small chips",
+      "url": "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 22:13:09+00:00",
+      "summary": "A University of Washington project that uses AI agents to fit AI models onto small, low-power chips won the Madrona Prize at the Allen School's annual Research Showcase. Other honorees included AI agents that write custom software for AI chips, a test of how well AI recognizes actions in video and research on securing DNA printers. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 2.499,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "8a16308439a3de19"
+     },
+     {
+      "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+      "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 17:27:25+00:00",
+      "summary": "319 points \u00b7 268 comments on HN",
+      "duration_min": null,
+      "popularity": 319.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50307219",
+       "ago": "24h ago"
+      },
+      "score": 1.482,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "7b402e9b6da8847a"
+     },
+     {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-31 10:21:30+00:00",
+      "summary": "659 points \u00b7 380 comments on HN",
+      "duration_min": null,
+      "popularity": 659.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50314654",
+       "ago": "7h ago"
+      },
+      "score": 1.3673,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "0cc0a6009edfd9e8"
+     },
+     {
+      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 21:09:54+00:00",
+      "summary": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 0.8387,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "93351cbb4cc44286"
+     },
+     {
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-10-30 19:30:52+00:00",
+      "summary": "But it's still early days for the relatively new e-commerce use case.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.8122,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "8f65b6637c02d384"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+      "url": "https://latent.space/p/arca/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-31 16:05:00+00:00",
+      "summary": "Arca's head of AI discusses persistent memory, the benefits of a custom harness, and agentic workflows that span days.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.9581,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "18eadc7cf156685b"
+     },
+     {
+      "title": "Automated Subtle Emergent Misalignment Research - Anthropic Alignment Science blog",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUJtenZlYUlZcldQVVBmY2x5YmJORkxTWm92NTVobk5jOTMzbmRkY0w1WGVuVEtMN292M0NISWJYMDEycEtxM05heHVsbGYtc1lJRkhHWUI0X3FxWUxVcFJCSVVGS1Rt?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-30 23:34:28+00:00",
+      "summary": "Automated Subtle Emergent Misalignment Research \u00a0\u00a0 Anthropic Alignment Science blog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.6162,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "30c6ffd6a21b14d4"
+     },
+     {
+      "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-30 18:04:21+00:00",
+      "summary": "Anthropic Residency: applications open for established technical leaders \u00a0\u00a0 Anthropic Alignment Science blog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.4497,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "a8cc99f01ffe7b8c"
+     },
+     {
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-31 05:00:48+00:00",
+      "summary": "It turns out you cannot have your cake AND eat it",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.0113,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "4505f5f4bd09cf76"
+     },
+     {
+      "title": "dbreunig/nesformer",
+      "url": "https://simonwillison.net/2026/Oct/30/nesformer/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-10-30 21:59:22+00:00",
+      "summary": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very slowly) running inside Qwen! In a comment on Hacker News Drew reveals the Opus 5.5 prompts he used to build this system: Read this article and any relevant source\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 0.7699,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "2c4725ea5b69a6c7"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "ItemCompass: Real-Time Edge-AI Wearable Vision for Tag-Free Domestic Object Retrieval",
+      "url": "https://arxiv.org/abs/2610.38629",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-28 10:46:38+00:00",
+      "summary": "Misplacing household objects disrupts daily routines, especially for elderly users. ItemCompass addresses this with a real-time, tag-free wearable AR system that builds a persistent digital twin of the home for natural language object retrieval. A custom eyewear node streams visual and inertial data to an edge server, where YOLOv11n detection,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.38629",
+       "arxiv_id": "2610.38629",
+       "authors": "Tsz Lok Cheung, Jeff Kai-Tai Tang, Anthony Kong, Zackary P. T. Sin",
+       "ago": "3d ago"
+      },
+      "score": 2.2372,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "4156295d62c4a98f"
+     },
+     {
+      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+      "url": "https://arxiv.org/abs/2610.40586",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-29 17:47:02+00:00",
+      "summary": "Integrated sensing and communications (ISAC) systems using 5G and beyond signals of opportunity enable joint wireless sensing and communication using shared infrastructure and spectrum resources. While multistatic ISAC can increase sensing coverage with spatially distributed receivers, dense and dynamic clutter can significantly degrade bistatic\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.40586",
+       "arxiv_id": "2610.40586",
+       "authors": "Yalin E. Sagduyu, Tugba Erpek, Sastry Kompella",
+       "ago": "1d ago"
+      },
+      "score": 2.144,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "79c614e882318b6a"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "FlatCake: A Flat KVCache Storage Architecture for LLM Serving",
+      "url": "https://arxiv.org/abs/2610.38355",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-28 06:54:51+00:00",
+      "summary": "KV cache reuse accelerates LLM serving, but existing systems manage host DRAM and NVMe SSD as a tiered hierarchy where DRAM acts as an intermediate cache. Production LLM workloads break both premises of this hierarchy. First, bimodal reuse defeats DRAM temporal filtering, since workloads are dominated either by one-shot blocks with long reuse\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.38355",
+       "arxiv_id": "2610.38355",
+       "authors": "Xin Huang, Teng Ma, Zhuoran Li, Yibo Zhao et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.4609,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "1142fed44f4ac526"
+     },
+     {
+      "title": "GearUp: DAG-aware Acceleration for Serverless Inference Serving via Slack-guided Pre-loading",
+      "url": "https://arxiv.org/abs/2610.38196",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-28 02:43:51+00:00",
+      "summary": "Serverless platforms increasingly host machine learning (ML) inference workflows, modeled as directed acyclic graphs (DAGs) of interdependent functions. Beyond container startup, each ML node must load libraries, model weights, and CUDA kernels before it can run. These costs accumulate along dependent DAG paths and place initialization on the\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.38196",
+       "arxiv_id": "2610.38196",
+       "authors": "Qi Qi, Yifan Sui, Hanfei Yu, Hong Zhang et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.213,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "3c0eac8d49460a77"
+     },
+     {
+      "title": "EP231: AI Terms You Need to Know",
+      "url": "https://blog.bytebytego.com/p/ep231-ai-terms-you-need-to-know",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-31 15:31:08+00:00",
+      "summary": "What else should be on the list?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.1822,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "10dfd3542f1d1b24"
+     },
+     {
+      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+      "url": "https://blog.cloudflare.com/php-ctf/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 13:00:00+00:00",
+      "summary": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4d ago"
+      },
+      "score": 0.5776,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "73905398b90a9385"
+     },
+     {
+      "title": "What took the Internet offline in Q3 2026",
+      "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-10-27 13:00:00+00:00",
+      "summary": "An examination of global Internet disruptions observed by Cloudflare Radar during the third quarter of 2026. This review analyzes how power failures, natural disasters, and government shutdowns impacted network connectivity and traffic.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4d ago"
+      },
+      "score": 0.5776,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "008876f8cd1cb09f"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Oil Earnings, Binance Heist, A MAHA Update",
+      "url": "https://www.npr.org/2026/10/31/nx-s1-6022401/oil-earnings-binance-heist-a-maha-update",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-10-31 14:18:18+00:00",
+      "summary": "Oil companies are reporting sky-high profits this quarter. Hackers stole $6.3 billion in cryptocurrency this week, in the largest digital heist ever. It\u2019s been just over two years since the rise of Make America Healthy Again. Has the Trump administration made good on the MAHA agenda? Support\u2026",
+      "duration_min": 15,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/a1f4f816-a10e-4363-80d9-ce4b76626fa1/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=a1f4f816-a10e-4363-80d9-ce4b76626fa1&feed=HMwRVgVt&t=podcast&e=nx-s1-6022401&p=510318&d=926&size=14821713",
+       "ago": "3h ago"
+      },
+      "score": 0.8078,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "361a2461a01960ec"
+     }
+    ]
+   }
+  ],
+  "queue": [
+   {
+    "label": "Neural Networks: Zero to Hero \u00b7 2/9 (Saturday evening)",
+    "title": "The spelled-out intro to language modeling: building makemore",
+    "url": "https://www.youtube.com/watch?v=PaCmpygFfXo",
+    "note": "Code along \u2014 don't just watch."
+   }
+  ],
+  "episodes": [
+   {
+    "key": "ep:2026-10-31:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "AKDQ: Adaptive Key-Delta Quantization for Low-Bitrate RVQ-based Neural Speech Codecs",
+      "url": "https://arxiv.org/abs/2610.39885",
+      "kind": "paper"
+     },
+     {
+      "title": "One Vector or Many? Clustered Optimal-Transport Steering under Quantization",
+      "url": "https://arxiv.org/abs/2610.40055",
+      "kind": "paper"
+     },
+     {
+      "title": "Low-Bit GDN Recurrent-State Quantization: Global Gradient-aware Allocation and Pure-Write Sliding Windows",
+      "url": "https://arxiv.org/abs/2610.39931",
+      "kind": "paper"
+     },
+     {
+      "title": "KV Cache Quantization for Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2610.39853",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-10-31:ai-agents-tool-use-2-new-papers-2-more",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 2 new papers + 2 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+      "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+      "kind": "article"
+     },
+     {
+      "title": "TLA-Verus: LLM agents prove temporal properties of TLA+ specs",
+      "url": "https://muratbuffalo.blogspot.com/2026/10/tla-verus-llm-agents-prove-temporal.html",
+      "kind": "article"
+     },
+     {
+      "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
+      "url": "https://arxiv.org/abs/2610.38329",
+      "kind": "paper"
+     },
+     {
+      "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+      "url": "https://arxiv.org/abs/2610.38095",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 23,
+  "read_min": 66,
+  "listen_min": 15,
+  "generated": "10:43 AM PDT",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2610.39885",
+     "item_ids": [
+      "96e226cf9539df1a"
+     ],
+     "title": "AKDQ: Adaptive Key-Delta Quantization for Low-Bitrate RVQ-based Neural Speech Codecs",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.39885",
+     "page": "https://arxiv.org/abs/2610.39885",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 3.6842,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.40055",
+     "item_ids": [
+      "23c5dbfa13122b77"
+     ],
+     "title": "One Vector or Many? Clustered Optimal-Transport Steering under Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.40055",
+     "page": "https://arxiv.org/abs/2610.40055",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4938,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.39931",
+     "item_ids": [
+      "5762d5f08badd900"
+     ],
+     "title": "Low-Bit GDN Recurrent-State Quantization: Global Gradient-aware Allocation and Pure-Write Sliding Windows",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.39931",
+     "page": "https://arxiv.org/abs/2610.39931",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4755,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.39853",
+     "item_ids": [
+      "ca252ef8f0289ace"
+     ],
+     "title": "KV Cache Quantization for Diffusion Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.39853",
+     "page": "https://arxiv.org/abs/2610.39853",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4603,
+     "added": "2026-10-30"
+    }
+   ],
+   "date": "2026-10-31",
+   "key": "ep:2026-10-31:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "96e226cf9539df1a",
+    "23c5dbfa13122b77",
+    "5762d5f08badd900",
+    "ca252ef8f0289ace"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 2 new papers + 2 more",
+   "sources": [
+    {
+     "id": "beb92a3cbb63bc7e",
+     "item_ids": [
+      "beb92a3cbb63bc7e"
+     ],
+     "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+     "kind": "article",
+     "section": "ai",
+     "source": "Latent Space",
+     "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+     "page": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 3.2995,
+     "added": "2026-10-27"
+    },
+    {
+     "id": "a67468a060b5262a",
+     "item_ids": [
+      "a67468a060b5262a"
+     ],
+     "title": "TLA-Verus: LLM agents prove temporal properties of TLA+ specs",
+     "kind": "article",
+     "section": "swe",
+     "source": "Murat Demirbas (Metadata)",
+     "url": "https://muratbuffalo.blogspot.com/2026/10/tla-verus-llm-agents-prove-temporal.html",
+     "page": "https://muratbuffalo.blogspot.com/2026/10/tla-verus-llm-agents-prove-temporal.html",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.9004,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.38329",
+     "item_ids": [
+      "9e4e7e42d15e773d"
+     ],
+     "title": "A Case Study of a Multi-Agent Kernel-Optimization Loop That Learns a New AI Accelerator",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.38329",
+     "page": "https://arxiv.org/abs/2610.38329",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.0921,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.38095",
+     "item_ids": [
+      "b5f975bc6763537b"
+     ],
+     "title": "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2610.38095",
+     "page": "https://arxiv.org/abs/2610.38095",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 1.7583,
+     "added": "2026-10-30"
+    }
+   ],
+   "date": "2026-10-31",
+   "key": "ep:2026-10-31:ai-agents-tool-use-2-new-papers-2-more",
+   "item_ids": [
+    "beb92a3cbb63bc7e",
+    "a67468a060b5262a",
+    "9e4e7e42d15e773d",
+    "b5f975bc6763537b"
+   ]
+  }
+ ]
+}
