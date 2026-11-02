@@ -1,9 +1,10 @@
 {
- "classic_idx": 3,
+ "classic_idx": 4,
  "classic_log": {
   "2026-10-22": 0,
   "2026-10-26": 1,
-  "2026-10-29": 2
+  "2026-10-29": 2,
+  "2026-11-02": 3
  },
  "episode_log": {
   "2026-10-21": [
@@ -1850,6 +1851,141 @@
     "title": "LLM reasoning & test-time compute: 4 new papers",
     "topic": "LLM reasoning & test-time compute"
    }
+  ],
+  "2026-11-02": [
+   {
+    "date": "2026-11-02",
+    "item_ids": [
+     "classic:https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+     "bfb422f9472400a2",
+     "e32d814c896f58f5"
+    ],
+    "key": "ep:2026-11-02:chord-a-scalable-peer-to-peer-lookup-service-then",
+    "kind": "classic",
+    "sources": [
+     {
+      "id": "classic:https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+      "kind": "paper",
+      "page": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+      "source": "Classic \u00b7 Distributed Systems",
+      "title": "Chord: A Scalable Peer-to-peer Lookup Service",
+      "url": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf"
+     },
+     {
+      "added": "2026-10-30",
+      "hits": 2,
+      "id": "arxiv:2610.40562",
+      "item_ids": [
+       "bfb422f9472400a2"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.40562",
+      "score": 1.6855,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
+      "topic": "Distributed systems & databases",
+      "url": "https://arxiv.org/pdf/2610.40562"
+     },
+     {
+      "added": "2026-10-27",
+      "hits": 2,
+      "id": "arxiv:2610.34419",
+      "item_ids": [
+       "e32d814c896f58f5"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.34419",
+      "score": 1.4545,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "MANTA: Unlocking DAG Flexibility in Asynchronous BFT",
+      "topic": "Distributed systems & databases",
+      "url": "https://arxiv.org/pdf/2610.34419"
+     }
+    ],
+    "title": "Chord: A Scalable Peer-to-peer Lookup Service \u2014 then & now",
+    "topic": "Distributed systems & databases"
+   },
+   {
+    "date": "2026-11-02",
+    "item_ids": [
+     "c783774107d28edb",
+     "79c614e882318b6a",
+     "59b7c0ab116970c8",
+     "f9019b3fe0998457"
+    ],
+    "key": "ep:2026-11-02:wireless-acoustic-sensing-3-new-papers-1-more",
+    "kind": "topic",
+    "sources": [
+     {
+      "added": "2026-10-31",
+      "hits": 2,
+      "id": "c783774107d28edb",
+      "item_ids": [
+       "c783774107d28edb"
+      ],
+      "kind": "article",
+      "page": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/",
+      "score": 3.9443,
+      "section": "tech",
+      "source": "GeekWire",
+      "title": "Microsoft\u2019s big buyout, Amazon\u2019s trillion-dollar future, and an AI wearable reviews our show",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/"
+     },
+     {
+      "added": "2026-10-30",
+      "hits": 1,
+      "id": "arxiv:2610.40586",
+      "item_ids": [
+       "79c614e882318b6a"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.40586",
+      "score": 2.4531,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2610.40586"
+     },
+     {
+      "added": "2026-10-28",
+      "hits": 2,
+      "id": "arxiv:2610.37480",
+      "item_ids": [
+       "59b7c0ab116970c8"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.37480",
+      "score": 2.4249,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2610.37480"
+     },
+     {
+      "added": "2026-10-28",
+      "hits": 2,
+      "id": "arxiv:2610.37400",
+      "item_ids": [
+       "f9019b3fe0998457"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.37400",
+      "score": 2.4128,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Assessing BIOMASS Radiometric Stability using Permanent Scatterers",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2610.37400"
+     }
+    ],
+    "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+    "topic": "Wireless & acoustic sensing"
+   }
   ]
  },
  "pod_pool": {
@@ -1868,38 +2004,6 @@
    "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
    "topic": "AI agents & tool use",
    "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/"
-  },
-  "0509c80e85fbace7": {
-   "added": "2026-10-25",
-   "hits": 2,
-   "id": "0509c80e85fbace7",
-   "item_ids": [
-    "0509c80e85fbace7"
-   ],
-   "kind": "article",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "score": 0.3565,
-   "section": "tech",
-   "source": "The Verge",
-   "title": "Blue Planet III is keeping the rough edges in the age of AI",
-   "topic": "On-device & efficient ML",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai"
-  },
-  "09a5dda451583962": {
-   "added": "2026-10-25",
-   "hits": 2,
-   "id": "09a5dda451583962",
-   "item_ids": [
-    "09a5dda451583962"
-   ],
-   "kind": "article",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "score": 0.3364,
-   "section": "tech",
-   "source": "The Verge",
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "topic": "Recommendation & production ML",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act"
   },
   "18eadc7cf156685b": {
    "added": "2026-10-31",
@@ -2278,7 +2382,7 @@
    ],
    "kind": "article",
    "page": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
-   "score": 1.4497,
+   "score": 2.5553,
    "section": "ai",
    "source": "Anthropic news",
    "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
@@ -2765,22 +2869,6 @@
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2610.34384"
   },
-  "arxiv:2610.34419": {
-   "added": "2026-10-27",
-   "hits": 2,
-   "id": "arxiv:2610.34419",
-   "item_ids": [
-    "e32d814c896f58f5"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.34419",
-   "score": 1.4545,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "MANTA: Unlocking DAG Flexibility in Asynchronous BFT",
-   "topic": "Distributed systems & databases",
-   "url": "https://arxiv.org/pdf/2610.34419"
-  },
   "arxiv:2610.34427": {
    "added": "2026-10-27",
    "hits": 2,
@@ -3261,38 +3349,6 @@
    "topic": "Recommendation & production ML",
    "url": "https://arxiv.org/pdf/2610.37364"
   },
-  "arxiv:2610.37400": {
-   "added": "2026-10-28",
-   "hits": 2,
-   "id": "arxiv:2610.37400",
-   "item_ids": [
-    "f9019b3fe0998457"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.37400",
-   "score": 2.4128,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "Assessing BIOMASS Radiometric Stability using Permanent Scatterers",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2610.37400"
-  },
-  "arxiv:2610.37480": {
-   "added": "2026-10-28",
-   "hits": 2,
-   "id": "arxiv:2610.37480",
-   "item_ids": [
-    "59b7c0ab116970c8"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.37480",
-   "score": 2.4249,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
-   "title": "Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2610.37480"
-  },
   "arxiv:2610.37519": {
    "added": "2026-10-28",
    "hits": 1,
@@ -3399,8 +3455,8 @@
    "kind": "paper",
    "page": "https://arxiv.org/abs/2610.37909",
    "score": 2.3258,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
    "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2610.37909"
@@ -3431,8 +3487,8 @@
    "kind": "paper",
    "page": "https://arxiv.org/abs/2610.38074",
    "score": 1.0781,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
    "title": "Progressive-Observation Physical-Layer Fingerprinting for Efficient Open-Set Ethernet Authentication",
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2610.38074"
@@ -3789,37 +3845,309 @@
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2610.40544"
   },
-  "arxiv:2610.40562": {
-   "added": "2026-10-30",
+  "arxiv:2610.40738": {
+   "added": "2026-11-02",
    "hits": 2,
-   "id": "arxiv:2610.40562",
+   "id": "arxiv:2610.40738",
    "item_ids": [
-    "bfb422f9472400a2"
+    "e88cbf393894196c"
    ],
    "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.40562",
-   "score": 1.6855,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
-   "topic": "Distributed systems & databases",
-   "url": "https://arxiv.org/pdf/2610.40562"
+   "page": "https://arxiv.org/abs/2610.40738",
+   "score": 1.2564,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2610.40738"
   },
-  "arxiv:2610.40586": {
-   "added": "2026-10-30",
-   "hits": 1,
-   "id": "arxiv:2610.40586",
+  "arxiv:2610.40747": {
+   "added": "2026-11-02",
+   "hits": 3,
+   "id": "arxiv:2610.40747",
    "item_ids": [
-    "79c614e882318b6a"
+    "92288ee90d9c9142"
    ],
    "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.40586",
-   "score": 2.4531,
+   "page": "https://arxiv.org/abs/2610.40747",
+   "score": 0.8031,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses",
+   "topic": "AI agents & tool use",
+   "url": "https://arxiv.org/pdf/2610.40747"
+  },
+  "arxiv:2610.40943": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.40943",
+   "item_ids": [
+    "cb18404430e797a6"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.40943",
+   "score": 0.8179,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Kernel-based Interpolatory Methods for Context Compression of Attention Mechanisms",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2610.40943"
+  },
+  "arxiv:2610.41055": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41055",
+   "item_ids": [
+    "f2789c6bdd802848"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41055",
+   "score": 1.4172,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2610.41055"
+  },
+  "arxiv:2610.41177": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41177",
+   "item_ids": [
+    "f51d3ae3dd810086"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41177",
+   "score": 1.8028,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "TraceSpec: Understanding and Improving Speculative Decoding for LLM Agents",
+   "topic": "AI agents & tool use",
+   "url": "https://arxiv.org/pdf/2610.41177"
+  },
+  "arxiv:2610.41218": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41218",
+   "item_ids": [
+    "676bef40646b6dba"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41218",
+   "score": 0.6034,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "A Positional Realizability Theory of Length Generalization in Single-Head Attention",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2610.41218"
+  },
+  "arxiv:2610.41248": {
+   "added": "2026-11-02",
+   "hits": 1,
+   "id": "arxiv:2610.41248",
+   "item_ids": [
+    "ea945a2adcbc1c82"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41248",
+   "score": 0.9693,
    "section": "lab",
    "source": "arXiv \u2014 your lab's area",
-   "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+   "title": "Downlink MU-MIMO for LEO Direct-to-Device: Feasibility, Architecture, and Implementation",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://arxiv.org/pdf/2610.41248"
+  },
+  "arxiv:2610.41291": {
+   "added": "2026-11-02",
+   "hits": 4,
+   "id": "arxiv:2610.41291",
+   "item_ids": [
+    "32fa8c80084c38d0"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41291",
+   "score": 1.5825,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "In-Model Context Compression with Agentic Soft Tokens for Long-Horizon LLM Agents",
+   "topic": "AI agents & tool use",
+   "url": "https://arxiv.org/pdf/2610.41291"
+  },
+  "arxiv:2610.41366": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41366",
+   "item_ids": [
+    "389e89fb856933de"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41366",
+   "score": 0.6132,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41366"
+  },
+  "arxiv:2610.41390": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41390",
+   "item_ids": [
+    "842579e5688be1b0"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41390",
+   "score": 1.3519,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Hierarchical Dual-Graph Retrieval for Long-form Audio Reasoning",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2610.41390"
+  },
+  "arxiv:2610.41408": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41408",
+   "item_ids": [
+    "01a56cef257f7f09"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41408",
+   "score": 1.6,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "SACQ: Structure-Aware Codebook Quantization for Ultra-Low-Bit Vision-Language-Action Models",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41408"
+  },
+  "arxiv:2610.41480": {
+   "added": "2026-11-02",
+   "hits": 1,
+   "id": "arxiv:2610.41480",
+   "item_ids": [
+    "2c159cb2d7c1c67d"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41480",
+   "score": 1.114,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "KV-Cache Patching: Tracing How and Where Fine-Tuned Behaviors Arise",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2610.41480"
+  },
+  "arxiv:2610.41645": {
+   "added": "2026-11-02",
+   "hits": 1,
+   "id": "arxiv:2610.41645",
+   "item_ids": [
+    "ebde18e244401aa6"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41645",
+   "score": 1.0026,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Look Over There! Dynamic Visual Guidance for AI-Narrated Slides",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41645"
+  },
+  "arxiv:2610.41680": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41680",
+   "item_ids": [
+    "7c46575b665a9cc1"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41680",
+   "score": 2.2105,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
    "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2610.40586"
+   "url": "https://arxiv.org/pdf/2610.41680"
+  },
+  "arxiv:2610.41751": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41751",
+   "item_ids": [
+    "4f7253d4dc721f8e"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41751",
+   "score": 1.3887,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Latent-Lens: Visual Perception in Small Language Models Through Latent Communication",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41751"
+  },
+  "arxiv:2610.41799": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41799",
+   "item_ids": [
+    "bf21a6a30892e0e3"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41799",
+   "score": 1.3924,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "On-device Detection of Wearer-induced NLOS on Chest-worn UWB Tags: Machine Learning, Link Indicators, or Both?",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41799"
+  },
+  "arxiv:2610.41822": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.41822",
+   "item_ids": [
+    "e6c8e88df23ad640"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41822",
+   "score": 1.9008,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Trainable Vector Quantization for Large Language Models",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2610.41822"
+  },
+  "arxiv:2610.41837": {
+   "added": "2026-11-02",
+   "hits": 3,
+   "id": "arxiv:2610.41837",
+   "item_ids": [
+    "a6d6724931330015"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.41837",
+   "score": 0.5708,
+   "section": "swe",
+   "source": "arXiv \u2014 distributed systems",
+   "title": "A Deterministic Commitment Rule over Unstructured DAGs for Optimistic Replication",
+   "topic": "Distributed systems & databases",
+   "url": "https://arxiv.org/pdf/2610.41837"
+  },
+  "arxiv:2610.42112": {
+   "added": "2026-11-02",
+   "hits": 2,
+   "id": "arxiv:2610.42112",
+   "item_ids": [
+    "4fccb45746634283"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2610.42112",
+   "score": 1.1572,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Subquadratic Attention with a Hierarchical Tree-Structured Indexer",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2610.42112"
   },
   "b0d1a4973d9b5c03": {
    "added": "2026-10-28",
@@ -3900,38 +4228,6 @@
    "title": "You can see every red flag in Theranos 2.0",
    "topic": "Training & scaling",
    "url": "https://www.theverge.com/column/1020859/optimizer-theranos-haemanthus-you-can-see-everything"
-  },
-  "c64b90fa4d7c0680": {
-   "added": "2026-10-25",
-   "hits": 2,
-   "id": "c64b90fa4d7c0680",
-   "item_ids": [
-    "c64b90fa4d7c0680"
-   ],
-   "kind": "article",
-   "page": "https://github.com/Zagitta/gpu-unlock",
-   "score": 1.4156,
-   "section": "tech",
-   "source": "Hacker News",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "topic": "LLM serving & ML infrastructure",
-   "url": "https://github.com/Zagitta/gpu-unlock"
-  },
-  "c783774107d28edb": {
-   "added": "2026-10-31",
-   "hits": 2,
-   "id": "c783774107d28edb",
-   "item_ids": [
-    "c783774107d28edb"
-   ],
-   "kind": "article",
-   "page": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/",
-   "score": 3.9443,
-   "section": "tech",
-   "source": "GeekWire",
-   "title": "Microsoft\u2019s big buyout, Amazon\u2019s trillion-dollar future, and an AI wearable reviews our show",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/"
   },
   "cdb15afccd2d9213": {
    "added": "2026-10-29",
@@ -4123,6 +4419,7 @@
   "arxiv:2610.34401": "2026-10-27",
   "arxiv:2610.34413": "2026-10-27",
   "arxiv:2610.34415": "2026-10-27",
+  "arxiv:2610.34419": "2026-11-02",
   "arxiv:2610.34595": "2026-10-29",
   "arxiv:2610.34609": "2026-11-01",
   "arxiv:2610.34890": "2026-10-28",
@@ -4137,7 +4434,9 @@
   "arxiv:2610.37270": "2026-10-30",
   "arxiv:2610.37319": "2026-10-28",
   "arxiv:2610.37336": "2026-10-28",
+  "arxiv:2610.37400": "2026-11-02",
   "arxiv:2610.37441": "2026-11-01",
+  "arxiv:2610.37480": "2026-11-02",
   "arxiv:2610.38095": "2026-10-31",
   "arxiv:2610.38329": "2026-10-31",
   "arxiv:2610.38355": "2026-11-01",
@@ -4149,10 +4448,14 @@
   "arxiv:2610.39931": "2026-10-31",
   "arxiv:2610.40055": "2026-10-31",
   "arxiv:2610.40287": "2026-11-01",
+  "arxiv:2610.40562": "2026-11-02",
+  "arxiv:2610.40586": "2026-11-02",
   "arxiv:2610.40613": "2026-11-01",
   "beb92a3cbb63bc7e": "2026-10-31",
+  "c783774107d28edb": "2026-11-02",
   "ccdcae5827c6090a": "2026-10-28",
   "classic:https://papers.nips.cc/paper_files/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf": "2026-10-22",
+  "classic:https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf": "2026-11-02",
   "classic:https://raft.github.io/raft.pdf": "2026-10-26",
   "classic:https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf": "2026-10-29",
   "e813585790afea0f": "2026-10-29"
@@ -4193,6 +4496,7 @@
   "0900cb93a7331a5d": "2026-10-24",
   "093b82f35872db59": "2026-10-23",
   "09484dfee9e7507c": "2026-10-30",
+  "0a490515f796920d": "2026-11-02",
   "0c010e6571678155": "2026-10-25",
   "0cbc10f1b16c54fa": "2026-10-30",
   "0cc0a6009edfd9e8": "2026-10-31",
@@ -4204,6 +4508,7 @@
   "1142fed44f4ac526": "2026-10-31",
   "11e92edf73fbbb01": "2026-10-21",
   "1360bd8eb5a8e67e": "2026-10-23",
+  "140a13f41053c9f5": "2026-11-02",
   "151bec4da649f519": "2026-10-27",
   "1595737f04099b42": "2026-10-29",
   "15d030bc4c0dfa39": "2026-10-30",
@@ -4211,6 +4516,7 @@
   "16d868d4397040a8": "2026-10-22",
   "16ec2c40ac77b51d": "2026-10-30",
   "1745c0e441417c01": "2026-10-21",
+  "1764cc00caf22870": "2026-11-02",
   "18eadc7cf156685b": "2026-10-31",
   "19644251a08fbcaa": "2026-11-01",
   "198a02c6be24d39a": "2026-10-23",
@@ -4262,6 +4568,8 @@
   "371b1e06db16bd42": "2026-10-30",
   "37b2c37b5ec453a9": "2026-10-30",
   "38c12bb649dc5ccf": "2026-10-25",
+  "38c41eb0ed980884": "2026-11-02",
+  "3ae018b65aaab984": "2026-11-02",
   "3b472cbf68062ef0": "2026-10-21",
   "3bd3315ede2e153c": "2026-10-27",
   "3beab9b7ae57bad7": "2026-10-28",
@@ -4271,6 +4579,7 @@
   "3e0dee3c43dac3dc": "2026-10-30",
   "3ec4507df8a0c920": "2026-10-22",
   "4156295d62c4a98f": "2026-10-31",
+  "428ece090b327515": "2026-11-02",
   "44115490bcb6b7ca": "2026-10-24",
   "44ba9b5c7c11e3f2": "2026-10-22",
   "4505f5f4bd09cf76": "2026-10-31",
@@ -4281,10 +4590,13 @@
   "4802e16531eabf86": "2026-10-23",
   "483d6307e687a2d8": "2026-10-23",
   "486f3954754d9b76": "2026-10-26",
+  "497b3f705ee09584": "2026-11-02",
+  "4aa0036e6008ba04": "2026-11-02",
   "4b49fc24a1515317": "2026-11-01",
   "4bf5e0f7fb8be28f": "2026-10-26",
   "4c3f1543e0994469": "2026-11-01",
   "4d95afcd128d12e9": "2026-10-22",
+  "4e4384e5d23421de": "2026-11-02",
   "4e5249031d88d013": "2026-10-22",
   "4f4bed045acfcb54": "2026-10-29",
   "4fc1811e27c4cb19": "2026-10-23",
@@ -4302,6 +4614,7 @@
   "5626bc2aa90f18a5": "2026-10-23",
   "58ab98120ed44a2b": "2026-10-25",
   "59b7ee228168193a": "2026-10-28",
+  "5a5d044b5b626166": "2026-11-02",
   "5bb272a35065dcc0": "2026-10-24",
   "5bb2f89b6a50045c": "2026-10-21",
   "5c33d37c37b5fa3c": "2026-10-25",
@@ -4354,10 +4667,12 @@
   "7a5fec0b961daf67": "2026-10-28",
   "7a71cb195624ab24": "2026-10-21",
   "7b402e9b6da8847a": "2026-10-31",
+  "7c46575b665a9cc1": "2026-11-02",
   "7dadac6a05821def": "2026-10-21",
   "7ec204846724037f": "2026-10-21",
   "7f5564e14ec34dd1": "2026-10-25",
   "80195c6bc8a99f2f": "2026-10-24",
+  "8027b3c8f16dd3fb": "2026-11-02",
   "80a542b5bf27d832": "2026-10-27",
   "80e5637a67e1a525": "2026-10-28",
   "81874a7c34538104": "2026-10-26",
@@ -4375,6 +4690,7 @@
   "895ce0909ac70f00": "2026-10-23",
   "89a2c6e8757c1903": "2026-10-21",
   "8a16308439a3de19": "2026-10-31",
+  "8a9150140b1ffc92": "2026-11-02",
   "8b151c5ec8390152": "2026-10-22",
   "8b1ade103034b97e": "2026-10-26",
   "8baade6458ce4322": "2026-10-23",
@@ -4393,6 +4709,7 @@
   "9401fe00400266b3": "2026-10-30",
   "95af72b561e4ee73": "2026-10-30",
   "95d5916fd6281c36": "2026-11-01",
+  "96bf5c6e9bbe3ad5": "2026-11-02",
   "96e226cf9539df1a": "2026-10-30",
   "970654ebfc0fbf90": "2026-10-28",
   "977d926a0cb6cc70": "2026-10-26",
@@ -4409,6 +4726,7 @@
   "9d75b452b5ac1386": "2026-10-21",
   "a075480e28a06b30": "2026-10-29",
   "a24293f2f41a1ed4": "2026-10-23",
+  "a3f8fb398d6a0915": "2026-11-02",
   "a4c44e96b0a94df5": "2026-10-28",
   "a4d3526d3b30867d": "2026-10-23",
   "a53a40d9d648ac2a": "2026-11-01",
@@ -4435,6 +4753,8 @@
   "b6084b803dfec3c8": "2026-10-30",
   "b70c9bc7c518d055": "2026-10-27",
   "b77030aa9f48ab65": "2026-10-27",
+  "b997047b855185ef": "2026-11-02",
+  "b9fd170e6b6362c3": "2026-11-02",
   "bb351fd55c6a27fd": "2026-10-22",
   "bb96f64cc1d49918": "2026-10-21",
   "bbc988e4da29f244": "2026-10-21",
@@ -4443,12 +4763,14 @@
   "bcd59c0c42ed9ac3": "2026-10-27",
   "bda049a4cce51ec6": "2026-10-26",
   "bdee9a37e2d953e6": "2026-10-29",
+  "bdef1cd7599d7b98": "2026-11-02",
   "be09c03d7532459c": "2026-10-26",
   "beb92a3cbb63bc7e": "2026-10-27",
   "bf531fc682736e26": "2026-10-22",
   "bfb422f9472400a2": "2026-10-30",
   "c164413124bcfeb3": "2026-10-27",
   "c1ad71a16e1f5eab": "2026-10-25",
+  "c384ad6bfc4dde2d": "2026-11-02",
   "c45c68dc9fe27319": "2026-10-26",
   "c4f0d40ba70c1c71": "2026-10-22",
   "c54791ad2087e3c3": "2026-10-26",
@@ -4458,11 +4780,13 @@
   "c83d7267f480811b": "2026-10-21",
   "c84c258690ba6898": "2026-11-01",
   "c857d00b04e61c1b": "2026-10-22",
+  "c8c439c191d9624b": "2026-11-02",
   "c9c43ea51752301e": "2026-10-22",
   "caf2cb0b3abdf0d7": "2026-10-22",
   "cb0e6541c41d00d8": "2026-10-25",
   "cb3aa5458be875f8": "2026-10-26",
   "cb955289e6c2e0ad": "2026-10-21",
+  "ccab5f7c74df8ebb": "2026-11-02",
   "ccdcae5827c6090a": "2026-10-28",
   "cda50d35be8b8e65": "2026-10-26",
   "cdb15afccd2d9213": "2026-10-29",
@@ -4499,6 +4823,7 @@
   "e1711c012d1958e9": "2026-10-31",
   "e1782e11f2fe27d7": "2026-10-23",
   "e32d814c896f58f5": "2026-10-29",
+  "e3f3f6c0c50f4c4d": "2026-11-02",
   "e4d084039ab11f8d": "2026-10-22",
   "e703e432320a5d1a": "2026-10-28",
   "e72369e9d1e6225e": "2026-10-22",
@@ -4527,6 +4852,7 @@
   "f7a53ccc5c2c37da": "2026-10-27",
   "f8078d89c26a395a": "2026-10-24",
   "f8937822d5ed3bf8": "2026-10-23",
+  "fa2fd09b84e99b31": "2026-11-02",
   "fa45f57b682bff93": "2026-10-23",
   "fbd22f4cc73a5c90": "2026-10-24",
   "fc761a79188dc838": "2026-10-24",
@@ -4548,6 +4874,6 @@
   "LLM serving & ML infrastructure": "2026-11-01",
   "On-device & efficient ML": "2026-10-31",
   "Training & scaling": "2026-10-26",
-  "Wireless & acoustic sensing": "2026-10-30"
+  "Wireless & acoustic sensing": "2026-11-02"
  }
 }

@@ -1,0 +1,727 @@
+{
+ "ctx": {
+  "date_long": "Monday, November 2, 2026",
+  "weekday": "Monday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Anthropic\u2019s loss shrinks, revenue jumps ahead of blockbuster IPO - BNN Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0FXZ3U1Tk9Va3psTWtMM1c1T3hlM25QV056X056UW1UUXhraWhfMllkWFZocjVPSDFwS3JfU1FLV3NETklsSlppZXY1N013OGxXNlFiMWJ6UmJlc2I5cDNwX0diZWliUWxjNGxsbml5cXN4UWhrdkVJd3dUbWNpcDJnaVVoUEJDM3pLdkcxS3diX1hwS1Z0UEl2TkpBMC1BZmJjUjJSa3V0a2FLMmJjVmN6aWJST0xDUERiVXljVHhYelFqWEFwNVNWQlpnZ24y?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-02 18:05:43+00:00",
+      "summary": "Anthropic\u2019s loss shrinks, revenue jumps ahead of blockbuster IPO \u00a0\u00a0 BNN Bloomberg",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.5767,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "8a9150140b1ffc92"
+     },
+     {
+      "title": "Europe's short-sighted policy on gas storage to boost costs, says TotalEnergies chief - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2M2U1Z4ejdLX3c0WjZSMXFIbF9IbVpnX3c2cFVlMzdfa0lENEwtRzJJMHdzUVhmbnljMHhMVEZZUDZtelNSREpMZldfc092S1dFMUdzVzJjNTFxX09YaV9OalplOXZ4US13RGs5a29sUU5qMHlTclUwdGxQbFNYVlBZaUx2cGpocjdXOUwwMnlpWWMweDFPdGZ6MHVlS0J4TUItU21fUQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-02 15:50:12+00:00",
+      "summary": "Europe's short-sighted policy on gas storage to boost costs, says TotalEnergies chief \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.4756,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "1764cc00caf22870"
+     },
+     {
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-02 21:10:04+00:00",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0596,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "a3f8fb398d6a0915"
+     },
+     {
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-02 20:54:44+00:00",
+      "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.051,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "96bf5c6e9bbe3ad5"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Who gets your vote? What rumors should you spot? Election quiz and bingo offer guidance",
+      "url": "https://www.geekwire.com/2026/who-gets-your-vote-what-rumors-should-you-spot-election-quiz-and-bingo-offer-guidance/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 18:28:25+00:00",
+      "summary": "A Washington tech entrepreneur built a quiz to help voters sort through candidates and ballot measures, while University of Washington researchers created a bingo card for spotting familiar election-fraud rumors. Both bring a little levity to election season. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.9846,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "c8c439c191d9624b"
+     },
+     {
+      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 16:40:29+00:00",
+      "summary": "252 points \u00b7 212 comments on HN",
+      "duration_min": null,
+      "popularity": 252.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50339494",
+       "ago": "5h ago"
+      },
+      "score": 1.9547,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "b997047b855185ef"
+     },
+     {
+      "title": "Astra can read and write weights to improve Qwen",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 18:21:28+00:00",
+      "summary": "1376 points \u00b7 439 comments on HN",
+      "duration_min": null,
+      "popularity": 1376.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50341174",
+       "ago": "3h ago"
+      },
+      "score": 1.4615,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "38c41eb0ed980884"
+     },
+     {
+      "title": "Startup uses motion sensors and AI to tell families when an aging parent\u2019s routine changes",
+      "url": "https://www.geekwire.com/2026/startup-uses-motion-sensors-and-ai-to-tell-families-when-an-aging-parents-routine-changes/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 17:31:20+00:00",
+      "summary": "After his mother-in-law was hurt in a fall and told no one, ex-Microsoft exec Michael Nassirian built a camera-free way for families to know when something\u2019s off. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.4466,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "4e4384e5d23421de"
+     },
+     {
+      "title": "Anthropic clamps down on Claude\u2019s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 18:56:02+00:00",
+      "summary": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, but while Anthropic will still let people use Claude Code to make games, it doesn't want people to [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 0.9703,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "e3f3f6c0c50f4c4d"
+     },
+     {
+      "title": "Third person dies of bird flu since virus started jumping to livestock",
+      "url": "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 21:21:43+00:00",
+      "summary": "The threat is still considered to be low, but the virus continues to spread.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7754,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "140a13f41053c9f5"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "The U.S. Census Bureau and \u201cSuper Intelligence\u201d",
+      "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-02 13:31:26+00:00",
+      "summary": "I was reminded today of AI Adoption Rate Trending Down for Large Companies , a chart produced by Apollo Global Management in September 2025, which appeared to show a slowdown in U.S. corporate AI adoption based on numbers collected by the U.S. Census Bureau. At the time I used that chart to demonstrate GPT-5 data analysis , and then to experiment with Claude's new Code Interpreter . I decided to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 0.999,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "ccab5f7c74df8ebb"
+     },
+     {
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-01 23:24:22+00:00",
+      "summary": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a uv.lock file, since it's rude for a library dependency to lock versions for anything else that uses it. Running uv run pytest etc tends to leave uv.lock files\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.7236,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "497b3f705ee09584"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
+      "url": "https://arxiv.org/abs/2610.41680",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-30 12:47:24+00:00",
+      "summary": "Wearable haptic cueing offers rhythmic prompts for neurological gait rehabilitation while leaving hearing available for communication and environmental awareness. We investigated the user, design, and implementation requirements needed to make these systems usable in practice. We analysed six linked studies involving 17 people with neurological\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.41680",
+       "arxiv_id": "2610.41680",
+       "authors": "Riasat Islam, Annemarie Zijlema, Theodoros Georgiou, Simon Holland et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.2105,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "7c46575b665a9cc1"
+     },
+     {
+      "title": "Human Activity Recognition using Ceiling-Mounted Multi-Radar Sensors",
+      "url": "https://arxiv.org/abs/2610.39628",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-29 08:55:21+00:00",
+      "summary": "Continuous activity monitoring in assisted living should work without cameras or wearable devices. Radar meets this requirement, but most radar studies use a single sensor and activities recorded in isolation, and few deliver results in real time. We present an indoor monitoring system in which point clouds from three ceiling-mounted radar\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.39628",
+       "arxiv_id": "2610.39628",
+       "authors": "Ananya Prabhu, Aditi Site, Tarmo Lipping",
+       "ago": "4d ago"
+      },
+      "score": 1.4284,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "c384ad6bfc4dde2d"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How Nvidia's New Nemotron Model Works",
+      "url": "https://blog.bytebytego.com/p/how-nvidias-new-nemotron-model-works",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-02 16:31:02+00:00",
+      "summary": "In this article, we\u2019ll look at how Nemotron works and the various techniques used by Nvidia while building it.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.1542,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "b9fd170e6b6362c3"
+     },
+     {
+      "title": "How we halved DNS build delay and cut memory use by 85%",
+      "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-02 14:00:00+00:00",
+      "summary": "Zone setting changes used to rebuild entire DNS zones, even ones with tens of millions of records. Here is how we built a planner that picks the smallest safe build, cutting full builds by 40%, peak memory by 85%, and halving build delay.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 0.946,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "0a490515f796920d"
+     },
+     {
+      "title": "DistOptimize: Automatic Optimization of Distributed Protocols",
+      "url": "https://arxiv.org/abs/2610.39017",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-28 22:45:55+00:00",
+      "summary": "Distributed consensus and consistency protocols are difficult to reason about yet foundational to the cloud; as such, they often undergo a rigorous proof and formal verification process before deployment. The same level of rigor is rarely applied to protocol modifications, which occur frequently in production and threaten to compromise safety. In\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.39017",
+       "arxiv_id": "2610.39017",
+       "authors": "David Chu McElroy, Shadaj Laddad, Lucky Katahanas, Mingwei Samuel et al.",
+       "ago": "4d ago"
+      },
+      "score": 0.7734,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "3ae018b65aaab984"
+     },
+     {
+      "title": "Plenty of Room in the Middle: Revealing Opportunities on a GPU Cluster via Fine-Grained Monitoring",
+      "url": "https://arxiv.org/abs/2610.36329",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-26 21:56:13+00:00",
+      "summary": "GPU clusters have become essential computing resources for AI and scientific research in academia and industry. However, their high cost and growing demand often result in long queueing delays. While previous monitoring efforts have operated at second- or minute-level frequencies, they primarily informed job-level scheduling for clusters and\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2610.36329",
+       "arxiv_id": "2610.36329",
+       "authors": "Andrew Sheinberg, Samyak Gupta, Kai Li",
+       "ago": "7d ago"
+      },
+      "score": 0.7492,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "5a5d044b5b626166"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "373 | Colin Camerer on the Neuroscience of Economic Thinking",
+      "url": "https://preposterousuniverse.com/podcast/2026/11/02/373-colin-camerer-on-the-neuroscience-of-economic-thinking/",
+      "source": "Sean Carroll's Mindscape",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-02 11:53:00+00:00",
+      "summary": "Economics often starts with an assumption that people are rational maximizers of their own self-interest; but it doesn't stop there. Economists do understand that sometimes people are irrational, altruistic, or just random. So how can we understand how people actually do behave in economic\u2026",
+      "duration_min": 88,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/colin_camerer.mp3?dest-id=5264190",
+       "ago": "10h ago"
+      },
+      "score": 0.7464,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "8027b3c8f16dd3fb"
+     },
+     {
+      "title": "Michigan Democrats Feud, Midterm Map Shifts, US-Iran Diplomacy Efforts",
+      "url": "https://www.npr.org/2026/11/02/nx-s1-6026052/michigan-democrats-feud-midterm-map-shifts-us-iran-diplomacy-efforts",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-02 11:10:18+00:00",
+      "summary": "Michigan Democrats are in open conflict on the eve of the election after Haley Stevens revoked her endorsement of Senate nominee Abdul El-Sayed and backed his Republican opponent. Republicans are defending unexpectedly competitive races across traditionally red territory, from Alaska to Kansas and\u2026",
+      "duration_min": 14,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/c41b1493-c20f-4301-b54f-03e181ef9a8a/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=c41b1493-c20f-4301-b54f-03e181ef9a8a&feed=HMwRVgVt&t=podcast&e=nx-s1-6026052&p=510318&d=828&size=13262307",
+       "ago": "11h ago"
+      },
+      "score": 0.6498,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "428ece090b327515"
+     },
+     {
+      "title": "Access the Sublime & Live Your Best Life | Robert Greene",
+      "url": "https://www.hubermanlab.com/episode/access-the-sublime-and-live-your-best-life-robert-greene",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-02 09:00:00+00:00",
+      "summary": "Robert Greene is a bestselling author on human nature, individual expression and growth. He explains the sublime and how to access it: in relationships, work, through observation, expression and more. What emerges is a larger conversation about human consciousness perception and ensuring your life\u2026",
+      "duration_min": 139,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM2047624040.mp3",
+       "ago": "13h ago"
+      },
+      "score": 0.641,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "fa2fd09b84e99b31"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "\u2018We may release models we can\u2019t control\u2019: Amodei, Altman \u2026 and Gemini Carbon",
+      "url": "https://www.youtube.com/watch?v=0Kw6_DTZPrY",
+      "source": "AI Explained",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-02 17:02:16+00:00",
+      "summary": "You know what, by AI standards, it might not have been the craziest week, but that doesn\u2019t mean several headline-worthy things happened - from Altman and Anthropic implying they would release models they can\u2019t control, with behavior they cannot\u2026",
+      "duration_min": null,
+      "popularity": 34.495,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/0Kw6_DTZPrY/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.9512,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "4aa0036e6008ba04"
+     },
+     {
+      "title": "How to Make Parenting Less Lonely | Stacey McLachlan | TED",
+      "url": "https://www.youtube.com/watch?v=Gswo90kocHU",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-02 16:00:39+00:00",
+      "summary": "When parents first have kids, some risk entering \u201cthe loneliest decade,\u201d where they fall out of touch with friends. Writer Stacey McLachlan decided to do something different when she had her daughter, refusing to let her social life slip away. In\u2026",
+      "duration_min": null,
+      "popularity": 27.334,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/Gswo90kocHU/hqdefault.jpg",
+       "ago": "6h ago"
+      },
+      "score": 0.9484,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "bdef1cd7599d7b98"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-02:chord-a-scalable-peer-to-peer-lookup-service-then",
+    "label": "Classic paper 4/15 \u00b7 Distributed systems & databases",
+    "title": "Chord: A Scalable Peer-to-peer Lookup Service \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Chord: A Scalable Peer-to-peer Lookup Service",
+      "url": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+      "kind": "paper"
+     },
+     {
+      "title": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
+      "url": "https://arxiv.org/abs/2610.40562",
+      "kind": "paper"
+     },
+     {
+      "title": "MANTA: Unlocking DAG Flexibility in Asynchronous BFT",
+      "url": "https://arxiv.org/abs/2610.34419",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-02:wireless-acoustic-sensing-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Microsoft\u2019s big buyout, Amazon\u2019s trillion-dollar future, and an AI wearable reviews our show",
+      "url": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/",
+      "kind": "article"
+     },
+     {
+      "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+      "url": "https://arxiv.org/abs/2610.40586",
+      "kind": "paper"
+     },
+     {
+      "title": "Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition",
+      "url": "https://arxiv.org/abs/2610.37480",
+      "kind": "paper"
+     },
+     {
+      "title": "Assessing BIOMASS Radiometric Stability using Permanent Scatterers",
+      "url": "https://arxiv.org/abs/2610.37400",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 23,
+  "read_min": 54,
+  "listen_min": 271,
+  "generated": "2:19 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Distributed systems & databases",
+   "title": "Chord: A Scalable Peer-to-peer Lookup Service \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+     "title": "Chord: A Scalable Peer-to-peer Lookup Service",
+     "kind": "paper",
+     "url": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+     "page": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+     "source": "Classic \u00b7 Distributed Systems"
+    },
+    {
+     "id": "arxiv:2610.40562",
+     "item_ids": [
+      "bfb422f9472400a2"
+     ],
+     "title": "Nearly-Optimal Time-Sample Trade-off in Consensus Dynamics",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2610.40562",
+     "page": "https://arxiv.org/abs/2610.40562",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 1.6855,
+     "added": "2026-10-30"
+    },
+    {
+     "added": "2026-10-27",
+     "hits": 2,
+     "id": "arxiv:2610.34419",
+     "item_ids": [
+      "e32d814c896f58f5"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.34419",
+     "score": 1.4545,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "MANTA: Unlocking DAG Flexibility in Asynchronous BFT",
+     "topic": "Distributed systems & databases",
+     "url": "https://arxiv.org/pdf/2610.34419"
+    }
+   ],
+   "date": "2026-11-02",
+   "key": "ep:2026-11-02:chord-a-scalable-peer-to-peer-lookup-service-then",
+   "item_ids": [
+    "classic:https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+    "bfb422f9472400a2",
+    "e32d814c896f58f5"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+   "sources": [
+    {
+     "added": "2026-10-31",
+     "hits": 2,
+     "id": "c783774107d28edb",
+     "item_ids": [
+      "c783774107d28edb"
+     ],
+     "kind": "article",
+     "page": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/",
+     "score": 3.9443,
+     "section": "tech",
+     "source": "GeekWire",
+     "title": "Microsoft\u2019s big buyout, Amazon\u2019s trillion-dollar future, and an AI wearable reviews our show",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://www.geekwire.com/2026/microsofts-big-buyout-amazons-trillion-dollar-future-and-an-ai-wearable-reviews-our-show/"
+    },
+    {
+     "id": "arxiv:2610.40586",
+     "item_ids": [
+      "79c614e882318b6a"
+     ],
+     "title": "Multistatic ISAC with Deep Learning-Based Clutter Suppression for 5G and Beyond",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.40586",
+     "page": "https://arxiv.org/abs/2610.40586",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.4531,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.37480",
+     "item_ids": [
+      "59b7c0ab116970c8"
+     ],
+     "title": "Keeping Inference in the Radio: Design and Measurement of a Spiking Accelerator for mmWave ISAC Activity Recognition",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37480",
+     "page": "https://arxiv.org/abs/2610.37480",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.4249,
+     "added": "2026-10-28"
+    },
+    {
+     "id": "arxiv:2610.37400",
+     "item_ids": [
+      "f9019b3fe0998457"
+     ],
+     "title": "Assessing BIOMASS Radiometric Stability using Permanent Scatterers",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37400",
+     "page": "https://arxiv.org/abs/2610.37400",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.4128,
+     "added": "2026-10-28"
+    }
+   ],
+   "date": "2026-11-02",
+   "key": "ep:2026-11-02:wireless-acoustic-sensing-3-new-papers-1-more",
+   "item_ids": [
+    "c783774107d28edb",
+    "79c614e882318b6a",
+    "59b7c0ab116970c8",
+    "f9019b3fe0998457"
+   ]
+  }
+ ]
+}
