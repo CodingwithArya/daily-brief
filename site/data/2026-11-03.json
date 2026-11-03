@@ -1,0 +1,909 @@
+{
+ "ctx": {
+  "date_long": "Tuesday, November 3, 2026",
+  "weekday": "Tuesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-03 17:56:03+00:00",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.0263,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "171ef47352a51aef"
+     },
+     {
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-03 17:07:28+00:00",
+      "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.0008,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "6d66a82cf0dda4b5"
+     },
+     {
+      "title": "Prediction markets face US midterms test as election bets soar - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2hIb2RkVE5NOGtSTm13ODFQYkxHZ2FhVEFlNGdidjFJVVpmTy1UekFuX29Xd2xEMTdRNjNzbEFaTzNNcFNqRURrbl9XVXZjdkpsUFgycVJaWXo1SUFJSFFiSGpSUHQ1U1gzTl9IWWhPS3RSd1hsNF9zV2xXYy1ZclBPMk4xd0tJV1dxZms0MWJGU3djMDNEbWFyNUtkZTduX3c2OTgwTWNRSVdGLWRoT3Jn?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-03 18:37:15+00:00",
+      "summary": "Prediction markets face US midterms test as election bets soar \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9534,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "ea5f6662d18c21ea"
+     },
+     {
+      "title": "Marathon profit beats estimates on soaring margins; strikes $4.2 billion refinery deal with CVR - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYk1jSlk5alhjdDdoMVY1U240WngyaDYwVGhJWUtKX2tmdDBaTXJ5MXlCaGZ5VVJjRTNRZE9nWHo2UkdjbXlDT0h6RE0tNTJFZlYxT2RRN1M5TTJTS2hUV25nMnRUbzNBeGhlalI0bjFIejktLUkwZ3QtLThGU1g1R3pnYkhjVHk0Q2VHb2tjNHFZT0xNWC1zRWhrOG9zWnFCaVJYQm1KZkhKTFhYMlVuMTFuVmtLR3VM?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-03 18:26:15+00:00",
+      "summary": "Marathon profit beats estimates on soaring margins; strikes $4.2 billion refinery deal with CVR \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9479,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "24f547be85d7f957"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Tech Moves: Microsoft loses a CVP to AWS and gains one from Alteryx; Lila Bio and BECU name execs",
+      "url": "https://www.geekwire.com/2026/tech-moves-microsoft-loses-a-cvp-to-aws-and-gains-one-from-alteryx-lila-bio-and-becu-name-execs/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-03 18:28:09+00:00",
+      "summary": "After more than 33 years at Microsoft, CVP Mazhar Mohammed has left for AWS, while the Redmond, Wash., company has gained a new CVP in its Agent Cloud group. Seattle's Lila Bio has appointed a chief development officer; the credit union BECU named an AI leader and other personnel changes. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.9223,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "d2f9e4a641b876d6"
+     },
+     {
+      "title": "Don\u2019t miss Seattle tech\u2019s biggest holiday party: Get early bird tickets for the GeekWire Gala",
+      "url": "https://www.geekwire.com/2026/dont-miss-seattle-techs-biggest-holiday-party-get-early-bird-tickets-for-the-geekwire-gala/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-03 18:37:22+00:00",
+      "summary": "The GeekWire Gala returns Dec. 10 with a new venue at The Shop in Seattle's SoDo neighborhood. Join hundreds of tech leaders, entrepreneurs and innovators for an unforgettable night of holiday festivities, networking, food, drinks and surprises. Tickets are on sale now! Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.4026,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "1299a59fb9ebfd5b"
+     },
+     {
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "https://news.ycombinator.com/item?id=50352757",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-03 14:53:41+00:00",
+      "summary": "330 points \u00b7 98 comments on HN",
+      "duration_min": null,
+      "popularity": 330.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50352757",
+       "ago": "5h ago"
+      },
+      "score": 1.6276,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "605a80a50559aa46"
+     },
+     {
+      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-02 22:30:47+00:00",
+      "summary": "390 points \u00b7 308 comments on HN",
+      "duration_min": null,
+      "popularity": 390.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50344919",
+       "ago": "21h ago"
+      },
+      "score": 1.4764,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "b9a70981a2e542b6"
+     },
+     {
+      "title": "Buttons are back and storage is king when it comes to car interiors",
+      "url": "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-03 18:19:31+00:00",
+      "summary": "We talk with Nissan designer Hiren Patel about how vehicle interior designs are changing.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.3601,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "970810a8d289df46"
+     },
+     {
+      "title": "Netflix will show you themed recommendations through a new \u2018AI Discover\u2019 tab",
+      "url": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-03 18:00:00+00:00",
+      "summary": "Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.0097,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "c65f77dcf81d86c7"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-03 05:35:00+00:00",
+      "summary": "Editing Qwen\u2019s weights to reduce reasoning loops, DeepSeek\u2019s super-agent prototype, and the GDPx benchmark.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "14h ago"
+      },
+      "score": 2.5989,
+      "why": "",
+      "also_sections": [],
+      "ago": "14h ago",
+      "id": "360a3a5d8e13c5c4"
+     },
+     {
+      "title": "Progress on provable inference for large language models - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1qTzctMkJVc25sdVRiNlRUcGhHNjF1d2dJU2s0alBCZmFBVlZHS1VJNXlad0VHQnpDYnZLaEpJTklaUUdCVE1GRnNuN1REYWxBZkVwdFFyeWhDd3F1Mi0zWGlZVQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-03 04:43:45+00:00",
+      "summary": "Progress on provable inference for large language models \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 2.3445,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "7e28c68e2fca4118"
+     },
+     {
+      "title": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-02 22:54:03+00:00",
+      "summary": "Legora can\u2019t read a single trace of what its agent does for a lawyer. The data belongs to the law firm\u2019s clients. How do you build and test an agent when you can\u2019t see its work? Jacob Lauritzen is the CTO of Legora, one of the fastest-growing companies...",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.7249,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "e33216d0e243d7ea"
+     },
+     {
+      "title": "llm 0.37",
+      "url": "https://simonwillison.net/2026/Nov/2/llm/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-02 23:49:30+00:00",
+      "summary": "Release: llm 0.37 There's a lot of stuff in this new release of my LLM CLI tool and Python library, representing around two months of accumulated features and fixes. I added gpt-6.1-sol and gpt-6.1-terra , plus a new llm openai endpoint add command to make it easier to configure additional models that use OpenAI-compatible endpoints. I switched the default model (if you have not set your own\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 1.6752,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "45e6464a45f70f80"
+     },
+     {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-03 16:29:48+00:00",
+      "summary": "Yesterday's hot paper was Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, the authors classify is as a \"blog post\", but it's paper-shaped) found that frontier models, in particular GPT-6 Astra, can both interpret and modify the raw weights of a machine learning model - literally\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.6245,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "a0fb68e32307cde8"
+     }
+    ]
+   },
+   {
+    "id": "papers_hot",
+    "title": "\ud83d\udd25 Papers everyone is talking about (HF Daily Papers)",
+    "items": [
+     {
+      "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
+      "url": "https://huggingface.co/papers/2611.03344",
+      "source": "HF Daily Papers",
+      "section": "papers_hot",
+      "kind": "paper",
+      "published": "2026-11-02 11:00:12+00:00",
+      "summary": "FLAMIA accelerates Transformer attention on NVIDIA Blackwell GPUs via MXFP8 and mixed-precision kernels that reduce quantization overhead, prevent causal leakage, and support variable-length packed documents.",
+      "duration_min": null,
+      "popularity": 16.0,
+      "weight": 1.0,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.03344",
+       "arxiv_id": "2611.03344",
+       "authors": "Fedor Velikonivtsev, Mikhail Koltakov, Denis Kuznedelev",
+       "ago": "33h ago"
+      },
+      "score": 1.5149,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "771b010310217e5f"
+     },
+     {
+      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+      "url": "https://huggingface.co/papers/2611.03126",
+      "source": "HF Daily Papers",
+      "section": "papers_hot",
+      "kind": "paper",
+      "published": "2026-11-02 08:41:14+00:00",
+      "summary": "CUA-Master uses nested recursive loops with open-world data and feedback-driven retries to continuously improve computer-use agents across diverse benchmarks.",
+      "duration_min": null,
+      "popularity": 90.0,
+      "weight": 1.0,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.03126",
+       "arxiv_id": "2611.03126",
+       "authors": "Xinlei Yu, Gen Li, Ji Zhao, Zhangquan Chen",
+       "ago": "35h ago"
+      },
+      "score": 1.4291,
+      "why": "",
+      "also_sections": [],
+      "ago": "35h ago",
+      "id": "eed1f589970e3900"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "First-Principles Channel Model and Capacity-Achieving Transmission Scheme in Thermal Noise Backscatter Links",
+      "url": "https://arxiv.org/abs/2611.02562",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-02 05:42:24+00:00",
+      "summary": "Thermal noise communication systems transmit information by modulating thermal radiation, eliminating the need for a dedicated signal power source and making them attractive solutions for low-power sensor networks. Their efficiency enables long-lived, unobtrusive operation, which is valuable in the Internet of Things, electromagnetic\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.02562",
+       "arxiv_id": "2611.02562",
+       "authors": "Geneva Ecola, Jida Zhang, Joseph M. Kahn, Zerina Kapetanovic",
+       "ago": "1d ago"
+      },
+      "score": 3.7713,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "29b3d876102b7e66"
+     },
+     {
+      "title": "SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue",
+      "url": "https://arxiv.org/abs/2611.03119",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-02 13:36:41+00:00",
+      "summary": "Multichannel-to-multichannel target speech extraction (MIMO TSE) aims to recover the target speech signal at each microphone while preserving interchannel spatial information. However, existing MIMO TSE systems generally assume a fixed microphone configuration, limiting their applicability to recording devices with varying microphone\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.03119",
+       "arxiv_id": "2611.03119",
+       "authors": "Wen Wen, Changda Chen, Yu Xi, Haoyu Li et al.",
+       "ago": "30h ago"
+      },
+      "score": 3.424,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "c46f959afae96731"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Rose: Efficient Embodied RL through Graph Optimization and GPU Compute Resource Control",
+      "url": "https://arxiv.org/abs/2611.02705",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-02 07:56:13+00:00",
+      "summary": "Embodied reinforcement learning (RL) coordinates policy inference, simulation, and model training with highly heterogeneous resource demands. Although individual components frequently underutilize GPU compute during execution, existing systems only overlap work at coarse component boundaries (e.g., pipelining inference and simulation across\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.02705",
+       "arxiv_id": "2611.02705",
+       "authors": "Wen Zeng, Ke Hong, Xu Fu, Zixiao Huang et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.149,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "88698104a54d2871"
+     },
+     {
+      "title": "How Netflix Uses AI Agents for Performance Engineering",
+      "url": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-03 16:31:10+00:00",
+      "summary": "The Netflix engineering team has developed an autonomous performance agent system. In this article, we\u2019ll be learning more about it.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.1085,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "a8d5ce0e798b0db2"
+     },
+     {
+      "title": "Layer-wise CPU-GPU Scheduling for LLM Inference on Memory-Limited Consumer GPUs",
+      "url": "https://arxiv.org/abs/2611.01393",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-01 00:56:45+00:00",
+      "summary": "As large language model inference environments expand toward consumer devices, it remains challenging to efficiently run models that exceed GPU memory capacity in single-GPU settings. The latency of transferring weights that do not fit in GPU memory accounts for about 98\\% of inference time and remains a major obstacle. In this paper, we focus on\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.01393",
+       "arxiv_id": "2611.01393",
+       "authors": "Naoto Sugiura, Yuta Tokusashi, Hiroki Matsutani",
+       "ago": "2d ago"
+      },
+      "score": 1.8168,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "200d9c3eb3659909"
+     },
+     {
+      "title": "How software engineering is changing: a tale of two eras",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-03 16:58:22+00:00",
+      "summary": "We invited readers to write about how building software changed, in an essay challenge. Many of you took part, and today we\u2019re sharing the winning piece from a strong set of entries",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.3707,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "626d3932ded80832"
+     },
+     {
+      "title": "F3 Lightning: How Meta Accelerates Ads ML Features to Production at Scale",
+      "url": "https://engineering.fb.com/2026/11/03/ml-applications/f3-lightning-how-meta-accelerates-ads-ml-features-to-production/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-03 17:00:35+00:00",
+      "summary": "Facebook Feature Framework (F3) is Meta\u2019s framework for authoring, compiling, and serving the machine learning features underlying ads ranking models, where a single request can require more than 20,000 features. We first presented F3 at AI @ Scale 2020. F3 reduced execution computational costs by compiling all features into a single merged graph, but that [...] Read More... The post F3\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 0.9793,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "e1491c4239ea20a0"
+     },
+     {
+      "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+      "url": "https://blog.cloudflare.com/zero-wire/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-03 14:00:00+00:00",
+      "summary": "Zero Wire on Cloudflare Radar pairs plain-language briefings with global attack telemetry and remediation steps. Triage critical CVEs faster and decide how to protect your infrastructure.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 0.9599,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "5101d1a486d69739"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Demis Hassabis and the Race to Build AI with Sebastian Mallaby",
+      "url": "https://softwareengineeringdaily.com/podcasts/demis-hassabis-and-the-race-to-build-ai-with-sebastian-mallaby/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-03 10:00:00+00:00",
+      "summary": "Demis Hassabis founded DeepMind in 2010, before machines could reliably tell a cat from a dog. He believed that artificial general intelligence was achievable, and that it should be built safely and deliberately. Along the way, Hassabis shared the 2024 Nobel Prize in Chemistry for AlphaFold, the\u2026",
+      "duration_min": 66,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/528a3568/522420ef.mp3",
+       "ago": "10h ago"
+      },
+      "score": 0.8905,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "d09f51a8a6611013"
+     },
+     {
+      "title": "Election Day, Trump's Closing Message, Iran War And The Midterms",
+      "url": "https://www.npr.org/2026/11/03/nx-s1-6027249/election-day-trumps-closing-message-iran-war-and-the-midterms",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-03 11:03:34+00:00",
+      "summary": "Election Day is here, with control of Congress hinging on unexpectedly competitive races in states including Iowa, Arkansas and Mississippi. President Trump sounded unusually subdued in his final campaign appearance, acknowledging the historical odds against the president\u2019s party in midterm\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/1931e62a-810c-4b35-b334-bac9e3c8bdf9/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=1931e62a-810c-4b35-b334-bac9e3c8bdf9&feed=HMwRVgVt&t=podcast&e=nx-s1-6027249&p=510318&d=775&size=12416357",
+       "ago": "9h ago"
+      },
+      "score": 0.6871,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "87f5eeaab13c5bc2"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "North Korea stole $6.3 billion... and that\u2019s not even the worst part",
+      "url": "https://www.youtube.com/watch?v=k2ruCf_z75I",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-03 19:47:10+00:00",
+      "summary": "Start a free 14-day CodeRabbit Secure trial, no credit card required: https://coderabbit.link/fireship-011 Cursor shipped a backdoor, Polymarket got drained, North Korea pulled off the largest theft in human history, and Anthropic showed an\u2026",
+      "duration_min": null,
+      "popularity": 6.378,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/k2ruCf_z75I/hqdefault.jpg",
+       "ago": "just now"
+      },
+      "score": 2.2625,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "2511898fb40a48e3"
+     },
+     {
+      "title": "The Art of Disagreeing with Dignity | Tami Pyfer | TED",
+      "url": "https://www.youtube.com/watch?v=Wv9wTfGidXQ",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-03 16:00:32+00:00",
+      "summary": "Tami Pyfer has five kids who belong to five different political parties, and sometimes family conversations get heated. Drawing on her work as a former policy advisor to the governor of Utah, she wanted to find a healthier way for people to talk\u2026",
+      "duration_min": null,
+      "popularity": 12.631,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/Wv9wTfGidXQ/hqdefault.jpg",
+       "ago": "4h ago"
+      },
+      "score": 0.9072,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "bf5429eac97fe7a8"
+     },
+     {
+      "title": "Is Gerrymandering Getting Worse?: Crash Course US Government #7",
+      "url": "https://www.youtube.com/watch?v=oJXxCfwkb-o",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-03 17:00:32+00:00",
+      "summary": "What\u2019s the deal with Gerrymandering? In this episode of Crash Course Big Questions on U.S. Government, we\u2019ll look at which kinds of gerrymandering are legal and which aren\u2019t. We\u2019ll also learn why it\u2019s getting harder to draw district lines without\u2026",
+      "duration_min": null,
+      "popularity": 6.739,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/oJXxCfwkb-o/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.8655,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "cbe495be59b129d8"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-03:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue",
+      "url": "https://arxiv.org/abs/2611.03119",
+      "kind": "paper"
+     },
+     {
+      "title": "Spatial Transfusion: From Structured Spatial Scene Understanding to Generation and Editing",
+      "url": "https://arxiv.org/abs/2611.02330",
+      "kind": "paper"
+     },
+     {
+      "title": "Ananas: A Networked Audio System for Distributed Spatial Audio Applications",
+      "url": "https://arxiv.org/abs/2611.03077",
+      "kind": "paper"
+     },
+     {
+      "title": "Camera-Free Object Discovery and Interaction with GazeTags",
+      "url": "https://arxiv.org/abs/2611.02599",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-03:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "SHq: Learnable Grids for LLM Weight Quantization",
+      "url": "https://arxiv.org/abs/2611.02966",
+      "kind": "paper"
+     },
+     {
+      "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+      "url": "https://arxiv.org/abs/2610.37909",
+      "kind": "paper"
+     },
+     {
+      "title": "CoraLive: Ultra-Low-Power Underwater Vision for Long-term Coral Reef Monitoring",
+      "url": "https://arxiv.org/abs/2610.39472",
+      "kind": "paper"
+     },
+     {
+      "title": "Enhancing Edge AI System Security with a Stacked Hardware Security Controller for Robust and Energy-Efficient Anomaly Detectio",
+      "url": "https://arxiv.org/abs/2611.01150",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 30,
+  "read_min": 75,
+  "listen_min": 124,
+  "generated": "12:06 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.03119",
+     "item_ids": [
+      "c46f959afae96731"
+     ],
+     "title": "SPATEX: Array-Flexible Multichannel-to-Multichannel Target Speech Extraction using Direction Clue",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.03119",
+     "page": "https://arxiv.org/abs/2611.03119",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.424,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.02330",
+     "item_ids": [
+      "47656949a1149228"
+     ],
+     "title": "Spatial Transfusion: From Structured Spatial Scene Understanding to Generation and Editing",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.02330",
+     "page": "https://arxiv.org/abs/2611.02330",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.1714,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.03077",
+     "item_ids": [
+      "e880b578fe3f15f0"
+     ],
+     "title": "Ananas: A Networked Audio System for Distributed Spatial Audio Applications",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.03077",
+     "page": "https://arxiv.org/abs/2611.03077",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.8879,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.02599",
+     "item_ids": [
+      "faaac64a13fe20aa"
+     ],
+     "title": "Camera-Free Object Discovery and Interaction with GazeTags",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.02599",
+     "page": "https://arxiv.org/abs/2611.02599",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 2.272,
+     "added": "2026-11-03"
+    }
+   ],
+   "date": "2026-11-03",
+   "key": "ep:2026-11-03:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "c46f959afae96731",
+    "47656949a1149228",
+    "e880b578fe3f15f0",
+    "faaac64a13fe20aa"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.02966",
+     "item_ids": [
+      "da68d4cde0d80504"
+     ],
+     "title": "SHq: Learnable Grids for LLM Weight Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.02966",
+     "page": "https://arxiv.org/abs/2611.02966",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4397,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2610.37909",
+     "item_ids": [
+      "19644251a08fbcaa"
+     ],
+     "title": "TERRA: Task-Oriented Edge AI for Regional Fire Detection with Identity-Free Reporting",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.37909",
+     "page": "https://arxiv.org/abs/2610.37909",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3258,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2610.39472",
+     "item_ids": [
+      "dee01e570ee44d89"
+     ],
+     "title": "CoraLive: Ultra-Low-Power Underwater Vision for Long-term Coral Reef Monitoring",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2610.39472",
+     "page": "https://arxiv.org/abs/2610.39472",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.2957,
+     "added": "2026-10-30"
+    },
+    {
+     "id": "arxiv:2611.01150",
+     "item_ids": [
+      "b50c142bde0b129c"
+     ],
+     "title": "Enhancing Edge AI System Security with a Stacked Hardware Security Controller for Robust and Energy-Efficient Anomaly Detectio",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.01150",
+     "page": "https://arxiv.org/abs/2611.01150",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.2851,
+     "added": "2026-11-03"
+    }
+   ],
+   "date": "2026-11-03",
+   "key": "ep:2026-11-03:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "da68d4cde0d80504",
+    "19644251a08fbcaa",
+    "dee01e570ee44d89",
+    "b50c142bde0b129c"
+   ]
+  }
+ ]
+}
