@@ -1,0 +1,768 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, November 4, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-04 16:26:15+00:00",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.7464,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "58e78f85a7243119"
+     },
+     {
+      "title": "Orlen completes investment to add 25% to Poland's gas storage capacity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUlc5RWM1aTFLd3NhM1NSdUtRQmEzR0dmV2d1VXFyNjlxem1iSFRNclpLVW8yNE9DTzVjWGQ0UldwNGFwXzBFMmZCSXpXblBPMGN0dTU0N3MzcUk3T004S2VwXzUwQi1wbTFOSHl3SEo2aXBJQXNadFIwU2FZeFRpYzJxWUltemRFS3VDLXVxd0FTRlBXTVJHZUxsWnZYaWd2N1dib19DamVxcXR6YUU3aUVMeHA?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-04 10:04:15+00:00",
+      "summary": "Orlen completes investment to add 25% to Poland's gas storage capacity \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.3265,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "65eac5b9821adc0f"
+     },
+     {
+      "title": "New Research Tests Whether AI Models Know Their Own Thoughts",
+      "url": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+      "source": "Quanta Magazine",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-04 15:32:52+00:00",
+      "summary": "By injecting \u201cthoughts\u201d directly into large language models, researchers are trying to map out AI\u2019s capacity for introspection. The post New Research Tests Whether AI Models Know Their Own Thoughts first appeared on Quanta Magazine",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.2193,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "485e5f604ca963dc"
+     },
+     {
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-04 20:22:40+00:00",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0977,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "57ea3942bdaafd2a"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Ai2 gets $5M from Google to turn AI weather model into a tool for projecting climate change",
+      "url": "https://www.geekwire.com/2026/ai2-gets-5m-from-google-to-turn-ai-weather-model-into-a-tool-for-projecting-climate-change/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 16:00:00+00:00",
+      "summary": "Google is giving the Allen Institute for AI about $5 million, plus $1.8 million in cloud credits, to turn NeuralGCM, a Google AI weather model, into an open-source tool for projecting climate change over the next five to 50 years. Ai2 plans to add the ocean to the model, work on making it reliable in a warmer world and release the code for training it. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 3.4124,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "2b2e0d9ed0f561be"
+     },
+     {
+      "title": "Finpilot raises $10M for AI agents that handle the grunt work for institutional investors",
+      "url": "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 15:00:00+00:00",
+      "summary": "Seattle startup Finpilot, which uses AI agents to take the paperwork off the plates of people who invest money for\u2026 Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.603,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "bcd5b28050a65d2a"
+     },
+     {
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 08:46:29+00:00",
+      "summary": "527 points \u00b7 242 comments on HN",
+      "duration_min": null,
+      "popularity": 527.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50362905",
+       "ago": "11h ago"
+      },
+      "score": 1.7985,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "88c23216a431785a"
+     },
+     {
+      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+      "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 15:38:34+00:00",
+      "summary": "330 points \u00b7 110 comments on HN",
+      "duration_min": null,
+      "popularity": 330.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50367125",
+       "ago": "4h ago"
+      },
+      "score": 1.3386,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "5b592f80e93a7865"
+     },
+     {
+      "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
+      "url": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 18:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I get asked this a lot in therapy. Plenty of life events, big and [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7772,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "3fdace98b464eb08"
+     },
+     {
+      "title": "People say they want small smartphones\u2014the Enough Phone will put that to the test",
+      "url": "https://arstechnica.com/gadgets/2026/11/people-say-they-want-small-smartphones-the-enough-phone-will-put-that-to-the-test/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-04 18:00:40+00:00",
+      "summary": "It won't win the specs race, but it will actually fit in your hand.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7405,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "4614b59d1d4dfcc5"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "datasette-llm 0.1a10",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-04 15:26:02+00:00",
+      "summary": "Release: datasette-llm 0.1a10 Fixes a bug that affected my agent.datasette.io demo site, where the set of available LLM models was not correctly restricted to just those in the configuration. Tags: datasette , llm",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.4481,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "7e823bba394a70d0"
+     },
+     {
+      "title": "datasette-apps 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-04 00:29:36+00:00",
+      "summary": "Release: datasette-apps 0.3a0 Datasette Apps adds support for hosting and editing custom HTML applications inside of Datasette. These can be created by hand, but it's easier to create them using LLMs via Datasette Agent . This release improves that integration: Apps can now be tagged in Datasette Agent chat messages by typing # , which autocompletes from the apps the user has permission to view.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.6866,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "cabd2b1f9b7be5d4"
+     },
+     {
+      "title": "How big is the open model economy today?",
+      "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-04 16:35:44+00:00",
+      "summary": "Our first open model economy research note for paid subscribers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.2668,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "c85e9d7dd64e1f57"
+     },
+     {
+      "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+      "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-04 19:17:30+00:00",
+      "summary": "November 3, 2026 \u2014 A quiet day lets us share some behind the senes.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0915,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "e9efb1446d7a006a"
+     },
+     {
+      "title": "Agile Deliberation: How AI helps humans define the gray areas",
+      "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-04 18:07:05+00:00",
+      "summary": "Data Mining & Modeling",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9287,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "d8fa341b96c36837"
+     },
+     {
+      "title": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+      "url": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-02 23:01:02+00:00",
+      "summary": "Evals without traces, million-cell tabular reviews, and cracks in the billable hour as a business model",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1d ago"
+      },
+      "score": 0.8305,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "69a46671059b3147"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Just Between Us? Exploring a Wearable-Mediated Channel for Discreet Human-Agent Interaction in a Shared Game Setting",
+      "url": "https://arxiv.org/abs/2611.04692",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-03 11:17:45+00:00",
+      "summary": "In shared settings, social robots may need to exchange information with an individual while limiting co-present others' access to or interpretation of that information. Publicly observable speech and gestures may not adequately support such exchanges. We investigate a wearable-mediated channel for discreet interaction that combines in-ear audio\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.04692",
+       "arxiv_id": "2611.04692",
+       "authors": "Atikkhan Faridkhan Nilgar, Manuel Dietrich, Kristof Van Laerhoven",
+       "ago": "33h ago"
+      },
+      "score": 3.889,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "bcfba243e77f9ecf"
+     },
+     {
+      "title": "SciPhi-Chat: Training a Spatial Audio Agent for Question Answering, Dialogue, and Tool Use",
+      "url": "https://arxiv.org/abs/2611.04114",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-03 00:40:02+00:00",
+      "summary": "Spatial audio question answering requires associating sound identities with locations and reasoning about their relations. This paper introduces SciPhi-Chat, a spatial audio agent that answers questions, conducts multi-turn dialogue, and calls tools on first-order ambisonic recordings. The accompanying MASU benchmark contains 12,000 samples\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.04114",
+       "arxiv_id": "2611.04114",
+       "authors": "Gijs Wijngaard, Hannes Gamper, Sebastian Braun",
+       "ago": "1d ago"
+      },
+      "score": 3.6575,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "2f5a98f2885b6c5a"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Workload-Static Optical Circuit Switching For Scalable LLM Inference Decode",
+      "url": "https://arxiv.org/abs/2611.05104",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-03 16:00:07+00:00",
+      "summary": "LLM inference decode executes fine-grained collectives whose latency directly limits per-user interactivity, yet scale-up fabrics are still built from electronic packet switches designed for training. We observe that, for a given model deployment and parallelization, the communication structure of decode is fixed, and propose workload-static\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.05104",
+       "arxiv_id": "2611.05104",
+       "authors": "Maximilian Th\u00fcrmer, Nicolas Scotto di Perto, Eloise Stein, Natanijel Vasic et al.",
+       "ago": "28h ago"
+      },
+      "score": 2.25,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "69aca5472946677e"
+     },
+     {
+      "title": "How Anthropic Redesigned Source Control",
+      "url": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-04 16:30:59+00:00",
+      "summary": "In this article, we\u2019ll look at the architecture behind Scion.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.1037,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "fe008458352d9359"
+     },
+     {
+      "title": "ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents",
+      "url": "https://arxiv.org/abs/2611.05269",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-03 17:55:21+00:00",
+      "summary": "Local LLM agents often work on shared hosts. Unlike multi-tenant cloud clusters, these hosts often have tightly bounded memory, CPU, and I/O resources. Concurrent agents frequently suffer from resource contention, leading to failures such as OOM and reduced resource efficiency. Considering that agents' resource demands are bursty and shell\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.05269",
+       "arxiv_id": "2611.05269",
+       "authors": "Shucheng Zou, Yuhao Gu, Long Chen, Zhongchun Zheng et al.",
+       "ago": "26h ago"
+      },
+      "score": 1.9729,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "83fc2f3d1d1671d4"
+     },
+     {
+      "title": "See the agents, set the terms: new visibility and control for personal agents",
+      "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-04 14:00:00+00:00",
+      "summary": "Personal AI agents have changed how users interact with the web, blurring the lines between automated and human traffic. Learn how Cloudflare gives site owners visibility and control to manage personal agent access.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.724,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "19361844fc329f21"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "No One Would Hire Him, So He Built His Own Practice",
+      "url": "https://rss.com/podcasts/no-prior-auth/3277985",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-03 22:00:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Allen Ripors counted his patients right before we hit record: sixty. His practice is one year old, he started it with less than $1,000, and nobody planned any of it \u2014 least of all him. Psych\u2026",
+      "duration_min": 48,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3277985/no-prior-auth/2026_10_29_20_17_25_56750a4c-723f-40d1-b03b-a1667243ba42.mp3",
+       "ago": "22h ago"
+      },
+      "score": 0.7863,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "dc0f598081835a88"
+     },
+     {
+      "title": "Democrats' Midterm Blowout, Trump Blames Candidates For Losses, Democratic Agenda",
+      "url": "https://www.npr.org/2026/11/04/nx-s1-6028632/democrats-midterm-blowout-trump-blames-candidates-for-losses-democratic-agenda",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-04 10:42:43+00:00",
+      "summary": "Democrats swept control of Congress with historic Senate victories in Texas, South Carolina and Kansas, giving the party new momentum even as its broader brand remains unpopular. President Trump\u2019s hand-picked candidates suffered major losses, leaving Republicans to wrestle with how closely to stay\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/64f8bc44-95b7-4de7-a7e4-6d26c2809e53/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=64f8bc44-95b7-4de7-a7e4-6d26c2809e53&feed=HMwRVgVt&t=podcast&e=nx-s1-6028632&p=510318&d=752&size=12036433",
+       "ago": "9h ago"
+      },
+      "score": 0.6746,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "b9b9aeee0c23dad8"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-04:ai-agents-tool-use-2-new-papers-2-more",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 2 new papers + 2 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "SciPhi-Chat: Training a Spatial Audio Agent for Question Answering, Dialogue, and Tool Use",
+      "url": "https://arxiv.org/abs/2611.04114",
+      "kind": "paper"
+     },
+     {
+      "title": "Finpilot raises $10M for AI agents that handle the grunt work for institutional investors",
+      "url": "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/",
+      "kind": "article"
+     },
+     {
+      "title": "Beyond Accuracy: How Quantization Affects Coding Agents",
+      "url": "https://arxiv.org/abs/2611.02368",
+      "kind": "paper"
+     },
+     {
+      "title": "Madrona Prize goes to UW research on agents that shrink AI models to run on small chips",
+      "url": "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/",
+      "kind": "article"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-04:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Rose: Efficient Embodied RL through Graph Optimization and GPU Compute Resource Control",
+      "url": "https://arxiv.org/abs/2611.02705",
+      "kind": "paper"
+     },
+     {
+      "title": "LoopKV: Loop-Aware KV Cache Compression for Serving Looped Transformers",
+      "url": "https://arxiv.org/abs/2611.04137",
+      "kind": "paper"
+     },
+     {
+      "title": "Layer-wise CPU-GPU Scheduling for LLM Inference on Memory-Limited Consumer GPUs",
+      "url": "https://arxiv.org/abs/2611.01393",
+      "kind": "paper"
+     },
+     {
+      "title": "Accelerating LLM Pretraining with Zeroth-Order Curvature on Idle Serving Compute",
+      "url": "https://arxiv.org/abs/2611.02688",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 24,
+  "read_min": 66,
+  "listen_min": 61,
+  "generated": "12:26 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 2 new papers + 2 more",
+   "sources": [
+    {
+     "id": "arxiv:2611.04114",
+     "item_ids": [
+      "2f5a98f2885b6c5a"
+     ],
+     "title": "SciPhi-Chat: Training a Spatial Audio Agent for Question Answering, Dialogue, and Tool Use",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.04114",
+     "page": "https://arxiv.org/abs/2611.04114",
+     "topic": "AI agents & tool use",
+     "hits": 4,
+     "score": 3.6575,
+     "added": "2026-11-04"
+    },
+    {
+     "id": "bcd5b28050a65d2a",
+     "item_ids": [
+      "bcd5b28050a65d2a"
+     ],
+     "title": "Finpilot raises $10M for AI agents that handle the grunt work for institutional investors",
+     "kind": "article",
+     "section": "tech",
+     "source": "GeekWire",
+     "url": "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/",
+     "page": "https://www.geekwire.com/2026/finpilot-raises-10m-for-ai-agents-that-handle-the-grunt-work-for-institutional-investors/",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.603,
+     "added": "2026-11-04"
+    },
+    {
+     "id": "arxiv:2611.02368",
+     "item_ids": [
+      "fafccd6a9b2ada25"
+     ],
+     "title": "Beyond Accuracy: How Quantization Affects Coding Agents",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.02368",
+     "page": "https://arxiv.org/abs/2611.02368",
+     "topic": "AI agents & tool use",
+     "hits": 4,
+     "score": 2.3011,
+     "added": "2026-11-03"
+    },
+    {
+     "added": "2026-10-31",
+     "hits": 2,
+     "id": "8a16308439a3de19",
+     "item_ids": [
+      "8a16308439a3de19"
+     ],
+     "kind": "article",
+     "page": "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/",
+     "score": 2.499,
+     "section": "tech",
+     "source": "GeekWire",
+     "title": "Madrona Prize goes to UW research on agents that shrink AI models to run on small chips",
+     "topic": "AI agents & tool use",
+     "url": "https://www.geekwire.com/2026/madrona-prize-goes-to-uw-research-on-agents-that-shrink-ai-models-to-run-on-small-chips/"
+    }
+   ],
+   "date": "2026-11-04",
+   "key": "ep:2026-11-04:ai-agents-tool-use-2-new-papers-2-more",
+   "item_ids": [
+    "2f5a98f2885b6c5a",
+    "bcd5b28050a65d2a",
+    "fafccd6a9b2ada25",
+    "8a16308439a3de19"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.02705",
+     "item_ids": [
+      "88698104a54d2871"
+     ],
+     "title": "Rose: Efficient Embodied RL through Graph Optimization and GPU Compute Resource Control",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.02705",
+     "page": "https://arxiv.org/abs/2611.02705",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.149,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.04137",
+     "item_ids": [
+      "a5faed627c322d12"
+     ],
+     "title": "LoopKV: Loop-Aware KV Cache Compression for Serving Looped Transformers",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.04137",
+     "page": "https://arxiv.org/abs/2611.04137",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 1.8372,
+     "added": "2026-11-04"
+    },
+    {
+     "id": "arxiv:2611.01393",
+     "item_ids": [
+      "200d9c3eb3659909"
+     ],
+     "title": "Layer-wise CPU-GPU Scheduling for LLM Inference on Memory-Limited Consumer GPUs",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.01393",
+     "page": "https://arxiv.org/abs/2611.01393",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.8168,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.02688",
+     "item_ids": [
+      "19f7f81a87015c7f"
+     ],
+     "title": "Accelerating LLM Pretraining with Zeroth-Order Curvature on Idle Serving Compute",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.02688",
+     "page": "https://arxiv.org/abs/2611.02688",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 3,
+     "score": 1.7481,
+     "added": "2026-11-03"
+    }
+   ],
+   "date": "2026-11-04",
+   "key": "ep:2026-11-04:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "88698104a54d2871",
+    "a5faed627c322d12",
+    "200d9c3eb3659909",
+    "19f7f81a87015c7f"
+   ]
+  }
+ ]
+}
