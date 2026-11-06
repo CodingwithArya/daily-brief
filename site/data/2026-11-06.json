@@ -1,0 +1,817 @@
+{
+ "ctx": {
+  "date_long": "Friday, November 6, 2026",
+  "weekday": "Friday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-06 19:00:21+00:00",
+      "summary": "A healthcare intelligence-sharing organization is warning its members to lock down systems following cyberattacks on cold storage systems, including a French blood bank.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3577,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "7b69296aec775fbc"
+     },
+     {
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-06 16:51:01+00:00",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.1965,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "ae7da127018dce5f"
+     },
+     {
+      "title": "Hiring jumps: The economy added 165,000 jobs last month",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6030867/jobs-labor-market-economy-wages-inflation",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-06 13:49:21+00:00",
+      "summary": "The U.S. job market improved last month, according to a report from the Labor Department Friday. Employers added more jobs than forecasters had expected and the unemployment rate dipped to 4.1%.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.1596,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "f63a3f48c9818883"
+     },
+     {
+      "title": "AI stocks climb after trillions wiped from market values",
+      "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-06 19:37:10+00:00",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.088,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "64dad8c4818376f5"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Amazon\u2019s AI shopping agent moves into text messages, taking orders and tracking prices",
+      "url": "https://www.geekwire.com/2026/amazons-ai-shopping-agent-moves-into-text-messages-taking-orders-and-tracking-prices/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 16:07:31+00:00",
+      "summary": "Amazon is letting customers text its Alexa for Shopping AI agent to search for products, compare options and place orders, starting with a small group of invited U.S. customers. Digiday reports that sponsored products can appear among the options the agent texts back, free to advertisers for now. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.986,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "7f44b3aaf0a4480c"
+     },
+     {
+      "title": "Tech Moves: Fred Hutch leader goes to AWS; Temporal, Augmodo and Neuralwatt name execs",
+      "url": "https://www.geekwire.com/2026/tech-moves-fred-hutch-leader-goes-to-aws-temporal-and-augmodo-name-execs/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 18:06:53+00:00",
+      "summary": "A Fred Hutch Cancer Center leader is joining AWS to help research institutions better use computing and AI to support their work; Seattle-area startups Temporal, Augmodo and BuyWander have appointed new leaders; the IonQ engineer behind MindRoom has joined a stealth startup; and more personnel changes. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.8478,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "feac1dd32690477d"
+     },
+     {
+      "title": "Deus Ex",
+      "url": "https://www.filfre.net/2026/11/deus-ex/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 15:44:36+00:00",
+      "summary": "264 points \u00b7 132 comments on HN",
+      "duration_min": null,
+      "popularity": 264.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50393758",
+       "ago": "4h ago"
+      },
+      "score": 1.2965,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "fd661e28d5d63140"
+     },
+     {
+      "title": "RIP Cybertruck",
+      "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 15:01:38+00:00",
+      "summary": "297 points \u00b7 4 comments on HN",
+      "duration_min": null,
+      "popularity": 297.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50393154",
+       "ago": "4h ago"
+      },
+      "score": 1.2868,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "bf12c6e05c441cf1"
+     },
+     {
+      "title": "Amazon is now making a Melania Trump TV series",
+      "url": "https://www.theverge.com/tech/1028854/amazon-melania-the-series-mgm-studios-prime-video",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 17:56:58+00:00",
+      "summary": "Following the Melania documentary movie that premiered earlier this year, Amazon is now planning to release a two-part Prime Video series focusing on the first lady. The show, Melania: The Series, is set to debut on November 20th. \"MELANIA, The Series reveals never-before-told stories, offering unprecedented insight into Melania Trump's life, including the extraordinary days [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7878,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "4eb0c6cd699e68b8"
+     },
+     {
+      "title": "The folks behind John Wick are back with Kar\u014dshi trailer",
+      "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 18:30:19+00:00",
+      "summary": "Stuntman/director Chad Stahelski and 87Eleven bring us an action-packed dystopian, futuristic thriller.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.7635,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "dc7207a48081bdf4"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XNVVXUjFNcnNKNzBWX2dEanF5NHhIaDY5VHFlRG0tdnlyRG4zTlRYMm9XMUxpajNwVy1vSk9FbXNwTnlJNU5uWXRB?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 16:03:05+00:00",
+      "summary": "ToyBlocks: A controlled world for robot learning and evaluation \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.5716,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "370d05ada10cc99d"
+     },
+     {
+      "title": "Welfare Regard in Multi-Agent Systems - Anthropic Alignment Science blog",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84eDd4Y1ctM2pvUmtjU2NOdDhJRUxkVTlJTWNEQ1JHQ2tKVW9Va2ZDYUJ4aXJDeWJRTVhWTWlwbWtLUm5VaFhmRFZWc3lPNFJ6ZVAtd2JNMkwtOEJjZF9GbzVn?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-05 21:10:31+00:00",
+      "summary": "Welfare Regard in Multi-Agent Systems \u00a0\u00a0 Anthropic Alignment Science blog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 2.009,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "1998324d7ee0b420"
+     },
+     {
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 17:13:12+00:00",
+      "summary": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's not worth it. It just isn't worth it to anyone. And agents aren't real and they might not be being used the way that anyone wants them to yet. All these companies\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.6686,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "469571222ddbbda8"
+     },
+     {
+      "title": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+      "url": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 10:35:21+00:00",
+      "summary": "November 5, 2026 \u2014 Inside Inkling 2 Small\u2019s training run and METR\u2019s study of AI research at Anthropic.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.4469,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "47595e2862bb4afd"
+     },
+     {
+      "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+      "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 15:10:53+00:00",
+      "summary": "As systems biology efforts heat up to map biology at higher resolution, greater breadth and more modalities, Fabian Theis is pushing the frontier from mapping to predicting to controlling biology",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.0653,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "b18e8924e9aae138"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "ZeroRAG: Adaptive Semantic Peer Routing for Decentralized Retrieval-Augmented Generation",
+      "url": "https://arxiv.org/abs/2611.07928",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-05 12:33:45+00:00",
+      "summary": "Retrieval-augmented generation (RAG) is a standard approach to enhance the reliability of large language model (LLM) outputs by retrieving documents relevant to a query and supplying them in the LLM prompt. Today's RAG systems collect, index, and serve these documents from centralized stores. In practice, however, documents are owned by\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.07928",
+       "arxiv_id": "2611.07928",
+       "authors": "Petru Neague, Quinten Stokkink, Martijn de Vos, Rafael Pires et al.",
+       "ago": "31h ago"
+      },
+      "score": 2.8818,
+      "why": "",
+      "also_sections": [],
+      "ago": "31h ago",
+      "id": "f2d1947babb32aef"
+     },
+     {
+      "title": "WAVES: Wearable Active Vibroacoustic Elasticity Sensing for Low-Cost and Non-Invasive Muscle Stiffness Monitoring",
+      "url": "https://arxiv.org/abs/2611.07087",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-04 19:50:58+00:00",
+      "summary": "Muscle stiffness is a physiologically meaningful biomarker associated with a wide range of musculoskeletal and neurological conditions. However, existing muscle stiffness assessment methods, such as shear wave elastography (SWE), manual palpation, and handheld mechanical probes, remain impractical for continuous, everyday monitoring due to bulky\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.07087",
+       "arxiv_id": "2611.07087",
+       "authors": "Shubham Rohal, Dong Yoon Lee, Shijia Pan",
+       "ago": "2d ago"
+      },
+      "score": 2.6182,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "0f3be83e732000c1"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs",
+      "url": "https://arxiv.org/abs/2611.07105",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-04 20:17:40+00:00",
+      "summary": "For sufficiently large transformer-based Large Language Models (LLMs), whose parameters cannot be retained in on-chip caches, prefill throughput on multi-socket CPUs is often limited by sustainable DRAM bandwidth rather than peak floating-point throughput. In the standard PyTorch compilation (i.e., TorchInductor) path, model weights are allocated\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.07105",
+       "arxiv_id": "2611.07105",
+       "authors": "Thisara Rathnayaka Weerakoon, Ishan Dewpura, Niman Ransindu, Shavin Anjitha et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.0132,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "e002de5a7ffcad49"
+     },
+     {
+      "title": "Resource-Efficient Reinforcement Learning Post-Training through Elastic Expert Parallelism",
+      "url": "https://arxiv.org/abs/2611.06984",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-04 15:36:14+00:00",
+      "summary": "Reinforcement learning post-training improves the capabilities of large language models, but generating training responses is a major computational bottleneck. In mixture-of-experts models, workers that finish their assigned responses may remain occupied because their experts are still needed by workers processing longer responses. Consequently,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.06984",
+       "arxiv_id": "2611.06984",
+       "authors": "Jia Wei, Ziyi Qiu, Yi Xu, Xuehai Qian",
+       "ago": "2d ago"
+      },
+      "score": 1.439,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "3f14546ab309d299"
+     },
+     {
+      "title": "The Pragmatic Summit 2027",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-06 19:39:15+00:00",
+      "summary": "The Summit is back in San Francisco, for the second year, and registrations are open for February 10, 2027",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3971,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d09844d43af410b4"
+     },
+     {
+      "title": "The post-quantum future of web privacy",
+      "url": "https://blog.cloudflare.com/vole-mole/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-06 14:00:00+00:00",
+      "summary": "Cryptographic protocols like Privacy Pass help keep web sites safe from abuse while keeping their users private. This post looks at the quantum threat to these protocols, and some new post-quantum cryptography that may help close the gap.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.9609,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "dab63348f0c77269"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Post-Election Market & Jobs, Why Gas Prices Could Stay High, Trump's Arch Blocked",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6032450/post-election-market-jobs-why-gas-prices-could-stay-high-trumps-arch-blocked",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-06 10:54:10+00:00",
+      "summary": "The October jobs report will show whether hiring picked up after a weak September, even as inflation continues to outpace wages and markets reel from a sharp selloff. Democrats are promising relief from high fuel prices, but Congress has limited power to lower them quickly and analysts say prices\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/b704eea9-44e9-4258-9c7c-53ac5e322d70/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=b704eea9-44e9-4258-9c7c-53ac5e322d70&feed=HMwRVgVt&t=podcast&e=nx-s1-6032450&p=510318&d=788&size=12621576",
+       "ago": "9h ago"
+      },
+      "score": 0.8244,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "d7e5673410ae7412"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "The one thing holding theoretical CS together just broke... kinda",
+      "url": "https://www.youtube.com/watch?v=iw9SZgyahqg",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-06 16:42:38+00:00",
+      "summary": "Warp Factories is open infrastructure to build self-improving software factories. Get early access: https://warp.dev/fireship An unnamed OpenAI model just wrote an algorithm that solves 3-SAT faster than exponential time, breaking a 27-year-old\u2026",
+      "duration_min": null,
+      "popularity": 239.293,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/iw9SZgyahqg/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 1.8997,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "bf02e9c15840d840"
+     },
+     {
+      "title": "The Future of AI Is Absolutely Incredible (Spencer Huang)",
+      "url": "https://www.youtube.com/watch?v=XgC1QTs6A2U",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-06 07:27:02+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.ai/papers Chapters: 00:00 Intro 02:40 Why Robots Are Hard 08:16 The Perfect Data Diet 16:05 Intelligence Density 20:13 Building AI Worlds 22:10 Learning From Failure 25:41 The\u2026",
+      "duration_min": null,
+      "popularity": 27.596,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/XgC1QTs6A2U/hqdefault.jpg",
+       "ago": "12h ago"
+      },
+      "score": 1.6139,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "6507804cb9a8fdb1"
+     },
+     {
+      "title": "Which AI is the best liar?",
+      "url": "https://www.youtube.com/watch?v=1NQwfImTseU",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-05 21:00:50+00:00",
+      "summary": "I spent 20,000 dollars in API credits having different AI models play each other at Blood on the Clocktower (a Mafia or Werewolf type social deception game). The results were fascinating. Models have gotten much better over the course of this year\u2026",
+      "duration_min": null,
+      "popularity": 92.716,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/1NQwfImTseU/hqdefault.jpg",
+       "ago": "22h ago"
+      },
+      "score": 1.2638,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "30079b4e57078a0e"
+     },
+     {
+      "title": "I Can\u2019t Speak. Here\u2019s How I Get People to Listen | Jessica Irwin | TED",
+      "url": "https://www.youtube.com/watch?v=84wVmiEl7Dg",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-06 16:01:00+00:00",
+      "summary": "Jessica Irwin is many things: a photographer, artist, author, performer. She also happens to be nonverbal, born with cerebral palsy that affects the muscles she needs to talk. Speaking through a device that turns her typed words into speech, she\u2026",
+      "duration_min": null,
+      "popularity": 12.204,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/84wVmiEl7Dg/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.9427,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "6a56f303083dfa6a"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-06:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "The Hearpiece Database of Binaural Room Impulse Responses and Driver Responses on KEMAR",
+      "url": "https://arxiv.org/abs/2611.06345",
+      "kind": "paper"
+     },
+     {
+      "title": "Spatial DJ: Spatial Audio Control for Arbitrary Loudspeaker Layouts",
+      "url": "https://arxiv.org/abs/2611.00657",
+      "kind": "paper"
+     },
+     {
+      "title": "A Compact Statistical View of Musical-Instrument Directivity",
+      "url": "https://arxiv.org/abs/2611.02927",
+      "kind": "paper"
+     },
+     {
+      "title": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
+      "url": "https://arxiv.org/abs/2611.04634",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-06:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+      "url": "https://arxiv.org/abs/2611.05304",
+      "kind": "paper"
+     },
+     {
+      "title": "StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference",
+      "url": "https://arxiv.org/abs/2611.08363",
+      "kind": "paper"
+     },
+     {
+      "title": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
+      "url": "https://arxiv.org/abs/2611.07988",
+      "kind": "paper"
+     },
+     {
+      "title": "ACSeL: Adaptive Configuration Search for Hardware-Constrained LLM Inference",
+      "url": "https://arxiv.org/abs/2611.07570",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 26,
+  "read_min": 63,
+  "listen_min": 73,
+  "generated": "11:57 AM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.06345",
+     "item_ids": [
+      "c0f4fddef0e7ec8c"
+     ],
+     "title": "The Hearpiece Database of Binaural Room Impulse Responses and Driver Responses on KEMAR",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.06345",
+     "page": "https://arxiv.org/abs/2611.06345",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.3275,
+     "added": "2026-11-05"
+    },
+    {
+     "id": "arxiv:2611.00657",
+     "item_ids": [
+      "a50412157e53306c"
+     ],
+     "title": "Spatial DJ: Spatial Audio Control for Arbitrary Loudspeaker Layouts",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.00657",
+     "page": "https://arxiv.org/abs/2611.00657",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.162,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.02927",
+     "item_ids": [
+      "15269ce72acc4b3f"
+     ],
+     "title": "A Compact Statistical View of Musical-Instrument Directivity",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.02927",
+     "page": "https://arxiv.org/abs/2611.02927",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 2.0736,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.04634",
+     "item_ids": [
+      "0540c024d21dceb4"
+     ],
+     "title": "VeriSpoof: Beyond Real or Fake with One Audio LLM",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.04634",
+     "page": "https://arxiv.org/abs/2611.04634",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 1.7733,
+     "added": "2026-11-04"
+    }
+   ],
+   "date": "2026-11-06",
+   "key": "ep:2026-11-06:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "c0f4fddef0e7ec8c",
+    "a50412157e53306c",
+    "15269ce72acc4b3f",
+    "0540c024d21dceb4"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.05304",
+     "item_ids": [
+      "2b1bd9fc0b386780"
+     ],
+     "title": "LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.05304",
+     "page": "https://arxiv.org/abs/2611.05304",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5347,
+     "added": "2026-11-04"
+    },
+    {
+     "id": "arxiv:2611.08363",
+     "item_ids": [
+      "2a77a746e339e76e"
+     ],
+     "title": "StrataFlux: Memory-Hierarchy-Native Low-Bit LLM Inference",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.08363",
+     "page": "https://arxiv.org/abs/2611.08363",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5334,
+     "added": "2026-11-06"
+    },
+    {
+     "id": "arxiv:2611.07988",
+     "item_ids": [
+      "4773fdf92e8ab210"
+     ],
+     "title": "Compression Through a Context Lens: Evaluating Adaptation, Quantization, and Distillation in Arabic Legal LLMs",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.07988",
+     "page": "https://arxiv.org/abs/2611.07988",
+     "topic": "On-device & efficient ML",
+     "hits": 4,
+     "score": 2.4664,
+     "added": "2026-11-06"
+    },
+    {
+     "id": "arxiv:2611.07570",
+     "item_ids": [
+      "9f9873a0697ed9a8"
+     ],
+     "title": "ACSeL: Adaptive Configuration Search for Hardware-Constrained LLM Inference",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.07570",
+     "page": "https://arxiv.org/abs/2611.07570",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.3815,
+     "added": "2026-11-06"
+    }
+   ],
+   "date": "2026-11-06",
+   "key": "ep:2026-11-06:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "2b1bd9fc0b386780",
+    "2a77a746e339e76e",
+    "4773fdf92e8ab210",
+    "9f9873a0697ed9a8"
+   ]
+  }
+ ]
+}
