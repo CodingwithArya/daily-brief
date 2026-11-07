@@ -1,0 +1,723 @@
+{
+ "ctx": {
+  "date_long": "Saturday, November 7, 2026",
+  "weekday": "Saturday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Democrats plan to widen their probes of fatal ICE shootings",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6029659/democrats-investigate-fatal-ice-shootings",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-07 13:19:09+00:00",
+      "summary": "The killings of Renee Good and Alex Pretti during the ICE surge in Minneapolis last winter was a pivotal moment for the country. After Democrats' sweeping wins this week, their deaths at the hands of immigration agents will likely be the targets of renewed investigations.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.2085,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "5f3cf69d28e1e9ce"
+     },
+     {
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-07 07:27:44+00:00",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.1287,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "37d2d254530adb10"
+     },
+     {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-07 16:50:06+00:00",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.058,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "62adf22b6c55c2da"
+     },
+     {
+      "title": "Ousted Paraguayan president appears before prosecutors",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-07 17:14:36+00:00",
+      "summary": "Paraguayan President Santiago Pe\u00f1a was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9744,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d74c8db696ea1ece"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Voters turn on AI data centers, Shield AI\u2019s $5.3B Echodyne deal, and a Seattle startup\u2019s rare double exit",
+      "url": "https://www.geekwire.com/2026/voters-turn-on-ai-data-centers-shield-ais-5-3b-echodyne-deal-and-a-startups-rare-double-exit/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-07 16:07:22+00:00",
+      "summary": "On the GeekWire Podcast: Voters backed data center limits in 40 of 41 local ballot measures. Plus Shield AI's $5.3B deal for drone-tracking radar maker Echodyne and a startup that has now been acquired twice. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.3698,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "8a8a2e734ba8ccf3"
+     },
+     {
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 16:54:36+00:00",
+      "summary": "298 points \u00b7 596 comments on HN",
+      "duration_min": null,
+      "popularity": 298.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50394906",
+       "ago": "25h ago"
+      },
+      "score": 1.4503,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "28c2d038c17b72aa"
+     },
+     {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "url": "https://nfsu2.xyz/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-07 09:36:36+00:00",
+      "summary": "532 points \u00b7 161 comments on HN",
+      "duration_min": null,
+      "popularity": 532.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50403052",
+       "ago": "8h ago"
+      },
+      "score": 1.3131,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "273bbe1e419702df"
+     },
+     {
+      "title": "Let there be LEDs: Tech upgrade helps James Turrell\u2019s Skyspace shine again at UW art museum",
+      "url": "https://www.geekwire.com/2026/seeing-the-light-tech-upgrade-helps-james-turrells-skyspace-shine-again-at-uw-art-museum/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 16:01:20+00:00",
+      "summary": "After going dark for most of a decade, the Henry Art Gallery\u2019s \u201cLight Reign\u201d returns Nov. 14 with a new lighting system synced to sunrise and sunset, just as the museum heads into its 100th year. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 1.0328,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "7f4b45a191e84280"
+     },
+     {
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-07 12:30:00+00:00",
+      "summary": "Anthropic is using AI to build more powerful AI. And it appears to be working remarkably well, with the company's models improving roughly twice as quickly as a year ago, with little indication of slowing down. That's according to a new report published Thursday by the AI safety research organization METR, following an 11-week investigation [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.91,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "8879475e62b3793a"
+     },
+     {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-06 23:46:18+00:00",
+      "summary": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March at a valuation of $852 billion. Echoing FT and Wall Street Journal [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 0.8061,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "6813d62fd92533cd"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "The components of agent memory - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uaktEZlp1anNnLVpGTHNDMXE2d0p2cmxiRzZ3REI2QWQzYndMV01KVk1UYWExM0RlSF9YR3FrRzd6Wllhcm80NDZWanpDTV9zZkNoZWlzcWp4YWxDNkFqa1p2Z290X3BobFg1TnBn?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 21:21:18+00:00",
+      "summary": "The components of agent memory \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 1.8127,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "eec5787571531095"
+     },
+     {
+      "title": "[AINews] Anthropic IPO: Whither Now?",
+      "url": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-07 03:04:53+00:00",
+      "summary": "November 6, 2026 \u2014 ARC Prize tests Inkling 2 Small, and Thinking Machines explains how it caught early checkpoints bypassing guardrails.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "14h ago"
+      },
+      "score": 1.7942,
+      "why": "",
+      "also_sections": [],
+      "ago": "14h ago",
+      "id": "d62fbfe2fc04f838"
+     },
+     {
+      "title": "Project EVE: Claude plays MMORPGs - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zQUNVYk03WEg1anJqMFdVd0hwa2E4MTNzTDdTQmM1Y2NQanplejhaRERoWGxNemgyNjNJREVwaEt6RFJiM2hfQjdBdkFRZ3ZZUFZHbm1yRWcwV0xUSmo5b29QZzd2Rmt3QUNfaUdLUXpQbEhpTFE?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-06 20:52:05+00:00",
+      "summary": "Project EVE: Claude plays MMORPGs \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.243,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "d49df3066a0784b0"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Joint Transmit Power and Reflection Coefficient Optimization for Underlay Cognitive Radio Ambient Backscatter Communication",
+      "url": "https://arxiv.org/abs/2611.00801",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-10-31 10:24:02+00:00",
+      "summary": "The integration of cognitive radio (CR) technology with backscatter communication offers a promising solution for developing spectrum-efficient and low-power wireless networks. In this paper, we investigate the performance of an underlay cognitive radio ambient backscatter communication (CR-AmBC) system operating under primary network (PN)\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.00801",
+       "arxiv_id": "2611.00801",
+       "authors": "Chabalala S. Chabalala, Peter Odero Akuon, Zhen Gao",
+       "ago": "7d ago"
+      },
+      "score": 2.1807,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "7cb82db587857928"
+     },
+     {
+      "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+      "url": "https://arxiv.org/abs/2611.08398",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-05 18:10:25+00:00",
+      "summary": "Haptic interactions, such as touching an object in virtual reality, involve detecting a plethora of sensations through the skin. Whilst tactile displays exist to simulate and manipulate all of these cues individually, little progress has been made constructing devices that can control multiple cues simultaneously. This paper presents a tactile\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.08398",
+       "arxiv_id": "2611.08398",
+       "authors": "Joshua Brown, Fernando Bello, Lynette Jones",
+       "ago": "1d ago"
+      },
+      "score": 2.1449,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "adfd5f78088cb0c5"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "EP232: 6 Frequently Used Orchestration Frameworks in an AI system",
+      "url": "https://blog.bytebytego.com/p/ep232-6-frequently-used-orchestration",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-07 16:30:58+00:00",
+      "summary": "Orchestration in an AI system manages tasks across agents, handles failures, shared memory and context.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.6627,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "b8097a6085322916"
+     },
+     {
+      "title": "Writing as a thinking tool",
+      "url": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-07 08:22:10+00:00",
+      "summary": "In middle school I could not get through long passages no matter how hard I tried. I would read an entire page and find that nothing had registered, so I started taking notes out of desperation. This was the late 80s, and Tony Buzan's mind maps had just reached Turkey. This led me to produce pages and pages of notes that looked like spiderwebs. Creating those notes have helped me tremendously. I\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.219,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "9b0e30367cd4b6a6"
+     },
+     {
+      "title": "Apto: Self-Adaptive CPU-GPU Hybrid MoE Inference on Shared PCs",
+      "url": "https://arxiv.org/abs/2611.01859",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-01 12:50:27+00:00",
+      "summary": "CPU/GPU hybrid inference enables Mixture-of-Experts (MoE) models to run on memory-constrained PCs by keeping all expert weights in host memory and executing activated experts across both processors. Existing hybrid systems, however, assume exclusive resource access and determine an upfront CPU/GPU partition, so CPU contention from colocated\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.01859",
+       "arxiv_id": "2611.01859",
+       "authors": "Zihang Zhong, Jiali Wang, Rong Chen",
+       "ago": "6d ago"
+      },
+      "score": 1.1405,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "3c9e48426fad08c1"
+     },
+     {
+      "title": "Beyond Leaderless: Randomized Consensus Against Mobile Crashes",
+      "url": "https://arxiv.org/abs/2611.01323",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-10-31 22:48:06+00:00",
+      "summary": "Many consensus protocols fail to terminate under attack from an adversary that has the power to move between replicas and repeatedly crash one of them, even in synchrony. We present Multi-Leader Fixed-View Simplex (ML-FVS) to defend against such an adversary while keeping the simple structure and good-case latency of Simplex consensus. Our\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.01323",
+       "arxiv_id": "2611.01323",
+       "authors": "Ittai Abraham, Kaya Alpturer, Pranav Garimidi, Joachim Neu et al.",
+       "ago": "6d ago"
+      },
+      "score": 1.0967,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "b433b804df3fb8d4"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "SCOTUS After the Midterms, Social Media Lawsuit, Life Under Economic Pressure in Cuba",
+      "url": "https://www.npr.org/2026/11/07/nx-s1-6032622/scotus-after-the-midterms-social-media-lawsuit-life-under-economic-pressure-in-cuba",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-07 13:53:03+00:00",
+      "summary": "What the big win for Democrats in the midterm elections means for the Supreme Court and lower courts. Big tech companies sue California to block the enforcement of a state law meant to protect children from getting addicted to social media. Life in Cuba gets harder as the United States increases\u2026",
+      "duration_min": 16,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d368a40a-011f-46e7-a846-9083e220dd8d/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d368a40a-011f-46e7-a846-9083e220dd8d&feed=HMwRVgVt&t=podcast&e=nx-s1-6032622&p=510318&d=944&size=15110104",
+       "ago": "4h ago"
+      },
+      "score": 0.7901,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "bf96c1c6ac1d8172"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "OpenAI's Astra Just Opened The Black Box Of AI",
+      "url": "https://www.youtube.com/watch?v=GJ6PMUm5oTA",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-07 16:24:47+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The Weight Space Programming work is available here: https://rikiyat.github.io/blog/weight-space-programming/ \ud83d\ude4f We would like to thank our generous Patreon\u2026",
+      "duration_min": null,
+      "popularity": 7.97,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/GJ6PMUm5oTA/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 2.1446,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "13a825b4987d36ba"
+     }
+    ]
+   }
+  ],
+  "queue": [
+   {
+    "label": "Neural Networks: Zero to Hero \u00b7 3/9 (Saturday evening)",
+    "title": "Building makemore Part 2: MLP",
+    "url": "https://www.youtube.com/watch?v=TCH_1BHY58I",
+    "note": "Code along \u2014 don't just watch."
+   }
+  ],
+  "episodes": [
+   {
+    "key": "ep:2026-11-07:ai-agents-tool-use-4-new-papers",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent",
+      "url": "https://arxiv.org/abs/2611.08321",
+      "kind": "paper"
+     },
+     {
+      "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+      "url": "https://arxiv.org/abs/2611.06257",
+      "kind": "paper"
+     },
+     {
+      "title": "CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment",
+      "url": "https://arxiv.org/abs/2611.07393",
+      "kind": "paper"
+     },
+     {
+      "title": "ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents",
+      "url": "https://arxiv.org/abs/2611.05269",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-07:training-scaling-4-new-papers",
+    "label": "Topic episode \u00b7 Training & scaling",
+    "title": "Training & scaling: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "TriAttention: Unified Sparse Mixed-Precision Attention for Long-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2611.07256",
+      "kind": "paper"
+     },
+     {
+      "title": "Quantizing Recurrent Language Models Is Easier Than You Think",
+      "url": "https://arxiv.org/abs/2611.01864",
+      "kind": "paper"
+     },
+     {
+      "title": "Metadata-Conditioned Audio Transformers for Adaptive Respiratory Sound Classification",
+      "url": "https://arxiv.org/abs/2611.03769",
+      "kind": "paper"
+     },
+     {
+      "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
+      "url": "https://arxiv.org/abs/2611.03344",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 21,
+  "read_min": 57,
+  "listen_min": 31,
+  "generated": "10:02 AM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.08321",
+     "item_ids": [
+      "816c3c3fafd6a1ac"
+     ],
+     "title": "ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.08321",
+     "page": "https://arxiv.org/abs/2611.08321",
+     "topic": "AI agents & tool use",
+     "hits": 4,
+     "score": 2.4261,
+     "added": "2026-11-06"
+    },
+    {
+     "id": "arxiv:2611.06257",
+     "item_ids": [
+      "92f300ab221fa59c"
+     ],
+     "title": "Analysis of Local Open-Weight LLM Agents on Vulnerability-Reproduction Tasks",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.06257",
+     "page": "https://arxiv.org/abs/2611.06257",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.4106,
+     "added": "2026-11-05"
+    },
+    {
+     "id": "arxiv:2611.07393",
+     "item_ids": [
+      "bddfe638305f2bb1"
+     ],
+     "title": "CacheGraft: Enhancing Retrieval-Augmented Generation via Latent-Space Document Enrichment",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.07393",
+     "page": "https://arxiv.org/abs/2611.07393",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.0214,
+     "added": "2026-11-06"
+    },
+    {
+     "id": "arxiv:2611.05269",
+     "item_ids": [
+      "83fc2f3d1d1671d4"
+     ],
+     "title": "ToolSched: Resource-Efficient Tool Scheduling for Shared-Host LLM Agents",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.05269",
+     "page": "https://arxiv.org/abs/2611.05269",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 1.9729,
+     "added": "2026-11-04"
+    }
+   ],
+   "date": "2026-11-07",
+   "key": "ep:2026-11-07:ai-agents-tool-use-4-new-papers",
+   "item_ids": [
+    "816c3c3fafd6a1ac",
+    "92f300ab221fa59c",
+    "bddfe638305f2bb1",
+    "83fc2f3d1d1671d4"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Training & scaling",
+   "title": "Training & scaling: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.07256",
+     "item_ids": [
+      "86af7ac31db75d90"
+     ],
+     "title": "TriAttention: Unified Sparse Mixed-Precision Attention for Long-Context LLM Inference",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.07256",
+     "page": "https://arxiv.org/abs/2611.07256",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.2866,
+     "added": "2026-11-06"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 2,
+     "id": "arxiv:2611.01864",
+     "item_ids": [
+      "38ad744255e8c7b0"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.01864",
+     "score": 2.1474,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Quantizing Recurrent Language Models Is Easier Than You Think",
+     "topic": "Training & scaling",
+     "url": "https://arxiv.org/pdf/2611.01864"
+    },
+    {
+     "id": "arxiv:2611.03769",
+     "item_ids": [
+      "014747df49d113c0"
+     ],
+     "title": "Metadata-Conditioned Audio Transformers for Adaptive Respiratory Sound Classification",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.03769",
+     "page": "https://arxiv.org/abs/2611.03769",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.0908,
+     "added": "2026-11-04"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 4,
+     "id": "arxiv:2611.03344",
+     "item_ids": [
+      "15d3215760fc791f",
+      "771b010310217e5f"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.03344",
+     "score": 2.0041,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
+     "topic": "Training & scaling",
+     "url": "https://arxiv.org/pdf/2611.03344"
+    }
+   ],
+   "date": "2026-11-07",
+   "key": "ep:2026-11-07:training-scaling-4-new-papers",
+   "item_ids": [
+    "86af7ac31db75d90",
+    "38ad744255e8c7b0",
+    "014747df49d113c0",
+    "15d3215760fc791f",
+    "771b010310217e5f"
+   ]
+  }
+ ]
+}
