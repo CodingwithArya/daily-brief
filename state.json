@@ -2764,6 +2764,166 @@
     "title": "Training & scaling: 4 new papers",
     "topic": "Training & scaling"
    }
+  ],
+  "2026-11-08": [
+   {
+    "date": "2026-11-08",
+    "item_ids": [
+     "0f3be83e732000c1",
+     "7c46575b665a9cc1",
+     "b1b03ddeb12e3093",
+     "31a594bbe02306e7"
+    ],
+    "key": "ep:2026-11-08:wireless-acoustic-sensing-4-new-papers",
+    "kind": "topic",
+    "sources": [
+     {
+      "added": "2026-11-06",
+      "hits": 2,
+      "id": "arxiv:2611.07087",
+      "item_ids": [
+       "0f3be83e732000c1"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.07087",
+      "score": 2.6182,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "WAVES: Wearable Active Vibroacoustic Elasticity Sensing for Low-Cost and Non-Invasive Muscle Stiffness Monitoring",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.07087"
+     },
+     {
+      "added": "2026-11-02",
+      "hits": 2,
+      "id": "arxiv:2610.41680",
+      "item_ids": [
+       "7c46575b665a9cc1"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2610.41680",
+      "score": 2.2105,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2610.41680"
+     },
+     {
+      "added": "2026-11-03",
+      "hits": 1,
+      "id": "arxiv:2611.03410",
+      "item_ids": [
+       "b1b03ddeb12e3093"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.03410",
+      "score": 2.1455,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.03410"
+     },
+     {
+      "added": "2026-11-05",
+      "hits": 1,
+      "id": "arxiv:2611.06734",
+      "item_ids": [
+       "31a594bbe02306e7"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.06734",
+      "score": 2.1344,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.06734"
+     }
+    ],
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "topic": "Wireless & acoustic sensing"
+   },
+   {
+    "date": "2026-11-08",
+    "item_ids": [
+     "e002de5a7ffcad49",
+     "15f09e038146e9ae",
+     "af1f8061ca8d4e24",
+     "963155d63a54e856"
+    ],
+    "key": "ep:2026-11-08:llm-serving-ml-infrastructure-4-new-papers",
+    "kind": "topic",
+    "sources": [
+     {
+      "added": "2026-11-06",
+      "hits": 2,
+      "id": "arxiv:2611.07105",
+      "item_ids": [
+       "e002de5a7ffcad49"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.07105",
+      "score": 2.0132,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs",
+      "topic": "LLM serving & ML infrastructure",
+      "url": "https://arxiv.org/pdf/2611.07105"
+     },
+     {
+      "added": "2026-11-03",
+      "hits": 2,
+      "id": "arxiv:2611.01067",
+      "item_ids": [
+       "15f09e038146e9ae"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.01067",
+      "score": 1.7402,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "Ripple: Deadline-Aware CPU-GPU Sharing for Embodied Inference",
+      "topic": "LLM serving & ML infrastructure",
+      "url": "https://arxiv.org/pdf/2611.01067"
+     },
+     {
+      "added": "2026-11-03",
+      "hits": 4,
+      "id": "arxiv:2611.01174",
+      "item_ids": [
+       "af1f8061ca8d4e24"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.01174",
+      "score": 1.6944,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "TRIAGE: Reliability- and Load-Conditioned Escalation for Two-Tier LLM Serving with a Semantic Evidence Judge",
+      "topic": "LLM serving & ML infrastructure",
+      "url": "https://arxiv.org/pdf/2611.01174"
+     },
+     {
+      "added": "2026-11-03",
+      "hits": 2,
+      "id": "arxiv:2611.00646",
+      "item_ids": [
+       "963155d63a54e856"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.00646",
+      "score": 1.6563,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "When Shards Fly: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL",
+      "topic": "LLM serving & ML infrastructure",
+      "url": "https://arxiv.org/pdf/2611.00646"
+     }
+    ],
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "topic": "LLM serving & ML infrastructure"
+   }
   ]
  },
  "pod_pool": {
@@ -2782,22 +2942,6 @@
    "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
    "topic": "AI agents & tool use",
    "url": "https://www.ricursive.com/ripple"
-  },
-  "18eadc7cf156685b": {
-   "added": "2026-10-31",
-   "hits": 3,
-   "id": "18eadc7cf156685b",
-   "item_ids": [
-    "18eadc7cf156685b"
-   ],
-   "kind": "article",
-   "page": "https://latent.space/p/arca/",
-   "score": 1.9581,
-   "section": "ai",
-   "source": "Latent Space",
-   "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
-   "topic": "AI agents & tool use",
-   "url": "https://latent.space/p/arca/"
   },
   "19361844fc329f21": {
    "added": "2026-11-04",
@@ -2862,22 +3006,6 @@
    "title": "Reddit is adding more ads",
    "topic": "Recommendation & production ML",
    "url": "https://www.theverge.com/tech/1025602/reddit-search-ads-test"
-  },
-  "30c6ffd6a21b14d4": {
-   "added": "2026-10-31",
-   "hits": 2,
-   "id": "30c6ffd6a21b14d4",
-   "item_ids": [
-    "30c6ffd6a21b14d4"
-   ],
-   "kind": "article",
-   "page": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUJtenZlYUlZcldQVVBmY2x5YmJORkxTWm92NTVobk5jOTMzbmRkY0w1WGVuVEtMN292M0NISWJYMDEycEtxM05heHVsbGYtc1lJRkhHWUI0X3FxWUxVcFJCSVVGS1Rt?oc=5",
-   "score": 1.6162,
-   "section": "ai",
-   "source": "Anthropic news",
-   "title": "Automated Subtle Emergent Misalignment Research - Anthropic Alignment Science blog",
-   "topic": "Interpretability & safety",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XNUJtenZlYUlZcldQVVBmY2x5YmJORkxTWm92NTVobk5jOTMzbmRkY0w1WGVuVEtMN292M0NISWJYMDEycEtxM05heHVsbGYtc1lJRkhHWUI0X3FxWUxVcFJCSVVGS1Rt?oc=5"
   },
   "381223935ae368b9": {
    "added": "2026-11-01",
@@ -3055,21 +3183,21 @@
    "topic": "AI agents & tool use",
    "url": "https://www.geekwire.com/2026/amazons-ai-shopping-agent-moves-into-text-messages-taking-orders-and-tracking-prices/"
   },
-  "8f65b6637c02d384": {
-   "added": "2026-10-31",
+  "8fb5b77f08405e55": {
+   "added": "2026-11-08",
    "hits": 2,
-   "id": "8f65b6637c02d384",
+   "id": "8fb5b77f08405e55",
    "item_ids": [
-    "8f65b6637c02d384"
+    "8fb5b77f08405e55"
    ],
    "kind": "article",
-   "page": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-   "score": 0.8122,
+   "page": "https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/",
+   "score": 1.9881,
    "section": "tech",
-   "source": "Ars Technica",
-   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "source": "GeekWire",
+   "title": "JPMorgan and Mastercard back Seattle startup Firmly\u2019s bet on AI shopping agents",
    "topic": "AI agents & tool use",
-   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/"
+   "url": "https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/"
   },
   "970810a8d289df46": {
    "added": "2026-11-03",
@@ -3118,22 +3246,6 @@
    "title": "Zillow CEO\u2019s reality check on AI agents: \u2018Finding a home isn\u2019t a chore to hand off to a robot\u2019",
    "topic": "AI agents & tool use",
    "url": "https://www.geekwire.com/2026/zillow-ceos-reality-check-on-ai-agents-finding-a-home-isnt-a-chore-to-hand-off-to-a-robot/"
-  },
-  "a8cc99f01ffe7b8c": {
-   "added": "2026-10-31",
-   "hits": 2,
-   "id": "a8cc99f01ffe7b8c",
-   "item_ids": [
-    "a8cc99f01ffe7b8c"
-   ],
-   "kind": "article",
-   "page": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5",
-   "score": 2.5553,
-   "section": "ai",
-   "source": "Anthropic news",
-   "title": "Anthropic Residency: applications open for established technical leaders - Anthropic Alignment Science blog",
-   "topic": "Interpretability & safety",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RZThRbzhUdFJTZGszLUcwT29wNFdIZ29fVjJTUTB4SkJFRlZRekpOOVlpM1F6eGVSN2RENmpjWUl3QWU5YWNwRHZNaF9EdlNNMTY1TUtfaTJHOHk3S2s3SXJVc3BWSVVa?oc=5"
   },
   "a8d5ce0e798b0db2": {
    "added": "2026-11-03",
@@ -3358,22 +3470,6 @@
    "title": "Look Over There! Dynamic Visual Guidance for AI-Narrated Slides",
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2610.41645"
-  },
-  "arxiv:2610.41680": {
-   "added": "2026-11-02",
-   "hits": 2,
-   "id": "arxiv:2610.41680",
-   "item_ids": [
-    "7c46575b665a9cc1"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2610.41680",
-   "score": 2.2105,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2610.41680"
   },
   "arxiv:2610.41751": {
    "added": "2026-11-02",
@@ -3631,22 +3727,6 @@
    "topic": "Wireless & acoustic sensing",
    "url": "https://arxiv.org/pdf/2611.00625"
   },
-  "arxiv:2611.00646": {
-   "added": "2026-11-03",
-   "hits": 2,
-   "id": "arxiv:2611.00646",
-   "item_ids": [
-    "963155d63a54e856"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.00646",
-   "score": 1.6563,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "When Shards Fly: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL",
-   "topic": "LLM serving & ML infrastructure",
-   "url": "https://arxiv.org/pdf/2611.00646"
-  },
   "arxiv:2611.00650": {
    "added": "2026-11-03",
    "hits": 1,
@@ -3774,38 +3854,6 @@
    "title": "Adaptive Land Units from Earth Embeddings",
    "topic": "Recommendation & production ML",
    "url": "https://arxiv.org/pdf/2611.01050"
-  },
-  "arxiv:2611.01067": {
-   "added": "2026-11-03",
-   "hits": 2,
-   "id": "arxiv:2611.01067",
-   "item_ids": [
-    "15f09e038146e9ae"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.01067",
-   "score": 1.7402,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "Ripple: Deadline-Aware CPU-GPU Sharing for Embodied Inference",
-   "topic": "LLM serving & ML infrastructure",
-   "url": "https://arxiv.org/pdf/2611.01067"
-  },
-  "arxiv:2611.01174": {
-   "added": "2026-11-03",
-   "hits": 4,
-   "id": "arxiv:2611.01174",
-   "item_ids": [
-    "af1f8061ca8d4e24"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.01174",
-   "score": 1.6944,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "TRIAGE: Reliability- and Load-Conditioned Escalation for Two-Tier LLM Serving with a Semantic Evidence Judge",
-   "topic": "LLM serving & ML infrastructure",
-   "url": "https://arxiv.org/pdf/2611.01174"
   },
   "arxiv:2611.01255": {
    "added": "2026-11-03",
@@ -4270,22 +4318,6 @@
    "title": "Pod-wise Multimodal Federated Learning for Heterogeneous IoT",
    "topic": "Multimodal & vision-language",
    "url": "https://arxiv.org/pdf/2611.03273"
-  },
-  "arxiv:2611.03410": {
-   "added": "2026-11-03",
-   "hits": 1,
-   "id": "arxiv:2611.03410",
-   "item_ids": [
-    "b1b03ddeb12e3093"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.03410",
-   "score": 2.1455,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.03410"
   },
   "arxiv:2611.03601": {
    "added": "2026-11-03",
@@ -4895,22 +4927,6 @@
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2611.06731"
   },
-  "arxiv:2611.06734": {
-   "added": "2026-11-05",
-   "hits": 1,
-   "id": "arxiv:2611.06734",
-   "item_ids": [
-    "31a594bbe02306e7"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.06734",
-   "score": 2.1344,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.06734"
-  },
   "arxiv:2611.06859": {
    "added": "2026-11-05",
    "hits": 2,
@@ -5007,22 +5023,6 @@
    "topic": "Training & scaling",
    "url": "https://arxiv.org/pdf/2611.07084"
   },
-  "arxiv:2611.07087": {
-   "added": "2026-11-06",
-   "hits": 2,
-   "id": "arxiv:2611.07087",
-   "item_ids": [
-    "0f3be83e732000c1"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.07087",
-   "score": 2.6182,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "WAVES: Wearable Active Vibroacoustic Elasticity Sensing for Low-Cost and Non-Invasive Muscle Stiffness Monitoring",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.07087"
-  },
   "arxiv:2611.07093": {
    "added": "2026-11-06",
    "hits": 2,
@@ -5038,22 +5038,6 @@
    "title": "Server-Side Sparse Assignment for Federated Mixture-of-Experts",
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2611.07093"
-  },
-  "arxiv:2611.07105": {
-   "added": "2026-11-06",
-   "hits": 2,
-   "id": "arxiv:2611.07105",
-   "item_ids": [
-    "e002de5a7ffcad49"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.07105",
-   "score": 2.0132,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs",
-   "topic": "LLM serving & ML infrastructure",
-   "url": "https://arxiv.org/pdf/2611.07105"
   },
   "arxiv:2611.07149": {
    "added": "2026-11-06",
@@ -5632,9 +5616,13 @@
   "arxiv:2610.40562": "2026-11-02",
   "arxiv:2610.40586": "2026-11-02",
   "arxiv:2610.40613": "2026-11-01",
+  "arxiv:2610.41680": "2026-11-08",
+  "arxiv:2611.00646": "2026-11-08",
   "arxiv:2611.00657": "2026-11-06",
   "arxiv:2611.00801": "2026-11-05",
+  "arxiv:2611.01067": "2026-11-08",
   "arxiv:2611.01150": "2026-11-03",
+  "arxiv:2611.01174": "2026-11-08",
   "arxiv:2611.01393": "2026-11-04",
   "arxiv:2611.01864": "2026-11-07",
   "arxiv:2611.02330": "2026-11-03",
@@ -5648,6 +5636,7 @@
   "arxiv:2611.03077": "2026-11-03",
   "arxiv:2611.03119": "2026-11-03",
   "arxiv:2611.03344": "2026-11-07",
+  "arxiv:2611.03410": "2026-11-08",
   "arxiv:2611.03769": "2026-11-07",
   "arxiv:2611.04114": "2026-11-04",
   "arxiv:2611.04137": "2026-11-04",
@@ -5660,6 +5649,9 @@
   "arxiv:2611.06501": "2026-11-05",
   "arxiv:2611.06524": "2026-11-05",
   "arxiv:2611.06584": "2026-11-05",
+  "arxiv:2611.06734": "2026-11-08",
+  "arxiv:2611.07087": "2026-11-08",
+  "arxiv:2611.07105": "2026-11-08",
   "arxiv:2611.07256": "2026-11-07",
   "arxiv:2611.07393": "2026-11-07",
   "arxiv:2611.07570": "2026-11-06",
@@ -5750,6 +5742,8 @@
   "1c645bca188b35a5": "2026-10-30",
   "1d9b8f21c4e87022": "2026-10-29",
   "1dcb67f0f46b67f2": "2026-10-24",
+  "1e25f8bc708ca709": "2026-11-08",
+  "1eeaf5457cb1a01a": "2026-11-08",
   "1f25cb669bbc7488": "2026-10-22",
   "1f6a44ea57dda52c": "2026-10-22",
   "1f9571a16d8d1805": "2026-10-21",
@@ -5821,6 +5815,7 @@
   "3ec4507df8a0c920": "2026-10-22",
   "3f14546ab309d299": "2026-11-06",
   "3fdace98b464eb08": "2026-11-04",
+  "414b97ddee29fa7f": "2026-11-08",
   "4156295d62c4a98f": "2026-10-31",
   "428ece090b327515": "2026-11-02",
   "44115490bcb6b7ca": "2026-10-24",
@@ -5873,6 +5868,7 @@
   "59b7ee228168193a": "2026-10-28",
   "5a5d044b5b626166": "2026-11-02",
   "5b592f80e93a7865": "2026-11-04",
+  "5b84c20771e51fda": "2026-11-08",
   "5bb272a35065dcc0": "2026-10-24",
   "5bb2f89b6a50045c": "2026-10-21",
   "5c33d37c37b5fa3c": "2026-10-25",
@@ -5927,6 +5923,7 @@
   "6f8aeb613fa89d31": "2026-10-31",
   "71f8d53a63635fdc": "2026-10-21",
   "73905398b90a9385": "2026-10-31",
+  "746756c1e33d7b4d": "2026-11-08",
   "74928e4da41380c1": "2026-10-25",
   "761e9f6c3a6798da": "2026-10-23",
   "76bb326162c051bf": "2026-10-27",
@@ -5958,6 +5955,8 @@
   "8027b3c8f16dd3fb": "2026-11-02",
   "80a542b5bf27d832": "2026-10-27",
   "80e5637a67e1a525": "2026-10-28",
+  "81161cac288b4eea": "2026-11-08",
+  "816c3c3fafd6a1ac": "2026-11-08",
   "81874a7c34538104": "2026-10-26",
   "81bbc102336e36f5": "2026-10-28",
   "8200dab1236b6727": "2026-10-27",
@@ -5990,9 +5989,11 @@
   "8df56ffee5c880b1": "2026-10-29",
   "8e4dab7a671a2e2b": "2026-10-27",
   "8f65b6637c02d384": "2026-10-31",
+  "8fb5b77f08405e55": "2026-11-08",
   "8fdcc82ca2f27bcc": "2026-10-21",
   "9006af7c3927ecdf": "2026-10-27",
   "9078ee3add537918": "2026-10-21",
+  "907a8309ff28d654": "2026-11-08",
   "907c1e716d9bd70f": "2026-10-26",
   "925cae36fc2747fd": "2026-10-23",
   "92b162502a858906": "2026-10-27",
@@ -6025,6 +6026,7 @@
   "a4c44e96b0a94df5": "2026-10-28",
   "a4d3526d3b30867d": "2026-10-23",
   "a53a40d9d648ac2a": "2026-11-01",
+  "a59a85731799a827": "2026-11-08",
   "a67468a060b5262a": "2026-10-28",
   "a76f8995ad566798": "2026-10-25",
   "a7e11bfba6b108f7": "2026-11-01",
@@ -6045,6 +6047,7 @@
   "af9076f8cfd4975f": "2026-10-21",
   "b06205b707f6eb46": "2026-10-24",
   "b18e8924e9aae138": "2026-11-06",
+  "b1a6cd1567f54c4d": "2026-11-08",
   "b2450b98aeba8d0d": "2026-10-23",
   "b2b7ebe6730fbedf": "2026-10-23",
   "b329d907578f8258": "2026-10-27",
@@ -6055,6 +6058,8 @@
   "b70c9bc7c518d055": "2026-10-27",
   "b77030aa9f48ab65": "2026-10-27",
   "b8097a6085322916": "2026-11-07",
+  "b80fe07c2346afef": "2026-11-08",
+  "b9855e502b503983": "2026-11-08",
   "b997047b855185ef": "2026-11-02",
   "b9a70981a2e542b6": "2026-11-03",
   "b9b9aeee0c23dad8": "2026-11-04",
@@ -6092,6 +6097,7 @@
   "c64b90fa4d7c0680": "2026-10-25",
   "c65f77dcf81d86c7": "2026-11-03",
   "c66ac0c4115a4fdc": "2026-11-05",
+  "c6cc797795532fc1": "2026-11-08",
   "c783774107d28edb": "2026-10-31",
   "c83d7267f480811b": "2026-10-21",
   "c84c258690ba6898": "2026-11-01",
@@ -6163,9 +6169,11 @@
   "e3dbdc4dd3bd4cdb": "2026-11-05",
   "e3f3f6c0c50f4c4d": "2026-11-02",
   "e4d084039ab11f8d": "2026-10-22",
+  "e66f4eeac8f3ba07": "2026-11-08",
   "e703e432320a5d1a": "2026-10-28",
   "e72369e9d1e6225e": "2026-10-22",
   "e813585790afea0f": "2026-10-29",
+  "e880b578fe3f15f0": "2026-11-08",
   "e9400fb735df969e": "2026-10-29",
   "e95542c76421136c": "2026-10-26",
   "e9efb1446d7a006a": "2026-11-04",
@@ -6173,6 +6181,7 @@
   "eba88fa97d76b1fb": "2026-10-28",
   "ec56c81884469847": "2026-10-26",
   "ec97b38e82eb19cb": "2026-10-24",
+  "ed44bd78a8597043": "2026-11-08",
   "ede9488de6abf040": "2026-10-21",
   "eec5787571531095": "2026-11-07",
   "eed1f589970e3900": "2026-11-03",
@@ -6194,6 +6203,7 @@
   "f63c13b7be81d935": "2026-10-21",
   "f6b133d01794efcc": "2026-10-24",
   "f7a53ccc5c2c37da": "2026-10-27",
+  "f803527ef6471535": "2026-11-08",
   "f8078d89c26a395a": "2026-10-24",
   "f8937822d5ed3bf8": "2026-10-23",
   "fa2fd09b84e99b31": "2026-11-02",
@@ -6219,9 +6229,9 @@
   "Distributed systems & databases": "2026-10-23",
   "Hearables & on-device audio AI": "2026-11-06",
   "LLM reasoning & test-time compute": "2026-11-01",
-  "LLM serving & ML infrastructure": "2026-11-04",
+  "LLM serving & ML infrastructure": "2026-11-08",
   "On-device & efficient ML": "2026-11-06",
   "Training & scaling": "2026-11-07",
-  "Wireless & acoustic sensing": "2026-11-05"
+  "Wireless & acoustic sensing": "2026-11-08"
  }
 }

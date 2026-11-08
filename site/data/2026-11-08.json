@@ -1,0 +1,653 @@
+{
+ "ctx": {
+  "date_long": "Sunday, November 8, 2026",
+  "weekday": "Sunday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTUktcGxpNENhQ1llV2F3a3V5RUZya0dDc0ZLeFVTZmFqclBqSVhuYkNiSFpSTkkwVnZ2NkFVVEVjQjZPLTJzMGMyU0dnaFg0X1pPd2pMV0ZCWWtMWlpSdTNvckRlaGxLcWs1SnljenEwcUs0N0doWG0yRDdET2o4YlZMVWl6c2lpYWJ1emstVFI1S3VyUXdIdG1xdmZpS3k3ZW5LVUpibUZ0SWxmZUNLNXN0SDBMZE5nWFJZdDlQSQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-08 12:54:10+00:00",
+      "summary": "Anthropic secures $3.4 billion generator deal for AI data centers, FT reports \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.5207,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "a59a85731799a827"
+     },
+     {
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-08 18:14:11+00:00",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0957,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b1a6cd1567f54c4d"
+     },
+     {
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-08 17:35:13+00:00",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.073,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "5b84c20771e51fda"
+     },
+     {
+      "title": "No clear winner in New Zealand election, as leaders prepare for weeks of talks",
+      "url": "https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-08 16:46:15+00:00",
+      "summary": "Prime Minister Christopher Luxon, who will lead a caretaker government while negotiations take place, said: \"I think everyone's over politics so let's all have a bit of a break for the next three weeks\".",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9504,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "746756c1e33d7b4d"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "JPMorgan and Mastercard back Seattle startup Firmly\u2019s bet on AI shopping agents",
+      "url": "https://www.geekwire.com/2026/jpmorgan-and-mastercard-back-seattle-startup-firmlys-bet-on-ai-shopping-agents/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-07 18:23:57+00:00",
+      "summary": "Firmly raised $15 million to expand software that lets online retailers sell through AI shopping assistants, marketplaces and other channels without building a separate integration for each one. The company also launched Ask Agent, an AI shopping assistant for retailers' own websites. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.9881,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "8fb5b77f08405e55"
+     },
+     {
+      "title": "Trevor Noah on AI",
+      "url": "https://www.geekwire.com/2026/etzioni-on-ai-trevor-noah-on-ai/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-08 17:52:13+00:00",
+      "summary": "Trevor Noah told an audience at Boston's Museum of Science on Oct. 19 that the real question about AI and jobs is the \"following distance\" between old jobs disappearing and new ones arriving. Oren Etzioni, who joined him onstage, recounts Noah's views on why AI struggles with comedy, why in-person community matters and why AI only seems to go deep. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3781,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b9855e502b503983"
+     },
+     {
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-07 18:02:17+00:00",
+      "summary": "482 points \u00b7 296 comments on HN",
+      "duration_min": null,
+      "popularity": 482.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50406563",
+       "ago": "24h ago"
+      },
+      "score": 1.2898,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "1eeaf5457cb1a01a"
+     },
+     {
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-08 03:11:48+00:00",
+      "summary": "575 points \u00b7 369 comments on HN",
+      "duration_min": null,
+      "popularity": 575.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50410107",
+       "ago": "15h ago"
+      },
+      "score": 1.1998,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "e66f4eeac8f3ba07"
+     },
+     {
+      "title": "Apple\u2019s M5 MacBook Air is down to its lowest price since July",
+      "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-08 16:00:00+00:00",
+      "summary": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we\u2019ve seen this $200 discount following the company\u2019s hefty price increases over the summer. Although the base model \u2014 which features Apple\u2019s M5 processor, 16GB of RAM, and 512GB of storage \u2014 often sold for around $950 to $1,000 shortly after [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7793,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "f803527ef6471535"
+     },
+     {
+      "title": "Physicists listened to electrical noise to crack a superconductor mystery",
+      "url": "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-08 12:15:31+00:00",
+      "summary": "Tuning in to electronic noise can tell us whether electrons have paired up or not.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 0.6633,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "414b97ddee29fa7f"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-07 23:57:46+00:00",
+      "summary": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page of rows in that table. This was happening because Datasette pages serve an HTTP link header like this: link:\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 0.7918,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "c6cc797795532fc1"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent",
+      "url": "https://arxiv.org/abs/2611.08321",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-05 17:18:13+00:00",
+      "summary": "Connecting hand input in mixed reality (MR) to a nearby physical device typically requires an integration written in advance for that device, its transport and the mapping. ControlAnything defers this integration to the moment of use and assigns it to a coding agent. On a Meta Quest 3, the wearer selects an object outlined by SAM 3.1 and states\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.08321",
+       "arxiv_id": "2611.08321",
+       "authors": "Bektur Ryskeldiev",
+       "ago": "3d ago"
+      },
+      "score": 1.8826,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "816c3c3fafd6a1ac"
+     },
+     {
+      "title": "Ananas: A Networked Audio System for Distributed Spatial Audio Applications",
+      "url": "https://arxiv.org/abs/2611.03077",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-02 13:04:21+00:00",
+      "summary": "Spatial audio has an accessibility problem. Largescale spatial and immersive audio installations remain costly and exclusive, with high barriers to entry. We propose ''Ananas,'' a networked audio system consisting of network protocols, control software and microcontroller firmware, with the aim of rendering spatial audio applications accessible\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.03077",
+       "arxiv_id": "2611.03077",
+       "authors": "Thomas Rushton, Romain Michon, Tanguy Risset",
+       "ago": "6d ago"
+      },
+      "score": 1.7152,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "e880b578fe3f15f0"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "The Agent Board: Kanban for Machines; Durable Coordination for Agents That Outlive the Conversation",
+      "url": "https://arxiv.org/abs/2611.04100",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-03 00:21:54+00:00",
+      "summary": "Harnesses for large language models have converged on a single-threaded shape: one agent, one history, one machine, one sitting. That shape fails work that spans many agents, outlives any one model call, or waits on systems that are not agents. We describe the Agent Board, the coordination substrate in the Corvic harness. The board is a durable,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.04100",
+       "arxiv_id": "2611.04100",
+       "authors": "Tyler Hunt, Donald Nguyen, Gurbinder Gill",
+       "ago": "5d ago"
+      },
+      "score": 0.9987,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "907a8309ff28d654"
+     },
+     {
+      "title": "ROCm InferaSim: Cut LLM Serving Trial Costs and Deploy the Best Configuration",
+      "url": "https://arxiv.org/abs/2611.04032",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-02 22:23:40+00:00",
+      "summary": "Serving an LLM efficiently depends on the engine, how the model is split across GPUs, precision, scheduler settings, speculative decoding, KV-cache management, and prefill-decode disaggregation. The best configuration depends on the model, hardware, workload, and objective. Operators usually find it by trial and error. Exhaustively measuring the\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.04032",
+       "arxiv_id": "2611.04032",
+       "authors": "Anshu Raina, Yao Fu, Zhang Jiejing, Peyman Razaghi et al.",
+       "ago": "5d ago"
+      },
+      "score": 0.9925,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "b80fe07c2346afef"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Is Your Body Language Working Against You? | Cara Hale Alter | TED",
+      "url": "https://www.youtube.com/watch?v=on1L_jblaw8",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-08 16:00:32+00:00",
+      "summary": "What does confidence look like? Public speaking expert Cara Hale Alter studies how to project confidence and credibility \u2014 and she's pinpointed two key behaviors that shape how others see you. In this actionable talk, she explains how to make sure\u2026",
+      "duration_min": null,
+      "popularity": 5.799,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/on1L_jblaw8/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 1.1568,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "1e25f8bc708ca709"
+     }
+    ]
+   },
+   {
+    "id": "newsletters",
+    "title": "\ud83d\udcec Sunday newsletter catch-up",
+    "items": [
+     {
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-08 13:31:32+00:00",
+      "summary": "Listen now (59 mins) | Tulsee Doshi on building Google\u2019s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.1617,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "ed44bd78a8597043"
+     },
+     {
+      "title": "How Figma\u2019s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-02 13:04:11+00:00",
+      "summary": "Listen now | \ud83c\udf99\ufe0f Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6d ago"
+      },
+      "score": 0.8186,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "81161cac288b4eea"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-08:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "WAVES: Wearable Active Vibroacoustic Elasticity Sensing for Low-Cost and Non-Invasive Muscle Stiffness Monitoring",
+      "url": "https://arxiv.org/abs/2611.07087",
+      "kind": "paper"
+     },
+     {
+      "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
+      "url": "https://arxiv.org/abs/2610.41680",
+      "kind": "paper"
+     },
+     {
+      "title": "OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots",
+      "url": "https://arxiv.org/abs/2611.03410",
+      "kind": "paper"
+     },
+     {
+      "title": "Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation",
+      "url": "https://arxiv.org/abs/2611.06734",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-08:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs",
+      "url": "https://arxiv.org/abs/2611.07105",
+      "kind": "paper"
+     },
+     {
+      "title": "Ripple: Deadline-Aware CPU-GPU Sharing for Embodied Inference",
+      "url": "https://arxiv.org/abs/2611.01067",
+      "kind": "paper"
+     },
+     {
+      "title": "TRIAGE: Reliability- and Load-Conditioned Escalation for Two-Tier LLM Serving with a Semantic Evidence Judge",
+      "url": "https://arxiv.org/abs/2611.01174",
+      "kind": "paper"
+     },
+     {
+      "title": "When Shards Fly: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL",
+      "url": "https://arxiv.org/abs/2611.00646",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 18,
+  "read_min": 51,
+  "listen_min": 15,
+  "generated": "10:21 AM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.07087",
+     "item_ids": [
+      "0f3be83e732000c1"
+     ],
+     "title": "WAVES: Wearable Active Vibroacoustic Elasticity Sensing for Low-Cost and Non-Invasive Muscle Stiffness Monitoring",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.07087",
+     "page": "https://arxiv.org/abs/2611.07087",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.6182,
+     "added": "2026-11-06"
+    },
+    {
+     "added": "2026-11-02",
+     "hits": 2,
+     "id": "arxiv:2610.41680",
+     "item_ids": [
+      "7c46575b665a9cc1"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2610.41680",
+     "score": 2.2105,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Designing wearable haptic cueing for neurological gait rehabilitation: user requirements across residential care and community settings",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2610.41680"
+    },
+    {
+     "id": "arxiv:2611.03410",
+     "item_ids": [
+      "b1b03ddeb12e3093"
+     ],
+     "title": "OpenZilo: An Open Smart-Ring Platform for Human-Centric Sensing and Interaction with Robots",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.03410",
+     "page": "https://arxiv.org/abs/2611.03410",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.1455,
+     "added": "2026-11-03"
+    },
+    {
+     "id": "arxiv:2611.06734",
+     "item_ids": [
+      "31a594bbe02306e7"
+     ],
+     "title": "Smartphone-Aided VR Exergames for HIIT: Gamifying Fitness with Real-Time Pose Estimation",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.06734",
+     "page": "https://arxiv.org/abs/2611.06734",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.1344,
+     "added": "2026-11-05"
+    }
+   ],
+   "date": "2026-11-08",
+   "key": "ep:2026-11-08:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "0f3be83e732000c1",
+    "7c46575b665a9cc1",
+    "b1b03ddeb12e3093",
+    "31a594bbe02306e7"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.07105",
+     "item_ids": [
+      "e002de5a7ffcad49"
+     ],
+     "title": "NUMA-Torch: Compiler-Driven NUMA-Aware LLM Prefill on Multi-Socket CPUs",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.07105",
+     "page": "https://arxiv.org/abs/2611.07105",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.0132,
+     "added": "2026-11-06"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 2,
+     "id": "arxiv:2611.01067",
+     "item_ids": [
+      "15f09e038146e9ae"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.01067",
+     "score": 1.7402,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "Ripple: Deadline-Aware CPU-GPU Sharing for Embodied Inference",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.01067"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 4,
+     "id": "arxiv:2611.01174",
+     "item_ids": [
+      "af1f8061ca8d4e24"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.01174",
+     "score": 1.6944,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "TRIAGE: Reliability- and Load-Conditioned Escalation for Two-Tier LLM Serving with a Semantic Evidence Judge",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.01174"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 2,
+     "id": "arxiv:2611.00646",
+     "item_ids": [
+      "963155d63a54e856"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.00646",
+     "score": 1.6563,
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "title": "When Shards Fly: Cross-Tensor In-Flight Conversion for Low-Latency, Low-Memory Weight Updates in Disaggregated RL",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.00646"
+    }
+   ],
+   "date": "2026-11-08",
+   "key": "ep:2026-11-08:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "e002de5a7ffcad49",
+    "15f09e038146e9ae",
+    "af1f8061ca8d4e24",
+    "963155d63a54e856"
+   ]
+  }
+ ]
+}
