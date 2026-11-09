@@ -1,0 +1,847 @@
+{
+ "ctx": {
+  "date_long": "Monday, November 9, 2026",
+  "weekday": "Monday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Trump says Nvidia boss told him he had no idea woman he had affair with was Chinese spy",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-09 22:50:07+00:00",
+      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0945,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "28060fe0611cfc32"
+     },
+     {
+      "title": "Dana White declines Trump\u2019s offer to be White House press secretary",
+      "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-09 22:46:27+00:00",
+      "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\".",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0924,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d3739e8ec8e9e505"
+     },
+     {
+      "title": "France accuses Iran of cyber 'sabotage' in fridge attacks",
+      "url": "https://www.npr.org/2026/11/09/g-s1-152724/france-iran-cyber-sabotage-fridge-attacks",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-09 22:30:49+00:00",
+      "summary": "France says Iranian military hackers took over refrigeration controllers at around 700 different retail sites last month, turning up temperatures in the middle of the night and spoiling millions of dollars' worth of food.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9847,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "dc54cd1e24ad7f3b"
+     },
+     {
+      "title": "Supreme Court says border wall construction can continue in west Texas",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6019424/border-wall-big-bend-texas-trump",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-09 21:47:39+00:00",
+      "summary": "The Trump administration filed an emergency relief request with the high court earlier in October asking for the construction to continue while a lawsuit over the plan moves forward.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9623,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "16b14e3a7e1f2c58"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "From paper routes to fighter jets: Shield AI\u2019s bet on Seattle is a homecoming for its co-founders",
+      "url": "https://www.geekwire.com/2026/from-paper-routes-to-fighter-jets-shield-ais-bet-on-seattle-is-a-homecoming-for-its-co-founders/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 14:36:11+00:00",
+      "summary": "Shield AI co-founder Brandon Tseng, who spent part of his childhood on Mercer Island, says he believes the defense tech company will become one of the fastest-growing, employers in the Seattle region over the next several years, as it buys radar maker Echodyne for up to $5.3 billion and prepares to build its X-BAT fighter jet south of Seattle. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.959,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "42dff77a0e8391b4"
+     },
+     {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 18:56:29+00:00",
+      "summary": "811 points \u00b7 474 comments on HN",
+      "duration_min": null,
+      "popularity": 811.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50429906",
+       "ago": "4h ago"
+      },
+      "score": 1.4686,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "796a7f7ee338b70f"
+     },
+     {
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 19:58:59+00:00",
+      "summary": "321 points \u00b7 164 comments on HN",
+      "duration_min": null,
+      "popularity": 321.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50431058",
+       "ago": "3h ago"
+      },
+      "score": 1.4159,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "1130d877dd4cae01"
+     },
+     {
+      "title": "New tax incentives give Washington\u2019s sustainable aviation fuel industry a boost",
+      "url": "https://www.geekwire.com/2026/new-tax-incentives-give-washingtons-sustainable-aviation-fuel-industry-a-boost/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 17:38:35+00:00",
+      "summary": "Washington hit a milestone that unlocks tax incentives for producing cleaner jet fuel in the state starting in January. The move could benefit producers such as Twelve, which is already making fuel from captured carbon in Moses Lake, but growing competition for electricity is a hurdle for the industry. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.1866,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "32eb86819234dc84"
+     },
+     {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 19:00:00+00:00",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of the Fable and Mythos models. Claude Fable [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.1649,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "f1eea0a2781af6aa"
+     },
+     {
+      "title": "Uber wants to park your car now, too",
+      "url": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-09 17:00:00+00:00",
+      "summary": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a network of over 13,000 facilities across more than 400 cities into the company's [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.098,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "3ab88d0df6c0ced6"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvemRsWlN1U1g0NDQ5VUdhajBhZVVfd3J1eGRGV1lubnZQc3J6UVA1STMwdmlUM0k3a2c0SkN3VmdxYkplTnp4TWlheWV0NHlUUzFTYTU1b3Vmbmh1ZjVBakVlcw?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-09 21:04:35+00:00",
+      "summary": "Introducing Claude Fable 5.2 and Claude Mythos 5.2 \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.032,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "546432b668b63ea5"
+     },
+     {
+      "title": "Claude can design electronic prototypes from start to finish - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCTmk0c0tyNmVjUlFGNGlCZUtLSkxDQS13Unc1LUVXanhOVmt2a2xTLUQ2Vm5LZ2RLQnMzVUhUQXFLTVBfd1VQZi01V0ppVkZLU0VIcXNJT3V3Ul9ZSEFUS3l6S2ZLY0tHOVgxNw?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-09 18:58:57+00:00",
+      "summary": "Claude can design electronic prototypes from start to finish \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.9051,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "5fec80c84d22647c"
+     },
+     {
+      "title": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering \u2014 Mihail Eric, Monaco",
+      "url": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-08 21:23:29+00:00",
+      "summary": "What do you assign when a coding agent can finish last year\u2019s homework in one prompt? In the second run of Stanford\u2019s CS146S, Mihail Eric brought open-source maintainers into the course. Students have to learn an unfamiliar repo, propose a change, and ...",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "25h ago"
+      },
+      "score": 1.3057,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "6b30b33472969a8e"
+     },
+     {
+      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI \u2014 Garrett Lord & Team",
+      "url": "https://latent.space/p/handshake/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-09 17:15:53+00:00",
+      "summary": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.2703,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "8433ae49482a0e15"
+     },
+     {
+      "title": "Hide your slop PR descriptions behind",
+      "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-09 04:25:05+00:00",
+      "summary": "Most of the changes I make to my projects these days come in the form of PRs opened for me by Claude Code or Codex. The PR is my unit of work - I use them to bundle commits together, iterating on them until a feature is complete, document decisions and then merge the finished result. Today's coding agents are great at writing PR descriptions. They're too good at describing the work The problem\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.1044,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "dfe20d543056095c"
+     },
+     {
+      "title": "parse_number() as a SQLite extension: C vs Rust",
+      "url": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-08 22:26:00+00:00",
+      "summary": "Research: parse_number() as a SQLite extension: C vs Rust I was out walking the dog when I got curious about how easy/difficult it would be to write a SQLite C extension that adds a parse_number() function for turning strings like -$1,234.56 or '12.5%' into numeric values that could be summed and sorted. I fired up regular Claude chat (Opus 5.5) and prompted : I'm thinking about a SQLite custom\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 0.9836,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "2b64d9f05d508fcf"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Tags Helping Tags: Coordination-Free Power Boosting for Battery-less Backscatter Networks",
+      "url": "https://arxiv.org/abs/2611.08803",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-05 23:55:54+00:00",
+      "summary": "Battery-less backscatter sensor nodes powered by radio-frequency wireless power transfer are attractive for large or hard-to-reach deployments, but their range is typically limited by the forward power-transfer link rather than by communication sensitivity. We present a method for improving power delivery, and thus range, in dense tag deployments\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.08803",
+       "arxiv_id": "2611.08803",
+       "authors": "Mathew Salas, Xin Xiong, Sihua Shao, Atef Elsherbeni et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.4606,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "ed9b0b4df2be6ad6"
+     },
+     {
+      "title": "Sensed but Not Told: Hidden Physiological Adaptation Shapes LLM Persuasion",
+      "url": "https://arxiv.org/abs/2611.09394",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-06 12:33:13+00:00",
+      "summary": "Wearable sensors, including those embedded in VR headsets, can provide LLM-based chatbots with physiological signals that users do not explicitly communicate. We tested whether such hidden input changes persuasion. In a $2\\times2$ within-subjects study ($N=24$), a chatbot argued against participants' self-selected opinions with or without\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.09394",
+       "arxiv_id": "2611.09394",
+       "authors": "Xiaoyan Wei, Yutong Qu, Yutong Li, Haiyi Li et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.4016,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "becc96a01bcee941"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+      "url": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-09 17:00:12+00:00",
+      "summary": "We built a vendor-neutral accelerator plugin architecture in lldb-server for debugging applications that span CPUs and GPUs. It separates shared debugger infrastructure from hardware-specific device control. The design represents the CPU and GPU as separate debugger processes while presenting them in one debugging session. Modern AI applications rarely execute in one place. A workload can [...]\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.7293,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "dfd41805582ca791"
+     },
+     {
+      "title": "RPEG: Training Reasoning Language Models Scalably and Cost-Effectively",
+      "url": "https://arxiv.org/abs/2611.09207",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-06 09:28:49+00:00",
+      "summary": "Reinforcement learning (RL) is now central to training Reasoning Language Models (RLMs), but RLM pipelines are difficult to scale and costly to run because each RL step couples multiple large models, heterogeneous stages, cross-step state, and complex asynchronous dependencies. Existing systems typically optimize only parts of this design space.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.09207",
+       "arxiv_id": "2611.09207",
+       "authors": "Maciej Besta, Leonard Schmidt, Pierre Pang, Patrik Okanovic et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.6652,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "2ccd643a984d52e4"
+     },
+     {
+      "title": "Nebula: Distributed Position-Independent Caching for LLM Serving",
+      "url": "https://arxiv.org/abs/2611.09474",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-06 13:54:49+00:00",
+      "summary": "Modern LLM workflows, such as retrieval-augmented generation (RAG) and LLM agents, build long prompts from multiple independent text segments, making prefill a major source of computation. Reusing KV caches is therefore important for reducing serving costs and latency: distributed caching systems spread KV cache across a cluster to increase\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.09474",
+       "arxiv_id": "2611.09474",
+       "authors": "Yifei Liu, Junbin Pan, Junhao Hu, Yang Liu et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.4727,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "ec7ce4dbca8dfdf7"
+     },
+     {
+      "title": "How LinkedIn Uses AI to Review 40,000 Pull Requests a Week",
+      "url": "https://blog.bytebytego.com/p/how-linkedin-uses-ai-to-review-40000",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-09 16:30:44+00:00",
+      "summary": "Most of its reviews are posted before the first human reviewer even opens the PR",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.1491,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "c0212b2cac20aad8"
+     },
+     {
+      "title": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+      "url": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-09 17:01:02+00:00",
+      "summary": "By Shreya S Ramanujam , Yongce Li , Afshine Amidi , Sina Ghiassian , Benjamin Klein . Introduction Picture this \u2014 you\u2019re home after a long day at work and can\u2019t wait to catch up on Bridgerton. You log on to Netflix, search for \u201cBridgerton\u201d and land on this screen: If this sounds familiar, you already know what a synopsis is \u2014 it\u2019s a short glimpse into what a viewer can expect to see in a show.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.0569,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "098f893212f3dec3"
+     },
+     {
+      "title": "Launching the Vite Ecosystem Fund",
+      "url": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-09 13:00:00+00:00",
+      "summary": "Cloudflare is distributing the first $301,300 of the Vite Ecosystem Fund to open source projects and maintainers. The recipients were chosen by a panel of Vite stack core team members, including maintainers not employed by Cloudflare.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 0.9358,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "b2982d30c3500929"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Aak Me Anything | November 2026",
+      "url": "https://preposterousuniverse.com/podcast/2026/11/09/ama-november-2026/",
+      "source": "Sean Carroll's Mindscape",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-09 11:44:00+00:00",
+      "summary": "Welcome to the November 2026 Ask Me Anything episode of Mindscape! These monthly excursions are funded by Patreon supporters (who are also the ones asking the questions). We take questions asked by Patreons, whittle them down to a more manageable number -- based primarily on whether I have\u2026",
+      "duration_min": 247,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/ama_Nov_2026_ed2.mp3?dest-id=5264190",
+       "ago": "11h ago"
+      },
+      "score": 0.7425,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "2ef877efcfce4e51"
+     },
+     {
+      "title": "Overcome Addictions & Obsessions of All Kinds | Dr. Anna Lembke",
+      "url": "https://www.hubermanlab.com/episode/overcome-addictions-and-obsessions-of-all-kinds-anna-lembke",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-09 13:42:00+00:00",
+      "summary": "Dr. Anna Lembke, MD, is chief of the Addiction Medicine Dual Diagnosis Clinic at Stanford and a leading expert in how to overcome addictions of all kinds. We discuss dopamine dynamics in the brain and how they impact risk-taking, mental obsession, and compulsive behaviors. We also discuss the most\u2026",
+      "duration_min": 137,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM8035808992.mp3",
+       "ago": "9h ago"
+      },
+      "score": 0.658,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "d646fd74ccb318d1"
+     },
+     {
+      "title": "Trump's Post-Midterm Changes, Lame-Duck Congress, Nvidia Huang Investigation",
+      "url": "https://www.npr.org/2026/11/09/nx-s1-6034314/trumps-post-midterm-changes-lame-duck-congress-nvidia-huang-investigation",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-09 10:42:37+00:00",
+      "summary": "President Trump says his immigration crackdown may have gone too far even as he elevates Stephen Miller, one of its chief architects, to run the White House after Republicans lost Congress. Republicans are returning to Washington for a lame-duck session with a shrinking House majority and a short\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ff267242-74c6-4d7d-8c1e-9a99ebf4c5c5/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ff267242-74c6-4d7d-8c1e-9a99ebf4c5c5&feed=HMwRVgVt&t=podcast&e=nx-s1-6034314&p=510318&d=791&size=12662954",
+       "ago": "12h ago"
+      },
+      "score": 0.6316,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "cedda5f9b623677d"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "OpenAI spent $1.2 million hacking Linux... and it was a bargain",
+      "url": "https://www.youtube.com/watch?v=pf5tXJZM1Rw",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-09 21:04:16+00:00",
+      "summary": "Greptile is the only AI code reviewer that actually runs your code. Try it for free: https://greptile.com/go/fireship A model you're not allowed to use just tore through the Linux kernel and came back with 948 root exploits... let's break it down.\u2026",
+      "duration_min": null,
+      "popularity": 121.957,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/pf5tXJZM1Rw/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 2.1801,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "59954d2368018845"
+     },
+     {
+      "title": "AI Brain Fry Is Real. Here\u2019s What Leaders Can Do | Julie Bedard | TED",
+      "url": "https://www.youtube.com/watch?v=g3_TqjSLyLk",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-09 16:00:06+00:00",
+      "summary": "Workers everywhere are quietly redesigning their jobs around AI, boosting productivity but also creating new kinds of problems. AI advisor Julie Bedard thinks she has a fix. She shares new research on three areas for leaders to focus on \u2014 including\u2026",
+      "duration_min": null,
+      "popularity": 23.307,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/g3_TqjSLyLk/hqdefault.jpg",
+       "ago": "6h ago"
+      },
+      "score": 0.9067,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "d00a63bd81f37f09"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-09:batch-normalization-then-now",
+    "label": "Classic paper 6/15 \u00b7 Training & scaling",
+    "title": "Batch Normalization \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Batch Normalization",
+      "url": "https://arxiv.org/pdf/1502.03167",
+      "kind": "paper"
+     },
+     {
+      "title": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
+      "url": "https://arxiv.org/abs/2611.01320",
+      "kind": "paper"
+     },
+     {
+      "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
+      "url": "https://arxiv.org/abs/2611.04794",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-09:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
+      "url": "https://arxiv.org/abs/2611.04376",
+      "kind": "paper"
+     },
+     {
+      "title": "Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates",
+      "url": "https://arxiv.org/abs/2611.04797",
+      "kind": "paper"
+     },
+     {
+      "title": "TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization",
+      "url": "https://arxiv.org/abs/2611.07217",
+      "kind": "paper"
+     },
+     {
+      "title": "Balancing Chain-of-Thought and Answer Supervision for Small Language Models on Medical Question Answering",
+      "url": "https://arxiv.org/abs/2611.03948",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 29,
+  "read_min": 72,
+  "listen_min": 427,
+  "generated": "2:59 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Training & scaling",
+   "title": "Batch Normalization \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://arxiv.org/pdf/1502.03167",
+     "title": "Batch Normalization",
+     "kind": "paper",
+     "url": "https://arxiv.org/pdf/1502.03167",
+     "page": "https://arxiv.org/pdf/1502.03167",
+     "source": "Classic \u00b7 MLE Foundations"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 2,
+     "id": "arxiv:2611.01320",
+     "item_ids": [
+      "e9df5c5828788f4e"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.01320",
+     "score": 1.9964,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Step-dLLM: Adaptive Step-aware Sparse Attention for Efficient Diffusion LLM Inference",
+     "topic": "Training & scaling",
+     "url": "https://arxiv.org/pdf/2611.01320"
+    },
+    {
+     "id": "arxiv:2611.04794",
+     "item_ids": [
+      "d1eb176e6b48217d"
+     ],
+     "title": "Accelerating Offloading-Based MoE Inference by Interleaving Concurrent Requests",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.04794",
+     "page": "https://arxiv.org/abs/2611.04794",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 1.9096,
+     "added": "2026-11-04"
+    }
+   ],
+   "date": "2026-11-09",
+   "key": "ep:2026-11-09:batch-normalization-then-now",
+   "item_ids": [
+    "classic:https://arxiv.org/pdf/1502.03167",
+    "e9df5c5828788f4e",
+    "d1eb176e6b48217d"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "added": "2026-11-04",
+     "hits": 1,
+     "id": "arxiv:2611.04376",
+     "item_ids": [
+      "d40a9b68f0385946"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.04376",
+     "score": 2.3574,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Aligning Training and Rollout Policies for End-to-End FP4 RL on Mixture-of-Experts LLMs",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.04376"
+    },
+    {
+     "added": "2026-11-04",
+     "hits": 1,
+     "id": "arxiv:2611.04797",
+     "item_ids": [
+      "d27ec87acb70107c"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.04797",
+     "score": 2.2853,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Training Specialist LLMs on Your Phone: Forward-Only Optimization via Block-Spectral Coordinates",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.04797"
+    },
+    {
+     "id": "arxiv:2611.07217",
+     "item_ids": [
+      "9ba157dcf7d1666e"
+     ],
+     "title": "TileQuant: Tile as the Precision-Allocation Unit for LLM Mixed-Precision Post-Training Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.07217",
+     "page": "https://arxiv.org/abs/2611.07217",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.2728,
+     "added": "2026-11-06"
+    },
+    {
+     "added": "2026-11-04",
+     "hits": 2,
+     "id": "arxiv:2611.03948",
+     "item_ids": [
+      "24e6758d37943dbf"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.03948",
+     "score": 2.2372,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Balancing Chain-of-Thought and Answer Supervision for Small Language Models on Medical Question Answering",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.03948"
+    }
+   ],
+   "date": "2026-11-09",
+   "key": "ep:2026-11-09:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "d40a9b68f0385946",
+    "d27ec87acb70107c",
+    "9ba157dcf7d1666e",
+    "24e6758d37943dbf"
+   ]
+  }
+ ]
+}
