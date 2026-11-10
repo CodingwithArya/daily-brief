@@ -1,0 +1,898 @@
+{
+ "ctx": {
+  "date_long": "Tuesday, November 10, 2026",
+  "weekday": "Tuesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-10 05:22:39+00:00",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 1.2981,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "ea810501b5f84a8b"
+     },
+     {
+      "title": "Police officer dies and another injured after backpack explosion in northern Spain",
+      "url": "https://www.bbc.co.uk/news/articles/cwm262pzezy0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-10 11:25:46+00:00",
+      "summary": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.1759,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "e33275ffb3e16cd6"
+     },
+     {
+      "title": "Three workers die at Tata's India iPhone parts factory in latest safety incident - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzVBU0RlVDBETXZNRDZhMHB0REwwZC1fMTNzdzc5VHZFc0pwZjl2ZW5mUGk2QXJ6Zmx4Q1puUUtoTXppdndSZl9iYUdaTXk1RlVBWEgwTTRObEpLdkpKbjJ1NUdGakxETkRrZUdyWENUa2c0VFRrcXVXUEszNm5hRzZ1UFRwTGdlV3poVlZTR051MTUxZElBZk1WbWRMaHViM0dfVnlsS05vajlQYWtqZU9IaTFiTTg4UXZHOGpodF9URHlLR004?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-10 03:28:00+00:00",
+      "summary": "Three workers die at Tata's India iPhone parts factory in latest safety incident \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "17h ago"
+      },
+      "score": 1.13,
+      "why": "",
+      "also_sections": [],
+      "ago": "17h ago",
+      "id": "eda954012f423308"
+     },
+     {
+      "title": "EXCLUSIVE: Anthropic\u2019s nearly $70 billion IPO plan briefly circulated to banks, then retracted - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3BsU0k0ZDdibmxRSGgzS3RvUlh3b0hyTVZ1Tnpqa1Z2R2ZvcjdfeTV6ZEV0bTU3UG5ROXYxYUgtOWZHWUVWazkzUm5vOHo2OFhqT3V2RlBjWVkyMF9VUU8tSFlJdkVzVEYyb1VVRnRjaTlUTm82dGc2MUxBQWNBdlp0M1pqUGVBNy1hLXk?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-10 01:22:00+00:00",
+      "summary": "EXCLUSIVE: Anthropic\u2019s nearly $70 billion IPO plan briefly circulated to banks, then retracted \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.0801,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "c94df194a3808837"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Microsoft awards $20K grants to 25 Seattle-area nonprofits amid state budget crunch and tax debate",
+      "url": "https://www.geekwire.com/2026/microsoft-awards-20k-grants-to-25-seattle-area-nonprofits-amid-state-budget-crunch-and-tax-debate/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 18:48:12+00:00",
+      "summary": "Microsoft awarded $20,000 grants to 25 King County nonprofits, chosen from 813 applicants, in the first round of its new $1 million Community-First Grants program. Microsoft President Brad Smith said the state government is the largest funder of Washington nonprofits, as the company argues that state taxes are hurting the business climate. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.9199,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "38754c26d4f5076a"
+     },
+     {
+      "title": "Fintech giant Plaid opening Seattle engineering office, with plans to double local headcount",
+      "url": "https://www.geekwire.com/2026/fintech-giant-plaid-opening-seattle-engineering-office-with-plans-to-double-local-headcount/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 18:28:36+00:00",
+      "summary": "The 11,466-square-foot Westlake office will house Plaid\u2019s growing technical team as the company builds AI models for financial services. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.3646,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "b8c1dadf58ad53b8"
+     },
+     {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 06:01:08+00:00",
+      "summary": "660 points \u00b7 231 comments on HN",
+      "duration_min": null,
+      "popularity": 660.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50436640",
+       "ago": "14h ago"
+      },
+      "score": 1.4831,
+      "why": "",
+      "also_sections": [],
+      "ago": "14h ago",
+      "id": "2eaebfdb6cb5d581"
+     },
+     {
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 16:37:44+00:00",
+      "summary": "451 points \u00b7 88 comments on HN",
+      "duration_min": null,
+      "popularity": 451.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50442736",
+       "ago": "3h ago"
+      },
+      "score": 1.4054,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "ad9eb20db0e41095"
+     },
+     {
+      "title": "Free video-streaming service Tubi lets users share curated watchlists now",
+      "url": "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 18:39:16+00:00",
+      "summary": "User-based recommendations could make it easier to find stuff to watch on Tubi.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0568,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "f68aa4a60cb93194"
+     },
+     {
+      "title": "ChatGPT is getting verified AI \u2018Business Agents\u2019",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 18:00:00+00:00",
+      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. The feature, available first to \"eligible\" e-commerce and online service businesses in the US, is launching as part of a suite of business-focused features in ChatGPT being announced today in beta. You [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9984,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "7396b577c72532a7"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "[AINews] Fable 5.2 retakes World #1 LLM spot as $ANT IPO roadshow begins",
+      "url": "https://latent.space/p/ainews-fable-5-2-retakes-world-1-llm-spot-as-ant-ipo-roadshow-begins/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 06:34:44+00:00",
+      "summary": "November 9, 2026 \u2014 Claude Fable 5.2 and Mythos 5.2 arrive on Anthropic\u2019s IPO roadshow day. How much thinking is worth paying for?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "13h ago"
+      },
+      "score": 2.2081,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "62d6b023e1f9f404"
+     },
+     {
+      "title": "Designing for Agents \u2014 Zeno Rocha, Resend",
+      "url": "https://latent.space/p/resend/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 20:05:17+00:00",
+      "summary": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.9749,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "2ec4f6ad3a8db2e8"
+     },
+     {
+      "title": "llm-anthropic 0.31",
+      "url": "https://simonwillison.net/2026/Nov/9/llm-anthropic/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-09 23:58:46+00:00",
+      "summary": "Release: llm-anthropic 0.31 Anthropic released Fable 5.2 and Mythos 5.2 today. Fable 5.2 is currently ranked first on Artificial Analysis . Anthropic say it \"solved two open problems in the physics of black holes\", so clearly their internal benchmarks have become more ambitious! I've added the new models to llm-anthropic , so you can now run prompts through Fable 5.2 like this: uv tool install\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 1.9716,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "b2ef9565ec76e6f2"
+     },
+     {
+      "title": "Anthropic launches roadshow for proposed initial public offering - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51YVF6eThycm5nblZRV2ZpeDRhWUtVRi03bmxZMGNuX0pJMzUzRDFWSHh5clR6VVN1R3ZzaTNFWHNvYjRwUTNCUERQbFQ3WmFyMkxVcGpFTUpjQQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 11:44:40+00:00",
+      "summary": "Anthropic launches roadshow for proposed initial public offering \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.6636,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "57e9b6e6da6f3207"
+     },
+     {
+      "title": "StateBench: Testing how language models track state changes over long documents - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UN0hBcUszMmwyeHRUSXV0QmRXNUh3cWM2ZVhIbDRLenl3MDVRTFBLYTRVR2EzS2loYmlEcC05YUMzb2FYbWVzN0lkRQ?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-03 17:34:04+00:00",
+      "summary": "StateBench: Testing how language models track state changes over long documents \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "7d ago"
+      },
+      "score": 1.6545,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "c079b83df8606442"
+     },
+     {
+      "title": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 07:28:21+00:00",
+      "summary": "Introducing Our Smallest, Most Efficient Model: Muse Ember Meta AI just launched their entry in the Claude Haiku/GPT Luna category: Muse Ember, which they describe as: [...] our smallest and most efficient model designed for complex reasoning execution and the work agents repeat all day: tool calls, coding subtasks, routing, extraction, and long document parsing. For shorter prompts it's priced\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.6131,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "3849bd076c6102bf"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges",
+      "url": "https://arxiv.org/abs/2611.10516",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-07 06:28:08+00:00",
+      "summary": "Physical-scene reconstruction through visual sensing and channel knowledge map (CKM) reconstruction through wireless sensing have attracted growing research interest but have largely evolved independently within the computer vision and wireless communications communities, respectively. When applied to the same physical environment, the two\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.10516",
+       "arxiv_id": "2611.10516",
+       "authors": "Guanlin Wu, Chao Hu, Yilong Chen, Yudong Guo et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.5599,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "98039fad918d61c0"
+     },
+     {
+      "title": "MambaLoc: Lightweight Indoor Localization Using Cross-Modal Knowledge Distillation",
+      "url": "https://arxiv.org/abs/2611.10360",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-07 00:49:08+00:00",
+      "summary": "Accurate indoor localization on resource-constrained edge devices remains challenging due to the tension between modeling fidelity and computational efficiency. Wi-Fi Channel State Information (CSI) enables low-cost deployment using existing Wi-Fi infrastructure but is heavily distorted by multipath propagation. Transformer-based solutions\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.10360",
+       "arxiv_id": "2611.10360",
+       "authors": "Mohab Bahnassy, Omar Saqr, Hamada Rizk, Moustafa Youssef",
+       "ago": "3d ago"
+      },
+      "score": 2.1127,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "c5f3343fc0550866"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+      "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-10 16:59:31+00:00",
+      "summary": "Triton Low-Level Extensions (TLX), is an extension to Triton that helps engineers optimize GPU performance while preserving Triton\u2019s productive programming model. TLX introduces explicit warp-group and cluster-level orchestration, letting developers adopt new hardware capabilities without sacrificing velocity. TLX has demonstrated performance improvements in RecSys training, RecSys inference,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.5399,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "e2117a1184bb4bd9"
+     },
+     {
+      "title": "Your Algorithm: Giving People More Ways to Personalize Facebook Recommendations",
+      "url": "https://engineering.fb.com/2026/11/10/ml-applications/your-algorithm-giving-people-more-ways-to-personalize-facebook-recommendations/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-10 17:00:49+00:00",
+      "summary": "Your algorithm is a suite of AI-powered tools that makes Facebook recommendations more transparent and steerable, with a single editable view of the interests that shape Feed and Reels. We\u2019re sharing how Your algorithm turns people\u2019s natural language preferences into responsive recommendations, and how LLMs are tailored to specific tasks within the system. Traditionally, the [...] Read More...\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.1494,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "a162d031eccee838"
+     },
+     {
+      "title": "Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.11910",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-09 05:32:11+00:00",
+      "summary": "Large language models (LLMs) increasingly plan and run experiments in automated laboratories. These experiments keep running while the model reasons and run on schedules with hard deadlines. If an LLM-generated answer arrives late, the system executes a safe fallback action instead, such as rejecting a sample. This creates a systems problem that\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.11910",
+       "arxiv_id": "2611.11910",
+       "authors": "Sina Barazandeh, Benjamin E. Lundell, Jose Lugo-Martinez",
+       "ago": "1d ago"
+      },
+      "score": 2.1149,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "414a3d20a21cfd6b"
+     },
+     {
+      "title": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+      "url": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-10 16:30:55+00:00",
+      "summary": "In this article, we\u2019ll look at how this porting was done and the learnings along the way.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.6359,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "c7433ec470cb8f9b"
+     },
+     {
+      "title": "The Storage View Of KV Cache: Characterizing Cache Behavior Across LLM Workloads",
+      "url": "https://arxiv.org/abs/2611.10178",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-06 19:58:58+00:00",
+      "summary": "Modern LLM serving increasingly extends KV caches beyond GPU memory into host DRAM, SSDs, and remote storage, yet these stores remain largely governed by workload-agnostic policies such as LRU and fixed TTLs. We ask what execution context is needed by storage to make retention, reclamation, and placement decisions across heterogeneous workloads.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.10178",
+       "arxiv_id": "2611.10178",
+       "authors": "Talia Q. Chen, Daniel Waddington, Narangerelt Batsoyol, Vijay Chidambaram",
+       "ago": "4d ago"
+      },
+      "score": 1.5874,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "e1b8549665716eae"
+     },
+     {
+      "title": "Software correctness & supply chain security, with Sean Allen",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-10 15:00:21+00:00",
+      "summary": "A deep conversation on the biggest challenges of developing with AI \u2013 while trying not to mention the phrase \u201cAI\u201d once. Why? To dig up the fundamentals that are as important as ever",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.3496,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "583511bb3ad1ffcc"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "GitLab and the Evolution of DevSecOps",
+      "url": "https://softwareengineeringdaily.com/podcasts/gitlab-and-the-evolution-of-devsecops/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-10 10:00:00+00:00",
+      "summary": "AI coding agents can already reach well beyond the code in front of them. Through connections to tools like Slack, Jira, and Sentry, an agent can pull in issues, discussions, and production signals from across an organization. However, that context is scattered across many separate systems, with\u2026",
+      "duration_min": 56,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/8853df30/6292762a.mp3",
+       "ago": "10h ago"
+      },
+      "score": 1.5878,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "819eeba869ee5b19"
+     },
+     {
+      "title": "Hegseth Impeachment Push, Trump Holds Off Iran Strikes, Congress Summons Nvidia's CEO",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6035504/hegseth-impeachment-push-trump-holds-off-iran-strikes-congress-summons-nvidias-ceo",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-10 10:47:13+00:00",
+      "summary": "The House could vote this week on impeaching Defense Secretary Pete Hegseth over allegations that he violated federal law and Congress\u2019 war powers, even as President Trump continues to stand by him. Trump says U.S. allies in the Middle East want him to hold off on more strikes against Iran while\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/f7ccd141-e5a6-4b10-8db5-56dc8ea248b6/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=f7ccd141-e5a6-4b10-8db5-56dc8ea248b6&feed=HMwRVgVt&t=podcast&e=nx-s1-6035504&p=510318&d=799&size=12791266",
+       "ago": "9h ago"
+      },
+      "score": 0.6755,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "42e7a5332044a61d"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Did Anthropic just save its $1 trillion IPO?",
+      "url": "https://www.youtube.com/watch?v=1FurWDiK9A4",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 18:19:55+00:00",
+      "summary": "Mux is the video API that translates audio and answers questions about your video. Get $50 in free credits: https://mux.com/fireship Anthropic just dropped Fable and Mythos 5.2 in the middle of a rocky IPO roadshow. Let's dive into what they can do\u2026",
+      "duration_min": null,
+      "popularity": 127.534,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/1FurWDiK9A4/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 2.4188,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "05352c14040eef80"
+     },
+     {
+      "title": "Is Software Over?",
+      "url": "https://www.youtube.com/watch?v=vug73goPJaM",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 10:15:57+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The papers and sources are available here: MirrorCode: https://arxiv.org/abs/2606.30182 REMEND: https://huggingface.co/udiboy1209/REMEND WebUI-95:\u2026",
+      "duration_min": null,
+      "popularity": 109.276,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/vug73goPJaM/hqdefault.jpg",
+       "ago": "10h ago"
+      },
+      "score": 1.8286,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "326e9e5dc709f534"
+     },
+     {
+      "title": "What Happens When You Die? (Minute by Minute)",
+      "url": "https://www.youtube.com/watch?v=fEjvSbI_PT4",
+      "source": "Kurzgesagt",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 15:00:01+00:00",
+      "summary": "To get started planning a career that works on one of the world\u2019s most pressing problems, sign up now at https://80000hours.org/inanutshell Get cozy with our new Sleep Collection: https://shop.kgs.link/sleepy Track your way to more restful nights\u2026",
+      "duration_min": null,
+      "popularity": 770.116,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/fEjvSbI_PT4/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.564,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "82112d9b6cbe13a9"
+     },
+     {
+      "title": "Crash Course World History Marathon \u2022 Full Series",
+      "url": "https://www.youtube.com/watch?v=EQr_eJOFy4Q",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 17:00:07+00:00",
+      "summary": "In Crash Course Marathons, we\u2019re revisiting the series you love, in long-form videos that cover entire subjects from back to front. Crash Course World History covers the major beats of humanity\u2019s past, from the agricultural revolution to the Cold\u2026",
+      "duration_min": null,
+      "popularity": 17.895,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/EQr_eJOFy4Q/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.9788,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "15a30da7f35f6814"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-10:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement",
+      "url": "https://arxiv.org/abs/2611.09358",
+      "kind": "paper"
+     },
+     {
+      "title": "AudioSphere: Towards Self-Supervised Spatial Audio Representation Models",
+      "url": "https://arxiv.org/abs/2611.09275",
+      "kind": "paper"
+     },
+     {
+      "title": "ReListen: Training-Free Evidence Localization in Hour-Long Audio with Frozen Audio Language Models",
+      "url": "https://arxiv.org/abs/2611.04480",
+      "kind": "paper"
+     },
+     {
+      "title": "Beyond the Transcript: Measuring and Improving the Use of Acoustic Information in Audio Language Models",
+      "url": "https://arxiv.org/abs/2611.11573",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-10:multimodal-vision-language-4-new-papers",
+    "label": "Topic episode \u00b7 Multimodal & vision-language",
+    "title": "Multimodal & vision-language: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges",
+      "url": "https://arxiv.org/abs/2611.10516",
+      "kind": "paper"
+     },
+     {
+      "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+      "url": "https://arxiv.org/abs/2611.08398",
+      "kind": "paper"
+     },
+     {
+      "title": "Pod-wise Multimodal Federated Learning for Heterogeneous IoT",
+      "url": "https://arxiv.org/abs/2611.03273",
+      "kind": "paper"
+     },
+     {
+      "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+      "url": "https://arxiv.org/abs/2611.04434",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 30,
+  "read_min": 72,
+  "listen_min": 129,
+  "generated": "12:28 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.09358",
+     "item_ids": [
+      "dce7d1e968fd4870"
+     ],
+     "title": "GTCRN-SS: Lightweight Causal Speech Separation with Residual Allocation and Reconstruction Refinement",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.09358",
+     "page": "https://arxiv.org/abs/2611.09358",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.1954,
+     "added": "2026-11-09"
+    },
+    {
+     "id": "arxiv:2611.09275",
+     "item_ids": [
+      "e5569d3c65168d79"
+     ],
+     "title": "AudioSphere: Towards Self-Supervised Spatial Audio Representation Models",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.09275",
+     "page": "https://arxiv.org/abs/2611.09275",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.181,
+     "added": "2026-11-09"
+    },
+    {
+     "added": "2026-11-04",
+     "hits": 2,
+     "id": "arxiv:2611.04480",
+     "item_ids": [
+      "82c53b6142de0dbb"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.04480",
+     "score": 1.4322,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "ReListen: Training-Free Evidence Localization in Hour-Long Audio with Frozen Audio Language Models",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2611.04480"
+    },
+    {
+     "id": "arxiv:2611.11573",
+     "item_ids": [
+      "a421ed201e7a7c71"
+     ],
+     "title": "Beyond the Transcript: Measuring and Improving the Use of Acoustic Information in Audio Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.11573",
+     "page": "https://arxiv.org/abs/2611.11573",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 1.3335,
+     "added": "2026-11-10"
+    }
+   ],
+   "date": "2026-11-10",
+   "key": "ep:2026-11-10:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "dce7d1e968fd4870",
+    "e5569d3c65168d79",
+    "82c53b6142de0dbb",
+    "a421ed201e7a7c71"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Multimodal & vision-language",
+   "title": "Multimodal & vision-language: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.10516",
+     "item_ids": [
+      "98039fad918d61c0"
+     ],
+     "title": "An Overview on Multimodal Wireless and Visual Sensing for Environment Reconstruction: Opportunities and Challenges",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.10516",
+     "page": "https://arxiv.org/abs/2611.10516",
+     "topic": "Multimodal & vision-language",
+     "hits": 2,
+     "score": 2.5599,
+     "added": "2026-11-10"
+    },
+    {
+     "id": "arxiv:2611.08398",
+     "item_ids": [
+      "adfd5f78088cb0c5"
+     ],
+     "title": "A Multimodal Haptic Interface for Simultaneous Softness and Thermal Modulation",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.08398",
+     "page": "https://arxiv.org/abs/2611.08398",
+     "topic": "Multimodal & vision-language",
+     "hits": 2,
+     "score": 2.4391,
+     "added": "2026-11-06"
+    },
+    {
+     "added": "2026-11-03",
+     "hits": 2,
+     "id": "arxiv:2611.03273",
+     "item_ids": [
+      "2d6371339426bd8b"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.03273",
+     "score": 2.3942,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Pod-wise Multimodal Federated Learning for Heterogeneous IoT",
+     "topic": "Multimodal & vision-language",
+     "url": "https://arxiv.org/pdf/2611.03273"
+    },
+    {
+     "added": "2026-11-04",
+     "hits": 2,
+     "id": "arxiv:2611.04434",
+     "item_ids": [
+      "533e56f8ad553182"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.04434",
+     "score": 1.4257,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Sketchpad: certified exact arithmetic with a small vision-language model",
+     "topic": "Multimodal & vision-language",
+     "url": "https://arxiv.org/pdf/2611.04434"
+    }
+   ],
+   "date": "2026-11-10",
+   "key": "ep:2026-11-10:multimodal-vision-language-4-new-papers",
+   "item_ids": [
+    "98039fad918d61c0",
+    "adfd5f78088cb0c5",
+    "2d6371339426bd8b",
+    "533e56f8ad553182"
+   ]
+  }
+ ]
+}
