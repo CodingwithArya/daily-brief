@@ -1,0 +1,921 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, November 11, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-11 16:59:34+00:00",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.789,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "6c0e4155f1f4be1d"
+     },
+     {
+      "title": "Anthropic IPO could draw record retail buying, Vanda Research says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkc4cW15aGVaZG4tLTR1YVpRUWJzNXVtQ0RyR2d1bEFXTFFIU2xhWEduUmxTUFJWZEt0cVh3ZDNxNnRwV2k0WFlnMlNycWpycVVSNGl0Qy1NMlhvZVBUWVhVVGhISDZpcUxBdGVFQnRXRzhCTGZYZVEzUEh1MjlBOFZ6X2p3eG4tUlF3a3NNUXhzYzU5d0NmcVhqS1QzcG5DMUItVWlDdlJ3U1ZoU0tscy1xa3Fxbnh2dHhPYmpNQ1VZOUk0?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-11 17:23:49+00:00",
+      "summary": "Anthropic IPO could draw record retail buying, Vanda Research says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.6467,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "d9df04d03d8dd322"
+     },
+     {
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-11 18:38:45+00:00",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.4649,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "27eacf73dae8d424"
+     },
+     {
+      "title": "Why is gasoline suddenly under $4 a gallon?",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037588/gasoline-price-below-4-dollars-gallon",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-11 19:59:14+00:00",
+      "summary": "The average price of a gallon of gasoline dipped below $4 this week for the first time in months. Does that mean more relief is coming for drivers?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9929,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "45e99b0eb38b3a28"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Rand Fishkin\u2019s Seattle game studio serves up first trailer for \u2018The Snackbar at the End of the World\u2019",
+      "url": "https://www.geekwire.com/2026/rand-fishkins-seattle-game-studio-serves-up-first-trailer-for-the-snackbar-at-the-end-of-the-world/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-11 19:21:39+00:00",
+      "summary": "The hand-drawn adventure about a chef battling explosive tomatoes and a tyrannical mayor in magical 1960s Italy is set to launch late next year. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 2.4522,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b0aaddbfb1a8927d"
+     },
+     {
+      "title": "AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents",
+      "url": "https://www.geekwire.com/2026/aws-gives-developers-a-free-local-stand-in-for-its-cloud-built-from-scratch-by-ai-agents/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-11 18:51:56+00:00",
+      "summary": "AWS released AWS Emulator, a free tool that simulates more than 200 AWS services on a developer's own machine, and says AI agents wrote all of its code without review by its engineers. Agents also maintain the emulator, testing it against the real AWS cloud and fixing the gaps they find. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.4138,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "150377aa115ea230"
+     },
+     {
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "url": "https://pietromiotti.com/latest/maya-site/?maya",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-11 12:05:22+00:00",
+      "summary": "846 points \u00b7 312 comments on HN",
+      "duration_min": null,
+      "popularity": 846.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50452455",
+       "ago": "8h ago"
+      },
+      "score": 1.9855,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "e3c1f66505445103"
+     },
+     {
+      "title": "Taiwan\u2019s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
+      "url": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-11 18:16:40+00:00",
+      "summary": "Latest example of the AI boom\u2019s circular financing comes as AI trade wobbles.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.6549,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "c2f79d0f0a9a002f"
+     },
+     {
+      "title": "Tracking Anthropic-discovered vulnerabilities",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 22:17:56+00:00",
+      "summary": "441 points \u00b7 214 comments on HN",
+      "duration_min": null,
+      "popularity": 441.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50447074",
+       "ago": "21h ago"
+      },
+      "score": 1.5415,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "ae3c6c28ceab44c4"
+     },
+     {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-10 21:12:59+00:00",
+      "summary": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.8005,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "c3e82675d569c730"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 15:11:59+00:00",
+      "summary": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.8935,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "d8e7926e4b161bd6"
+     },
+     {
+      "title": "llm 0.37.2",
+      "url": "https://simonwillison.net/2026/Nov/11/llm/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 17:19:52+00:00",
+      "summary": "Release: llm 0.37.2 Fixes a security issue reported by Daniel de Araujo in GHSA-v9h7-jj4g-f862 and GHSA-r639-rr7r-x72w . LLM has a mechanism called extra-openai-models.yaml - now managed by the new-in-0.37 llm openai endpoint add command - for using LLM with OpenAI-compatible API endpoints from other providers. Daniel reported two ways this could accidentally send your configured OpenAI API key\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 2.6111,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "b0707a4672c1c2ea"
+     },
+     {
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 19:54:00+00:00",
+      "summary": "Health & Bioscience",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 2.1783,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "40b3469495104d52"
+     },
+     {
+      "title": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect - Anthropic Alignment Science blog",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pT3BQSS05MGNNbk1LLTc3SXExY3paYnBObEs1S2d3MDk3UEE2N29VenZFWlRtZm5RNXlKdE8xRlowXzY4NHN0TnRJQUhkYk9ZS191dnR6S3A1N1RKMWdGa0JYY0pubWJiRHc?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 19:08:57+00:00",
+      "summary": "Diluting Poisoned Fine-Tuning Data Can Strengthen Its Effect \u00a0\u00a0 Anthropic Alignment Science blog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "25h ago"
+      },
+      "score": 1.9285,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "729ba7546c615285"
+     },
+     {
+      "title": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+      "url": "https://latent.space/p/codex-work/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 04:49:48+00:00",
+      "summary": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 1.3919,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "d46e4b8dae9178c9"
+     },
+     {
+      "title": "Class A Common Stock 825,000,000 Shares Anthropic, PBC - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zTjI0cnBrNGZXT2ZpNmpnakRlbjQzUFNKaHh0ZjJsMWRtd211WC1QMVZLRTNoVEp5Rk9MSGdVU1FsUHQ4elNjTFNJc2k3VWhSeUl5OV9WNHRkTkxhd2FnQnh4OA?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 15:22:33+00:00",
+      "summary": "Class A Common Stock 825,000,000 Shares Anthropic, PBC \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "28h ago"
+      },
+      "score": 1.0881,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "97b61bbaaacd27b2"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+      "url": "https://arxiv.org/abs/2611.13509",
+      "source": "arXiv \u2014 Gollakota / lab authors",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 03:29:29+00:00",
+      "summary": "Small language models (SLMs) running on mobile devices can keep user data private and work without connectivity. But they perform well only when fine-tuned for the target task and sized for the target device, a process that today requires repeated expert tuning. We present {\\it Mobile AI Factory}, an agentic system that builds a fine-tuned,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 2.5,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13509",
+       "arxiv_id": "2611.13509",
+       "authors": "Evan Li, Krishna Deshpande, Wen Cheng, Shyamnath Gollakota",
+       "ago": "1d ago"
+      },
+      "score": 3.489,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "f67afdfb7fcb1291"
+     },
+     {
+      "title": "AURA: Auditory Spatial Intelligence via a Unified Representation from a General-Audio Encoder through Complete Alignment",
+      "url": "https://arxiv.org/abs/2611.13687",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 07:34:05+00:00",
+      "summary": "Answering spatial questions about multi-source scenes requires a model both to identify each sound and to locate it. Existing spatial audio-language models obtain spatial information from a dedicated encoder, which separates spatial and semantic processing into distinct feature spaces. We study whether a general-audio codec trained without\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13687",
+       "arxiv_id": "2611.13687",
+       "authors": "Boyan Han, Xiaoyan Wang, Zhe Sun, Ziqi Wang et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.0481,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "ca14ffd310aa4154"
+     },
+     {
+      "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+      "url": "https://arxiv.org/abs/2611.13758",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 08:59:09+00:00",
+      "summary": "Weight-space programming allows language models to read a trained neural network's weights and edit them. This opens the door to ``training'' by reasoning rather than through gradient descent. Prior work has demonstrated its functionality and promise for game-playing networks and fixing specific failures in language models, even extending to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13758",
+       "arxiv_id": "2611.13758",
+       "authors": "Dara Varam, Taraneh Aminosharieh Najafi, David Atienza",
+       "ago": "35h ago"
+      },
+      "score": 2.8173,
+      "why": "",
+      "also_sections": [],
+      "ago": "35h ago",
+      "id": "96e26867c6238a13"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Multi-Objective Scheduling of LLM-Based Multi-Agent Workflows in Cloud Computing",
+      "url": "https://arxiv.org/abs/2611.13740",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-10 08:40:21+00:00",
+      "summary": "Large language models (LLMs) have been increasingly composed into multi-agent workflows to accomplish complex and multi-step tasks. As the open-weight models continue to close the performance gap with the proprietary ones, model parameters are becoming a less significant source of competitive advantage in the artificial intelligence market. Yet\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13740",
+       "arxiv_id": "2611.13740",
+       "authors": "Goshgar Can Ismayilov",
+       "ago": "35h ago"
+      },
+      "score": 2.1571,
+      "why": "",
+      "also_sections": [],
+      "ago": "35h ago",
+      "id": "f6bd93738db6607e"
+     },
+     {
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-11 14:24:46+00:00",
+      "summary": "Cloudflare is building an experimental consensus service using a never-before-deployed consensus algorithm, QuePaxa. In this post we explain how QuePaxa works and why we chose it.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.1163,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "1e25c4d1d22c66b1"
+     },
+     {
+      "title": "Scaling Shapley Energy Attribution to Large LLM Batches",
+      "url": "https://arxiv.org/abs/2611.13802",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-10 09:34:38+00:00",
+      "summary": "LLM services have become essential infrastructure for applications such as chat assistants and coding agents. Service providers need to attribute resource consumption to individual requests for purposes such as billing. Among these resources, energy is a key metric for assessing the cost of serving each request. However, serving engines batch\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13802",
+       "arxiv_id": "2611.13802",
+       "authors": "Qi Luo, Ziwen Wang, Kunlin Li, Changxi Liu et al.",
+       "ago": "34h ago"
+      },
+      "score": 1.5903,
+      "why": "",
+      "also_sections": [],
+      "ago": "34h ago",
+      "id": "ea797d19362d97f7"
+     },
+     {
+      "title": "Intelligent Delivery: Making Every Unit of Compute Serve Better Ads",
+      "url": "https://engineering.fb.com/2026/11/11/ml-applications/intelligent-delivery-serve-better-ads/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-11 17:00:38+00:00",
+      "summary": "Ads ranking models are growing toward LLM scale faster than the hardware to run them can keep up. An extra unit of compute has more impact on some ad requests, models, and chips than on others. The challenge is deciding where to allocate it to get the best outcome for the entire system. We built [...] Read More... The post Intelligent Delivery: Making Every Unit of Compute Serve Better Ads\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.3702,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "2b28b84b904e42b5"
+     },
+     {
+      "title": "LAST CALL FOR ENROLLMENT: Build Production Grade AI Systems",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-build-production",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-11 19:58:17+00:00",
+      "summary": "Enrollment closes in 24 hours for Build Production Grade AI Systems. We kick off tomorrow, November 12, at 5pm PT.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.1981,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "8ba15d24fbd06ea0"
+     },
+     {
+      "title": "The Roundup by ByteByteGo",
+      "url": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-11 16:30:53+00:00",
+      "summary": "The Roundup covers insights and trends from the world of software development.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.1706,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "86481580c3775f5c"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "#504 \u2013 Russia-Ukraine War: Putin, Zelenskyy, Drones and the Future of Warfare",
+      "url": "https://lexfridman.com/ukraine-war-preston-stewart-michael-kofman/?utm_source=rss&utm_medium=rss&utm_campaign=ukraine-war-preston-stewart-michael-kofman",
+      "source": "Lex Fridman Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-10 23:52:44+00:00",
+      "summary": "Preston Stewart is a West Point graduate and Afghanistan veteran who covers the Ukraine war extensively on his YouTube channel, his podcast called War and Conflict, and his newsletter called Defense Tech News. Michael Kofman is a world-class military analyst specializing in the Russian and\u2026",
+      "duration_min": 181,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "audio": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_preston_stewart_michael_kofman.mp3",
+       "ago": "20h ago"
+      },
+      "score": 0.9636,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "4e4604912c9cb3f0"
+     },
+     {
+      "title": "\u201cProviders Who Use AI May Replace Providers Who Don\u2019t\u201d - Rebecca DePalma, PA-C",
+      "url": "https://rss.com/podcasts/no-prior-auth/3260397",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-10 22:00:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Rebecca DePalma works from a home office, Monday through Wednesday. From that desk she's co-written a psychiatric reference text, precepted more than 80 PA students, taught psychopharmacology\u2026",
+      "duration_min": 33,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3260397/no-prior-auth/2026_10_23_21_11_33_d561331c-51b7-468c-9818-2388100e6376.mp3",
+       "ago": "22h ago"
+      },
+      "score": 0.7898,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "f34369ec1fb0f562"
+     },
+     {
+      "title": "Hegseth Impeachment Blocked, House Leadership Change, DOJ Charges Terror Suspects",
+      "url": "https://www.npr.org/2026/11/11/nx-s1-6037294/hegseth-impeachment-blocked-house-leadership-change-doj-charges-terror-suspects",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-11 10:58:36+00:00",
+      "summary": "House Republicans blocked an effort to impeach Defense Secretary Pete Hegseth, but lawmakers still have other ways to challenge the administration over the Iran war and its push for more defense spending. House Republicans chose Ohio Congressman Jim Jordan to lead them in the minority, signaling a\u2026",
+      "duration_min": 14,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ec423d0c-d0f3-48f8-a3b6-e75836e53f57/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ec423d0c-d0f3-48f8-a3b6-e75836e53f57&feed=HMwRVgVt&t=podcast&e=nx-s1-6037294&p=510318&d=810&size=12970153",
+       "ago": "9h ago"
+      },
+      "score": 0.6838,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "b9925cd264db8c26"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Fable 5.2: The Self-Improvement Loop Keeps Loopin\u2019 \u2026 (plus Gemini Carbon)",
+      "url": "https://www.youtube.com/watch?v=583ThJIqQ7k",
+      "source": "AI Explained",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 23:11:36+00:00",
+      "summary": "I\u2019ve read the full Fable 5.2 report at 264 pages, the 30 page METR RSI report, and tested Gemini Carbon and Fable 5.2 hundreds of times. There\u2019s too much to cover in one video, but let\u2019s explore everything from how fast AI is accelerating AI, five\u2026",
+      "duration_min": null,
+      "popularity": 119.894,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/583ThJIqQ7k/hqdefault.jpg",
+       "ago": "21h ago"
+      },
+      "score": 1.4722,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "c268e4dbaf641ce6"
+     },
+     {
+      "title": "How People Are Using AI to Grieve, Love and Connect | Jennifer Cearns | TED",
+      "url": "https://www.youtube.com/watch?v=pTdvsfIMGes",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-10 16:00:33+00:00",
+      "summary": "Many people fear AI is eroding our humanity, replacing real relationships with synthetic ones that leave us lonelier than ever. Digital anthropologist Jennifer Cearns believes the opposite may be true. After talking to hundreds of people who turn\u2026",
+      "duration_min": null,
+      "popularity": 49.013,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/pTdvsfIMGes/hqdefault.jpg",
+       "ago": "28h ago"
+      },
+      "score": 0.9052,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "05e3a9f3a172e114"
+     },
+     {
+      "title": "Religion, Politics, and Sex Ed, Oh My! Crash Course\u2019s Approach to Taboo Topics",
+      "url": "https://www.youtube.com/watch?v=Fz8QARYt5Js",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-11 19:59:21+00:00",
+      "summary": "The Crash Course team has taken on some divisive topics lately with our Sex Ed, Religion, and Big Questions on US Government series. Our editorial and production team shares how we've tackled videos about sensitive subjects and succeeded against a\u2026",
+      "duration_min": null,
+      "popularity": 1.252,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/Fz8QARYt5Js/hqdefault.jpg",
+       "ago": "just now"
+      },
+      "score": 0.7085,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "49024272f6696c22"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-11:wireless-acoustic-sensing-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Tags Helping Tags: Coordination-Free Power Boosting for Battery-less Backscatter Networks",
+      "url": "https://arxiv.org/abs/2611.08803",
+      "kind": "paper"
+     },
+     {
+      "title": "Sensed but Not Told: Hidden Physiological Adaptation Shapes LLM Persuasion",
+      "url": "https://arxiv.org/abs/2611.09394",
+      "kind": "paper"
+     },
+     {
+      "title": "Shield AI to buy Bill Gates-backed radar maker Echodyne in $5.3B deal, doubling down on Seattle area",
+      "url": "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal-doubling-down-on-seattle-area/",
+      "kind": "article"
+     },
+     {
+      "title": "What Does 4-Bit Microscaling Cost a Wearable Activity Recognizer?",
+      "url": "https://arxiv.org/abs/2611.04185",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-11:llm-serving-ml-infrastructure-2-new-papers-2-more",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 2 new papers + 2 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+      "kind": "article"
+     },
+     {
+      "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+      "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+      "kind": "article"
+     },
+     {
+      "title": "PACE: Keeping the Right Tokens in the KV Cache Is Not Enough for Long-Horizon LLM Agents",
+      "url": "https://arxiv.org/abs/2611.10240",
+      "kind": "paper"
+     },
+     {
+      "title": "Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines",
+      "url": "https://arxiv.org/abs/2611.13413",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 31,
+  "read_min": 75,
+  "listen_min": 273,
+  "generated": "12:12 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "arxiv:2611.08803",
+     "item_ids": [
+      "ed9b0b4df2be6ad6"
+     ],
+     "title": "Tags Helping Tags: Coordination-Free Power Boosting for Battery-less Backscatter Networks",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.08803",
+     "page": "https://arxiv.org/abs/2611.08803",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.4606,
+     "added": "2026-11-09"
+    },
+    {
+     "id": "arxiv:2611.09394",
+     "item_ids": [
+      "becc96a01bcee941"
+     ],
+     "title": "Sensed but Not Told: Hidden Physiological Adaptation Shapes LLM Persuasion",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.09394",
+     "page": "https://arxiv.org/abs/2611.09394",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.4016,
+     "added": "2026-11-09"
+    },
+    {
+     "added": "2026-11-05",
+     "hits": 2,
+     "id": "726114ee8211d581",
+     "item_ids": [
+      "726114ee8211d581"
+     ],
+     "kind": "article",
+     "page": "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal-doubling-down-on-seattle-area/",
+     "score": 2.3005,
+     "section": "tech",
+     "source": "GeekWire",
+     "title": "Shield AI to buy Bill Gates-backed radar maker Echodyne in $5.3B deal, doubling down on Seattle area",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://www.geekwire.com/2026/shield-ai-to-buy-bill-gates-backed-radar-maker-echodyne-in-5-3b-deal-doubling-down-on-seattle-area/"
+    },
+    {
+     "added": "2026-11-04",
+     "hits": 2,
+     "id": "arxiv:2611.04185",
+     "item_ids": [
+      "f7045ddacae448fb"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.04185",
+     "score": 2.0003,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "What Does 4-Bit Microscaling Cost a Wearable Activity Recognizer?",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2611.04185"
+    }
+   ],
+   "date": "2026-11-11",
+   "key": "ep:2026-11-11:wireless-acoustic-sensing-3-new-papers-1-more",
+   "item_ids": [
+    "ed9b0b4df2be6ad6",
+    "becc96a01bcee941",
+    "726114ee8211d581",
+    "f7045ddacae448fb"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 2 new papers + 2 more",
+   "sources": [
+    {
+     "id": "d8e7926e4b161bd6",
+     "item_ids": [
+      "d8e7926e4b161bd6"
+     ],
+     "title": "Anthropic's IPO roadshow video",
+     "kind": "article",
+     "section": "ai",
+     "source": "Simon Willison",
+     "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+     "page": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.8935,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "e2117a1184bb4bd9",
+     "item_ids": [
+      "e2117a1184bb4bd9"
+     ],
+     "title": "How We Built TLX: A Hardware-Native GPU Compiler for Production ML at Scale",
+     "kind": "article",
+     "section": "swe",
+     "source": "Meta Engineering",
+     "url": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+     "page": "https://engineering.fb.com/2026/11/10/open-source/tlx-a-hardware-native-gpu-compiler-for-production-ml/",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.5399,
+     "added": "2026-11-10"
+    },
+    {
+     "added": "2026-11-10",
+     "hits": 4,
+     "id": "arxiv:2611.10240",
+     "item_ids": [
+      "d6cc702a9240aeff"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.10240",
+     "score": 1.7746,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "PACE: Keeping the Right Tokens in the KV Cache Is Not Enough for Long-Horizon LLM Agents",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.10240"
+    },
+    {
+     "id": "arxiv:2611.13413",
+     "item_ids": [
+      "8c081fbae1785d0b"
+     ],
+     "title": "Placing LLM Lookup Tables by Per-Layer Prefetch Deadlines",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.13413",
+     "page": "https://arxiv.org/abs/2611.13413",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.6798,
+     "added": "2026-11-11"
+    }
+   ],
+   "date": "2026-11-11",
+   "key": "ep:2026-11-11:llm-serving-ml-infrastructure-2-new-papers-2-more",
+   "item_ids": [
+    "d8e7926e4b161bd6",
+    "e2117a1184bb4bd9",
+    "d6cc702a9240aeff",
+    "8c081fbae1785d0b"
+   ]
+  }
+ ]
+}
