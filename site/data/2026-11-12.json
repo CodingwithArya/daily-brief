@@ -1,0 +1,808 @@
+{
+ "ctx": {
+  "date_long": "Thursday, November 12, 2026",
+  "weekday": "Thursday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-12 18:47:35+00:00",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.4434,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "c636f1b95f261cff"
+     },
+     {
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-12 20:37:36+00:00",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.093,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "9d89973c6c4d298d"
+     },
+     {
+      "title": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdEZUUGlzOUZwcFdtamtJMHBhWUVzaGNtV2ZDX052OU11RkVnRENCbmxnQlpPem5PTG1EYnR4RTRWM0wtcDB2MG1GTHI0akxGMUJZRUFRdzFtUW1hM0ZxOTRFcndMN0dUQnk4Q2pkS0s1aFR3UVk2bWdZcUt2OUE2OXhpVkM1NzZGWi1XYjNfaTFER2NqaThfY28tNjBaejd1NXlLOFc3R0hDal84LWc1WDJyS3FsVXpqOVJfZ3pwVXNoTFBjdzZz?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-12 20:16:11+00:00",
+      "summary": "Warby Parker bets on Google AI glasses for growth, but privacy fears still loom \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9823,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "3e5b2568e6ed00a1"
+     },
+     {
+      "title": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3otVnY4ZXphd1g5Q0REOVlqY3c1WXBMSmMtNThTbGlaRGVkVkZXZml1RHlEN3djZXRMT0pSTnJ6c3JiZ0tOdVRRekpJUlBfRV92ZEFEUU9GVU5XZHBYVmotRjFpcExuaER3S1BUaF90UWFaRnVBcFlHazgzOXBSWXJfN1RMSFNrcWY2TVRkQmVTYkNHUUhMeHAyM1huRXItSVhKZU95Q2wyTmg1MnlZcGduR01vdzFBcmpiVA?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-12 20:09:29+00:00",
+      "summary": "EXCLUSIVE: Former Nvidia CEO Huang had a relationship with a second employee, sources say \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9788,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "614deb4d3d087081"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Seattle\u2019s Allen Institute helps create a \u2018Rosetta Stone\u2019 for brain cells to unlock clues to disease",
+      "url": "https://www.geekwire.com/2026/seattles-allen-institute-helps-create-a-rosetta-stone-for-brain-cells-to-unlock-clues-to-disease/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 16:00:00+00:00",
+      "summary": "Seattle\u2019s Allen Institute helped an international team create a shared guide to brain cells in a region involved in movement, emotions and habits. It gives researchers a common language for comparing findings and studying conditions such as Parkinson\u2019s disease and schizophrenia. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 3.615,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "20b6ee8299ce3721"
+     },
+     {
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "url": "https://news.ycombinator.com/item?id=50471668",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 18:17:13+00:00",
+      "summary": "288 points \u00b7 155 comments on HN",
+      "duration_min": null,
+      "popularity": 288.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50471668",
+       "ago": "2h ago"
+      },
+      "score": 2.4695,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "7482059e8feb089c"
+     },
+     {
+      "title": "Ex-Seattle startup DeltaGen acquired by new AI company backed by Veeam co-founder",
+      "url": "https://www.geekwire.com/2026/ex-seattle-startup-deltagen-acquired-by-new-ai-company-backed-by-veeam-co-founder/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 13:51:34+00:00",
+      "summary": "DeltaGen\u2019s 10-person team, including CEO Rene Bystron, is joining Worker, which is building AI tools to take recurring work off small-business owners\u2019 plates. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 2.0384,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "ab2208a5a2deaf19"
+     },
+     {
+      "title": "Anthropic IPO",
+      "url": "https://ipo.anthropic.com/us/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 11:46:41+00:00",
+      "summary": "716 points \u00b7 717 comments on HN",
+      "duration_min": null,
+      "popularity": 716.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50465829",
+       "ago": "9h ago"
+      },
+      "score": 1.8847,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "f101ffad2bb3a113"
+     },
+     {
+      "title": "No, AI agents did not discover a previously unknown Maya site",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 19:42:40+00:00",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potentially unmapped Maya site in Mexico. There was just one problem: The site had already been discovered and was published in an academic journal last year. The incident, which sparked criticism among archeologists online, underscores a [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.2736,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "3b869b1138e3a082"
+     },
+     {
+      "title": "Microsoft Outlook is down",
+      "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-12 20:43:02+00:00",
+      "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of infrastructure is experiencing elevated load across multiple regions, which is [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.8371,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "b96b7d9fc07a01bf"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 17:13:59+00:00",
+      "summary": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams \u00a0\u00a0 Anthropic Alignment Science blog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "27h ago"
+      },
+      "score": 1.849,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "7ebea4ca1036d75c"
+     },
+     {
+      "title": "aws-emulator",
+      "url": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 21:18:30+00:00",
+      "summary": "aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.1452,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "2481ec249e1d0443"
+     },
+     {
+      "title": "[AINews] D-Day (Decision Models Day)",
+      "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-12 05:26:54+00:00",
+      "summary": "November 11, 2026 \u2014 Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 0.9942,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "e10b6b9196df21e8"
+     },
+     {
+      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+      "url": "https://latent.space/p/jev-revolution/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-12 05:08:20+00:00",
+      "summary": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they\u2019re using Jev.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 0.9922,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "adb66fa1efb10251"
+     },
+     {
+      "title": "Gemini Decisions API",
+      "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 22:03:25+00:00",
+      "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.8709,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "55a2b3a8b12ca48c"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "PSL-RGHA: Parallel Split Learning with Reference Gradient Half-Space Alignment for Mitigating Gradient Divergence",
+      "url": "https://arxiv.org/abs/2611.14312",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 16:42:30+00:00",
+      "summary": "The escalating complexity of deep neural networks hinders the deployment of federated learning (FL) on resource-constrained devices, especially for multimedia applications such as on-device image classification and speech recognition. Parallel split learning (PSL) has emerged as a promising solution by offloading a substantial portion of the\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14312",
+       "arxiv_id": "2611.14312",
+       "authors": "Han Li, Zheng Lin, Miao Yang, Zehang Lin et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.3287,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "0e66c05c9fb4e33f"
+     },
+     {
+      "title": "Beyond Feasibility: Efficient and Robust On-Device Localization with UWB Concurrent Transmissions",
+      "url": "https://arxiv.org/abs/2611.09619",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-06 15:38:53+00:00",
+      "summary": "Concurrent transmissions (CTX) enable an ultra-wideband (UWB) tag to range to, or self-localize from, multiple nodes with a single frame reception, significantly improving update rate and energy efficiency compared to traditional approaches. Prior work demonstrated the concept feasibility via prototypes whose real-world applicability is however\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.09619",
+       "arxiv_id": "2611.09619",
+       "authors": "Enrico Soprana, Michael Stocker, Davide Vecchia, Matteo Trobinger et al.",
+       "ago": "6d ago"
+      },
+      "score": 1.7157,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "c501e6232f391497"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Top Types of Hidden Coupling and How to Deal With Them",
+      "url": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-12 16:30:41+00:00",
+      "summary": "When you create an architecture diagram, you usually try to show the services, databases, queues, and the connections between these different components.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.632,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "2f2bf8dc9501110c"
+     },
+     {
+      "title": "The Pulse: What can we learn from the Railway hack?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-12 18:53:19+00:00",
+      "summary": "Also: native mobile and frontend jobs are disappearing, how trust helps an \u201cAI-native\u201d engineering team to succeed, Carta starts selling a coding harness, and more",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.3818,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "2583bd8fdfdbfc23"
+     },
+     {
+      "title": "Decode Token Parallelism: Memory-Efficient Distributed Attention Parallelism for Scalable LLM Decoding",
+      "url": "https://arxiv.org/abs/2611.13293",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-09 22:01:46+00:00",
+      "summary": "Serving large language models at high concurrency with long contexts requires KV-cache capacity and attention bandwidth that grow with the decode pool. Existing parallelization strategies trade one against the other: data parallelism replicates model weights, limiting KV capacity; tensor parallelism stops scaling attention at the model's KV-head\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13293",
+       "arxiv_id": "2611.13293",
+       "authors": "Susav Shrestha, Brad Settlemyer, Narasimha Reddy",
+       "ago": "2d ago"
+      },
+      "score": 1.3086,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "f9b6523275e5273d"
+     },
+     {
+      "title": "DataHelix: A CPU-GPU Co-Scheduling Data Plane for Multimodal Model Training",
+      "url": "https://arxiv.org/abs/2611.09411",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-06 12:43:45+00:00",
+      "summary": "Multimodal model training breaks the loose coupling between data loading and model execution assumed by conventional training pipelines. Large per-sample variation in decoding cost, token/latent count, and tensor size causes both CPU preprocessing time and GPU compute time to vary substantially across data-parallel ranks (training processes). In\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.09411",
+       "arxiv_id": "2611.09411",
+       "authors": "Yuanhe Li, Jiazhen Wu, Dian Ding, Guangtao Xue et al.",
+       "ago": "6d ago"
+      },
+      "score": 1.1309,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "79b75b9a203e8d87"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Fraud Prevention in the Age of AI Agents",
+      "url": "https://softwareengineeringdaily.com/podcasts/fraud-prevention-in-the-age-of-ai-agents/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-12 10:00:00+00:00",
+      "summary": "A major challenge for almost every online service is reliably identifying users, and knowing whether a given user or agent can be trusted. Historically, web services leaned on cookies stored in the browser to remember a visitor and recognize them when they return. The problem is that cookies live\u2026",
+      "duration_min": 42,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/3f1bbc6b/58868328.mp3",
+       "ago": "10h ago"
+      },
+      "score": 1.5732,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "ea31779570350428"
+     },
+     {
+      "title": "Colom Wins Mississippi, Trump Warns Incoming Democrats, Russia-Ukraine Talks",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6038323/colom-wins-mississippi-trump-warns-incoming-democrats-russia-ukraine-talks",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-12 10:56:43+00:00",
+      "summary": "Democrat Scott Colom won Mississippi\u2019s Senate race by fewer than 5,000 votes, becoming the state\u2019s first Black senator since Reconstruction and ending a more than 40-year stretch without a Democrat in the seat. The White House is warning Democrats that their planned investigations could cross into\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/ce0f6e04-0bbf-4926-b862-c98bc239dd58/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=ce0f6e04-0bbf-4926-b862-c98bc239dd58&feed=HMwRVgVt&t=podcast&e=nx-s1-6038323&p=510318&d=756&size=12099962",
+       "ago": "9h ago"
+      },
+      "score": 0.672,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "5dca074b11d027a2"
+     },
+     {
+      "title": "Essentials: How Emotions & Social Factors Impact Learning | Dr. Mary Helen Immordino-Yang",
+      "url": "https://www.hubermanlab.com/episode/essentials-how-emotions-and-social-factors-impact-learning-mary-helen-immordino-yang",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-12 09:00:00+00:00",
+      "summary": "In this Huberman Lab Essentials episode, my guest is Dr. Mary Helen Immordino-Yang, EdD, a professor of education and psychology at the University of Southern California (USC) and director of the USC Center for Affective Neuroscience, Development, Learning and Education (CANDLE). We discuss how\u2026",
+      "duration_min": 39,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM7026611161.mp3",
+       "ago": "11h ago"
+      },
+      "score": 0.6473,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "825fbb2132d434ae"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "DeepMind\u2019s AI Just Did The Impossible",
+      "url": "https://www.youtube.com/watch?v=gPNiuyYirfw",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-12 13:41:41+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The DeepMind paper AlphaProof Code is available here: https://deepmind.google/blog/introducing-alphaproof-code/\u2026",
+      "duration_min": null,
+      "popularity": 118.196,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/gPNiuyYirfw/hqdefault.jpg",
+       "ago": "7h ago"
+      },
+      "score": 1.8623,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "c9ed943998b68e16"
+     },
+     {
+      "title": "How Would You Design Your Dream City? | James Rojas | TED",
+      "url": "https://www.youtube.com/watch?v=f5RqYHd2cBQ",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-12 16:00:32+00:00",
+      "summary": "Urban planner James Rojas has led hundreds of workshops where participants creatively design their ideal communities with small objects \u2014 and he's noticed that people of every age, income and background build strikingly similar places. Through play\u2026",
+      "duration_min": null,
+      "popularity": 13.997,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/f5RqYHd2cBQ/hqdefault.jpg",
+       "ago": "4h ago"
+      },
+      "score": 1.1166,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "bdf3835d6932e817"
+     },
+     {
+      "title": "How Humans Changed the Earth: Crash Course Geology #24",
+      "url": "https://www.youtube.com/watch?v=GJrG2AxmD3g",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-12 17:00:32+00:00",
+      "summary": "Are we in a new geological epoch? Some geologists think so\u2013one marked by human impact on Earth. Others say we\u2019re not there yet. Either way, what is clear is that humans have had a big impact on Earth\u2014sometimes in irreversible ways. In this episode,\u2026",
+      "duration_min": null,
+      "popularity": 13.14,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/GJrG2AxmD3g/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 0.9005,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "f808aeb9e618d050"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-12:adam-a-method-for-stochastic-optimization-then-now",
+    "label": "Classic paper 7/15 \u00b7 Training & scaling",
+    "title": "Adam: A Method for Stochastic Optimization \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Adam: A Method for Stochastic Optimization",
+      "url": "https://arxiv.org/pdf/1412.6980",
+      "kind": "paper"
+     },
+     {
+      "title": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models",
+      "url": "https://arxiv.org/abs/2611.14083",
+      "kind": "paper"
+     },
+     {
+      "title": "One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink",
+      "url": "https://arxiv.org/abs/2611.13188",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-12:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+      "url": "https://arxiv.org/abs/2611.13509",
+      "kind": "paper"
+     },
+     {
+      "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+      "url": "https://arxiv.org/abs/2611.12878",
+      "kind": "paper"
+     },
+     {
+      "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+      "url": "https://arxiv.org/abs/2611.14356",
+      "kind": "paper"
+     },
+     {
+      "title": "How Far Does Second-Order Linear Response Predict Quantization Mismatch? Pre-Registered Measurements on Five Language Models",
+      "url": "https://arxiv.org/abs/2611.12634",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 27,
+  "read_min": 63,
+  "listen_min": 139,
+  "generated": "12:49 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Training & scaling",
+   "title": "Adam: A Method for Stochastic Optimization \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://arxiv.org/pdf/1412.6980",
+     "title": "Adam: A Method for Stochastic Optimization",
+     "kind": "paper",
+     "url": "https://arxiv.org/pdf/1412.6980",
+     "page": "https://arxiv.org/pdf/1412.6980",
+     "source": "Classic \u00b7 MLE Foundations"
+    },
+    {
+     "id": "arxiv:2611.14083",
+     "item_ids": [
+      "b66d6065ce1f6e6d"
+     ],
+     "title": "Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.14083",
+     "page": "https://arxiv.org/abs/2611.14083",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.4705,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "arxiv:2611.13188",
+     "item_ids": [
+      "fecf8adeecd457eb"
+     ],
+     "title": "One-Sided Expert-Parallel All-to-All for Mixture-of-Experts Inference over NVLink",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.13188",
+     "page": "https://arxiv.org/abs/2611.13188",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 1.934,
+     "added": "2026-11-11"
+    }
+   ],
+   "date": "2026-11-12",
+   "key": "ep:2026-11-12:adam-a-method-for-stochastic-optimization-then-now",
+   "item_ids": [
+    "classic:https://arxiv.org/pdf/1412.6980",
+    "b66d6065ce1f6e6d",
+    "fecf8adeecd457eb"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.13509",
+     "item_ids": [
+      "f67afdfb7fcb1291"
+     ],
+     "title": "Mobile AI Factory: Building Specialized Language Models for Your Mobile Device",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.13509",
+     "page": "https://arxiv.org/abs/2611.13509",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 3.489,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "arxiv:2611.12878",
+     "item_ids": [
+      "05b8d76cce1c8dbc"
+     ],
+     "title": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Channels",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.12878",
+     "page": "https://arxiv.org/abs/2611.12878",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5452,
+     "added": "2026-11-10"
+    },
+    {
+     "id": "arxiv:2611.14356",
+     "item_ids": [
+      "e700096f78e00b91"
+     ],
+     "title": "EngineAgent: Agentizing On-Device LLM Inference Engines with Inference Stack Hierarchy Awareness and Hardware Abilities",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.14356",
+     "page": "https://arxiv.org/abs/2611.14356",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.5231,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "arxiv:2611.12634",
+     "item_ids": [
+      "cb57972352064f21"
+     ],
+     "title": "How Far Does Second-Order Linear Response Predict Quantization Mismatch? Pre-Registered Measurements on Five Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.12634",
+     "page": "https://arxiv.org/abs/2611.12634",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5025,
+     "added": "2026-11-10"
+    }
+   ],
+   "date": "2026-11-12",
+   "key": "ep:2026-11-12:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "f67afdfb7fcb1291",
+    "05b8d76cce1c8dbc",
+    "e700096f78e00b91",
+    "cb57972352064f21"
+   ]
+  }
+ ]
+}
