@@ -1,0 +1,823 @@
+{
+ "ctx": {
+  "date_long": "Saturday, November 14, 2026",
+  "weekday": "Saturday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-14 06:42:27+00:00",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.7088,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "957fc3acd210d960"
+     },
+     {
+      "title": "Italy fines Meta \u20ac805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-14 18:28:06+00:00",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0903,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "2f08475970e4a5cb"
+     },
+     {
+      "title": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-13 23:30:55+00:00",
+      "summary": "EXCLUSIVE: Investors flock to Anthropic IPO but question durability of AI lead \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.0774,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "80bc5e36ce6e345b"
+     },
+     {
+      "title": "Microsoft says consumer products services recovered; still monitoring enterprise services - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-14 05:40:00+00:00",
+      "summary": "Microsoft says consumer products services recovered; still monitoring enterprise services \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "13h ago"
+      },
+      "score": 0.9633,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "df7a239c476fd0af"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 02:52:59+00:00",
+      "summary": "970 points \u00b7 585 comments on HN",
+      "duration_min": null,
+      "popularity": 970.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50493251",
+       "ago": "15h ago"
+      },
+      "score": 1.7176,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "c6caa4d4f0b0e545"
+     },
+     {
+      "title": "Nvidia\u2019s CEO meltdown, who could replace Jensen Huang, and our latest AI tips and tricks",
+      "url": "https://www.geekwire.com/2026/nvidias-ceo-meltdown-who-could-replace-jensen-huang-and-our-latest-ai-tips-and-tricks/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 16:30:01+00:00",
+      "summary": "Jensen Huang resigned as Nvidia CEO after reports of multiple affairs, including one with a suspected Chinese spy. Todd and John look at interim CEO Colette Kress's low-profile 13 years at Microsoft and the executives who could take over for good. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.5642,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "5e83451d029e3415"
+     },
+     {
+      "title": "Officials blame aging FAA telecom gear as U.S. airspace reopens, see no link to Microsoft or AI",
+      "url": "https://www.geekwire.com/2026/dhs-chief-sees-no-microsoft-link-to-faa-ground-stop-says-possible-ai-role-being-investigated/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-13 23:04:10+00:00",
+      "summary": "Federal officials blamed aging FAA telecom equipment for Friday's nationwide ground stop, and ruled out links to the Microsoft 365 outage and the FAA's new AI traffic-planning tool. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.4945,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "fcce71fd9da3e8f8"
+     },
+     {
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 12:45:45+00:00",
+      "summary": "279 points \u00b7 108 comments on HN",
+      "duration_min": null,
+      "popularity": 279.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50496602",
+       "ago": "5h ago"
+      },
+      "score": 1.2893,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "f67a5ae71b6ef2be"
+     },
+     {
+      "title": "ChatGPT Wallet lets OpenAI\u2019s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-13 20:45:10+00:00",
+      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible US-issued American Express, Chase, Mastercard and Visa cards.\" After adding a card [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 0.7478,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "951c84561943a913"
+     },
+     {
+      "title": "The OpenAI board member who fired Sam Altman says we still can\u2019t trust AI CEOs",
+      "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 15:00:00+00:00",
+      "summary": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for having served on [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 0.7468,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "d46b516a4c8344dc"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Open-source AI without Jensen",
+      "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+      "source": "Interconnects (Nathan Lambert",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-14 12:23:15+00:00",
+      "summary": "A decapitation. It\u2019s time to rebuild.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.2459,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "8479f47633fa8f96"
+     },
+     {
+      "title": "[AINews] The No AI Slop Manifesto",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-14 08:31:02+00:00",
+      "summary": "November 13, 2026 \u2014 AIE speakers unite to lay out how to fight slop.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.0278,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "be54405e42bc8186"
+     },
+     {
+      "title": "datasette-cluster-map 0.19",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-13 23:02:45+00:00",
+      "summary": "Release: datasette-cluster-map 0.19 One of the oldest Datasette plugins, and still one of my favorites. It now works with Datasette 1.0a42, and depends on the new datasette-leaflet to ensure OpenStreetMap tiles are requested with a referrer header. Here's a map of power plants owned by California's PG&E , also demonstrating Datasette's recently redesigned facets : Tags: datasette , geospatial ,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 0.7706,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "8cc00dd5564d441f"
+     },
+     {
+      "title": "datasette-leaflet 0.3",
+      "url": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-13 22:30:54+00:00",
+      "summary": "Release: datasette-leaflet 0.3 OpenStreetMap have a very reasonable policy that hits to their hosted tile server should send a referrer header . Datasette table pages used the Referrer-Policy: no-referrer HTTP header, causing plugins that loaded tiles from OpenStreetMap to violate that policy. datasette-leaflet is the plugin that loads a bundled Leaflet so other Datasette plugins can depend on\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 0.7623,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "6f1bbb35ce553921"
+     },
+     {
+      "title": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+      "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-11 09:34:28+00:00",
+      "summary": "November 10, 2026 \u2014 Google GA's Gemini 4 Carbon.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 0.692,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "f18c0fa2410968c8"
+     },
+     {
+      "title": "Advancing science & engineering with Antigravity\u2019s /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-13 20:47:18+00:00",
+      "summary": "Education Innovation",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 0.5669,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "be81354d8a302a35"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Bayesian inference with a polymer probabilistic computer",
+      "url": "https://arxiv.org/abs/2611.14782",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 22:13:12+00:00",
+      "summary": "Bayesian inference weighs competing explanations of noisy data by sampling from a posterior distribution, a task that deterministic hardware performs only by simulating randomness. Probabilistic bits (p-bits) supply this randomness physically, but the few hardware networks of p-bits built so far use inorganic devices, address optimization or\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14782",
+       "arxiv_id": "2611.14782",
+       "authors": "Travis Wanless, Yuriy Bandera, Lubomir Kostal, Stephen H. Foulger",
+       "ago": "3d ago"
+      },
+      "score": 1.7221,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "b6878a433eee7479"
+     },
+     {
+      "title": "Risk-Aware Joint Inference and Resource Control for Physical AI in 6G Networks",
+      "url": "https://arxiv.org/abs/2611.14696",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-10 20:01:15+00:00",
+      "summary": "Wireless edge inference enables Physical-AI devices to execute edge-inferred actions using transmitted sensory inputs. Since the risk of incorrect actions vary across observations and tasks, the associated uplink transmission of sensory inputs requires different levels of wireless reliability. For instance, applying a fixed\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14696",
+       "arxiv_id": "2611.14696",
+       "authors": "Amin Farajzadeh, Melike Erol-Kantarci",
+       "ago": "3d ago"
+      },
+      "score": 1.7059,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "4e355cb4e936318e"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Plurality Consensus for $h$-Majority via First-Repetition Rules",
+      "url": "https://arxiv.org/abs/2611.16037",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-11 21:46:39+00:00",
+      "summary": "In the h-Majority dynamics, each of n agents holds one of k opinions and, in every synchronous round, observes the opinions of h agents chosen independently and uniformly at random and adopts a most frequent one among them, breaking ties uniformly at random. Let M_0 be the initial number of agents holding the most frequent opinion, and Delta_0\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.16037",
+       "arxiv_id": "2611.16037",
+       "authors": "Niccol\u00f2 D'Archivio, George Giakkoupis, Fr\u00e9d\u00e9ric Giroire, Emanuele Natale",
+       "ago": "2d ago"
+      },
+      "score": 1.8006,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "f2420287fbe25b3c"
+     },
+     {
+      "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+      "url": "https://arxiv.org/abs/2611.17097",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-12 16:58:07+00:00",
+      "summary": "Large language model (LLM) inference at datacenter scale is fundamentally bottlenecked by memory capacity and bandwidth limits. Because model weights are read-only and identical across instances, conventional architectures that replicate these parameters across the local DRAM of tens of thousands of accelerators incur massive capital\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.17097",
+       "arxiv_id": "2611.17097",
+       "authors": "Hannah Atmer, Yuan Yao, Thiemo Voigt, Stefanos Kaxiras",
+       "ago": "2d ago"
+      },
+      "score": 1.7246,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "a2f271162f361968"
+     },
+     {
+      "title": "EP233: Kubernetes Explained for Busy Engineers",
+      "url": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-14 16:30:57+00:00",
+      "summary": "Kubernetes is an orchestration platform that manages the deployment and maintenance of containerized applications, particularly on multiple machines.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.655,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "28e05e36f3f47187"
+     },
+     {
+      "title": "Introducing Spend Management: Spending limits and alerts for Cloudflare",
+      "url": "https://blog.cloudflare.com/spend-management/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-13 14:00:00+00:00",
+      "summary": "Spend Management adds opt-in spending caps for Cloudflare Workers and Durable Objects, and more products soon. Here is how we built the metering pipeline that turns usage into runtime decisions.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "28h ago"
+      },
+      "score": 0.8318,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "813e40fce5f80ae4"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Air Travel Ground Stop, Starship Rocket Launch, ExxonMobil Eyes Return to Venezuela",
+      "url": "https://www.npr.org/2026/11/14/nx-s1-6040235/air-travel-ground-stop-starship-rocket-launch-exxonmobil-eyes-return-to-venezuela",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-14 14:02:26+00:00",
+      "summary": "Federal officials say telecommunication outages were to blame for the nationwide ground stop that paralyzed air travel on Friday, but offered few details about what caused the issues. SpaceX conducted a major test of its Starship rocket Friday night. American oil giant ExxonMobil eyes a return to\u2026",
+      "duration_min": 14,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/066a47b2-34d3-4129-89d4-d37944c4dca7/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=066a47b2-34d3-4129-89d4-d37944c4dca7&feed=HMwRVgVt&t=podcast&e=nx-s1-6040235&p=510318&d=857&size=13722897",
+       "ago": "4h ago"
+      },
+      "score": 1.0884,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "4e13f51fc1cbf2be"
+     },
+     {
+      "title": "Jensen Huang Is Out at Nvidia",
+      "url": "https://www.nytimes.com/column/hard-fork",
+      "source": "Hard Fork",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-12 23:55:00+00:00",
+      "summary": "In a shocking turn of events, Nvidia\u2019s co-founder resigns amid multiple scandals.",
+      "duration_min": 39,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pdst.fm/e/pfx.vpixl.com/6qj4J/pscrb.fm/rss/p/tracking.swap.fm/track/4jdbJYYRKqK96EGqOzQb/nyt.simplecastaudio.com/3e43d072-f8a5-430f-bc8e-4c70aafdf3c7/episodes/66354d0c-214e-4370-a0df-240d93e522f8/audio/128/default.mp3?aid=rss_feed&awCollectionId=3e43d072-f8a5-430f-bc8e-4c70aafdf3c7&awEpisodeId=66354d0c-214e-4370-a0df-240d93e522f8&feed=6HKOhNgS",
+       "ago": "1d ago"
+      },
+      "score": 0.7661,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "4802e16531eabf86"
+     },
+     {
+      "title": "There and Back Again",
+      "url": "https://www.radiolab.org",
+      "source": "Radiolab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-13 15:00:00+00:00",
+      "summary": "In 1822 a stork that got speared like a kabob helped baffled scientists answer a thousand-year-old question. Of course, that led to another question, then another, then another ...",
+      "duration_min": 45,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/e7ef9075-6858-4597-9cbf-e2cce4bb4248/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=e7ef9075-6858-4597-9cbf-e2cce4bb4248&feed=EmVW7VGp",
+       "ago": "27h ago"
+      },
+      "score": 0.6695,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "f8937822d5ed3bf8"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "AI Can Do Everything\u2026Except This",
+      "url": "https://www.youtube.com/watch?v=x7iwI6WfWS0",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-14 08:40:55+00:00",
+      "summary": "After finishing this song, it took me 3 months to gather the courage to stand in front of the camera to record it. Hope you Fellow Scholars enjoy it! Thank you so much for the amazing musicians for their help! - Vocals: Carolina Padr\u00f3n - Drums:\u2026",
+      "duration_min": null,
+      "popularity": 21.88,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/x7iwI6WfWS0/hqdefault.jpg",
+       "ago": "10h ago"
+      },
+      "score": 1.2657,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "a37f32c736abcef0"
+     }
+    ]
+   }
+  ],
+  "queue": [
+   {
+    "label": "Neural Networks: Zero to Hero \u00b7 4/9 (Saturday evening)",
+    "title": "Building makemore Part 3: Activations & Gradients, BatchNorm",
+    "url": "https://www.youtube.com/watch?v=P6sfmUTpUmc",
+    "note": "Code along \u2014 don't just watch."
+   }
+  ],
+  "episodes": [
+   {
+    "key": "ep:2026-11-14:wireless-acoustic-sensing-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Hear What You Eat: In-Ear Passive Acoustic Sensing for Multi-task Dietary Monitoring",
+      "url": "https://arxiv.org/abs/2611.14878",
+      "kind": "paper"
+     },
+     {
+      "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+      "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+      "kind": "article"
+     },
+     {
+      "title": "Efficient Spintronic Stochastic In-Sensor Computing Modules",
+      "url": "https://arxiv.org/abs/2611.08715",
+      "kind": "paper"
+     },
+     {
+      "title": "A Four-Branch Radar Target Simulator with Fractional Delay on a PlutoSDR",
+      "url": "https://arxiv.org/abs/2611.15674",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-14:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+      "url": "https://arxiv.org/abs/2611.17097",
+      "kind": "paper"
+     },
+     {
+      "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+      "url": "https://arxiv.org/abs/2611.15951",
+      "kind": "paper"
+     },
+     {
+      "title": "SubGPU Pipelining: Intra-GPU Fine-Grained Spatial Parallelism for LLM Inference",
+      "url": "https://arxiv.org/abs/2611.14904",
+      "kind": "paper"
+     },
+     {
+      "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+      "url": "https://arxiv.org/abs/2611.09825",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 26,
+  "read_min": 66,
+  "listen_min": 113,
+  "generated": "10:44 AM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "arxiv:2611.14878",
+     "item_ids": [
+      "f0936848b231d767"
+     ],
+     "title": "Hear What You Eat: In-Ear Passive Acoustic Sensing for Multi-task Dietary Monitoring",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.14878",
+     "page": "https://arxiv.org/abs/2611.14878",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.7962,
+     "added": "2026-11-13"
+    },
+    {
+     "added": "2026-11-11",
+     "hits": 2,
+     "id": "40b3469495104d52",
+     "item_ids": [
+      "40b3469495104d52"
+     ],
+     "kind": "article",
+     "page": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+     "score": 2.1783,
+     "section": "ai",
+     "source": "Google Research blog",
+     "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/"
+    },
+    {
+     "added": "2026-11-09",
+     "hits": 1,
+     "id": "arxiv:2611.08715",
+     "item_ids": [
+      "000b79b4c0062aef"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.08715",
+     "score": 1.4969,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Efficient Spintronic Stochastic In-Sensor Computing Modules",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2611.08715"
+    },
+    {
+     "id": "arxiv:2611.15674",
+     "item_ids": [
+      "cbe2bc21fb85950c"
+     ],
+     "title": "A Four-Branch Radar Target Simulator with Fractional Delay on a PlutoSDR",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.15674",
+     "page": "https://arxiv.org/abs/2611.15674",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 1.1636,
+     "added": "2026-11-13"
+    }
+   ],
+   "date": "2026-11-14",
+   "key": "ep:2026-11-14:wireless-acoustic-sensing-3-new-papers-1-more",
+   "item_ids": [
+    "f0936848b231d767",
+    "40b3469495104d52",
+    "000b79b4c0062aef",
+    "cbe2bc21fb85950c"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.17097",
+     "item_ids": [
+      "a2f271162f361968"
+     ],
+     "title": "Broadcast, Don't Replicate: Eliminating Weight HBM in Datacenter LLM Serving",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.17097",
+     "page": "https://arxiv.org/abs/2611.17097",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.9609,
+     "added": "2026-11-13"
+    },
+    {
+     "id": "arxiv:2611.15951",
+     "item_ids": [
+      "b08bf727f2431750"
+     ],
+     "title": "Starscream: Reimagining LLM Sharding on AMD Instinct GPUs with GPU Partitioning",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.15951",
+     "page": "https://arxiv.org/abs/2611.15951",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.9271,
+     "added": "2026-11-13"
+    },
+    {
+     "id": "arxiv:2611.14904",
+     "item_ids": [
+      "c461eb76fda0ed83"
+     ],
+     "title": "SubGPU Pipelining: Intra-GPU Fine-Grained Spatial Parallelism for LLM Inference",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.14904",
+     "page": "https://arxiv.org/abs/2611.14904",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.8217,
+     "added": "2026-11-13"
+    },
+    {
+     "added": "2026-11-09",
+     "hits": 3,
+     "id": "arxiv:2611.09825",
+     "item_ids": [
+      "9c3a2d896fea7b35"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.09825",
+     "score": 1.6697,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.09825"
+    }
+   ],
+   "date": "2026-11-14",
+   "key": "ep:2026-11-14:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "a2f271162f361968",
+    "b08bf727f2431750",
+    "c461eb76fda0ed83",
+    "9c3a2d896fea7b35"
+   ]
+  }
+ ]
+}
