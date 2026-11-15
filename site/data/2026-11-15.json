@@ -1,0 +1,713 @@
+{
+ "ctx": {
+  "date_long": "Sunday, November 15, 2026",
+  "weekday": "Sunday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "New Orleans port sues owners of tanker involved in Mississippi crash",
+      "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-15 17:45:27+00:00",
+      "summary": "Officials are seeking at least $1 million in damages from the owners of the tanker that hit a cruise ship last week. The incident was dubbed \"the miracle on the Mississippi\" after no one was killed.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.3292,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "4c14124ae21c5934"
+     },
+     {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-15 18:08:20+00:00",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0571,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "3bb538d72e2f82fa"
+     },
+     {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-15 17:23:40+00:00",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0325,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "1e5bc53ffd389567"
+     },
+     {
+      "title": "Yemeni government force retreats from strait in major setback in war against Houthis - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVW9oR0pfVGQ2U3NYTWdTRktiZ1Z4TUFnb0UyUHJ0MTJ0ejVtQU12anZRTDg1ZmQ1cGlaS3VaUWYtM3MzdlBEcVRnVVZ1T2RONmtzMVg2SFRHeWRGQXVHb01WR1NCd1pwNXo3R0c3dWRwTHlaSXFYWlctYjhSWlVWb3BXSGNqdEdlMERpYVNQaEVfRUpmRFhWSURlcVFhNmNMekNlMy1XbDNEZVphNDJEQlA4T0pkYmFQZjlHdlBFaEtfYnpBRTE3X0E1elZXQQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-15 13:24:58+00:00",
+      "summary": "Yemeni government force retreats from strait in major setback in war against Houthis \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.8325,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "b75665400b5ef554"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "\u2018I hope this email finds you\u2019: Microsoft declares outage over as the world digs out of its inbox",
+      "url": "https://www.geekwire.com/2026/i-hope-this-email-finds-you-microsoft-declares-outage-over-as-the-world-digs-out-of-its-inbox/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 18:35:00+00:00",
+      "summary": "Microsoft says it has restored Microsoft 365 service after an outage cut off email for governments, hospitals, courts and businesses in more than 70 countries. The company traced the problem to an earlier network capacity upgrade and says it will publish a preliminary post-incident report within two business days. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.9589,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "1e1b81f6f9d87614"
+     },
+     {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-14 22:26:30+00:00",
+      "summary": "436 points \u00b7 227 comments on HN",
+      "duration_min": null,
+      "popularity": 436.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50501631",
+       "ago": "20h ago"
+      },
+      "score": 1.5375,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "0322d2a0d024b300"
+     },
+     {
+      "title": "All AI-generated code should be Open Source",
+      "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-15 14:46:58+00:00",
+      "summary": "774 points \u00b7 408 comments on HN",
+      "duration_min": null,
+      "popularity": 774.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50507303",
+       "ago": "4h ago"
+      },
+      "score": 1.4102,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "de1b04aef2180495"
+     },
+     {
+      "title": "Etzioni on AI: Startup speed is not a strategy",
+      "url": "https://www.geekwire.com/2026/etzioni-on-ai-startup-speed-is-not-a-strategy/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-15 16:13:51+00:00",
+      "summary": "AI startups should run experiments fast but make big commitments slowly, Oren Etzioni argues, because speed alone can't build a defensible business when every competitor can build quickly too. He goes through the five usual arguments for speed, says only one holds up and makes the case for proprietary data and relationships as a startup's real advantage. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.2675,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "4754af7e4867f3a6"
+     },
+     {
+      "title": "Fanttik\u2019s S1 Pro electric screwdriver is $40 off in the run-up to Black Friday",
+      "url": "https://www.theverge.com/gadgets/1033620/fantikk-s1-pro-electric-screwdriver-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-15 17:00:00+00:00",
+      "summary": "Amazon\u2019s early Black Friday promos are already underway, and we\u2019ll be highlighting some of our favorites over the next few days on our Shopping page. Among them is the Fanttik S1 Pro Cordless Electric Screwdriver, which is currently matching its all-time low of $39.99 ($40 off) at Amazon for a limited time. Fanttik\u2019s rechargeable tool [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.7788,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "cdb14c6097ac655b"
+     },
+     {
+      "title": "How the world\u2019s fires changed while humanity hit pause",
+      "url": "https://arstechnica.com/science/2026/11/how-the-worlds-fires-changed-while-humanity-hit-pause/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-15 12:07:34+00:00",
+      "summary": "COVID-19 lockdowns cut global fire activity by 12.3 percent.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 0.6419,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "94839cd568be1b1c"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "datasette-llm 0.1a11",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-14 23:59:28+00:00",
+      "summary": "Release: datasette-llm 0.1a11 datasette-llm is the intermediate plugin for Datasette that supports configuring LLMs for use with other Datasette plugins. This release adds support for OpenAI-compatible endpoints, so you can configure Datasette to use an LLM hosted anywhere that talks the OpenAI pseudo-standard web protocol. This means that if you're running local models with LM Studio or Ollama\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.7062,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "28855a954b1ff6f8"
+     },
+     {
+      "title": "datasette-vega 0.7",
+      "url": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-14 17:09:09+00:00",
+      "summary": "Release: datasette-vega 0.7 A new release of Datasette's longest untouched plugin, for rendering charts (using Vega-Lite ) against data in a table or custom query. The last release was in July 2018! I finally bumped it for compatibility with the latest Datasette alphas, plus some cosmetic tweaks to make it work better with Datasette Lite . (Datasette Lite just gained the ability to run\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 0.6827,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "8326162da905b380"
+     },
+     {
+      "title": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+      "url": "https://latent.space/p/naiveai/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-10 18:56:32+00:00",
+      "summary": "NaiveAI could potentially top Artificial Analysis\u2019s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "5d ago"
+      },
+      "score": 0.5889,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "3e1919c777ea2db3"
+     },
+     {
+      "title": "How Stanford Teaches AI-Native Engineering \u2014 Mihail Eric, Monaco",
+      "url": "https://latent.space/p/cs146s/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-08 21:41:44+00:00",
+      "summary": "What happens when students can one-shot last year\u2019s homework? Inside CS146S and the engineering team at Monaco.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "6d ago"
+      },
+      "score": 0.5123,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "9c7e75a27e82f37a"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Context-Predictive Low-Rank Adaptation for Face Presentation Attack Detection",
+      "url": "https://arxiv.org/abs/2611.16534",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-12 09:32:38+00:00",
+      "summary": "Face presentation attack detection requires representations that distinguish physical spoofing cues across changes in acquisition devices, subjects, and attack media. Large visual encoders offer transferable representations, but conventional binary fine-tuning supervises their final decisions without explicitly constraining how local facial\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.16534",
+       "arxiv_id": "2611.16534",
+       "authors": "Aminu Yusuf, Shakeel Muhammad Ibrahim, Sulaimon Oyeniyi Adebayo, Muhammad Sohail Ibrahim et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.4048,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "db84efd9f966004c"
+     },
+     {
+      "title": "STAR: Semantic-Criticality Tiered Allocation of Radio Resources via Zero-Shot Learning",
+      "url": "https://arxiv.org/abs/2611.13238",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-09 21:07:26+00:00",
+      "summary": "In remote inference, edge devices transmit high-resolution images over wireless links to a receiver, where an artificial intelligence (AI) model answers task-specific questions about these images to enable reliable decisions. These answers are often determined by a small set of task-causal pixels, such as those of text, whose corruption changes\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.13238",
+       "arxiv_id": "2611.13238",
+       "authors": "Albert Shaju, Christo Kurisummoottil Thomas, Mingzhe Chen",
+       "ago": "5d ago"
+      },
+      "score": 1.1148,
+      "why": "",
+      "also_sections": [],
+      "ago": "5d ago",
+      "id": "ab069fbac438b620"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "SubGPU Pipelining: Intra-GPU Fine-Grained Spatial Parallelism for LLM Inference",
+      "url": "https://arxiv.org/abs/2611.14904",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-11 01:51:44+00:00",
+      "summary": "Large language model (LLM) decode is dominated by short, predominantly memory-bound kernels that make bursty use of on-chip execution resources and memory bandwidth. This paper introduces SubGPU Pipelining, a fine-grained, intra-GPU spatial execution model that cuts an operator graph into ordered contiguous segments, binds those segments to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14904",
+       "arxiv_id": "2611.14904",
+       "authors": "Muralidhar Andoorveedu, Marius Juston, Tingkai Liu, Sanjay Patel",
+       "ago": "4d ago"
+      },
+      "score": 1.483,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "c461eb76fda0ed83"
+     },
+     {
+      "title": "Auriga: Harness-Governed LLM Agents for Effective Throughput Optimization in Execute-Order-Validate Permissioned Blockchains",
+      "url": "https://arxiv.org/abs/2611.14945",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-11 02:49:08+00:00",
+      "summary": "Effective throughput, the product of raw throughput and transaction success rate, determines the useful capacity of Execute-Order-Validate blockchains such as Hyperledger Fabric. Most prior work either tunes configurations to raise raw throughput, requiring many costly redeployments, or controls conflicts to raise the success rate, repairing them\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14945",
+       "arxiv_id": "2611.14945",
+       "authors": "Xiao Zhang, Tianyang Wang, Fangtao Gu, Haoxiang Sun et al.",
+       "ago": "4d ago"
+      },
+      "score": 1.2899,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "903f63d76352740e"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Why the Best Learners Talk to Themselves | Tania Lombrozo | TED",
+      "url": "https://www.youtube.com/watch?v=4qxROUatTzk",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-15 16:00:38+00:00",
+      "summary": "With more information at our fingertips than ever before, learning should be getting easier ... yet the opposite seems to be true, says cognitive scientist Tania Lombrozo. Drawing on her research into how our minds understand and reason, she\u2026",
+      "duration_min": null,
+      "popularity": 14.627,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/4qxROUatTzk/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 1.1396,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "d9c175afe72cafc9"
+     }
+    ]
+   },
+   {
+    "id": "newsletters",
+    "title": "\ud83d\udcec Sunday newsletter catch-up",
+    "items": [
+     {
+      "title": "\ud83e\udde0 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-14 21:15:46+00:00",
+      "summary": "Community Wisdom 305",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.8711,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "ac661c1b0b3a660b"
+     },
+     {
+      "title": "Meta\u2019s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-15 13:31:28+00:00",
+      "summary": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.1539,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "5f5faf4419adbc8f"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-15:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "An Open-Architecture Dual-Core STM32-Based Neural Interface with Low-Latency On-Device AI for Neuromodulation Applications",
+      "url": "https://arxiv.org/abs/2611.15942",
+      "kind": "paper"
+     },
+     {
+      "title": "SoScale: Second-Order Scale Search for FP4 Quantization",
+      "url": "https://arxiv.org/abs/2611.16426",
+      "kind": "paper"
+     },
+     {
+      "title": "Beyond Feasibility: Efficient and Robust On-Device Localization with UWB Concurrent Transmissions",
+      "url": "https://arxiv.org/abs/2611.09619",
+      "kind": "paper"
+     },
+     {
+      "title": "Not All Branches Are Equal: Adaptive Semantic ID Construction for Generative Recommendation",
+      "url": "https://arxiv.org/abs/2611.11549",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-15:llm-reasoning-test-time-compute-4-new-papers",
+    "label": "Topic episode \u00b7 LLM reasoning & test-time compute",
+    "title": "LLM reasoning & test-time compute: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+      "url": "https://arxiv.org/abs/2611.13758",
+      "kind": "paper"
+     },
+     {
+      "title": "Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning",
+      "url": "https://arxiv.org/abs/2611.11910",
+      "kind": "paper"
+     },
+     {
+      "title": "Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G",
+      "url": "https://arxiv.org/abs/2611.11023",
+      "kind": "paper"
+     },
+     {
+      "title": "DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning",
+      "url": "https://arxiv.org/abs/2611.15439",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 21,
+  "read_min": 60,
+  "listen_min": 15,
+  "generated": "11:22 AM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.15942",
+     "item_ids": [
+      "cb0e6cce33e54e51"
+     ],
+     "title": "An Open-Architecture Dual-Core STM32-Based Neural Interface with Low-Latency On-Device AI for Neuromodulation Applications",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.15942",
+     "page": "https://arxiv.org/abs/2611.15942",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 3.5559,
+     "added": "2026-11-13"
+    },
+    {
+     "id": "arxiv:2611.16426",
+     "item_ids": [
+      "50ea03a1fd61c5d3"
+     ],
+     "title": "SoScale: Second-Order Scale Search for FP4 Quantization",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.16426",
+     "page": "https://arxiv.org/abs/2611.16426",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3781,
+     "added": "2026-11-13"
+    },
+    {
+     "added": "2026-11-09",
+     "hits": 2,
+     "id": "arxiv:2611.09619",
+     "item_ids": [
+      "c501e6232f391497"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.09619",
+     "score": 2.2332,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Beyond Feasibility: Efficient and Robust On-Device Localization with UWB Concurrent Transmissions",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.09619"
+    },
+    {
+     "added": "2026-11-10",
+     "hits": 2,
+     "id": "arxiv:2611.11549",
+     "item_ids": [
+      "97c34cdb0559031a"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.11549",
+     "score": 2.2124,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Not All Branches Are Equal: Adaptive Semantic ID Construction for Generative Recommendation",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.11549"
+    }
+   ],
+   "date": "2026-11-15",
+   "key": "ep:2026-11-15:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "cb0e6cce33e54e51",
+    "50ea03a1fd61c5d3",
+    "c501e6232f391497",
+    "97c34cdb0559031a"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM reasoning & test-time compute",
+   "title": "LLM reasoning & test-time compute: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.13758",
+     "item_ids": [
+      "96e26867c6238a13"
+     ],
+     "title": "Mixed Signals: Weight-Space Programming for EEG and ECG",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.13758",
+     "page": "https://arxiv.org/abs/2611.13758",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 1,
+     "score": 2.8173,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "arxiv:2611.11910",
+     "item_ids": [
+      "414a3d20a21cfd6b"
+     ],
+     "title": "Late but Valuable: Why Deadlines Change the Measured Value of LLM Reasoning",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.11910",
+     "page": "https://arxiv.org/abs/2611.11910",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 2,
+     "score": 2.1149,
+     "added": "2026-11-10"
+    },
+    {
+     "added": "2026-11-10",
+     "hits": 1,
+     "id": "arxiv:2611.11023",
+     "item_ids": [
+      "be8e12c114b1c59f"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.11023",
+     "score": 2.0033,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Where Should Models Run? A Collaborative Inference Framework for Embodied Intelligence in 6G",
+     "topic": "LLM reasoning & test-time compute",
+     "url": "https://arxiv.org/pdf/2611.11023"
+    },
+    {
+     "id": "arxiv:2611.15439",
+     "item_ids": [
+      "f272bb8486bd267e"
+     ],
+     "title": "DeALR: Decoupled Audio-Latent Optimization with Acoustic Backtracking for Test-Time Reasoning",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.15439",
+     "page": "https://arxiv.org/abs/2611.15439",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 4,
+     "score": 1.8602,
+     "added": "2026-11-13"
+    }
+   ],
+   "date": "2026-11-15",
+   "key": "ep:2026-11-15:llm-reasoning-test-time-compute-4-new-papers",
+   "item_ids": [
+    "96e26867c6238a13",
+    "414a3d20a21cfd6b",
+    "be8e12c114b1c59f",
+    "f272bb8486bd267e"
+   ]
+  }
+ ]
+}
