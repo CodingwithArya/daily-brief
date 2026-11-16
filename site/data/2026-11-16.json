@@ -1,0 +1,808 @@
+{
+ "ctx": {
+  "date_long": "Monday, November 16, 2026",
+  "weekday": "Monday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "California sues OpenAI over hacking risks",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042920/california-sues-openai-hugging-face-hacking-incident",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-16 22:06:22+00:00",
+      "summary": "The state's attorney general started investigating OpenAI after the Hugging Face attack and now says this attack was \"entirely foreseeable\" due to OpenAI's poor security practices.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3649,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "2f3e3028b5a9d2c9"
+     },
+     {
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-16 22:21:27+00:00",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0811,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "1dfd95a1a2ac9351"
+     },
+     {
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-16 21:40:07+00:00",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0575,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "5176039615b7b3af"
+     },
+     {
+      "title": "US must intensify vaccination effort to regain measles-free status lost after 26 years - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUmxSQ1dCSWpGRG03d3RnQnBtX0kxUGRvQUtMLU4xN3pHN3NXeDhCSWEtbFBEUW1wQ2k3dTYwZ3ZzVXBpa2VTdENKRzNmM19NbUhBVFd6SmVhMjZiUThOZlZSUWEwSlFVZ3A1SUN2NUt6R0I1NERGU05tYWs3WGpqNzlqV3lpWk00Mk1VUXdfZERycDhXa0IxbTNKS0ZNT1RLUnc?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-16 21:20:43+00:00",
+      "summary": "US must intensify vaccination effort to regain measles-free status lost after 26 years \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9516,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "fb8b8dbe7a14d8f2"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "What went wrong with Outlook: Microsoft blames \u2018thundering herds\u2019 and a bug unnoticed for months",
+      "url": "https://www.geekwire.com/2026/what-went-wrong-with-outlook-microsoft-blames-thundering-herds-and-a-bug-unnoticed-for-months/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 15:31:47+00:00",
+      "summary": "Microsoft says a bug in a fix it began rolling out in July caused last week's global Outlook outage, and that testing on less powerful hardware missed it. Safeguards meant to contain the failure didn't stop it from spreading worldwide, and Exchange email couldn't switch to a backup gateway because of its scale. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 2.0155,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "06d573c822f2daf7"
+     },
+     {
+      "title": "Former UW AI researchers Yejin Choi and Carlos Guestrin raise $110M for AI startup Noeri",
+      "url": "https://www.geekwire.com/2026/former-uw-ai-researchers-yejin-choi-and-carlos-guestrin-raise-110m-for-ai-startup-noeri/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 18:37:57+00:00",
+      "summary": "Noeri, an AI startup co-founded by Stanford professors Yejin Choi and Carlos Guestrin, has raised $110 million in a round led by Menlo Ventures. Its software studies a company's data and workflows and proposes changes to the instructions, tools and models behind its AI systems, with a person reviewing each proposed change. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.7156,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "56d84887a7228fab"
+     },
+     {
+      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-15 18:36:10+00:00",
+      "summary": "620 points \u00b7 270 comments on HN",
+      "duration_min": null,
+      "popularity": 620.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50509411",
+       "ago": "28h ago"
+      },
+      "score": 1.6585,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "357c9f3ea7eef160"
+     },
+     {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 16:53:39+00:00",
+      "summary": "270 points \u00b7 58 comments on HN",
+      "duration_min": null,
+      "popularity": 270.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50519744",
+       "ago": "5h ago"
+      },
+      "score": 1.6354,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "36cf899b1962ca45"
+     },
+     {
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 20:46:01+00:00",
+      "summary": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.4577,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "d0b83026be95e613"
+     },
+     {
+      "title": "Three small failures combined to take down Microsoft 365",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 21:56:39+00:00",
+      "summary": "A hidden bug, shifting traffic, and reduced capacity led to cascading failures.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0863,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d29ae30d62981d1b"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Updating our coordinated vulnerability disclosure policy timelines - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmdyVmc1MjVDcWtuV0NsWG44R3ZzQU5rX1BkVHNkR1NlN2w4cFRselR2dTVLOS1EcjlRbU1idlVSMW11bGFWaFZjN2tydks4VkJUR1dlcXY3b2dZX1k5aE5NMUxFck5kQWZtcXlKNHF3bC1ZZXJTa0xjMDNIN1l3TlF6ZzlwMF8z?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-16 14:32:51+00:00",
+      "summary": "Updating our coordinated vulnerability disclosure policy timelines \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.681,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "1bbf9834e4f0909f"
+     },
+     {
+      "title": "datasette 0.65.6",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-15 23:18:17+00:00",
+      "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route that differs from its name could be downloaded from /<route>.db by actors who were denied access to it. [...] Tags: security , datasette",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.2866,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "6399bd505e43288a"
+     },
+     {
+      "title": "Building Visual Intelligence \u2014 Andreas Blattmann & Dustin Podell, Black Forest Labs",
+      "url": "https://latent.space/p/bfl/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-16 21:28:46+00:00",
+      "summary": "Black Forest Labs\u2019 case for learning AGI from pixels, motion and sound.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0895,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "735df09c2ed1f9d3"
+     },
+     {
+      "title": "datasette-maplibre 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-15 23:58:36+00:00",
+      "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector map server operated by Zsolt Ero (you should sponsor Zsolt on GitHub .) I built most of this with a single prompt to Claude Fable 5.2: Look at datasette-cluster-map and datasette-leaflet-geojson plugins, then look at\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.7237,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "22179845f339cd7c"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Any Channel Count, One Token Stream: Incorporating Spatial Audio Understanding and Reasoning into Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2611.18112",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-13 12:35:41+00:00",
+      "summary": "Audio phase relations encode source locations, yet existing large audio-language models (LALM) reduce audio to single-channel content to stabilise general audio understanding, leaving spatial information for direction, distance, and source-relation questions unused. We present SpheraAudio, which accepts recordings with any channel count -- mono,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.18112",
+       "arxiv_id": "2611.18112",
+       "authors": "Yuhuan You, Wenxiang Guo, Zhifang Guo, Yuxuan Wang et al.",
+       "ago": "3d ago"
+      },
+      "score": 3.0039,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "a8ddb52076acfe0e"
+     },
+     {
+      "title": "A passive, battery-free flexible metasurface for implantable millimetre-wave radar glucose sensing",
+      "url": "https://arxiv.org/abs/2611.17760",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-13 05:17:01+00:00",
+      "summary": "Continuous glucose monitors (CGM) break the skin barrier and require periodic sensor replacement. We investigated whether a passive, battery-free flexible metasurface, implanted beneath tissue and read by a commercial 60 GHz radar, can track blood glucose levels. The metasurface contained no electronics or reagents. We fitted a conical helix to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.17760",
+       "arxiv_id": "2611.17760",
+       "authors": "Kavya Saravanan, Rohini Ramachandran, Jean Pierre Ndabakuranye, Isabelle Shearer et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.5192,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "0aa68eeba516da72"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How Instacart Uses LLMs to Make People Buy More",
+      "url": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-16 16:30:56+00:00",
+      "summary": "In this article, we\u2019ll look at how Instacart used LLMs to build a product search that could accurately understand a user\u2019s shopping intention.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 2.0698,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "a30e88c5bb4a9287"
+     },
+     {
+      "title": "Superfluid: Local AI Server for Distributed LLM Inference",
+      "url": "https://arxiv.org/abs/2611.17753",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-13 05:10:32+00:00",
+      "summary": "Running large language models (LLMs) on local devices keeps data private, removes per-token cost, cuts network latency, and keeps working without a connection. Two shifts now strain how such models are served. On one device, several agents share a locally served model with an interactive user. Across devices, a developer or small team often owns\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.17753",
+       "arxiv_id": "2611.17753",
+       "authors": "Prabod Rathnayaka, Isura Manchanayake, Srikandabala Kogul, Steve Siu et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.6343,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "f21872f6d44c7506"
+     },
+     {
+      "title": "Software engineering after code becomes cheap with Satya Nadella",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-16 13:33:48+00:00",
+      "summary": "Microsoft CEO Satya Nadella on AI\u2019s impact on software engineering, code verification, and engineers\u2019 careers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.5789,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "bb1032f7c48658c1"
+     },
+     {
+      "title": "SynthCorp: A Platform for Creating Benchmarks for Data Agents",
+      "url": "https://arxiv.org/abs/2611.14765",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-10 21:43:12+00:00",
+      "summary": "Current benchmarks for LLM-driven data agents saturate quickly and cannot target specific capabilities. We present SynthCorp, a platform that creates customizable data estates and benchmarks by simulating how business events produce and modify corporate data over time. Each data estate combines relational databases, a document store, and a data\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.14765",
+       "arxiv_id": "2611.14765",
+       "authors": "Jiani Zhang, Manav Garg, Eugenie Lai, Cheng Zhen et al.",
+       "ago": "6d ago"
+      },
+      "score": 1.1543,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "41ea8c0656a4bd05"
+     },
+     {
+      "title": "LAST CALL FOR ENROLLMENT: AI Engineering Fundamentals",
+      "url": "https://blog.bytebytego.com/p/last-call-for-enrollment-ai-engineering",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-15 22:15:41+00:00",
+      "summary": "decision time",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.0235,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "8a1437e773f9affc"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Paul Christiano \u2013 We could be 12 months away from AIs that can overthrow the government",
+      "url": "https://www.dwarkesh.com/p/paul-christiano-2",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-16 17:46:28+00:00",
+      "summary": "Paul Christiano is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He\u2019s recently joined OpenAI\u2019s board (though here he is speaking as a private citizen). Paul thinks that on\u2026",
+      "duration_min": 99,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/225196123/e31fdeb36d2d8a60f107c733c706a545.mp3",
+       "ago": "5h ago"
+      },
+      "score": 2.7635,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "cc9d9dbd1b4e109a"
+     },
+     {
+      "title": "374 | Lindsey Fitzharris on Forensic Pathology, Reconstructive Surgery, and Sherlock Holmes",
+      "url": "https://preposterousuniverse.com/podcast/2026/11/16/374-lindsey-fitzharris-on-forensic-pathology-reconstructive-surgery-and-sherlock-holmes/",
+      "source": "Sean Carroll's Mindscape",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-16 11:50:00+00:00",
+      "summary": "The history of science is always fascinating, and the history of medicine surely has some of the best stories. In this episode we talk to writer Lindsey Fitzharris about two of them. First, the story of Scottish surgeon Joseph Bell, who was both a pioneer of forensic pathology and the inspiration\u2026",
+      "duration_min": 72,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/lindsey_fitzharris.mp3?dest-id=5264190",
+       "ago": "11h ago"
+      },
+      "score": 0.7434,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "a9b6e2cd11d35117"
+     },
+     {
+      "title": "FAA Ground Stop Update, Democratic Leadership Contest, Trump's Travels To Asia",
+      "url": "https://www.npr.org/2026/11/16/nx-s1-6042207/faa-ground-stop-update-democratic-leadership-contest-trumps-travels-to-asia",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-16 11:05:52+00:00",
+      "summary": "Airlines are recovering from a nationwide ground stop caused by a failure during routine FAA maintenance, raising new questions about the aging air traffic control system just ahead of the Thanksgiving travel rush. Maryland Senator Chris Van Hollen is challenging Chuck Schumer to lead Senate\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/54ea85b9-0274-4346-bce3-fcb390b24b9c/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=54ea85b9-0274-4346-bce3-fcb390b24b9c&feed=HMwRVgVt&t=podcast&e=nx-s1-6042207&p=510318&d=771&size=12339035",
+       "ago": "11h ago"
+      },
+      "score": 0.6394,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "5160b5ae7d53bab4"
+     },
+     {
+      "title": "Mushrooms for the Mind & Immune System | Paul Stamets",
+      "url": "https://www.hubermanlab.com/episode/mushrooms-for-the-mind-and-immune-system-paul-stamets",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-16 09:00:00+00:00",
+      "summary": "Paul Stamets is widely regarded as the father of modern applied mycology for his work on fungi and their applications in human health. We discuss how mushrooms and other fungi affect, and can improve, our immune system; how certain non-psychedelic mushrooms can enhance cognition and brain\u2026",
+      "duration_min": 149,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM1074623919.mp3",
+       "ago": "13h ago"
+      },
+      "score": 0.6387,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "330d6119c5f184af"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Why Microsoft couldn\u2019t fix its own servers for 36 hours...",
+      "url": "https://www.youtube.com/watch?v=ytmawkPTP24",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-16 20:18:59+00:00",
+      "summary": "OpenRouter gives you one API for every AI model that routes and governs every request, so your AI is better, faster, and cheaper. Try it free:\u2026",
+      "duration_min": null,
+      "popularity": 200.222,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/ytmawkPTP24/hqdefault.jpg",
+       "ago": "2h ago"
+      },
+      "score": 2.148,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "0913452465f69ded"
+     },
+     {
+      "title": "How to Teach a Robot to Dance | David Dob\u00e1\u0161 | TED",
+      "url": "https://www.youtube.com/watch?v=0-C6SKjKek4",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-16 16:29:53+00:00",
+      "summary": "Teaching a robot to dance, move or even stand up used to take countless hours of training. Now, by simply recording a video, you can teach a robot a new skill in a fraction of the time, says roboticist David Dob\u00e1\u0161. In a live demo with TED guest\u2026",
+      "duration_min": null,
+      "popularity": 23.377,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/0-C6SKjKek4/hqdefault.jpg",
+       "ago": "6h ago"
+      },
+      "score": 0.9148,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "cbb805a5de58f1e5"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-16:attention-is-all-you-need-then-now",
+    "label": "Classic paper 8/15 \u00b7 Training & scaling",
+    "title": "Attention Is All You Need \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "Attention Is All You Need",
+      "url": "https://arxiv.org/pdf/1706.03762",
+      "kind": "paper"
+     },
+     {
+      "title": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+      "url": "https://arxiv.org/abs/2611.15250",
+      "kind": "paper"
+     },
+     {
+      "title": "Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help",
+      "url": "https://arxiv.org/abs/2611.17042",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-16:distributed-systems-databases-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Distributed systems & databases",
+    "title": "Distributed systems & databases: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "A Cross-Domain TARA-to-NAC Rule Mapping Methodology: From Automotive OEM Networks to Energy Storage Systems",
+      "url": "https://arxiv.org/abs/2611.09771",
+      "kind": "paper"
+     },
+     {
+      "title": "Choosing QuePaxa, an unusual consensus algorithm",
+      "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+      "kind": "article"
+     },
+     {
+      "title": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
+      "url": "https://arxiv.org/abs/2611.15130",
+      "kind": "paper"
+     },
+     {
+      "title": "SoK: Design Choices in Tendermint BFT Consensus",
+      "url": "https://arxiv.org/abs/2611.15847",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 27,
+  "read_min": 63,
+  "listen_min": 363,
+  "generated": "2:53 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Training & scaling",
+   "title": "Attention Is All You Need \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://arxiv.org/pdf/1706.03762",
+     "title": "Attention Is All You Need",
+     "kind": "paper",
+     "url": "https://arxiv.org/pdf/1706.03762",
+     "page": "https://arxiv.org/pdf/1706.03762",
+     "source": "Classic \u00b7 MLE Foundations"
+    },
+    {
+     "id": "arxiv:2611.15250",
+     "item_ids": [
+      "052466937ce71b05"
+     ],
+     "title": "Multi-head Quantum Neural Networks: Replacing Transformer Blocks with NISQ Modules inside a 30-Billion-Parameter LLM",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.15250",
+     "page": "https://arxiv.org/abs/2611.15250",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.1065,
+     "added": "2026-11-13"
+    },
+    {
+     "id": "arxiv:2611.17042",
+     "item_ids": [
+      "930cf0773386b41d"
+     ],
+     "title": "Infrastructure for Verifiable AI: Where Proof Costs Go and How Hardware Can Help",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.17042",
+     "page": "https://arxiv.org/abs/2611.17042",
+     "topic": "Training & scaling",
+     "hits": 1,
+     "score": 1.8378,
+     "added": "2026-11-13"
+    }
+   ],
+   "date": "2026-11-16",
+   "key": "ep:2026-11-16:attention-is-all-you-need-then-now",
+   "item_ids": [
+    "classic:https://arxiv.org/pdf/1706.03762",
+    "052466937ce71b05",
+    "930cf0773386b41d"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Distributed systems & databases",
+   "title": "Distributed systems & databases: 3 new papers + 1 more",
+   "sources": [
+    {
+     "added": "2026-11-09",
+     "hits": 2,
+     "id": "arxiv:2611.09771",
+     "item_ids": [
+      "666b2c9ef3d57c6a"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.09771",
+     "score": 1.8437,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "A Cross-Domain TARA-to-NAC Rule Mapping Methodology: From Automotive OEM Networks to Energy Storage Systems",
+     "topic": "Distributed systems & databases",
+     "url": "https://arxiv.org/pdf/2611.09771"
+    },
+    {
+     "id": "1e25c4d1d22c66b1",
+     "item_ids": [
+      "1e25c4d1d22c66b1"
+     ],
+     "title": "Choosing QuePaxa, an unusual consensus algorithm",
+     "kind": "article",
+     "section": "swe",
+     "source": "Cloudflare blog",
+     "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+     "page": "https://blog.cloudflare.com/choosing-quepaxa/",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 2.1163,
+     "added": "2026-11-11"
+    },
+    {
+     "id": "arxiv:2611.15130",
+     "item_ids": [
+      "922fd213d19136fb"
+     ],
+     "title": "Read Once, Answer Many: Parallel Prompting for Shared-Context LLM Inference",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.15130",
+     "page": "https://arxiv.org/abs/2611.15130",
+     "topic": "Distributed systems & databases",
+     "hits": 1,
+     "score": 1.8031,
+     "added": "2026-11-13"
+    },
+    {
+     "id": "arxiv:2611.15847",
+     "item_ids": [
+      "9878cbe5fe3122a6"
+     ],
+     "title": "SoK: Design Choices in Tendermint BFT Consensus",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.15847",
+     "page": "https://arxiv.org/abs/2611.15847",
+     "topic": "Distributed systems & databases",
+     "hits": 2,
+     "score": 1.4615,
+     "added": "2026-11-13"
+    }
+   ],
+   "date": "2026-11-16",
+   "key": "ep:2026-11-16:distributed-systems-databases-3-new-papers-1-more",
+   "item_ids": [
+    "666b2c9ef3d57c6a",
+    "1e25c4d1d22c66b1",
+    "922fd213d19136fb",
+    "9878cbe5fe3122a6"
+   ]
+  }
+ ]
+}
