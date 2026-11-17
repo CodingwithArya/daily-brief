@@ -1,0 +1,858 @@
+{
+ "ctx": {
+  "date_long": "Tuesday, November 17, 2026",
+  "weekday": "Tuesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemNySVhGbms1VkxVYXFsTFdtdVh1MjNQQk16Y1ZfNGFHMFhDRWUtZldZRzJzSWxpNlBLWVpTenJnU2FHZndaVUlEclFtQVNvTzJBWTNpM1p0N3dmWjlyMEFKbkowZkpSanhVcEVLUjZfOWxNcW5OZVFuLTNFNF93ZDd4b0wxX1VzNlJPODdqc0xob1ZrR0xuQkJ6bExvNDdQMk5saFVSdkVBZw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-17 21:01:55+00:00",
+      "summary": "Wall Street ends lower ahead of Nvidia earnings, Anthropic debut \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.7568,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "141e6e75dad05645"
+     },
+     {
+      "title": "Classified US national security communications network hit by outage, NSA says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc2ZFQXV3ZUxOU0hNN0lPMXA2Z0l6aTNFekJ5cXpuNEVOZk92a0RVOUhZNmVOdXJURUV6Q0VDNzk1Q0ZRYkMyeW1KS0pxcGlESzJ6dER0QWlDdXNTY3pyV1l6NzcyWnhhUkhpYlJwRXMxU3YwdmE4RTZvRFZNbnZwX2ktaDdtTEllZmdlN0ktancwenNjSDhKZ2RpT3lxbXhmdXNkVGZybkFxeDNOeldCbFpQcWhjMi03LXVOeA?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-17 20:53:08+00:00",
+      "summary": "Classified US national security communications network hit by outage, NSA says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.7486,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "c7d6180c559ce607"
+     },
+     {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-17 21:24:35+00:00",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0867,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "d88a057603d409d8"
+     },
+     {
+      "title": "Russian military plane crashes killing all 19 on board",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-17 21:06:11+00:00",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.076,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "53efa72567576656"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own",
+      "url": "https://www.geekwire.com/2026/microsoft-jabs-at-openai-and-anthropic-touting-cheaper-customizable-ai-models-of-its-own/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-17 19:57:51+00:00",
+      "summary": "Microsoft pitched Copilot as cheaper than ChatGPT and Claude at its Ignite conference, showing a chart that put monthly business costs per user at $30 for Copilot, $81 for ChatGPT and $205 for Claude. Microsoft invests in both OpenAI and Anthropic and sells their models. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 3.4342,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "24c8956d4afb22e7"
+     },
+     {
+      "title": "Seattle tech vet and Sounders FC minority owner Chee Chew joins front office to lead AI push",
+      "url": "https://www.geekwire.com/2026/seattle-tech-vet-and-sounders-fc-minority-owner-chee-chew-joins-front-office-to-lead-ai-push/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-17 19:02:15+00:00",
+      "summary": "The former Microsoft, Google and Amazon exec will help every corner of the Sounders and Reign business use AI, from ticket sales to player scouting. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 2.8231,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "f762b19c78201cdc"
+     },
+     {
+      "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+      "url": "https://arstechnica.com/tech-policy/2026/11/california-sues-openai-to-stop-public-nuisance-of-out-of-control-ai-agents/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-17 18:13:34+00:00",
+      "summary": "AG: OpenAI tested dangerous AI without proper oversight and misled public about it.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.5735,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "29c31b94931d4021"
+     },
+     {
+      "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+      "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 13:18:22+00:00",
+      "summary": "437 points \u00b7 331 comments on HN",
+      "duration_min": null,
+      "popularity": 437.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50517321",
+       "ago": "32h ago"
+      },
+      "score": 1.5246,
+      "why": "",
+      "also_sections": [],
+      "ago": "32h ago",
+      "id": "f89cd0c3d555933e"
+     },
+     {
+      "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-16 22:58:20+00:00",
+      "summary": "702 points \u00b7 580 comments on HN",
+      "duration_min": null,
+      "popularity": 702.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50524736",
+       "ago": "22h ago"
+      },
+      "score": 1.5134,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "81bd7f76e2a9d5f3"
+     },
+     {
+      "title": "Google\u2019s Spark AI agent becomes \u2018Tasks\u2019 \u2014 and now it\u2019s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-17 18:58:01+00:00",
+      "summary": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find recurring expenses you might not need. Users in the US [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9878,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "72284a47c9d975a2"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "llm 0.37.3",
+      "url": "https://simonwillison.net/2026/Nov/16/llm/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-16 23:57:26+00:00",
+      "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , which includes a fix that broke LLM's logging code . Short version: in SQLite 3.54.0 the following SQL: select json_object('a', (select json_array(1))) Returns this: {\"a\":[1]} But in 3.54.1 the same query returns this:\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.3297,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "7b35cd257176f92f"
+     },
+     {
+      "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+      "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-17 16:48:33+00:00",
+      "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite using service workers, and it's now almost indistinguishable from the real server-side application. You can now do all of the following, using a carefully crafted URL to lite.datasette.io : Load client-side Datasette to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.1139,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "531ea9dc8e630947"
+     },
+     {
+      "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+      "url": "https://latent.space/p/cloudflare/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-17 15:00:00+00:00",
+      "summary": "Cloudflare made its name speeding up the web. Now it's building System One models to make decisions and pull data in milliseconds.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.0512,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "af19957a97c276aa"
+     },
+     {
+      "title": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+      "url": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-17 09:24:56+00:00",
+      "summary": "November 16, 2026 \u2014 Computer gets Teammates, Perplexity ships Monitor API, and a new research lab launches.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.0136,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "a909c419b8fadbae"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+      "url": "https://arxiv.org/abs/2611.20187",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-15 18:41:35+00:00",
+      "summary": "The CAPSARII project advances a cyber-secure, ultra-low-power wearable platform and Internet of Battlefield Things (IoBT) framework to support real-time monitoring of military personnel and data-driven decision support. The architecture integrates smart-textile sensing, a body/squad area mesh, edge-deployed AI on secure RISC-V microcontrollers,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.20187",
+       "arxiv_id": "2611.20187",
+       "authors": "Luciano Bozzi, Christian Celidonio, Umberto Nuzzi, Massimo Biagini et al.",
+       "ago": "2d ago"
+      },
+      "score": 3.5124,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "cb776082c8bb3207"
+     },
+     {
+      "title": "EE-Motion: An EEG-based Web Architecture for Live Affective Music Recommendation",
+      "url": "https://arxiv.org/abs/2611.21032",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-16 12:52:08+00:00",
+      "summary": "Music listening is intrinsically tied to emotion, which drifts continuously within a single session. Although modern browsers interface with wearable brain-computer interfaces, recommendation systems remain structured around discrete logs and lack the infrastructure to integrate continuous physiological signals. Furthermore, existing affect-aware\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.21032",
+       "arxiv_id": "2611.21032",
+       "authors": "Sabino Roccotelli, Potito Aghilar, Vito Walter Anelli, Alejandro Bellog\u00edn et al.",
+       "ago": "32h ago"
+      },
+      "score": 3.1155,
+      "why": "",
+      "also_sections": [],
+      "ago": "32h ago",
+      "id": "6b80c444d334bb44"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Inference engineering for software engineers",
+      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-17 16:11:23+00:00",
+      "summary": "When is the right time to drop APIs provided by the frontier AI labs, and what about choosing models & providers, caching, dedicated GPUs, KV cache concerns, and more? A practical deepdive",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.9667,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "6c265f6b8d49da68"
+     },
+     {
+      "title": "Why Thinking More Can Make an LLM Dumb",
+      "url": "https://blog.bytebytego.com/p/why-thinking-more-can-make-an-llm",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-17 16:31:11+00:00",
+      "summary": "In this article, we\u2019ll try to understand why thinking longer can make an LLM dumber.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.0851,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "f006871e2ded22bd"
+     },
+     {
+      "title": "Benchmarking LLM Inference on Desktop-Scale NVIDIA Grace Blackwell Clusters",
+      "url": "https://arxiv.org/abs/2611.20289",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-15 22:37:14+00:00",
+      "summary": "Two NVIDIA DGX Spark GB10 systems connect directly over 200 GbE to serve larger language models and increase inference capacity, but the benefits depend on how they are deployed. We benchmark 17 open-weight checkpoints spanning dense and mixture-of-experts architectures, 8B to 235B parameters and four weight precisions on one and two\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.20289",
+       "arxiv_id": "2611.20289",
+       "authors": "Kevin Bhimani, Christian Escobar, Daniel Mihovch, Rudolf Eigenmann et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.0188,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "38dd7eb3a10f4346"
+     },
+     {
+      "title": "SMELL: Sparsity-aware Memory Efficient Federated Fine-tuning for Long-context LLMs",
+      "url": "https://arxiv.org/abs/2611.19349",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-14 11:40:22+00:00",
+      "summary": "Federated fine-tuning enables Large Language Models (LLMs) to collaboratively adapt to distributed private data. However, long-context fine-tuning on resource-constrained devices faces substantial challenges arising from excessive activation memory, heterogeneous token-importance patterns across clients, and communication overhead. To address\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.19349",
+       "arxiv_id": "2611.19349",
+       "authors": "Yin Xu, Yongbo Yang, He Sun, Miao Sun et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.6911,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "a6ed11bc3ec6b497"
+     },
+     {
+      "title": "Engineering AI Discover",
+      "url": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+      "source": "Netflix TechBlog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-17 17:01:02+00:00",
+      "summary": "The challenges and decisions behind AI Discover\u2019s intelligence layer By Varun Khaitan , Peng Ren , Gary Tang , Itay Teller , Atif Faheem , Nipun Kumar , Donnie DeBoer , Eduardo Lundgren , Matteo Rinaldi , Raghav Bakshi We recently introduced AI Discover , a new tab in our TV app where a small group of members can try new ways to find something to watch. For years, our recommendations have worked\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.4915,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "a361596dadc4279d"
+     },
+     {
+      "title": "Quad9\u2019s withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-17 20:24:27+00:00",
+      "summary": "Quad9's forced withdrawal from France highlights the dangers of mandating DNS-level blocking. We explore why forcing public resolvers to act as content filters is technically flawed and threatens the open Internet.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9907,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "340c2ff0827fd3fe"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "The Technical Interview Is Broken",
+      "url": "https://softwareengineeringdaily.com/podcasts/the-technical-interview-is-broken/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-17 10:00:00+00:00",
+      "summary": "The technical interview has long been used as a proxy for actual job performance. Brain teasers, data structure puzzles, or reversing a linked list became the price of admission to employment as a developer in many organizations, even though few engineers do that work day to day. It would seem AI\u2026",
+      "duration_min": 54,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/50acc20a/0fdf3086.mp3",
+       "ago": "11h ago"
+      },
+      "score": 0.8527,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "ef7e5cbdc2c26f28"
+     },
+     {
+      "title": "FAA Tech Upgrade Update, Trump Asia Agenda, Petition To Reinstate Huang At Nvidia",
+      "url": "https://www.npr.org/2026/11/17/nx-s1-6043667/faa-tech-upgrade-update-trump-asia-agenda-petition-to-reinstate-huang-at-nvidia",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-17 10:46:57+00:00",
+      "summary": "Another technology problem disrupted United Airlines flights on Monday night as President Trump pushes Congress for more money to modernize the nation\u2019s air traffic control system and Democrats question how previously approved funds are being spent. Trump is in Asia for a historic summit with Xi\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/6430874a-e7f0-4e59-b9c4-75eb2181f32d/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=6430874a-e7f0-4e59-b9c4-75eb2181f32d&feed=HMwRVgVt&t=podcast&e=nx-s1-6043667&p=510318&d=774&size=12388773",
+       "ago": "11h ago"
+      },
+      "score": 0.6525,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "88fd94911510aedf"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "OpenAI's New Breakthrough Is... Utter Chaos",
+      "url": "https://www.youtube.com/watch?v=gl2U4fGTr6g",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-17 12:46:24+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The paper is available here: https://www.kitp.ucsb.edu/sites/default/files/YM_working_group.pdf\u2026",
+      "duration_min": null,
+      "popularity": 131.188,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/gl2U4fGTr6g/hqdefault.jpg",
+       "ago": "9h ago"
+      },
+      "score": 2.2049,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "ef1bc3362238e12c"
+     },
+     {
+      "title": "AIs might overthrow the government within a year \u2013 Paul Christiano",
+      "url": "https://www.youtube.com/watch?v=SyHM5hNPAEo",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-16 18:08:23+00:00",
+      "summary": "Paul Christiano is head of the Alignment Research Center. Previously, he was head of AI safety at the US AI Safety Institute. Before that, he led alignment at OpenAI, where he invented RLHF. He\u2019s recently joined OpenAI\u2019s board (though here he is\u2026",
+      "duration_min": null,
+      "popularity": 235.797,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/SyHM5hNPAEo/hqdefault.jpg",
+       "ago": "27h ago"
+      },
+      "score": 2.1536,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "1691299bc3fa9ef6"
+     },
+     {
+      "title": "How to compress text to 1 bit per character | Compression is Intelligence Part 3",
+      "url": "https://www.youtube.com/watch?v=qbsb9DpdZ6s",
+      "source": "3Blue1Brown",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-17 16:43:16+00:00",
+      "summary": "Arithmetic codes and how they elucidate this trilogy's title Channel career fair: https://3b1b.com/talent New store items! https://3b1b.com/store Early views for supporters: https://3b1b.com/support Other resources you may enjoy. On Asymmetric\u2026",
+      "duration_min": null,
+      "popularity": 117.572,
+      "weight": 1.5,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/qbsb9DpdZ6s/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 2.0499,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "c966e98a878a0490"
+     },
+     {
+      "title": "How to Rewire Your Brain \u2014 and Find Your Flow | Heather Berlin | TED",
+      "url": "https://www.youtube.com/watch?v=B2SIsncgFi0",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-17 17:00:34+00:00",
+      "summary": "When life gets uncertain, do you grip a little tighter? Neuroscientist Heather Berlin explores a surprising paradox: the harder you try to control everything, the more likely you are to get in your own way. Drawing on brain research and her own\u2026",
+      "duration_min": null,
+      "popularity": 21.354,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/B2SIsncgFi0/hqdefault.jpg",
+       "ago": "4h ago"
+      },
+      "score": 0.982,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "0622b65f1099704a"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-17:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2611.19136",
+      "kind": "paper"
+     },
+     {
+      "title": "Towards wearable-scale, transition-aware sleep staging for clinical populations",
+      "url": "https://arxiv.org/abs/2611.21040",
+      "kind": "paper"
+     },
+     {
+      "title": "A passive, battery-free flexible metasurface for implantable millimetre-wave radar glucose sensing",
+      "url": "https://arxiv.org/abs/2611.17760",
+      "kind": "paper"
+     },
+     {
+      "title": "HeteroWear: Sensor-Aware Self-Supervised Learning for Heterogeneous Wearable Activity Recognition",
+      "url": "https://arxiv.org/abs/2611.19027",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-17:hearables-on-device-audio-ai-4-new-papers",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Any Channel Count, One Token Stream: Incorporating Spatial Audio Understanding and Reasoning into Large Audio-Language Models",
+      "url": "https://arxiv.org/abs/2611.18112",
+      "kind": "paper"
+     },
+     {
+      "title": "MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation",
+      "url": "https://arxiv.org/abs/2611.19706",
+      "kind": "paper"
+     },
+     {
+      "title": "GigaEdge Spench: An SDK for Practical Streaming Speech Enhancement",
+      "url": "https://arxiv.org/abs/2611.13243",
+      "kind": "paper"
+     },
+     {
+      "title": "BAmbiDrop: Array-Agnostic Speech Enhancement with Zero-Shot binaural Reproduction using Multi-center Ambisonics Encoding",
+      "url": "https://arxiv.org/abs/2611.10561",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 28,
+  "read_min": 66,
+  "listen_min": 127,
+  "generated": "1:47 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.19136",
+     "item_ids": [
+      "01afcf44c9f96cac"
+     ],
+     "title": "Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.19136",
+     "page": "https://arxiv.org/abs/2611.19136",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 1,
+     "score": 2.9038,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.21040",
+     "item_ids": [
+      "8a905dcf11d7f2f4"
+     ],
+     "title": "Towards wearable-scale, transition-aware sleep staging for clinical populations",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.21040",
+     "page": "https://arxiv.org/abs/2611.21040",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.8575,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.17760",
+     "item_ids": [
+      "0aa68eeba516da72"
+     ],
+     "title": "A passive, battery-free flexible metasurface for implantable millimetre-wave radar glucose sensing",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.17760",
+     "page": "https://arxiv.org/abs/2611.17760",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 4,
+     "score": 2.5192,
+     "added": "2026-11-16"
+    },
+    {
+     "id": "arxiv:2611.19027",
+     "item_ids": [
+      "5b78bb983a7f913a"
+     ],
+     "title": "HeteroWear: Sensor-Aware Self-Supervised Learning for Heterogeneous Wearable Activity Recognition",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.19027",
+     "page": "https://arxiv.org/abs/2611.19027",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.0932,
+     "added": "2026-11-17"
+    }
+   ],
+   "date": "2026-11-17",
+   "key": "ep:2026-11-17:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "01afcf44c9f96cac",
+    "8a905dcf11d7f2f4",
+    "0aa68eeba516da72",
+    "5b78bb983a7f913a"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.18112",
+     "item_ids": [
+      "a8ddb52076acfe0e"
+     ],
+     "title": "Any Channel Count, One Token Stream: Incorporating Spatial Audio Understanding and Reasoning into Large Audio-Language Models",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.18112",
+     "page": "https://arxiv.org/abs/2611.18112",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 3.0039,
+     "added": "2026-11-16"
+    },
+    {
+     "id": "arxiv:2611.19706",
+     "item_ids": [
+      "6910fa0a3c15624f"
+     ],
+     "title": "MOUSSE: Multilingual Overlapped Speech Separation with Predictive Uncertainty Estimation",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.19706",
+     "page": "https://arxiv.org/abs/2611.19706",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.3545,
+     "added": "2026-11-17"
+    },
+    {
+     "added": "2026-11-11",
+     "hits": 2,
+     "id": "arxiv:2611.13243",
+     "item_ids": [
+      "f6ffd0b1b90bfd2e"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.13243",
+     "score": 1.1977,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "GigaEdge Spench: An SDK for Practical Streaming Speech Enhancement",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2611.13243"
+    },
+    {
+     "added": "2026-11-10",
+     "hits": 4,
+     "id": "arxiv:2611.10561",
+     "item_ids": [
+      "49eda461cf491cf7"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.10561",
+     "score": 0.9918,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "BAmbiDrop: Array-Agnostic Speech Enhancement with Zero-Shot binaural Reproduction using Multi-center Ambisonics Encoding",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2611.10561"
+    }
+   ],
+   "date": "2026-11-17",
+   "key": "ep:2026-11-17:hearables-on-device-audio-ai-4-new-papers",
+   "item_ids": [
+    "a8ddb52076acfe0e",
+    "6910fa0a3c15624f",
+    "f6ffd0b1b90bfd2e",
+    "49eda461cf491cf7"
+   ]
+  }
+ ]
+}
