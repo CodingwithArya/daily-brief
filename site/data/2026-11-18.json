@@ -1,0 +1,754 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, November 18, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-18 13:55:14+00:00",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 1.5768,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "d9747a228dfa38f6"
+     },
+     {
+      "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-18 04:57:06+00:00",
+      "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "16h ago"
+      },
+      "score": 1.3971,
+      "why": "",
+      "also_sections": [],
+      "ago": "16h ago",
+      "id": "c34c4ac170739bfa"
+     },
+     {
+      "title": "Apple works to restore services after outage caused by internal update - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYVJuYnNwMGtjY1NfY01rbXdSVTVnOFdaak1sd1ZkbXpPZzFuWjlOcTJNVUplNDJZLUVxeGZtaXlGZlg1UjFkY2Z5Um5Td19tS2pUZmZKNFlEb0QxVUwyekt2UnRPRlJUT3hRM3FhQWp2MDJRVGI4U1hfeWlpeGlBdFJyTG1rei1yNXJqbnF5LV9vQ3FwYVloZjVhZ1hfVWUzV0RlQVpRc3I3emJwU1lFZEduaUZSS1k5anRlN2lDQkQ0SFI0QkVz?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-17 22:55:19+00:00",
+      "summary": "Apple works to restore services after outage caused by internal update \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.0096,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "8edeafd16c37fdcf"
+     },
+     {
+      "title": "EXCLUSIVE: Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN09ma2xvQVVUbWJDcFlLNWNXVUZJQmk4YnJNRkZIODF5VkNxX1BMemVKR3FxYTNMeEM1MEtGemYtQ0NrY2QwbWlDbV9YcGVrX3VuaUtXX040X2xET1JqckxHSWdUdUhXTE1YVE1lMUZabWotTnBlM2NFMDZrSFRZOGR4RTllNm5sUzM5ZkEwUm9jc0tYajk4U0RYYWxqaXJodW5rN1hMcWZ1WEtTZE5FQWRXQ2dMWVZYSWk0OTBCX2VUWkNONHQ0NWJYeWQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-18 20:35:41+00:00",
+      "summary": "EXCLUSIVE: Orlen, QatarEnergy in talks on new LNG deal days after contract termination, sources say \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9732,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "f980aaaf1222c80e"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Grab your GeekWire Gala early bird tickets now, and party Dec. 10 with Seattle\u2019s tech community",
+      "url": "https://www.geekwire.com/2026/grab-your-geekwire-gala-early-bird-tickets-now-and-party-dec-10-with-seattles-tech-community/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 17:41:03+00:00",
+      "summary": "Seattle tech\u2019s biggest holiday celebration takes place Dec. 10. We've got a new venue and fresh experiences, and it's a great chance to rub shoulders with hundreds of the region\u2019s top founders, investors, entrepreneurs and business leaders. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.2398,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "5d07095d70e23576"
+     },
+     {
+      "title": "\u2018Absurd ambition\u2019: Pulumi expands into software delivery with AI agents that ship and fix code",
+      "url": "https://www.geekwire.com/2026/absurd-ambition-pulumi-expands-into-software-delivery-with-ai-agents-that-ship-and-fix-code/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 16:57:16+00:00",
+      "summary": "Pulumi launched Pulumi Delivery and Pulumi Agents, which let AI agents release software and fix cloud infrastructure, with teams deciding when people must sign off. The company has about 100 employees, down from 130 last year. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.1911,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "73187c792eb7d298"
+     },
+     {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "url": "https://energy-based-reasoners.github.io/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 09:29:32+00:00",
+      "summary": "287 points \u00b7 47 comments on HN",
+      "duration_min": null,
+      "popularity": 287.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50543989",
+       "ago": "11h ago"
+      },
+      "score": 1.7461,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "6fc8c039af460fdf"
+     },
+     {
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-17 21:16:12+00:00",
+      "summary": "311 points \u00b7 422 comments on HN",
+      "duration_min": null,
+      "popularity": 311.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50538303",
+       "ago": "24h ago"
+      },
+      "score": 1.4583,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "6e090bb95c89cabb"
+     },
+     {
+      "title": "Windows Server 2028 trades compatibility for out-of-the-box security",
+      "url": "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 20:41:12+00:00",
+      "summary": "Hardened defaults align with DoD standards, but there may be growing pains.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.7809,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "ebc1d416786ba303"
+     },
+     {
+      "title": "Best Buy sells Blu-rays online and in-store again",
+      "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 19:31:17+00:00",
+      "summary": "Popular titles like The Odyssey are being \u201csold & shipped by Best Buy.\"",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.7525,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "def89ba6e7998ba4"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Quoting Daniel Stenberg",
+      "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-18 15:58:27+00:00",
+      "summary": "During the time these agents converted 185,000 lines of C code into 340,000 lines of Rust code (I counted), we merged over 300 commits in the actual curl project. We actually improved curl during these a little more than three weeks. A little over 200 bugfixes actually. 200 bugfixes that none of those rust rewrites have. We also fixed a few vulnerabilities. In another month we have done another\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.9765,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "66ec954f3129b8cf"
+     },
+     {
+      "title": "External sandboxes for coding agents",
+      "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-17 22:52:29+00:00",
+      "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worrying that a mistake or prompt injection attack might cause them to take damaging actions on a machine. I worked on this project with Prime Radiant , the AI research lab behind Superpowers and other projects . My post on\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.3113,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "a8f771cea26e5530"
+     },
+     {
+      "title": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+      "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-18 10:19:04+00:00",
+      "summary": "November 17, 2026 \u2014 GPT-6.2 Astra and Sol lower benchmark costs. Early testers disagree on what Astra is like to work with.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "11h ago"
+      },
+      "score": 1.0218,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "7c37480e5f494a78"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.22248",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-17 05:52:52+00:00",
+      "summary": "Wearable and smartphone sensors capture behavioral signals associated with mental health, yet inferring mental health outcomes from these signals has traditionally relied on supervised models requiring labeled data and offering limited insight into their predictions. Large language models (LLMs) offer new opportunities to reason over behavioral\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.22248",
+       "arxiv_id": "2611.22248",
+       "authors": "Yishu Ji, Zhihan Jiang, Will Ke Wang, Yuang Fan et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.7464,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "ac5df45e00ac5d57"
+     },
+     {
+      "title": "From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems",
+      "url": "https://arxiv.org/abs/2611.19165",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-14 05:14:45+00:00",
+      "summary": "The migration of artificial intelligence from centralized cloud infrastructure to resource-constrained Internet-of-Things (IoT) devices reduces communication latency and improves data locality, but it also tightly couples sensing quality, inference behavior, microarchitectural activity, hardware reliability, security, and energy management within\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.19165",
+       "arxiv_id": "2611.19165",
+       "authors": "Mostafa Darvishi",
+       "ago": "4d ago"
+      },
+      "score": 2.6496,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "1907843157ebea64"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures",
+      "url": "https://arxiv.org/abs/2611.22086",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-17 02:14:54+00:00",
+      "summary": "Large language model (LLM) serving relies predominantly on cloud GPUs, yet autoregressive decoding is memory-bound and often leaves their arithmetic units underutilized. Edge FPGAs offer attractive decoding efficiency, but are ill suited to sustaining a high-concurrency serving workload alone. This paper presents HyCoInfer, a heterogeneous\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.22086",
+       "arxiv_id": "2611.22086",
+       "authors": "Zewen Huang, Xiangwen Zhuge, Yingkun Hu, Zheng Yang et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.0642,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "0370ac841af69112"
+     },
+     {
+      "title": "How Meta Uses AI Agents to Scale ML Innovations Across Ads Ranking Models",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/ai-agents-to-scale-ml-innovations-across-ads-ranking-models/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 17:00:00+00:00",
+      "summary": "Our previous post in this series introduced the Ranking Engineer Agent (REA), an autonomous system that generates hypotheses, designs experiments, and proves new machine learning (ML) techniques on ads ranking models. Now, we\u2019re sharing how we propagate ranking model improvements like architectural advancements and training optimizations efficiently across a large and diverse fleet of ads [...]\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.7472,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "0f9be8abc3972160"
+     },
+     {
+      "title": "Evals for AI Engineers",
+      "url": "https://blog.bytebytego.com/p/evals-for-ai-engineers",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 16:31:02+00:00",
+      "summary": "In today\u2019s issue, we\u2019re featuring an excerpt that introduces the Three Gulfs of LLM Application Development.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.6254,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "0c06dab31b513709"
+     },
+     {
+      "title": "TAILROLL: Tail-Aware Rollout Acceleration for RL-Based LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.22206",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-17 04:44:20+00:00",
+      "summary": "RL post-training of large language models (LLMs) is bottlenecked by rollout: heavy-tailed responses leave engines idle as each step waits for the longest response. Asynchronous training masks, but does not eliminate, idle time. We distinguish imbalance waste (uneven placement and decode contention) from straggler waste (waiting for the longest\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.22206",
+       "arxiv_id": "2611.22206",
+       "authors": "Niloofar Gholipour, Marcos Assuncao, Timothy Yu, Gursimran Singh et al.",
+       "ago": "1d ago"
+      },
+      "score": 1.5353,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "1c7e81e3b12fb37e"
+     },
+     {
+      "title": "Software factories and code reviews with Harjot Gill",
+      "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 18:08:52+00:00",
+      "summary": "CodeRabbit CEO Harjot Gill explains how he shipped over 5,000 pull requests in a month, why he believes human code review is dead, and what he gets from spending $250,000 a month on AI.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.3694,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "f7bfd04d60285012"
+     },
+     {
+      "title": "TLAPS-Bench: Formally Proving Correctness Of Real-World System Specifications With TLA+ Proof System",
+      "url": "https://muratbuffalo.blogspot.com/2026/11/tlaps-bench-formally-proving.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 06:19:39+00:00",
+      "summary": "TLA+ specification language has long been associated exclusively with TLC model checker in most people's minds. Model checking with TLC finds bugs fast, but it only covers the configuration you give it, and is cheap only for small configurations (3 nodes, value ranges \"1..4\", etc.). There is also the TLA+ Proof System, TLAPS, which checks a deductive proof, instead of enumerating states like\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 1.1769,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "0e1757ea348de84d"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Trump-Xi-Putin Meeting, Nvidia Board Rejects Haung's Return, Computer System Outages",
+      "url": "https://www.npr.org/2026/11/18/nx-s1-6045399/trump-xi-putin-meeting-nvidia-board-rejects-haungs-return-computer-system-outages",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-18 10:55:31+00:00",
+      "summary": "President Trump meets Xi Jinping in China as the two countries remain locked in disputes over trade, rare earths and advanced technology, before Vladimir Putin joins them for a three-way summit aimed partly at projecting global leadership. Nvidia's board says Jensen Huang will not return as CEO,\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/207319f2-4e0d-45f8-b821-5b8f59592950/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=207319f2-4e0d-45f8-b821-5b8f59592950&feed=HMwRVgVt&t=podcast&e=nx-s1-6045399&p=510318&d=807&size=12919581",
+       "ago": "10h ago"
+      },
+      "score": 1.1895,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "44594ff62c563b30"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Why Does Congress Skew Older Than the Public?: Crash Course US Government #8",
+      "url": "https://www.youtube.com/watch?v=DC5l7pXDQVo",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-17 17:00:04+00:00",
+      "summary": "Congress is more diverse than it was a hundred, fifty, or even ten years ago. But it still doesn\u2019t reflect the diversity of the United States. In this episode , we\u2019ll consider if Congress will ever look like the public, and if it really even\u2026",
+      "duration_min": null,
+      "popularity": 65.242,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/DC5l7pXDQVo/hqdefault.jpg",
+       "ago": "28h ago"
+      },
+      "score": 1.0693,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "3b7f24b1cd61e7fe"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-18:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+      "url": "https://arxiv.org/abs/2611.20187",
+      "kind": "paper"
+     },
+     {
+      "title": "From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems",
+      "url": "https://arxiv.org/abs/2611.19165",
+      "kind": "paper"
+     },
+     {
+      "title": "MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression",
+      "url": "https://arxiv.org/abs/2611.21216",
+      "kind": "paper"
+     },
+     {
+      "title": "BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.22334",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-18:llm-serving-ml-infrastructure-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Inference engineering for software engineers",
+      "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+      "kind": "article"
+     },
+     {
+      "title": "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures",
+      "url": "https://arxiv.org/abs/2611.22086",
+      "kind": "paper"
+     },
+     {
+      "title": "XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools",
+      "url": "https://arxiv.org/abs/2611.22280",
+      "kind": "paper"
+     },
+     {
+      "title": "REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.14399",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 23,
+  "read_min": 63,
+  "listen_min": 28,
+  "generated": "1:26 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.20187",
+     "item_ids": [
+      "cb776082c8bb3207"
+     ],
+     "title": "Cyber-Secure Wearable, Ultra-Low-Power Networked Sensors for Soldier Health Monitoring: Insights from the CAPSARII project",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.20187",
+     "page": "https://arxiv.org/abs/2611.20187",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 3.5124,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.19165",
+     "item_ids": [
+      "1907843157ebea64"
+     ],
+     "title": "From Sensors to Silicon: Causal Cross-Layer Self-Healing Edge AI for Secure and Energy-Adaptive IoT Systems",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.19165",
+     "page": "https://arxiv.org/abs/2611.19165",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.9206,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.21216",
+     "item_ids": [
+      "df2af9ec27126334"
+     ],
+     "title": "MiSTiQ: MicroScaling Trellis Quantization for Extreme KV Cache Compression",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.21216",
+     "page": "https://arxiv.org/abs/2611.21216",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4669,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.22334",
+     "item_ids": [
+      "f4d2b1a2dbb6f456"
+     ],
+     "title": "BQ-LoRA: Binary-Quantized Low-Rank Adapters as Implicit Regularizers for Parameter-Efficient Fine-Tuning",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.22334",
+     "page": "https://arxiv.org/abs/2611.22334",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.3643,
+     "added": "2026-11-18"
+    }
+   ],
+   "date": "2026-11-18",
+   "key": "ep:2026-11-18:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "cb776082c8bb3207",
+    "1907843157ebea64",
+    "df2af9ec27126334",
+    "f4d2b1a2dbb6f456"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "6c265f6b8d49da68",
+     "item_ids": [
+      "6c265f6b8d49da68"
+     ],
+     "title": "Inference engineering for software engineers",
+     "kind": "article",
+     "section": "swe",
+     "source": "The Pragmatic Engineer",
+     "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+     "page": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 2.9667,
+     "added": "2026-11-17"
+    },
+    {
+     "id": "arxiv:2611.22086",
+     "item_ids": [
+      "0370ac841af69112"
+     ],
+     "title": "HyCoInfer: Cloud-Edge Collaborative Inference for Large Language Models on Heterogeneous GPU-FPGA Architectures",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.22086",
+     "page": "https://arxiv.org/abs/2611.22086",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 2.0642,
+     "added": "2026-11-18"
+    },
+    {
+     "id": "arxiv:2611.22280",
+     "item_ids": [
+      "88fac2ed3a14a19b"
+     ],
+     "title": "XM-Sparse: High-Throughput Sparse-Attention LLM Serving over Scale-up Memory Pools",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.22280",
+     "page": "https://arxiv.org/abs/2611.22280",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 6,
+     "score": 2.037,
+     "added": "2026-11-18"
+    },
+    {
+     "added": "2026-11-11",
+     "hits": 2,
+     "id": "arxiv:2611.14399",
+     "item_ids": [
+      "f9ca76a200413c70"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.14399",
+     "score": 1.5182,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "REAL Loss: Optimizing Real Expected Acceptance Length for Speculative Decoding",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.14399"
+    }
+   ],
+   "date": "2026-11-18",
+   "key": "ep:2026-11-18:llm-serving-ml-infrastructure-3-new-papers-1-more",
+   "item_ids": [
+    "6c265f6b8d49da68",
+    "0370ac841af69112",
+    "88fac2ed3a14a19b",
+    "f9ca76a200413c70"
+   ]
+  }
+ ]
+}
