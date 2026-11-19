@@ -1,0 +1,890 @@
+{
+ "ctx": {
+  "date_long": "Thursday, November 19, 2026",
+  "weekday": "Thursday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-19 21:26:10+00:00",
+      "summary": "\"She fought until she couldn\u2019t anymore,\" the Cincinnati Zoo said in a statement. Fiona became ill a few days after the incident.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.533,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "c97bca80e49471c5"
+     },
+     {
+      "title": "Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker",
+      "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-19 12:26:01+00:00",
+      "summary": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.3707,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "53b632b4ea42a152"
+     },
+     {
+      "title": "Arizona says it is investigating OpenAI, other firms over possible rogue agents - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeWlhZGtUbEFjczdrQzZ5YnM2MEJiSkdwYUx3YTB2SkhQUVV0WnBBNU51aHM4ZFFvaXBEMzRWY1hGVmZtbGVYVmV0ZGtLbWFHaWt4Yk1kWWx4blBVTjVNUC1Ld1JpVXdHcWlfek1ickphT3M5Q1FYRE1LV2NkZDRXYWRBcmlnOVQ0QjVtTm5CS3FYUFVSMXotdkdzX0JkVGNJQTYtenA3eHdqTE9PYjNPR1RuZk52dTR5anp0RkdTYm5rMHNpVk8zVTNFMGtWcG8?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-19 01:45:00+00:00",
+      "summary": "Arizona says it is investigating OpenAI, other firms over possible rogue agents \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.3007,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "46f209ffe513ebb9"
+     },
+     {
+      "title": "Investors scramble for a piece of AI giant Anthropic in blockbuster IPO",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6042558/anthropic-ipo-breaks-records-100-billion",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-19 10:00:00+00:00",
+      "summary": "Shares in the maker of the popular Claude artificial intelligence model leapt in first day of trading on the Nasdaq Thursday.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "11h ago"
+      },
+      "score": 1.2859,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "fe44b1178bdbaa57"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Amazon\u2019s $18B bet on Anthropic tops $200B, for a moment, in the Claude maker\u2019s historic market debut",
+      "url": "https://www.geekwire.com/2026/amazons-18b-bet-on-anthropic-tops-200b-in-the-claude-makers-historic-market-debut/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-19 17:54:05+00:00",
+      "summary": "Anthropic went public in a record $81.3 billion IPO, and Amazon's $18 billion investment was worth about $216 billion on paper at the $111.50 opening price. Microsoft is buying $1 billion in stock, and Anthropic has committed to spend at least $47 billion on Azure. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.9935,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "0aa5d78742cd1fd3"
+     },
+     {
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-19 17:02:40+00:00",
+      "summary": "639 points \u00b7 1094 comments on HN",
+      "duration_min": null,
+      "popularity": 639.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50562754",
+       "ago": "4h ago"
+      },
+      "score": 2.0938,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "f0d0f469e0bfee91"
+     },
+     {
+      "title": "Amazon threatens to leave NYC again, this time over delivery bill, as it rallies customers to fight it",
+      "url": "https://www.geekwire.com/2026/amazon-threatens-to-leave-nyc-again-this-time-over-delivery-bill-as-it-rallies-customers-to-fight-it/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-19 20:51:12+00:00",
+      "summary": "Seven years after scrapping HQ2 plans in Queens, Amazon is warning it may move delivery operations out of New York City over a driver bill and urging customers to fight it. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.9148,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "ef4921ce26d08b13"
+     },
+     {
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-18 23:30:09+00:00",
+      "summary": "410 points \u00b7 763 comments on HN",
+      "duration_min": null,
+      "popularity": 410.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50553843",
+       "ago": "22h ago"
+      },
+      "score": 1.5127,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "909b75797cd1319b"
+     },
+     {
+      "title": "\"You\u2019re right\"\u2014LLMs will get climate info wrong if you ask",
+      "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-19 18:44:39+00:00",
+      "summary": "Some models fare better, but all fail in similar ways.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.3164,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "cdf026b73ca8cb64"
+     },
+     {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-19 11:13:01+00:00",
+      "summary": "When everything goes down, don\u2019t assume it\u2019s a cyberattack.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.0616,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "11c1f6c108023853"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Theorizer comes to Asta - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1oOThxNlBzZlk5djVjdElZdjJzbHAtd3JQU2QzUVJvMW84OXlJLXNRVmJuQ1I1T1pRcThmLTAzM3h5TW41SzNVR01Dd1JZVGlPc1VTXw?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 17:04:21+00:00",
+      "summary": "Theorizer comes to Asta \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.5614,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "429eacdd8600d4c4"
+     },
+     {
+      "title": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 07:07:43+00:00",
+      "summary": "November 18, 2026 \u2014 Google\u2019s middle tier scores 61 on the Intelligence Index. Plus, Anthropic prices its IPO at $83.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "14h ago"
+      },
+      "score": 1.4001,
+      "why": "",
+      "also_sections": [],
+      "ago": "14h ago",
+      "id": "f0a746966dedf0f1"
+     },
+     {
+      "title": "llm-gemini 0.38",
+      "url": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-18 23:59:20+00:00",
+      "summary": "Release: llm-gemini 0.38 Today Google introduced Gemini 4 Neon . I wrote recently about how confusing the pricing for the Gemini 4 series was - Neon has somehow made this even worse. Previously the Gemini 4 lineup was Hydrogen, Argon, and Carbon - where Argon and Carbon were the same price , and Hydrogen was 3/4 of that price now but will be 1/4 of that price when the other two double an 1st\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.3359,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "27de550466640c82"
+     },
+     {
+      "title": "PostgreSQL 19 Released",
+      "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 20:43:57+00:00",
+      "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreSQL team needed to address as part of the ongoing AI-reported vulnerability apocalypse. This release was definitely worth the wait. My favorite new feature is this one: For applications that send reads to standbys,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.2651,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "5cf9146afa86c880"
+     },
+     {
+      "title": "A game you cannot win unless you have a quantum computer",
+      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 20:03:00+00:00",
+      "summary": "Quantum",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9523,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "44d231d9ee488f2d"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "ReCIM-HD: A 40 nm On-Device Learning Accelerator with Hyperdimensional Computing via Importance-Based Hybrid Digital-ReRAM CIM",
+      "url": "https://arxiv.org/abs/2611.23973",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-18 07:13:26+00:00",
+      "summary": "ReCIM-HD is an on-device learning (ODL) accelerator that integrates gradient-free hyperdimensional computing (HDC) with resistive RAM (ReRAM)-based analog compute-in-memory (CIM). ReCIM-HD introduces three key techniques: (1) ultra-low-power HDC-based edge ODL without costly back-propagation operations; (2) non-volatile ReRAM-based storage for\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.23973",
+       "arxiv_id": "2611.23973",
+       "authors": "Keming Fan, Chang Eun Song, Soumil Jain, Weihong Xu et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.7724,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "130bbdecc1cc6971"
+     },
+     {
+      "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
+      "url": "https://arxiv.org/abs/2611.23619",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-17 23:20:51+00:00",
+      "summary": "Wearable EEG inference is constrained not only by model size, but also by the channel-dependent sensing front end that must process high-dimensional inputs before compact downstream computation. We present EEG2MCU, a sensing-to-execution co-design framework that treats electrode count as a hardware design variable through task-aware montage\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.23619",
+       "arxiv_id": "2611.23619",
+       "authors": "Shoma Yukawa, Meghna Roychowdhury, Arnab Sanyal, Chengwei Zhou et al.",
+       "ago": "1d ago"
+      },
+      "score": 3.6076,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "3ba3829b130ffd48"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "The Pulse: Is Amazon\u2019s writing culture collapsing because of AI?",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-19 17:08:59+00:00",
+      "summary": "Also: Anthropic goes public with the largest-ever IPO, Meta frantically reverses shutdown of popular AI coding harness Conductor, and more",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.4462,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "04da227b0cee83ba"
+     },
+     {
+      "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.24496",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 14:24:23+00:00",
+      "summary": "GPUs are expensive, yet latency-critical large language model (LLM) inference leaves part of them idle. Colocation reclaims this capacity by running best-effort work, such as fine-tuning, alongside serving. Many leading LLMs now use a Mixture-of-Experts (MoE) architecture, which adds a new source of idle time. Under expert parallelism, MoE\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.24496",
+       "arxiv_id": "2611.24496",
+       "authors": "Oana Balmau, Saurav Banka, Jiaxuan Chen, Anne-Marie Kermarrec et al.",
+       "ago": "31h ago"
+      },
+      "score": 2.2134,
+      "why": "",
+      "also_sections": [],
+      "ago": "31h ago",
+      "id": "3ca87c5cace62b1e"
+     },
+     {
+      "title": "Towards Fair Resource Sharing in Agentic LLM Serving",
+      "url": "https://arxiv.org/abs/2611.23558",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-17 22:07:16+00:00",
+      "summary": "As LLM agents increasingly execute complex, multi-step tasks on shared inference infrastructure, resource contention across the end-to-end LLM serving stack causes severe and uneven slowdowns across agents. Existing agentic serving systems primarily optimize throughput and latency, with comparatively limited attention to fairness among concurrent\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.23558",
+       "arxiv_id": "2611.23558",
+       "authors": "Sehyeon Lee, Yuchen Xia, Zhaoyang Hong, Jinrui Hu et al.",
+       "ago": "1d ago"
+      },
+      "score": 2.0155,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "2df58e4e28a7ab74"
+     },
+     {
+      "title": "The Invisible Systems: What Happens Between Services",
+      "url": "https://blog.bytebytego.com/p/the-invisible-systems-what-happens",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-19 16:30:47+00:00",
+      "summary": "When you draw a system architecture diagram, services are often shown as boxes, and arrows between them show the communication pathways.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.1599,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "95d8985c63a3dd26"
+     },
+     {
+      "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+      "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-19 14:00:00+00:00",
+      "summary": "On November 3, 2026 U.S. voters headed to the polls. Here\u2019s what Cloudflare data across more than 1,400 protected sites tells us about Election Day Internet traffic and cyberattacks.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 0.9507,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "a67e4808fe94719f"
+     },
+     {
+      "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+      "url": "https://blog.cloudflare.com/open-clairic/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 22:00:00+00:00",
+      "summary": "Clairic graduates from preview, while Clairic-flash joins the repertoire on Workers AI. We\u2019re doing an open-weight release for both extraction models.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 0.8585,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "79b71893e69dee6b"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "The Rise of the Software Factories",
+      "url": "https://softwareengineeringdaily.com/podcasts/the-rise-of-the-software-factories/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-19 10:00:00+00:00",
+      "summary": "AI coding agents have made individual developers dramatically more productive, yet most organizations aren\u2019t seeing anything close to that gain at the company level. A key reason is that shipping a feature to production involves far more than writing code. Triage, review, context, guardrails, and\u2026",
+      "duration_min": 36,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/81856baa/00172ed9.mp3",
+       "ago": "11h ago"
+      },
+      "score": 1.2001,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "bd843835debb4c63"
+     },
+     {
+      "title": "Trump Trilateral Summit In China, House Democratic Leadership, Anthropic IPO",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6047056/trump-trilateral-summit-in-china-house-democratic-leadership-anthropic-ipo",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-19 11:03:18+00:00",
+      "summary": "President Trump met with Xi Jinping and Vladimir Putin together for the first time, but the meeting produced no major breakthrough as tensions remain over Ukraine, technology and Taiwan. House Democrats nominated Hakeem Jeffries to become the next Speaker and are already laying the groundwork for\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/d5a5447c-a547-45a6-8612-df73d1b9b56e/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=d5a5447c-a547-45a6-8612-df73d1b9b56e&feed=HMwRVgVt&t=podcast&e=nx-s1-6047056&p=510318&d=772&size=12362858",
+       "ago": "10h ago"
+      },
+      "score": 1.1893,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "fa83fdb0fd348a52"
+     },
+     {
+      "title": "#505 \u2013 GTA 6, Crime, Jewel Heists, Prison, Corrupt Cops, Mafia, Miami & Money",
+      "url": "https://lexfridman.com/larry-lawton/?utm_source=rss&utm_medium=rss&utm_campaign=larry-lawton",
+      "source": "Lex Fridman Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-19 04:37:34+00:00",
+      "summary": "Larry Lawton is one of the most notorious and prolific jewelry thieves in US history, who was eventually caught by the FBI, spent more than a decade in prison, including a lot of time in the hole, and then he turned his life around to run the Reality Check Program, that helps keep at-risk youth\u2026",
+      "duration_min": 207,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "audio": "https://media.blubrry.com/takeituneasy/ins.blubrry.com/takeituneasy/lex_ai_larry_lawton.mp3",
+       "ago": "16h ago"
+      },
+      "score": 0.9843,
+      "why": "",
+      "also_sections": [],
+      "ago": "16h ago",
+      "id": "279a8a91cc02592c"
+     },
+     {
+      "title": "Essentials: Nicotine's Effects on the Brain & Body & How to Quit Smoking or Vaping",
+      "url": "https://www.hubermanlab.com/episode/essentials-nicotines-effects-on-the-brain-and-body-and-how-to-quit-smoking-or-vaping",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-19 09:00:00+00:00",
+      "summary": "In this Huberman Lab Essentials episode, I explain how nicotine affects the brain and body, including how it increases dopamine, acetylcholine and norepinephrine to boost motivation, focus and alertness, suppresses appetite and raises heart rate and blood pressure. I distinguish nicotine itself\u2026",
+      "duration_min": 36,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM1478506107.mp3",
+       "ago": "12h ago"
+      },
+      "score": 0.6441,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "e3e924d5ad25a05a"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Anthropic IPOs, GPT 6.2 Astra Arrives, But There\u2019s a Bigger Story",
+      "url": "https://www.youtube.com/watch?v=KGA7B_c_S4s",
+      "source": "AI Explained",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-19 20:03:10+00:00",
+      "summary": "GPT 6.2 Astra is OpenAI\u2019s best model, so for each of the last 4 years this would have been the only headline. But now Gemini is catching up fast, with 4 Carbon and Neon, and Anthropic are IPO-ing after promising imminent RSI. And even all this\u2026",
+      "duration_min": null,
+      "popularity": 7.634,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/KGA7B_c_S4s/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 2.5795,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "d4d4a585401956cd"
+     },
+     {
+      "title": "The only software that didn\u2019t break this week...",
+      "url": "https://www.youtube.com/watch?v=Qxor6jpfSiU",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-19 17:40:33+00:00",
+      "summary": "Use all your coding agents side by side in one IDE with JetBrains Air: https://jb.gg/https://jb.gg/JetBrainsAir-in-IDEs Solid 2.0 is the framework's first major release in over five years. Why should you care? Let's dive in. Want more Fireship? \ud83d\uddde\ufe0f\u2026",
+      "duration_min": null,
+      "popularity": 329.181,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/Qxor6jpfSiU/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 2.0865,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "6f801c818c041a41"
+     },
+     {
+      "title": "DeepMind Just Released The Best Thing AI Ever Did",
+      "url": "https://www.youtube.com/watch?v=Cy7Wz6Z4TWU",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-19 09:26:19+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The DeepMind AlphaGenome paper is available here: https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/\u2026",
+      "duration_min": null,
+      "popularity": 126.392,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/Cy7Wz6Z4TWU/hqdefault.jpg",
+       "ago": "12h ago"
+      },
+      "score": 1.7967,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "99abaa14bb191cc5"
+     },
+     {
+      "title": "How We\u2019ll Actually Ditch Fossil Fuels \u2014 by the Numbers | Michael Liebreich | TED",
+      "url": "https://www.youtube.com/watch?v=ACCnhY1fKoI",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-19 16:00:15+00:00",
+      "summary": "Have you heard the clean energy transition is failing? Energy analyst Michael Liebreich says to look again. Using a four-line spreadsheet model of the global energy system, he shows why fossil fuels will inevitably get squeezed out over time \u2014 with\u2026",
+      "duration_min": null,
+      "popularity": 39.866,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/ACCnhY1fKoI/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.1052,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "5e7233372d877ff9"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-19:bert-pre-training-of-deep-bidirectional-transforme",
+    "label": "Classic paper 9/15 \u00b7 Training & scaling",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers",
+      "url": "https://arxiv.org/pdf/1810.04805",
+      "kind": "paper"
+     },
+     {
+      "title": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
+      "url": "https://arxiv.org/abs/2611.22611",
+      "kind": "paper"
+     },
+     {
+      "title": "Towards Microphone-Invariant Speech Representations for Transformer-Based Voice Disorder Detection",
+      "url": "https://arxiv.org/abs/2611.21140",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-19:ai-agents-tool-use-4-new-papers",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+      "url": "https://arxiv.org/abs/2611.22248",
+      "kind": "paper"
+     },
+     {
+      "title": "GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits",
+      "url": "https://arxiv.org/abs/2611.24619",
+      "kind": "paper"
+     },
+     {
+      "title": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+      "url": "https://arxiv.org/abs/2611.23570",
+      "kind": "paper"
+     },
+     {
+      "title": "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
+      "url": "https://arxiv.org/abs/2611.20771",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 31,
+  "read_min": 69,
+  "listen_min": 352,
+  "generated": "1:34 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "Training & scaling",
+   "title": "BERT: Pre-training of Deep Bidirectional Transformers \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://arxiv.org/pdf/1810.04805",
+     "title": "BERT: Pre-training of Deep Bidirectional Transformers",
+     "kind": "paper",
+     "url": "https://arxiv.org/pdf/1810.04805",
+     "page": "https://arxiv.org/pdf/1810.04805",
+     "source": "Classic \u00b7 MLE Foundations"
+    },
+    {
+     "id": "arxiv:2611.22611",
+     "item_ids": [
+      "4b405df1a4ba4c34"
+     ],
+     "title": "DAQ: Decision-Aligned Post-Training Quantization for Spiking Transformers",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.22611",
+     "page": "https://arxiv.org/abs/2611.22611",
+     "topic": "Training & scaling",
+     "hits": 3,
+     "score": 2.4183,
+     "added": "2026-11-18"
+    },
+    {
+     "id": "arxiv:2611.21140",
+     "item_ids": [
+      "23c7ba656a6750a7"
+     ],
+     "title": "Towards Microphone-Invariant Speech Representations for Transformer-Based Voice Disorder Detection",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.21140",
+     "page": "https://arxiv.org/abs/2611.21140",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.3557,
+     "added": "2026-11-17"
+    }
+   ],
+   "date": "2026-11-19",
+   "key": "ep:2026-11-19:bert-pre-training-of-deep-bidirectional-transforme",
+   "item_ids": [
+    "classic:https://arxiv.org/pdf/1810.04805",
+    "4b405df1a4ba4c34",
+    "23c7ba656a6750a7"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.22248",
+     "item_ids": [
+      "ac5df45e00ac5d57"
+     ],
+     "title": "OAK-Mind: Zero-Training Mental Health Change Inference from Passive Sensing via Knowledge-Grounded Multi-Agent LLMs",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.22248",
+     "page": "https://arxiv.org/abs/2611.22248",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 3.7464,
+     "added": "2026-11-18"
+    },
+    {
+     "id": "arxiv:2611.24619",
+     "item_ids": [
+      "f02aea4c385454e9"
+     ],
+     "title": "GateWatch: Low-Overhead LLM Monitoring with Boolean Circuits",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.24619",
+     "page": "https://arxiv.org/abs/2611.24619",
+     "topic": "AI agents & tool use",
+     "hits": 1,
+     "score": 2.4773,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.23570",
+     "item_ids": [
+      "dc488c61d3fe7a61"
+     ],
+     "title": "Safe to Omit, Worth Omitting? Keeping the Answer and Cutting Latency When an LLM Agent Skips Another's Message",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.23570",
+     "page": "https://arxiv.org/abs/2611.23570",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.2413,
+     "added": "2026-11-19"
+    },
+    {
+     "added": "2026-11-17",
+     "hits": 3,
+     "id": "arxiv:2611.20771",
+     "item_ids": [
+      "5db2e144ad26e917"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.20771",
+     "score": 2.0664,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
+     "topic": "AI agents & tool use",
+     "url": "https://arxiv.org/pdf/2611.20771"
+    }
+   ],
+   "date": "2026-11-19",
+   "key": "ep:2026-11-19:ai-agents-tool-use-4-new-papers",
+   "item_ids": [
+    "ac5df45e00ac5d57",
+    "f02aea4c385454e9",
+    "dc488c61d3fe7a61",
+    "5db2e144ad26e917"
+   ]
+  }
+ ]
+}
