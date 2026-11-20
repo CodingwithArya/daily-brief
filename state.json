@@ -4588,6 +4588,166 @@
     "title": "AI agents & tool use: 4 new papers",
     "topic": "AI agents & tool use"
    }
+  ],
+  "2026-11-20": [
+   {
+    "date": "2026-11-20",
+    "item_ids": [
+     "3ba3829b130ffd48",
+     "7b8728be7bfd677e",
+     "5131320bcaed99f5",
+     "d61eaa51b7e9c9d3"
+    ],
+    "key": "ep:2026-11-20:wireless-acoustic-sensing-4-new-papers",
+    "kind": "topic",
+    "sources": [
+     {
+      "added": "2026-11-19",
+      "hits": 2,
+      "id": "arxiv:2611.23619",
+      "item_ids": [
+       "3ba3829b130ffd48"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.23619",
+      "score": 3.6076,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.23619"
+     },
+     {
+      "added": "2026-11-19",
+      "hits": 2,
+      "id": "arxiv:2611.23691",
+      "item_ids": [
+       "7b8728be7bfd677e"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.23691",
+      "score": 2.6789,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.23691"
+     },
+     {
+      "added": "2026-11-16",
+      "hits": 1,
+      "id": "arxiv:2611.17499",
+      "item_ids": [
+       "5131320bcaed99f5"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.17499",
+      "score": 1.4946,
+      "section": "lab",
+      "source": "arXiv \u2014 your lab's area",
+      "title": "Continuous Cuffless Blood Pressure Estimation Using PPG From Methods to Clinical Translation",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.17499"
+     },
+     {
+      "added": "2026-11-16",
+      "hits": 1,
+      "id": "arxiv:2611.17944",
+      "item_ids": [
+       "d61eaa51b7e9c9d3"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.17944",
+      "score": 0.9874,
+      "section": "pool",
+      "source": "arXiv \u2014 efficient / on-device / audio ML",
+      "title": "Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification",
+      "topic": "Wireless & acoustic sensing",
+      "url": "https://arxiv.org/pdf/2611.17944"
+     }
+    ],
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "topic": "Wireless & acoustic sensing"
+   },
+   {
+    "date": "2026-11-20",
+    "item_ids": [
+     "6c826b739a0301a5",
+     "3ca87c5cace62b1e",
+     "b71be99f68f82bd9",
+     "86d54a6df6b342cb"
+    ],
+    "key": "ep:2026-11-20:training-scaling-4-new-papers",
+    "kind": "topic",
+    "sources": [
+     {
+      "added": "2026-11-19",
+      "hits": 2,
+      "id": "arxiv:2611.24323",
+      "item_ids": [
+       "6c826b739a0301a5"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.24323",
+      "score": 2.3336,
+      "section": "pool",
+      "source": "arXiv \u2014 efficient / on-device / audio ML",
+      "title": "RespCCT and FreqCCT: Compact, Explainable and Cost-Aware Convolutional Transformers for Multi-Class Respiratory Disease Classification",
+      "topic": "Training & scaling",
+      "url": "https://arxiv.org/pdf/2611.24323"
+     },
+     {
+      "added": "2026-11-19",
+      "hits": 2,
+      "id": "arxiv:2611.24496",
+      "item_ids": [
+       "3ca87c5cace62b1e"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.24496",
+      "score": 2.2134,
+      "section": "swe",
+      "source": "arXiv \u2014 distributed systems",
+      "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+      "topic": "Training & scaling",
+      "url": "https://arxiv.org/pdf/2611.24496"
+     },
+     {
+      "added": "2026-11-18",
+      "hits": 2,
+      "id": "arxiv:2611.22191",
+      "item_ids": [
+       "b71be99f68f82bd9"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.22191",
+      "score": 2.0129,
+      "section": "pool",
+      "source": "arXiv \u2014 efficient / on-device / audio ML",
+      "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+      "topic": "Training & scaling",
+      "url": "https://arxiv.org/pdf/2611.22191"
+     },
+     {
+      "added": "2026-11-19",
+      "hits": 2,
+      "id": "arxiv:2611.23358",
+      "item_ids": [
+       "86d54a6df6b342cb"
+      ],
+      "kind": "paper",
+      "page": "https://arxiv.org/abs/2611.23358",
+      "score": 2.0119,
+      "section": "pool",
+      "source": "arXiv \u2014 efficient / on-device / audio ML",
+      "title": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
+      "topic": "Training & scaling",
+      "url": "https://arxiv.org/pdf/2611.23358"
+     }
+    ],
+    "title": "Training & scaling: 4 new papers",
+    "topic": "Training & scaling"
+   }
   ]
  },
  "pod_pool": {
@@ -4655,53 +4815,37 @@
    "topic": "Interpretability & safety",
    "url": "https://www.youtube.com/watch?v=SyHM5hNPAEo"
   },
-  "1b6d6864f80b4b7b": {
-   "added": "2026-11-12",
+  "37d45fd9714becbf": {
+   "added": "2026-11-20",
    "hits": 2,
-   "id": "1b6d6864f80b4b7b",
+   "id": "37d45fd9714becbf",
    "item_ids": [
-    "1b6d6864f80b4b7b"
+    "37d45fd9714becbf"
    ],
-   "kind": "article",
-   "page": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/",
-   "score": 0.4344,
-   "section": "tech",
-   "source": "Ars Technica",
-   "title": "T-Mobile illegally imposed 50GB cap on low-income home Internet plan, NY says",
-   "topic": "On-device & efficient ML",
-   "url": "https://arstechnica.com/tech-policy/2026/11/t-mobile-illegally-imposed-50-gb-cap-on-low-income-home-internet-plan-ny-says/"
+   "kind": "video",
+   "page": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+   "score": 1.9694,
+   "section": "watch",
+   "source": "Fireship",
+   "title": "If you\u2019ve deployed anything since 2015, I have bad news...",
+   "topic": "AI agents & tool use",
+   "url": "https://www.youtube.com/watch?v=rMaMe32qQkA"
   },
-  "3b869b1138e3a082": {
-   "added": "2026-11-12",
+  "4ae683aa8267df8b": {
+   "added": "2026-11-20",
    "hits": 2,
-   "id": "3b869b1138e3a082",
+   "id": "4ae683aa8267df8b",
    "item_ids": [
-    "3b869b1138e3a082"
+    "4ae683aa8267df8b"
    ],
    "kind": "article",
-   "page": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-   "score": 1.2736,
+   "page": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+   "score": 1.0967,
    "section": "tech",
    "source": "The Verge",
-   "title": "No, AI agents did not discover a previously unknown Maya site",
-   "topic": "AI agents & tool use",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery"
-  },
-  "645f1651bd53c9c8": {
-   "added": "2026-11-12",
-   "hits": 2,
-   "id": "645f1651bd53c9c8",
-   "item_ids": [
-    "645f1651bd53c9c8"
-   ],
-   "kind": "article",
-   "page": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "score": 1.4965,
-   "section": "tech",
-   "source": "Hacker News",
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "topic": "AI agents & tool use",
-   "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+   "title": "Multiplying your Switch 2\u2019s storage costs less than usual right now",
+   "topic": "Distributed systems & databases",
+   "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale"
   },
   "6e090bb95c89cabb": {
    "added": "2026-11-18",
@@ -4783,22 +4927,6 @@
    "topic": "AI agents & tool use",
    "url": "https://www.geekwire.com/2026/absurd-ambition-pulumi-expands-into-software-delivery-with-ai-agents-that-ship-and-fix-code/"
   },
-  "7ebea4ca1036d75c": {
-   "added": "2026-11-12",
-   "hits": 2,
-   "id": "7ebea4ca1036d75c",
-   "item_ids": [
-    "7ebea4ca1036d75c"
-   ],
-   "kind": "article",
-   "page": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5",
-   "score": 1.849,
-   "section": "ai",
-   "source": "Anthropic news",
-   "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams - Anthropic Alignment Science blog",
-   "topic": "AI agents & tool use",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5mZm01S0Via2g3cWczVVB5YlNSMlI1a2FKekVZY0liWmMzQndHSnIyNVd2RnlLUWFWb3ItWG1KZVZQY2Q3aUlGeGM2UzRDb0Qxc3dtWEFQZkN3TDdmMDJoam1R?oc=5"
-  },
   "81bd7f76e2a9d5f3": {
    "added": "2026-11-17",
    "hits": 4,
@@ -4814,22 +4942,6 @@
    "title": "Windows 11 is collecting data on which coding agents and developer tools you use",
    "topic": "AI agents & tool use",
    "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/"
-  },
-  "8d8bc38f54a7d350": {
-   "added": "2026-11-12",
-   "hits": 2,
-   "id": "8d8bc38f54a7d350",
-   "item_ids": [
-    "8d8bc38f54a7d350"
-   ],
-   "kind": "article",
-   "page": "https://pietromiotti.com/latest/maya-site",
-   "score": 1.3958,
-   "section": "tech",
-   "source": "Hacker News",
-   "title": "My AI agents found an unmapped Maya site?",
-   "topic": "AI agents & tool use",
-   "url": "https://pietromiotti.com/latest/maya-site"
   },
   "951c84561943a913": {
    "added": "2026-11-14",
@@ -5295,22 +5407,6 @@
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2611.17212"
   },
-  "arxiv:2611.17499": {
-   "added": "2026-11-16",
-   "hits": 1,
-   "id": "arxiv:2611.17499",
-   "item_ids": [
-    "5131320bcaed99f5"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.17499",
-   "score": 1.4946,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "Continuous Cuffless Blood Pressure Estimation Using PPG From Methods to Clinical Translation",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.17499"
-  },
   "arxiv:2611.17526": {
    "added": "2026-11-16",
    "hits": 2,
@@ -5390,22 +5486,6 @@
    "title": "Fuse-All MoE Inference Kernel with Load Balancing on TPUs",
    "topic": "Training & scaling",
    "url": "https://arxiv.org/pdf/2611.17857"
-  },
-  "arxiv:2611.17944": {
-   "added": "2026-11-16",
-   "hits": 1,
-   "id": "arxiv:2611.17944",
-   "item_ids": [
-    "d61eaa51b7e9c9d3"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.17944",
-   "score": 0.9874,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
-   "title": "Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.17944"
   },
   "arxiv:2611.18035": {
    "added": "2026-11-16",
@@ -6319,22 +6399,6 @@
    "topic": "On-device & efficient ML",
    "url": "https://arxiv.org/pdf/2611.22186"
   },
-  "arxiv:2611.22191": {
-   "added": "2026-11-18",
-   "hits": 2,
-   "id": "arxiv:2611.22191",
-   "item_ids": [
-    "b71be99f68f82bd9"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.22191",
-   "score": 2.0129,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
-   "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
-   "topic": "Training & scaling",
-   "url": "https://arxiv.org/pdf/2611.22191"
-  },
   "arxiv:2611.22215": {
    "added": "2026-11-18",
    "hits": 2,
@@ -6411,7 +6475,7 @@
    "score": 0.7177,
    "section": "swe",
    "source": "arXiv \u2014 distributed systems",
-   "title": "CheckCo: Checkpoint-Coordinated Load Balancingfor Skewed Event Streams at Scale",
+   "title": "CheckCo: Checkpoint-Coordinated Load Balancing for Skewed Event Streams at Scale",
    "topic": "LLM serving & ML infrastructure",
    "url": "https://arxiv.org/pdf/2611.22476"
   },
@@ -6575,22 +6639,6 @@
    "topic": "LLM serving & ML infrastructure",
    "url": "https://arxiv.org/pdf/2611.23339"
   },
-  "arxiv:2611.23358": {
-   "added": "2026-11-19",
-   "hits": 2,
-   "id": "arxiv:2611.23358",
-   "item_ids": [
-    "86d54a6df6b342cb"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.23358",
-   "score": 2.0119,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
-   "title": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
-   "topic": "Training & scaling",
-   "url": "https://arxiv.org/pdf/2611.23358"
-  },
   "arxiv:2611.23388": {
    "added": "2026-11-19",
    "hits": 2,
@@ -6670,38 +6718,6 @@
    "title": "Towards Fair Resource Sharing in Agentic LLM Serving",
    "topic": "AI agents & tool use",
    "url": "https://arxiv.org/pdf/2611.23558"
-  },
-  "arxiv:2611.23619": {
-   "added": "2026-11-19",
-   "hits": 2,
-   "id": "arxiv:2611.23619",
-   "item_ids": [
-    "3ba3829b130ffd48"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.23619",
-   "score": 3.6076,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.23619"
-  },
-  "arxiv:2611.23691": {
-   "added": "2026-11-19",
-   "hits": 2,
-   "id": "arxiv:2611.23691",
-   "item_ids": [
-    "7b8728be7bfd677e"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.23691",
-   "score": 2.6789,
-   "section": "lab",
-   "source": "arXiv \u2014 your lab's area",
-   "title": "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management",
-   "topic": "Wireless & acoustic sensing",
-   "url": "https://arxiv.org/pdf/2611.23691"
   },
   "arxiv:2611.23695": {
    "added": "2026-11-19",
@@ -6911,22 +6927,6 @@
    "topic": "Training & scaling",
    "url": "https://arxiv.org/pdf/2611.24301"
   },
-  "arxiv:2611.24323": {
-   "added": "2026-11-19",
-   "hits": 2,
-   "id": "arxiv:2611.24323",
-   "item_ids": [
-    "6c826b739a0301a5"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.24323",
-   "score": 2.3336,
-   "section": "pool",
-   "source": "arXiv \u2014 efficient / on-device / audio ML",
-   "title": "RespCCT and FreqCCT: Compact, Explainable and Cost-Aware Convolutional Transformers for Multi-Class Respiratory Disease Classification",
-   "topic": "Training & scaling",
-   "url": "https://arxiv.org/pdf/2611.24323"
-  },
   "arxiv:2611.24437": {
    "added": "2026-11-19",
    "hits": 2,
@@ -6958,22 +6958,6 @@
    "title": "A Runtime System for Mitigating Crossbar Port Contention on SM-Partitioned GPUs",
    "topic": "LLM serving & ML infrastructure",
    "url": "https://arxiv.org/pdf/2611.24458"
-  },
-  "arxiv:2611.24496": {
-   "added": "2026-11-19",
-   "hits": 2,
-   "id": "arxiv:2611.24496",
-   "item_ids": [
-    "3ca87c5cace62b1e"
-   ],
-   "kind": "paper",
-   "page": "https://arxiv.org/abs/2611.24496",
-   "score": 2.2134,
-   "section": "swe",
-   "source": "arXiv \u2014 distributed systems",
-   "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
-   "topic": "Training & scaling",
-   "url": "https://arxiv.org/pdf/2611.24496"
   },
   "arxiv:2611.24507": {
    "added": "2026-11-19",
@@ -7071,6 +7055,358 @@
    "topic": "Distributed systems & databases",
    "url": "https://arxiv.org/pdf/2611.24833"
   },
+  "arxiv:2611.24999": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.24999",
+   "item_ids": [
+    "6ec7e83ef4a3ec87"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.24999",
+   "score": 1.0184,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "PsyWorld: Profile-Conditioned World Modeling for Human Behavior Prediction",
+   "topic": "AI agents & tool use",
+   "url": "https://arxiv.org/pdf/2611.24999"
+  },
+  "arxiv:2611.25091": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25091",
+   "item_ids": [
+    "aa8633c863386b59"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25091",
+   "score": 1.7264,
+   "section": "swe",
+   "source": "arXiv \u2014 distributed systems",
+   "title": "Berth: SLO-Preserving GPU Sharing Without New Preemption",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://arxiv.org/pdf/2611.25091"
+  },
+  "arxiv:2611.25231": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25231",
+   "item_ids": [
+    "5e9b9dcef7b61319"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25231",
+   "score": 0.6736,
+   "section": "swe",
+   "source": "arXiv \u2014 distributed systems",
+   "title": "Release-Bound Withdrawal Authorization for Bitcoin Custody",
+   "topic": "Distributed systems & databases",
+   "url": "https://arxiv.org/pdf/2611.25231"
+  },
+  "arxiv:2611.25433": {
+   "added": "2026-11-20",
+   "hits": 6,
+   "id": "arxiv:2611.25433",
+   "item_ids": [
+    "aea70105076b1c5c"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25433",
+   "score": 2.3114,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://arxiv.org/pdf/2611.25433"
+  },
+  "arxiv:2611.25503": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25503",
+   "item_ids": [
+    "818f31cc517c2564"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25503",
+   "score": 2.2384,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Joint Language Modeling for In-the-Wild Speech-Scene Generation with Distinct Token Representations",
+   "topic": "Hearables & on-device audio AI",
+   "url": "https://arxiv.org/pdf/2611.25503"
+  },
+  "arxiv:2611.25526": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25526",
+   "item_ids": [
+    "6a41ba8706f1ee2d"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25526",
+   "score": 1.4042,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.25526"
+  },
+  "arxiv:2611.25538": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25538",
+   "item_ids": [
+    "670a117ee68848d1"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25538",
+   "score": 1.7183,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Towards Autoregressive Neural Network Parameter Generation",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2611.25538"
+  },
+  "arxiv:2611.25569": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25569",
+   "item_ids": [
+    "e4d37561f71390a2"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25569",
+   "score": 1.0966,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "UMelCodec: An Ultra-Low-Bitrate and Lightweight Mel-Domain Neural Speech Codec",
+   "topic": "Distributed systems & databases",
+   "url": "https://arxiv.org/pdf/2611.25569"
+  },
+  "arxiv:2611.25570": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25570",
+   "item_ids": [
+    "b75a682d8db8d9fa"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25570",
+   "score": 1.0967,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Reinforcement-Aligned Probabilistic Weather Forecasting with Discrete Tokens",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2611.25570"
+  },
+  "arxiv:2611.25717": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25717",
+   "item_ids": [
+    "b14d6d174439c11f"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25717",
+   "score": 2.0643,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "VR-SparseQuant: Accurate FP4 Quantization with 2:4 Sparsity on Vera Rubin",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.25717"
+  },
+  "arxiv:2611.25789": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25789",
+   "item_ids": [
+    "3ae6fc23e1f0af29"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25789",
+   "score": 1.436,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "From Attention to Semantics: Detecting and Mitigating Sound Event Hallucinations in Large Audio-Language Models",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2611.25789"
+  },
+  "arxiv:2611.25800": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25800",
+   "item_ids": [
+    "c47321dc660c04a1"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25800",
+   "score": 1.7881,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Personalized Privacy-Aware MARL Offloading in the Edge-Cloud Continuum",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.25800"
+  },
+  "arxiv:2611.25813": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.25813",
+   "item_ids": [
+    "b342dcee6bfb1b56"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25813",
+   "score": 1.7576,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Efficient and Robust Drafting with Multi-Token Prediction",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://arxiv.org/pdf/2611.25813"
+  },
+  "arxiv:2611.25932": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.25932",
+   "item_ids": [
+    "3f45aeb55af77405"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.25932",
+   "score": 3.8746,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Coordinated Offloading: Cooperative Multi-Agent Reinforcement Learning for the Edge-Cloud Continuum",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.25932"
+  },
+  "arxiv:2611.26020": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.26020",
+   "item_ids": [
+    "44bb69af5ce1a32d"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26020",
+   "score": 1.4638,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "FrontierReplay: Split-Free Exact Prefix Caching for Hybrid Language Models",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2611.26020"
+  },
+  "arxiv:2611.26084": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.26084",
+   "item_ids": [
+    "6b6bbd12a968caea"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26084",
+   "score": 1.7981,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "RL Can Only Reinforce What It Sees Succeed",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.26084"
+  },
+  "arxiv:2611.26112": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.26112",
+   "item_ids": [
+    "49e16815b4456dd4"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26112",
+   "score": 2.3576,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "ZoionNET: Low-Power Animal Intrusion Detection Using an Acoustic Deep-Learning Classifier for a Cellular Remote-Sensing System",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.26112"
+  },
+  "arxiv:2611.26157": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.26157",
+   "item_ids": [
+    "bc4f1d657ced4dd0"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26157",
+   "score": 1.8068,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "NariQ: Sub-3-Bit Quantization for Long-Horizon Agentic Tasks",
+   "topic": "On-device & efficient ML",
+   "url": "https://arxiv.org/pdf/2611.26157"
+  },
+  "arxiv:2611.26268": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.26268",
+   "item_ids": [
+    "a0c418e6dda133dc"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26268",
+   "score": 0.7454,
+   "section": "swe",
+   "source": "arXiv \u2014 distributed systems",
+   "title": "Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining",
+   "topic": "Training & scaling",
+   "url": "https://arxiv.org/pdf/2611.26268"
+  },
+  "arxiv:2611.26358": {
+   "added": "2026-11-20",
+   "hits": 2,
+   "id": "arxiv:2611.26358",
+   "item_ids": [
+    "03c4c81c2c8b845b"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26358",
+   "score": 1.8314,
+   "section": "pool",
+   "source": "arXiv \u2014 efficient / on-device / audio ML",
+   "title": "Beam Model Technical Report",
+   "topic": "LLM reasoning & test-time compute",
+   "url": "https://arxiv.org/pdf/2611.26358"
+  },
+  "arxiv:2611.26567": {
+   "added": "2026-11-20",
+   "hits": 1,
+   "id": "arxiv:2611.26567",
+   "item_ids": [
+    "03f498d324f39683"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26567",
+   "score": 2.968,
+   "section": "lab",
+   "source": "arXiv \u2014 your lab's area",
+   "title": "Efficient and Variation-Tolerant Tree Inference via Compact and Scalable Mapping in Analog CAMs",
+   "topic": "Interpretability & safety",
+   "url": "https://arxiv.org/pdf/2611.26567"
+  },
+  "arxiv:2611.26619": {
+   "added": "2026-11-20",
+   "hits": 4,
+   "id": "arxiv:2611.26619",
+   "item_ids": [
+    "12877b5afe14acde"
+   ],
+   "kind": "paper",
+   "page": "https://arxiv.org/abs/2611.26619",
+   "score": 2.282,
+   "section": "swe",
+   "source": "arXiv \u2014 distributed systems",
+   "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+   "topic": "LLM serving & ML infrastructure",
+   "url": "https://arxiv.org/pdf/2611.26619"
+  },
   "b3c84623c44d3655": {
    "added": "2026-11-13",
    "hits": 2,
@@ -7086,38 +7422,6 @@
    "title": "Brave Search API now accepts agentic payments via the x402 protocol",
    "topic": "AI agents & tool use",
    "url": "https://brave.com/blog/search-api-agentic-payments/"
-  },
-  "b987dd49684c3220": {
-   "added": "2026-11-12",
-   "hits": 2,
-   "id": "b987dd49684c3220",
-   "item_ids": [
-    "b987dd49684c3220"
-   ],
-   "kind": "article",
-   "page": "https://www.geekwire.com/2026/ai-voice-company-wellsaid-retools-for-agents-while-keeping-its-commitment-to-human-actors/",
-   "score": 1.5893,
-   "section": "tech",
-   "source": "GeekWire",
-   "title": "AI voice company WellSaid retools for agents while keeping its commitment to human actors",
-   "topic": "AI agents & tool use",
-   "url": "https://www.geekwire.com/2026/ai-voice-company-wellsaid-retools-for-agents-while-keeping-its-commitment-to-human-actors/"
-  },
-  "c324a5facda38509": {
-   "added": "2026-11-12",
-   "hits": 2,
-   "id": "c324a5facda38509",
-   "item_ids": [
-    "c324a5facda38509"
-   ],
-   "kind": "article",
-   "page": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha",
-   "score": 0.5843,
-   "section": "tech",
-   "source": "The Verge",
-   "title": "Meet the people who want peptides to be made in America",
-   "topic": "Training & scaling",
-   "url": "https://www.theverge.com/column/1032243/peptides-american-manufacturing-maha"
   },
   "c6caa4d4f0b0e545": {
    "added": "2026-11-14",
@@ -7430,7 +7734,9 @@
   "arxiv:2611.17042": "2026-11-16",
   "arxiv:2611.17097": "2026-11-14",
   "arxiv:2611.17294": "2026-11-13",
+  "arxiv:2611.17499": "2026-11-20",
   "arxiv:2611.17760": "2026-11-17",
+  "arxiv:2611.17944": "2026-11-20",
   "arxiv:2611.18112": "2026-11-17",
   "arxiv:2611.19027": "2026-11-17",
   "arxiv:2611.19136": "2026-11-17",
@@ -7442,11 +7748,17 @@
   "arxiv:2611.21140": "2026-11-19",
   "arxiv:2611.21216": "2026-11-18",
   "arxiv:2611.22086": "2026-11-18",
+  "arxiv:2611.22191": "2026-11-20",
   "arxiv:2611.22248": "2026-11-19",
   "arxiv:2611.22280": "2026-11-18",
   "arxiv:2611.22334": "2026-11-18",
   "arxiv:2611.22611": "2026-11-19",
+  "arxiv:2611.23358": "2026-11-20",
   "arxiv:2611.23570": "2026-11-19",
+  "arxiv:2611.23619": "2026-11-20",
+  "arxiv:2611.23691": "2026-11-20",
+  "arxiv:2611.24323": "2026-11-20",
+  "arxiv:2611.24496": "2026-11-20",
   "arxiv:2611.24619": "2026-11-19",
   "bcd5b28050a65d2a": "2026-11-04",
   "beb92a3cbb63bc7e": "2026-10-31",
@@ -7487,11 +7799,11 @@
  },
  "seen": {
   "008876f8cd1cb09f": "2026-10-31",
-  "0297e940f1a49fb2": "2026-10-29",
   "0322d2a0d024b300": "2026-11-15",
   "0370ac841af69112": "2026-11-18",
-  "03cc2b6e064c9ffb": "2026-10-29",
+  "03f498d324f39683": "2026-11-20",
   "04da227b0cee83ba": "2026-11-19",
+  "04e4de98579780fa": "2026-11-20",
   "05352c14040eef80": "2026-11-10",
   "05e3a9f3a172e114": "2026-11-11",
   "0622b65f1099704a": "2026-11-17",
@@ -7512,6 +7824,7 @@
   "0e66c05c9fb4e33f": "2026-11-12",
   "0e8aba25963184c0": "2026-10-31",
   "0f3be83e732000c1": "2026-11-06",
+  "0f5706e428f14c2c": "2026-11-20",
   "0f77776f7c503aee": "2026-11-13",
   "0f9be8abc3972160": "2026-11-18",
   "10d554ab517fcd65": "2026-11-05",
@@ -7519,7 +7832,9 @@
   "10e7e211f06ad859": "2026-11-01",
   "1130d877dd4cae01": "2026-11-09",
   "1142fed44f4ac526": "2026-10-31",
+  "1177dfbd92c164db": "2026-11-20",
   "11c1f6c108023853": "2026-11-19",
+  "12877b5afe14acde": "2026-11-20",
   "1299a59fb9ebfd5b": "2026-11-03",
   "12f357dd3921044b": "2026-11-13",
   "130bbdecc1cc6971": "2026-11-19",
@@ -7527,7 +7842,6 @@
   "140a13f41053c9f5": "2026-11-02",
   "141e6e75dad05645": "2026-11-17",
   "150377aa115ea230": "2026-11-11",
-  "1595737f04099b42": "2026-10-29",
   "15a30da7f35f6814": "2026-11-10",
   "15d030bc4c0dfa39": "2026-10-30",
   "1691299bc3fa9ef6": "2026-11-17",
@@ -7540,11 +7854,9 @@
   "19361844fc329f21": "2026-11-04",
   "19644251a08fbcaa": "2026-11-01",
   "1998324d7ee0b420": "2026-11-06",
-  "1a0e7be5f2bd69d0": "2026-10-29",
   "1bbf9834e4f0909f": "2026-11-16",
   "1c645bca188b35a5": "2026-10-30",
   "1c7e81e3b12fb37e": "2026-11-18",
-  "1d9b8f21c4e87022": "2026-10-29",
   "1dfd95a1a2ac9351": "2026-11-16",
   "1e1b81f6f9d87614": "2026-11-15",
   "1e1b9de080bffb6f": "2026-11-13",
@@ -7555,7 +7867,7 @@
   "200d9c3eb3659909": "2026-11-03",
   "20b6ee8299ce3721": "2026-11-12",
   "22179845f339cd7c": "2026-11-16",
-  "22a42169ff916c20": "2026-10-29",
+  "222a3317cded8e05": "2026-11-20",
   "2481ec249e1d0443": "2026-11-12",
   "24c8956d4afb22e7": "2026-11-17",
   "24c8fdc89f847be7": "2026-10-30",
@@ -7563,12 +7875,12 @@
   "2511898fb40a48e3": "2026-11-03",
   "2524ebc163fd8040": "2026-11-05",
   "2583bd8fdfdbfc23": "2026-11-12",
-  "271134257c4af766": "2026-10-29",
   "273bbe1e419702df": "2026-11-07",
   "279a8a91cc02592c": "2026-11-19",
   "27de550466640c82": "2026-11-19",
   "27eacf73dae8d424": "2026-11-11",
   "28060fe0611cfc32": "2026-11-09",
+  "2821859f4ff49fe0": "2026-11-20",
   "28855a954b1ff6f8": "2026-11-15",
   "28c2d038c17b72aa": "2026-11-07",
   "28e05e36f3f47187": "2026-11-14",
@@ -7578,13 +7890,11 @@
   "29c31b94931d4021": "2026-11-17",
   "2b28b84b904e42b5": "2026-11-11",
   "2b2e0d9ed0f561be": "2026-11-04",
-  "2b2f487795f0e5d2": "2026-10-29",
   "2b4866923e9d0d5d": "2026-11-13",
   "2b64d9f05d508fcf": "2026-11-09",
   "2bc64aafc74717a2": "2026-10-30",
   "2c4725ea5b69a6c7": "2026-10-31",
   "2ccd643a984d52e4": "2026-11-09",
-  "2df0e95472f64437": "2026-10-29",
   "2df58e4e28a7ab74": "2026-11-19",
   "2eaebfdb6cb5d581": "2026-11-10",
   "2ec4f6ad3a8db2e8": "2026-11-10",
@@ -7600,7 +7910,6 @@
   "32eb86819234dc84": "2026-11-09",
   "330d6119c5f184af": "2026-11-16",
   "340c2ff0827fd3fe": "2026-11-17",
-  "351b990422fa2972": "2026-10-29",
   "357c9f3ea7eef160": "2026-11-16",
   "35eb1824f5c6cbfa": "2026-11-13",
   "360a3a5d8e13c5c4": "2026-11-03",
@@ -7612,10 +7921,12 @@
   "371b1e06db16bd42": "2026-10-30",
   "37b2c37b5ec453a9": "2026-10-30",
   "37d2d254530adb10": "2026-11-07",
+  "37d45fd9714becbf": "2026-11-20",
   "3849bd076c6102bf": "2026-11-10",
   "38754c26d4f5076a": "2026-11-10",
   "38c41eb0ed980884": "2026-11-02",
   "38dd7eb3a10f4346": "2026-11-17",
+  "399b6cb8818be9af": "2026-11-20",
   "3ab88d0df6c0ced6": "2026-11-09",
   "3ae018b65aaab984": "2026-11-02",
   "3b7f24b1cd61e7fe": "2026-11-18",
@@ -7625,11 +7936,11 @@
   "3c0eac8d49460a77": "2026-10-31",
   "3c9e48426fad08c1": "2026-11-07",
   "3ca87c5cace62b1e": "2026-11-19",
-  "3d468605e0594021": "2026-10-29",
   "3e0dee3c43dac3dc": "2026-10-30",
   "3e1919c777ea2db3": "2026-11-15",
   "3e5b2568e6ed00a1": "2026-11-12",
   "3f14546ab309d299": "2026-11-06",
+  "3f45aeb55af77405": "2026-11-20",
   "3fdace98b464eb08": "2026-11-04",
   "40b3469495104d52": "2026-11-11",
   "414a3d20a21cfd6b": "2026-11-10",
@@ -7659,16 +7970,17 @@
   "497b3f705ee09584": "2026-11-02",
   "4a50af5b37cda5a5": "2026-11-05",
   "4aa0036e6008ba04": "2026-11-02",
+  "4ae683aa8267df8b": "2026-11-20",
   "4b49fc24a1515317": "2026-11-01",
   "4be096efb99e6f36": "2026-11-13",
   "4c14124ae21c5934": "2026-11-15",
   "4c3f1543e0994469": "2026-11-01",
+  "4c77a8c9260765b8": "2026-11-20",
   "4e13f51fc1cbf2be": "2026-11-14",
   "4e355cb4e936318e": "2026-11-14",
   "4e4384e5d23421de": "2026-11-02",
   "4e4604912c9cb3f0": "2026-11-11",
   "4eb0c6cd699e68b8": "2026-11-06",
-  "4f4bed045acfcb54": "2026-10-29",
   "509bee2b7cba69d9": "2026-11-05",
   "50a6844e9104f861": "2026-11-01",
   "5101d1a486d69739": "2026-11-03",
@@ -7676,10 +7988,10 @@
   "5176039615b7b3af": "2026-11-16",
   "51c5a9a27baea595": "2026-10-30",
   "525358f7f8e5decd": "2026-10-30",
-  "52fbbf2941d3cbed": "2026-10-29",
   "531ea9dc8e630947": "2026-11-17",
   "53b632b4ea42a152": "2026-11-19",
   "53efa72567576656": "2026-11-17",
+  "53f341ad0b877791": "2026-11-20",
   "546432b668b63ea5": "2026-11-09",
   "55a2b3a8b12ca48c": "2026-11-12",
   "56a03da12c0bbf17": "2026-11-05",
@@ -7707,7 +8019,6 @@
   "60ae10a553a80266": "2026-11-01",
   "614deb4d3d087081": "2026-11-12",
   "626d3932ded80832": "2026-11-03",
-  "626e2117ee6f36d3": "2026-10-29",
   "62825ce1825f8a43": "2026-11-05",
   "62adf22b6c55c2da": "2026-11-07",
   "62d6b023e1f9f404": "2026-11-10",
@@ -7720,6 +8031,7 @@
   "664224e893fca135": "2026-11-01",
   "66ec954f3129b8cf": "2026-11-18",
   "6813d62fd92533cd": "2026-11-07",
+  "69537f532714faf4": "2026-11-20",
   "69a46671059b3147": "2026-11-04",
   "69aca5472946677e": "2026-11-04",
   "69cf72c5fffcba32": "2026-10-30",
@@ -7736,13 +8048,16 @@
   "6f801c818c041a41": "2026-11-19",
   "6f8aeb613fa89d31": "2026-10-31",
   "6fc8c039af460fdf": "2026-11-18",
+  "7066f202a884aec0": "2026-11-20",
   "72284a47c9d975a2": "2026-11-17",
+  "726b56f3872b7d89": "2026-11-20",
   "72967ff05baddf8f": "2026-11-13",
   "729ba7546c615285": "2026-11-11",
   "73187c792eb7d298": "2026-11-18",
   "735df09c2ed1f9d3": "2026-11-16",
   "73905398b90a9385": "2026-10-31",
   "7396b577c72532a7": "2026-11-10",
+  "7417bf5bcdafa25a": "2026-11-20",
   "746756c1e33d7b4d": "2026-11-08",
   "7482059e8feb089c": "2026-11-12",
   "771b010310217e5f": "2026-11-03",
@@ -7783,8 +8098,10 @@
   "8433ae49482a0e15": "2026-11-09",
   "8479f47633fa8f96": "2026-11-14",
   "8492851df22e040d": "2026-10-30",
+  "859ee3ec8c206bcf": "2026-11-20",
   "86481580c3775f5c": "2026-11-11",
   "871b81f930c7e6ad": "2026-10-30",
+  "873635b90e3192ea": "2026-11-20",
   "876ff38562b771a5": "2026-11-13",
   "87f5eeaab13c5bc2": "2026-11-03",
   "88698104a54d2871": "2026-11-03",
@@ -7801,7 +8118,6 @@
   "8c14f3064e3aae2c": "2026-11-13",
   "8cc00dd5564d441f": "2026-11-14",
   "8d147319103619c5": "2026-11-05",
-  "8df56ffee5c880b1": "2026-10-29",
   "8e5de124c0aba4e7": "2026-11-13",
   "8edeafd16c37fdcf": "2026-11-18",
   "8f65b6637c02d384": "2026-10-31",
@@ -7826,15 +8142,14 @@
   "98039fad918d61c0": "2026-11-10",
   "98ab7384959f6521": "2026-11-01",
   "99abaa14bb191cc5": "2026-11-19",
-  "99dec6710d08d32e": "2026-10-29",
   "9b0678ce4304cc1b": "2026-11-01",
   "9b0e30367cd4b6a6": "2026-11-07",
   "9c7e75a27e82f37a": "2026-11-15",
-  "9c98d5779d61c5ac": "2026-10-29",
   "9d89973c6c4d298d": "2026-11-12",
+  "9d90d3ec5e937785": "2026-11-20",
   "9f5d41e700129576": "2026-11-13",
   "9f8c8a81de0de885": "2026-11-13",
-  "a075480e28a06b30": "2026-10-29",
+  "9fe3e937f57a6930": "2026-11-20",
   "a0fb68e32307cde8": "2026-11-03",
   "a162d031eccee838": "2026-11-10",
   "a2f271162f361968": "2026-11-14",
@@ -7847,23 +8162,23 @@
   "a67e4808fe94719f": "2026-11-19",
   "a6ed11bc3ec6b497": "2026-11-17",
   "a7e11bfba6b108f7": "2026-11-01",
-  "a86185eb36d2fb05": "2026-10-29",
   "a8cc99f01ffe7b8c": "2026-10-31",
   "a8d5ce0e798b0db2": "2026-11-03",
   "a8ddb52076acfe0e": "2026-11-16",
   "a8f771cea26e5530": "2026-11-18",
   "a909c419b8fadbae": "2026-11-17",
   "a9b6e2cd11d35117": "2026-11-16",
+  "aa8633c863386b59": "2026-11-20",
   "ab069fbac438b620": "2026-11-15",
   "ab2208a5a2deaf19": "2026-11-12",
   "ac5df45e00ac5d57": "2026-11-18",
   "ac661c1b0b3a660b": "2026-11-15",
-  "ad9d884cc236986c": "2026-10-29",
   "ad9eb20db0e41095": "2026-11-10",
   "adb66fa1efb10251": "2026-11-12",
   "adfd5f78088cb0c5": "2026-11-07",
   "ae3c6c28ceab44c4": "2026-11-11",
   "ae7da127018dce5f": "2026-11-06",
+  "aea45130f82e84be": "2026-11-20",
   "af19957a97c276aa": "2026-11-17",
   "af64b02be620e19f": "2026-11-05",
   "b0707a4672c1c2ea": "2026-11-11",
@@ -7875,8 +8190,6 @@
   "b2ef9565ec76e6f2": "2026-11-10",
   "b433b804df3fb8d4": "2026-11-07",
   "b48a6c03398c2d63": "2026-11-13",
-  "b575f0a4276a9e8b": "2026-10-29",
-  "b582c7c1e1cdc90e": "2026-10-29",
   "b6084b803dfec3c8": "2026-10-30",
   "b6878a433eee7479": "2026-11-14",
   "b75665400b5ef554": "2026-11-15",
@@ -7894,7 +8207,6 @@
   "bcd5b28050a65d2a": "2026-11-04",
   "bcfba243e77f9ecf": "2026-11-04",
   "bd843835debb4c63": "2026-11-19",
-  "bdee9a37e2d953e6": "2026-10-29",
   "bdef1cd7599d7b98": "2026-11-02",
   "bdf3835d6932e817": "2026-11-12",
   "be54405e42bc8186": "2026-11-14",
@@ -7942,10 +8254,9 @@
   "cbe495be59b129d8": "2026-11-03",
   "cc9d9dbd1b4e109a": "2026-11-16",
   "ccab5f7c74df8ebb": "2026-11-02",
+  "cd10805d63d2e1b9": "2026-11-20",
   "cdb14c6097ac655b": "2026-11-15",
-  "cdb15afccd2d9213": "2026-10-29",
   "cdf026b73ca8cb64": "2026-11-19",
-  "ce7aa22a223624f8": "2026-10-29",
   "cedda5f9b623677d": "2026-11-09",
   "d00a63bd81f37f09": "2026-11-09",
   "d0139d3297597e76": "2026-11-01",
@@ -7955,11 +8266,9 @@
   "d0b83026be95e613": "2026-11-16",
   "d14fac5804e6adb9": "2026-11-13",
   "d1eb176e6b48217d": "2026-11-05",
-  "d2427b60f7a7e3b6": "2026-10-29",
   "d29ae30d62981d1b": "2026-11-16",
   "d2f9e4a641b876d6": "2026-11-03",
   "d3180c2e7e0ff7ed": "2026-11-13",
-  "d34274acdad11d79": "2026-10-29",
   "d3739e8ec8e9e505": "2026-11-09",
   "d46b516a4c8344dc": "2026-11-14",
   "d46e4b8dae9178c9": "2026-11-11",
@@ -7987,6 +8296,7 @@
   "dc54cd1e24ad7f3b": "2026-11-09",
   "dc7207a48081bdf4": "2026-11-06",
   "de1b04aef2180495": "2026-11-15",
+  "deb328770ce76453": "2026-11-20",
   "debf3794f28dab76": "2026-11-05",
   "dee01e570ee44d89": "2026-11-01",
   "def89ba6e7998ba4": "2026-11-18",
@@ -8000,7 +8310,6 @@
   "e1711c012d1958e9": "2026-10-31",
   "e1b8549665716eae": "2026-11-10",
   "e2117a1184bb4bd9": "2026-11-10",
-  "e32d814c896f58f5": "2026-10-29",
   "e33216d0e243d7ea": "2026-11-03",
   "e33275ffb3e16cd6": "2026-11-10",
   "e3c1f66505445103": "2026-11-11",
@@ -8009,9 +8318,7 @@
   "e3e924d5ad25a05a": "2026-11-19",
   "e3f3f6c0c50f4c4d": "2026-11-02",
   "e66f4eeac8f3ba07": "2026-11-08",
-  "e813585790afea0f": "2026-10-29",
   "e880b578fe3f15f0": "2026-11-08",
-  "e9400fb735df969e": "2026-10-29",
   "e9efb1446d7a006a": "2026-11-04",
   "ea31779570350428": "2026-11-12",
   "ea5f6662d18c21ea": "2026-11-03",
@@ -8027,7 +8334,6 @@
   "ef1bc3362238e12c": "2026-11-17",
   "ef4921ce26d08b13": "2026-11-19",
   "ef7e5cbdc2c26f28": "2026-11-17",
-  "efe72c6018e6d6bd": "2026-10-29",
   "f006871e2ded22bd": "2026-11-17",
   "f0936848b231d767": "2026-11-13",
   "f0a746966dedf0f1": "2026-11-19",
@@ -8039,7 +8345,6 @@
   "f2420287fbe25b3c": "2026-11-14",
   "f2d1947babb32aef": "2026-11-06",
   "f34369ec1fb0f562": "2026-11-11",
-  "f3b6244c60c47405": "2026-10-29",
   "f63a3f48c9818883": "2026-11-06",
   "f67a5ae71b6ef2be": "2026-11-14",
   "f67afdfb7fcb1291": "2026-11-11",
@@ -8051,11 +8356,13 @@
   "f808aeb9e618d050": "2026-11-12",
   "f8937822d5ed3bf8": "2026-11-14",
   "f89cd0c3d555933e": "2026-11-17",
+  "f93ea93941f60201": "2026-11-20",
   "f980aaaf1222c80e": "2026-11-18",
   "f9b6523275e5273d": "2026-11-12",
   "fa2fd09b84e99b31": "2026-11-02",
   "fa83fdb0fd348a52": "2026-11-19",
   "fb8b8dbe7a14d8f2": "2026-11-16",
+  "fcc7b58949fb499f": "2026-11-20",
   "fcce71fd9da3e8f8": "2026-11-14",
   "fd661e28d5d63140": "2026-11-06",
   "fe008458352d9359": "2026-11-04",
@@ -8078,7 +8385,7 @@
   "LLM serving & ML infrastructure": "2026-11-18",
   "Multimodal & vision-language": "2026-11-10",
   "On-device & efficient ML": "2026-11-18",
-  "Training & scaling": "2026-11-07",
-  "Wireless & acoustic sensing": "2026-11-17"
+  "Training & scaling": "2026-11-20",
+  "Wireless & acoustic sensing": "2026-11-20"
  }
 }

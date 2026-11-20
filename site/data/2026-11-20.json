@@ -1,0 +1,836 @@
+{
+ "ctx": {
+  "date_long": "Friday, November 20, 2026",
+  "weekday": "Friday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-20 20:00:53+00:00",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.9126,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "4c77a8c9260765b8"
+     },
+     {
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-20 19:03:56+00:00",
+      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.856,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "69537f532714faf4"
+     },
+     {
+      "title": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-20 19:54:57+00:00",
+      "summary": "Anthropic's Tom Brown plans to donate to Trump's investment accounts for kids, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.7332,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "7417bf5bcdafa25a"
+     },
+     {
+      "title": "Anthropic retail traders face losses as shares dive 13% the day after debut - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-20 18:16:23+00:00",
+      "summary": "Anthropic retail traders face losses as shares dive 13% the day after debut \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.6462,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "9d90d3ec5e937785"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "StepSecurity, led by two Microsoft vets, raises $20M to defend developers\u2019 tools from hackers",
+      "url": "https://www.geekwire.com/2026/stepsecurity-founded-by-two-microsoft-vets-raises-20m-to-defend-developers-tools-from-hackers/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 16:28:29+00:00",
+      "summary": "StepSecurity, a Seattle-area startup founded by two former Microsoft engineers, raised a $20 million Series A to protect the laptops, code repositories and build systems that developers use from supply chain attacks. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.1824,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "399b6cb8818be9af"
+     },
+     {
+      "title": "John Deere acquires Orchard Robotics, an AI farming startup with Seattle ties",
+      "url": "https://www.geekwire.com/2026/john-deere-acquires-orchard-robotics-an-ai-farming-startup-with-seattle-ties/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 15:52:03+00:00",
+      "summary": "Orchard Robotics, an agtech company using artificial intelligence to help growers monitor crops and make farming decisions, has been acquired by John Deere. The terms were not disclosed. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.1435,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "726b56f3872b7d89"
+     },
+     {
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 16:29:06+00:00",
+      "summary": "268 points \u00b7 91 comments on HN",
+      "duration_min": null,
+      "popularity": 268.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50577265",
+       "ago": "4h ago"
+      },
+      "score": 1.9994,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "9fe3e937f57a6930"
+     },
+     {
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 18:33:14+00:00",
+      "summary": "868 points \u00b7 408 comments on HN",
+      "duration_min": null,
+      "popularity": 868.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50579568",
+       "ago": "2h ago"
+      },
+      "score": 1.4549,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "04e4de98579780fa"
+     },
+     {
+      "title": "Multiplying your Switch 2\u2019s storage costs less than usual right now",
+      "url": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 18:15:00+00:00",
+      "summary": "Expanding your Nintendo Switch 2\u2019s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo\u2019s original console. That\u2019s because microSD Express cards, while physically identical to ones you might have lying around, have faster read and write speeds. Thankfully, Samsung\u2019s 256GB model has dropped to $44.99 at Amazon ahead of [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 1.0967,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "4ae683aa8267df8b"
+     },
+     {
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 16:34:13+00:00",
+      "summary": "Anthropic mathematician Levent Alp\u00f6ge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decades. If verified, it would mark yet another seismic achievement for AI in mathematics and add to the upheaval [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.938,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "859ee3ec8c206bcf"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+      "url": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 07:12:24+00:00",
+      "summary": "November 19, 2026 \u2014 ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "13h ago"
+      },
+      "score": 1.8067,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "1177dfbd92c164db"
+     },
+     {
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pMHRici1uRTBSYVNzNnJ5UVFiS1gtRjdJNWJZNUpDV0JxdzJVWHVUVEh5dXhVcVBYWXpSQWs2N1dnclY1aXJFaDhzM21OamVwQ1E?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 12:45:21+00:00",
+      "summary": "Anthropic announces closing of initial public offering, including full exercise of underwriters\u2019 option to purchase additional shares, and closing of concurrent private placement \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.6815,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "fcc7b58949fb499f"
+     },
+     {
+      "title": "Scaling Linear\u2019s GTM to $100M ARR \u2014 Cristina Cordova, COO",
+      "url": "https://latent.space/p/linear-scaling/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 23:58:21+00:00",
+      "summary": ">50% of tickets written by agents, the AI budgets behind $100M-in-months ARR, and selling without SDRs or FDEs",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 1.3423,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "222a3317cded8e05"
+     },
+     {
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 19:21:49+00:00",
+      "summary": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all human, with no AI. The hope was to bring Alessandro to Stanford for a year to polish the writing and then announce it after running it by enough people. Now it\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.2301,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "aea45130f82e84be"
+     },
+     {
+      "title": "Quoting Levent Alp\u00f6ge",
+      "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 16:30:48+00:00",
+      "summary": "I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.1271,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "0f5706e428f14c2c"
+     },
+     {
+      "title": "SEC Filings - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82ckdWOFg4N2Fpa2dtdkZKUWZidHlHaXBubHNJRDhDT2NxMHZlTFVyZWw5WlpvTXdPc1JnRzJxaDZoSm9wQ3Z0MzlDeVVRd3RSQVdHdERsT1lBR2ZpNUZJdWcxdWVwdw?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 18:07:54+00:00",
+      "summary": "SEC Filings \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 1.1207,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "deb328770ce76453"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Coordinated Offloading: Cooperative Multi-Agent Reinforcement Learning for the Edge-Cloud Continuum",
+      "url": "https://arxiv.org/abs/2611.25932",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-19 11:18:55+00:00",
+      "summary": "The increasing demand for intelligent, low-latency services in edge-cloud continuum systems poses new challenges for dynamic and efficient task offloading. We propose a Multi-Agent Reinforcement Learning (MARL) framework for distributed task offloading under partial observability, where each device offloads only a portion of its computation to a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.25932",
+       "arxiv_id": "2611.25932",
+       "authors": "Muhammad Rafid, Golshan Famitafreshi, Vasilis Avgerinos, Kostas Ramantas et al.",
+       "ago": "33h ago"
+      },
+      "score": 3.8746,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "3f45aeb55af77405"
+     },
+     {
+      "title": "Efficient and Variation-Tolerant Tree Inference via Compact and Scalable Mapping in Analog CAMs",
+      "url": "https://arxiv.org/abs/2611.26567",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-19 18:35:20+00:00",
+      "summary": "Tree-based machine learning methods are widely adopted for their interpretability and state-of-the-art accuracy on tabular data. These methods face efficiency challenges on conventional architectures due to irregular memory access patterns during tree traversal. Prior work uses analog CAM to accelerate tree traversal, but inefficient mapping\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.26567",
+       "arxiv_id": "2611.26567",
+       "authors": "Zhicheng Xu, Wenqing Shi, Pengyu Ren, Chao Li et al.",
+       "ago": "26h ago"
+      },
+      "score": 2.968,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "03f498d324f39683"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "url": "https://arxiv.org/abs/2611.26619",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-19 18:58:31+00:00",
+      "summary": "Hybrid architectures have become mainstream among open-weight language models. Their global-attention and bounded-state layers maintain heterogeneous caches whose demands vary with context length and concurrency. We present TideCache, a serving system on CPU--GPU superchips with three components for allocating GPU memory among caches and managing\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.26619",
+       "arxiv_id": "2611.26619",
+       "authors": "Jinbin Luo, Xiaozhe Yao, Shang Yang, Zhijian Liu et al.",
+       "ago": "26h ago"
+      },
+      "score": 2.282,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "12877b5afe14acde"
+     },
+     {
+      "title": "Berth: SLO-Preserving GPU Sharing Without New Preemption",
+      "url": "https://arxiv.org/abs/2611.25091",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 19:29:56+00:00",
+      "summary": "Inference services keep GPUs reserved for their worst-case load, and most of that capacity sits idle. Filling it with best-effort work such as training is the obvious remedy, and latency is why it rarely happens: on a shared GPU, a request that must finish within milliseconds finds the best-effort job's kernels running or queued ahead of it.\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.25091",
+       "arxiv_id": "2611.25091",
+       "authors": "Mohammadali Khodabandehlou, Mahdi Alizadeh, Lei Gao, Murali Annavaram et al.",
+       "ago": "2d ago"
+      },
+      "score": 1.7264,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "aa8633c863386b59"
+     },
+     {
+      "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+      "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-20 20:24:38+00:00",
+      "summary": "ruby2shell lets attackers corrupt memory in default Rails and Sinatra apps without logging in. Cloudflare WAF blocks it for every customer, including Free plans. Upgrade Ruby now, and use the WAF to cover the gap.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9954,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "f93ea93941f60201"
+     },
+     {
+      "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+      "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-20 20:00:45+00:00",
+      "summary": "phpAfterShell is a critical flaw in PHP's default session handler that can lead to code execution. Cloudflare WAF blocks it for all customers, including Free plans, and adds new rules for other PHP flaws fixed in the same release.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9927,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "7066f202a884aec0"
+     },
+     {
+      "title": "Design Once, Deploy at Scale: Building a Template-Driven ML Ecosystem",
+      "url": "https://engineering.fb.com/2026/11/18/ml-applications/design-once-deploy-at-scale-template-driven-ml-ecosystem/",
+      "source": "Meta Engineering",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 16:59:38+00:00",
+      "summary": "As ML ecosystems grow to a large number of production models, the bottleneck is no longer inventing new techniques to improve these models, but rather shipping them reliably and efficiently across a fragmented model space, creating a rising tide that lifts all the boats. At Meta, we built a template-driven approach that standardizes model design [...] Read More... The post Design Once, Deploy at\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2d ago"
+      },
+      "score": 0.7278,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "53f341ad0b877791"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Government Funding Pressure On Iran War, National Security & Tech, Iowa Detonation",
+      "url": "https://www.npr.org/2026/11/20/nx-s1-6048392/government-funding-pressure-on-iran-war-national-security-tech-iowa-detonation",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-20 10:54:51+00:00",
+      "summary": "Democrats are weighing whether to use the government funding deadline to cut off money for the war in Iran, exposing divisions over how quickly the party should act. The Trump administration approved sales of advanced U.S. chips to Chinese companies, including some the Pentagon has linked to\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/7f325634-ed4b-4332-8204-e74e770ac411/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=7f325634-ed4b-4332-8204-e74e770ac411&feed=HMwRVgVt&t=podcast&e=nx-s1-6048392&p=510318&d=771&size=12349902",
+       "ago": "10h ago"
+      },
+      "score": 0.6667,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "cd10805d63d2e1b9"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "If you\u2019ve deployed anything since 2015, I have bad news...",
+      "url": "https://www.youtube.com/watch?v=rMaMe32qQkA",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-20 19:49:02+00:00",
+      "summary": "Paper gives your coding agent a design canvas built on real HTML and CSS. Try it: https://paper.design/?utm_source=youtube&utm_medium=sponsor&utm_campaign=fireship&utm_content=fireship-1 Hackers hijacked 178 major websites through Optimizely, a\u2026",
+      "duration_min": null,
+      "popularity": 57.552,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/rMaMe32qQkA/hqdefault.jpg",
+       "ago": "1h ago"
+      },
+      "score": 1.9694,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "37d45fd9714becbf"
+     },
+     {
+      "title": "The Geology of Mars: Crash Course Geology #25",
+      "url": "https://www.youtube.com/watch?v=TMTLNFv5MQE",
+      "source": "CrashCourse",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-19 17:00:09+00:00",
+      "summary": "There\u2019s no place like Earth\u2014is there? In this episode of Crash Course Geology, we\u2019ll learn about a rock that NASA calls \u201cthe closest we have ever come to discovering life on Mars,\u201d and how geology is informing the search for extraterrestrial life.\u2026",
+      "duration_min": null,
+      "popularity": 43.801,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/TMTLNFv5MQE/hqdefault.jpg",
+       "ago": "28h ago"
+      },
+      "score": 1.0159,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "873635b90e3192ea"
+     },
+     {
+      "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
+      "url": "https://www.youtube.com/watch?v=VgOm8nqPlD4",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-20 16:00:02+00:00",
+      "summary": "Why is it so hard to get someone to change? Leadership expert Philip Jameson has spent years watching people pitch smart ideas at work, only to be met with colleagues resistant to adjusting how things get done. He breaks down why people push back\u2026",
+      "duration_min": null,
+      "popularity": 15.863,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/VgOm8nqPlD4/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 0.8199,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "2821859f4ff49fe0"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-20:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
+      "url": "https://arxiv.org/abs/2611.23619",
+      "kind": "paper"
+     },
+     {
+      "title": "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management",
+      "url": "https://arxiv.org/abs/2611.23691",
+      "kind": "paper"
+     },
+     {
+      "title": "Continuous Cuffless Blood Pressure Estimation Using PPG From Methods to Clinical Translation",
+      "url": "https://arxiv.org/abs/2611.17499",
+      "kind": "paper"
+     },
+     {
+      "title": "Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification",
+      "url": "https://arxiv.org/abs/2611.17944",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-20:training-scaling-4-new-papers",
+    "label": "Topic episode \u00b7 Training & scaling",
+    "title": "Training & scaling: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "RespCCT and FreqCCT: Compact, Explainable and Cost-Aware Convolutional Transformers for Multi-Class Respiratory Disease Classification",
+      "url": "https://arxiv.org/abs/2611.24323",
+      "kind": "paper"
+     },
+     {
+      "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+      "url": "https://arxiv.org/abs/2611.24496",
+      "kind": "paper"
+     },
+     {
+      "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+      "url": "https://arxiv.org/abs/2611.22191",
+      "kind": "paper"
+     },
+     {
+      "title": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
+      "url": "https://arxiv.org/abs/2611.23358",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 27,
+  "read_min": 69,
+  "listen_min": 58,
+  "generated": "1:05 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.23619",
+     "item_ids": [
+      "3ba3829b130ffd48"
+     ],
+     "title": "EEG2MCU: Sensing-to-Execution Co-Design for Wearable EEG Inference",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.23619",
+     "page": "https://arxiv.org/abs/2611.23619",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 3.6076,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.23691",
+     "item_ids": [
+      "7b8728be7bfd677e"
+     ],
+     "title": "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.23691",
+     "page": "https://arxiv.org/abs/2611.23691",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.6789,
+     "added": "2026-11-19"
+    },
+    {
+     "added": "2026-11-16",
+     "hits": 1,
+     "id": "arxiv:2611.17499",
+     "item_ids": [
+      "5131320bcaed99f5"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.17499",
+     "score": 1.4946,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "Continuous Cuffless Blood Pressure Estimation Using PPG From Methods to Clinical Translation",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2611.17499"
+    },
+    {
+     "added": "2026-11-16",
+     "hits": 1,
+     "id": "arxiv:2611.17944",
+     "item_ids": [
+      "d61eaa51b7e9c9d3"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.17944",
+     "score": 0.9874,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification",
+     "topic": "Wireless & acoustic sensing",
+     "url": "https://arxiv.org/pdf/2611.17944"
+    }
+   ],
+   "date": "2026-11-20",
+   "key": "ep:2026-11-20:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "3ba3829b130ffd48",
+    "7b8728be7bfd677e",
+    "5131320bcaed99f5",
+    "d61eaa51b7e9c9d3"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Training & scaling",
+   "title": "Training & scaling: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.24323",
+     "item_ids": [
+      "6c826b739a0301a5"
+     ],
+     "title": "RespCCT and FreqCCT: Compact, Explainable and Cost-Aware Convolutional Transformers for Multi-Class Respiratory Disease Classification",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.24323",
+     "page": "https://arxiv.org/abs/2611.24323",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.3336,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.24496",
+     "item_ids": [
+      "3ca87c5cace62b1e"
+     ],
+     "title": "Harvesting Expert-Parallel Bubbles for Fine-Tuning",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.24496",
+     "page": "https://arxiv.org/abs/2611.24496",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.2134,
+     "added": "2026-11-19"
+    },
+    {
+     "added": "2026-11-18",
+     "hits": 2,
+     "id": "arxiv:2611.22191",
+     "item_ids": [
+      "b71be99f68f82bd9"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.22191",
+     "score": 2.0129,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "RISA: Recoverable Sparse Attention for Block-Diffusion Language Models",
+     "topic": "Training & scaling",
+     "url": "https://arxiv.org/pdf/2611.22191"
+    },
+    {
+     "id": "arxiv:2611.23358",
+     "item_ids": [
+      "86d54a6df6b342cb"
+     ],
+     "title": "Implementing Binary Transformers with Approximate Memories with Permutation Invariance Enabled Selective (PIES) Protection",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.23358",
+     "page": "https://arxiv.org/abs/2611.23358",
+     "topic": "Training & scaling",
+     "hits": 2,
+     "score": 2.0119,
+     "added": "2026-11-19"
+    }
+   ],
+   "date": "2026-11-20",
+   "key": "ep:2026-11-20:training-scaling-4-new-papers",
+   "item_ids": [
+    "6c826b739a0301a5",
+    "3ca87c5cace62b1e",
+    "b71be99f68f82bd9",
+    "86d54a6df6b342cb"
+   ]
+  }
+ ]
+}
