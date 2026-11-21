@@ -1,0 +1,762 @@
+{
+ "ctx": {
+  "date_long": "Saturday, November 21, 2026",
+  "weekday": "Saturday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-21 16:35:15+00:00",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.7726,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "61a095678127ccf1"
+     },
+     {
+      "title": "Anthropic worker claims to have solved a Holy Grail of math problems with the help of AI",
+      "url": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-21 12:30:16+00:00",
+      "summary": "A mathematician who works for artificial intelligence giant Anthropic claims he has solved a Holy Grail of math problems with the help of the company's AI tool Claude. It marks the second time in recent months that an AI company or someone linked to one claims to have cracked a famed unsolved math problem.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 1.4302,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "fd3efd63d803fd4f"
+     },
+     {
+      "title": "Anthropic says it will put humanity first. Will its IPO change that?",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-21 10:00:00+00:00",
+      "summary": "Critics say now that the AI giant is a public company, its commitment to put safety ahead of commercial success will be tested.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.336,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "82ffb684477a84ac"
+     },
+     {
+      "title": "In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-20 23:08:57+00:00",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 1.1444,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "badd657c4aa59a3b"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "After the Outlook outage: Mary Jo Foley on Ignite, Microsoft\u2019s AI pitch, and a new approach to the press",
+      "url": "https://www.geekwire.com/2026/after-the-outlook-outage-mary-jo-foley-on-ignite-microsofts-ai-pitch-and-a-new-approach-to-the-press/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-21 18:09:42+00:00",
+      "summary": "Longtime Microsoft reporter Mary Jo Foley joins the GeekWire Podcast to discuss the Outlook outage fallout and Microsoft's Ignite pitch against OpenAI and Anthropic on price. We also talk about its new approach to the press and who from Microsoft could lead Nvidia. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 3.6844,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "3b67c1c28ca6847d"
+     },
+     {
+      "title": "Microsoft\u2019s final Outlook outage report details testing gaps and safeguards that backfired",
+      "url": "https://www.geekwire.com/2026/microsofts-final-outlook-outage-report-details-testing-gaps-and-safeguards-that-backfired/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-21 17:31:16+00:00",
+      "summary": "Microsoft says the bug behind last week's global Outlook outage hit only newer servers in a key part of its network, and tests run on older ones missed it. Its final report lists 13 fixes, including steps to keep a failure in one part of the world from spreading. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 2.8376,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "d84376d2a58bfec8"
+     },
+     {
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-21 14:55:28+00:00",
+      "summary": "If you\u2019re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That\u2019s the lowest price we\u2019ve seen for Anker\u2019s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and pink) all of [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 1.4309,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "691eb797ab10fc3d"
+     },
+     {
+      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic\u2019s second day",
+      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-20 13:29:59+00:00",
+      "summary": "474 points \u00b7 825 comments on HN",
+      "duration_min": null,
+      "popularity": 474.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50574383",
+       "ago": "30h ago"
+      },
+      "score": 1.3484,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "fd2811614640e90d"
+     },
+     {
+      "title": "Lean verification of the Riemann Hypothesis",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-21 14:36:45+00:00",
+      "summary": "569 points \u00b7 436 comments on HN",
+      "duration_min": null,
+      "popularity": 569.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50589618",
+       "ago": "5h ago"
+      },
+      "score": 1.3228,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "18d9f9bc59b30c8a"
+     },
+     {
+      "title": "Can Anthropic afford to put safety first?",
+      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-21 15:00:00+00:00",
+      "summary": "Today, I\u2019m talking with Hayden Field, The Verge\u2019s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conversation, except to [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.9219,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "a9f34b76fcc6d54c"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "[AINews] Riemann Hypothesis proved...twice independently",
+      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-21 05:02:13+00:00",
+      "summary": "November 20 2026 \u2014",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 0.9962,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "2b32d4b379bcfefb"
+     },
+     {
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "url": "https://latent.space/p/formal-verification/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 21:18:41+00:00",
+      "summary": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 0.9489,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "c989db0d32fd28d8"
+     },
+     {
+      "title": "How Google Duplex evolved to also call businesses for you in Gemini",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-20 23:30:30+00:00",
+      "summary": "Generative AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 0.5821,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "565159543ba42dea"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks",
+      "url": "https://arxiv.org/abs/2611.23977",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-18 07:16:46+00:00",
+      "summary": "Edge computing enables resource-constrained devices to execute machine learning (ML) applications via task offloading, with radio access network (RAN) slicing playing a crucial role in provisioning joint communication and computing resources. However, existing RAN slicing frameworks rely on static computing models, limiting their ability to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.23977",
+       "arxiv_id": "2611.23977",
+       "authors": "Langtian Qin, Avishkar Dnyaneshwar Kawadgave, Ian Andrew Harshbarger, Le\u00efla Nasraoui et al.",
+       "ago": "3d ago"
+      },
+      "score": 2.1776,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "a3de0bb2cfe8ad6d"
+     },
+     {
+      "title": "Low-Latency LLM-Based Streaming Multi-Talker ASR with Verifiable Rewards",
+      "url": "https://arxiv.org/abs/2611.19136",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-14 03:56:26+00:00",
+      "summary": "LLM-based architectures offer strong generalization and instruction-following capabilities for streaming automatic speech recognition (ASR), but multi-talker use introduces coupled transcription, attribution, and latency challenges. Our wearable setting requires real-time transcription of a conversation between a near-field device wearer and a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.19136",
+       "arxiv_id": "2611.19136",
+       "authors": "Jing Pan, Ruizhi Li, Ju Lin, Jing Zheng et al.",
+       "ago": "7d ago"
+      },
+      "score": 2.1382,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "01afcf44c9f96cac"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "EP234: Docker vs Kubernetes",
+      "url": "https://blog.bytebytego.com/p/ep234-docker-vs-kubernetes",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-21 16:31:20+00:00",
+      "summary": "Which one should we use?",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.64,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "667b97f6158615df"
+     },
+     {
+      "title": "A Runtime System for Mitigating Crossbar Port Contention on SM-Partitioned GPUs",
+      "url": "https://arxiv.org/abs/2611.24458",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 14:02:39+00:00",
+      "summary": "To avoid scheduling delays when running concurrent workloads on a GPU, Streaming Multiprocessor (SM) partitioning mechanisms such as CUDA Green Contexts restrict each workload to separate SMs. Despite this partitioning, concurrent workloads still significantly slow down latency-critical workloads, which recent studies attribute to shared L2 cache\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.24458",
+       "arxiv_id": "2611.24458",
+       "authors": "Ziwen Wang, Qi Luo, Kunlin Li, Changxi Liu et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.4935,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "96aa733fc6283ead"
+     },
+     {
+      "title": "DispersedBFT: Bottleneck-Free Primary-Backup Consensus using Dispersed Replication",
+      "url": "https://arxiv.org/abs/2611.24833",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 18:01:37+00:00",
+      "summary": "The advent of blockchains is fueling the development of novel resilient data management systems (RDSs). Typically, these RDSs are managed using a primary-backup design using a consensus protocol such as PBFT. In these primary-backup designs, a single participant, the primary, is responsible for coordinating the replication and execution of\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.24833",
+       "arxiv_id": "2611.24833",
+       "authors": "Nancy Kansal, Celine Sana, Jelle Hellings",
+       "ago": "3d ago"
+      },
+      "score": 1.2879,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "721a46d2c0033626"
+     },
+     {
+      "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+      "url": "https://blog.cloudflare.com/nginx2root/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-20 01:58:29+00:00",
+      "summary": "Five memory corruption bugs in nginx, called nginx2root, can let an unauthenticated attacker run code on a server. Here\u2019s how they work, and why origins behind Cloudflare's proxy are shielded from the most serious of these bugs.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1d ago"
+      },
+      "score": 0.7691,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "ff4da9032d2d0257"
+     },
+     {
+      "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
+      "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-18 14:52:10+00:00",
+      "summary": "Java4Shell is a critical memory-corruption flaw in OpenJDK's Base64 decoder that can lead to remote code execution. Cloudflare has released six WAF managed rules for paid plans that logs matching requests by default. Patch your Java runtimes now.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 0.6407,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "af17318c693b84ad"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "\"Medical Necessity Is a Fake Construct\" ~ Carter Doyle, PMHNP-BC",
+      "url": "https://rss.com/podcasts/no-prior-auth/3309630",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-21 19:56:17+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Carter Doyle said the quiet part into a microphone: \u201cThere is no such thing as medical necessity. If you\u2019re ordering it, you determined it was medically necessary.\u201d Then he explained why he\u2019ll\u2026",
+      "duration_min": 56,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3309630/no-prior-auth/2026_11_10_21_11_46_85ffb510-a5af-46d6-9e81-1f896a24df4c.mp3",
+       "ago": "just now"
+      },
+      "score": 1.3926,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "f1e49510f1d72653"
+     },
+     {
+      "title": "AI Stocks Tumble, Permitting Reform Bill Clears Senate, Confusion Over Medicaid Cuts",
+      "url": "https://www.npr.org/2026/11/21/nx-s1-6048721/ai-stocks-tumble-permitting-reform-bill-clears-senate-confusion-over-medicaid-cuts",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-21 13:49:10+00:00",
+      "summary": "Financial markets suffer major losses as concerns over an AI bubble grow. A bipartisan bill that would speed up energy construction projects and weaken environmental regulations clears the US Senate. Confusion grows over new Medicaid work requirement rules set to begin in January. Support public\u2026",
+      "duration_min": 15,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/f13cc947-a38c-428a-8132-4d3b7434e8a6/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=f13cc947-a38c-428a-8132-4d3b7434e8a6&feed=HMwRVgVt&t=podcast&e=nx-s1-6048721&p=510318&d=919&size=14710953",
+       "ago": "6h ago"
+      },
+      "score": 0.7423,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "0f44156ddbf8ac5c"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
+      "url": "https://www.youtube.com/watch?v=78C3_lu0blQ",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-21 16:00:05+00:00",
+      "summary": "Van Halen drummer and co-founder Alex Van Halen and lead singer David Lee Roth sit down with visual artist Robert Vargas, who paints freehand murals up to twenty stories tall, to reveal the two-step recipe behind great art: do your homework, then\u2026",
+      "duration_min": null,
+      "popularity": 13.491,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/78C3_lu0blQ/hqdefault.jpg",
+       "ago": "4h ago"
+      },
+      "score": 0.9399,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "a325c41fd918e22a"
+     }
+    ]
+   }
+  ],
+  "queue": [
+   {
+    "label": "Neural Networks: Zero to Hero \u00b7 5/9 (Saturday evening)",
+    "title": "Building makemore Part 4: Becoming a Backprop Ninja",
+    "url": "https://www.youtube.com/watch?v=q8SA3rM6ckI",
+    "note": "Code along \u2014 don't just watch."
+   }
+  ],
+  "episodes": [
+   {
+    "key": "ep:2026-11-21:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Coordinated Offloading: Cooperative Multi-Agent Reinforcement Learning for the Edge-Cloud Continuum",
+      "url": "https://arxiv.org/abs/2611.25932",
+      "kind": "paper"
+     },
+     {
+      "title": "ReCIM-HD: A 40 nm On-Device Learning Accelerator with Hyperdimensional Computing via Importance-Based Hybrid Digital-ReRAM CIM",
+      "url": "https://arxiv.org/abs/2611.23973",
+      "kind": "paper"
+     },
+     {
+      "title": "OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks",
+      "url": "https://arxiv.org/abs/2611.23977",
+      "kind": "paper"
+     },
+     {
+      "title": "ZoionNET: Low-Power Animal Intrusion Detection Using an Acoustic Deep-Learning Classifier for a Cellular Remote-Sensing System",
+      "url": "https://arxiv.org/abs/2611.26112",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-21:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+      "url": "https://arxiv.org/abs/2611.25433",
+      "kind": "paper"
+     },
+     {
+      "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+      "url": "https://arxiv.org/abs/2611.26619",
+      "kind": "paper"
+     },
+     {
+      "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+      "url": "https://arxiv.org/abs/2611.23339",
+      "kind": "paper"
+     },
+     {
+      "title": "A Runtime System for Mitigating Crossbar Port Contention on SM-Partitioned GPUs",
+      "url": "https://arxiv.org/abs/2611.24458",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 23,
+  "read_min": 60,
+  "listen_min": 86,
+  "generated": "12:06 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.25932",
+     "item_ids": [
+      "3f45aeb55af77405"
+     ],
+     "title": "Coordinated Offloading: Cooperative Multi-Agent Reinforcement Learning for the Edge-Cloud Continuum",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.25932",
+     "page": "https://arxiv.org/abs/2611.25932",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 3.8746,
+     "added": "2026-11-20"
+    },
+    {
+     "id": "arxiv:2611.23973",
+     "item_ids": [
+      "130bbdecc1cc6971"
+     ],
+     "title": "ReCIM-HD: A 40 nm On-Device Learning Accelerator with Hyperdimensional Computing via Importance-Based Hybrid Digital-ReRAM CIM",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.23973",
+     "page": "https://arxiv.org/abs/2611.23973",
+     "topic": "On-device & efficient ML",
+     "hits": 4,
+     "score": 3.7724,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.23977",
+     "item_ids": [
+      "a3de0bb2cfe8ad6d"
+     ],
+     "title": "OMNIS+: Semantic RAN Slicing and Quantization for Dynamic Split Neural Networks",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.23977",
+     "page": "https://arxiv.org/abs/2611.23977",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.7673,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.26112",
+     "item_ids": [
+      "49e16815b4456dd4"
+     ],
+     "title": "ZoionNET: Low-Power Animal Intrusion Detection Using an Acoustic Deep-Learning Classifier for a Cellular Remote-Sensing System",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.26112",
+     "page": "https://arxiv.org/abs/2611.26112",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.3576,
+     "added": "2026-11-20"
+    }
+   ],
+   "date": "2026-11-21",
+   "key": "ep:2026-11-21:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "3f45aeb55af77405",
+    "130bbdecc1cc6971",
+    "a3de0bb2cfe8ad6d",
+    "49e16815b4456dd4"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.25433",
+     "item_ids": [
+      "aea70105076b1c5c"
+     ],
+     "title": "RoCoKV: Accelerating LLM Inference Serving through Uncertainty and Redundancy Aware KV Cache Compression",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.25433",
+     "page": "https://arxiv.org/abs/2611.25433",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 6,
+     "score": 2.3114,
+     "added": "2026-11-20"
+    },
+    {
+     "id": "arxiv:2611.26619",
+     "item_ids": [
+      "12877b5afe14acde"
+     ],
+     "title": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and Layer-Wise Streaming",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.26619",
+     "page": "https://arxiv.org/abs/2611.26619",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 2.282,
+     "added": "2026-11-20"
+    },
+    {
+     "added": "2026-11-19",
+     "hits": 3,
+     "id": "arxiv:2611.23339",
+     "item_ids": [
+      "49a89cf420dc8a83"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.23339",
+     "score": 2.0688,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+     "topic": "LLM serving & ML infrastructure",
+     "url": "https://arxiv.org/pdf/2611.23339"
+    },
+    {
+     "id": "arxiv:2611.24458",
+     "item_ids": [
+      "96aa733fc6283ead"
+     ],
+     "title": "A Runtime System for Mitigating Crossbar Port Contention on SM-Partitioned GPUs",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.24458",
+     "page": "https://arxiv.org/abs/2611.24458",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.9142,
+     "added": "2026-11-19"
+    }
+   ],
+   "date": "2026-11-21",
+   "key": "ep:2026-11-21:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "aea70105076b1c5c",
+    "12877b5afe14acde",
+    "49a89cf420dc8a83",
+    "96aa733fc6283ead"
+   ]
+  }
+ ]
+}
