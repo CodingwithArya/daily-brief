@@ -1,0 +1,631 @@
+{
+ "ctx": {
+  "date_long": "Sunday, November 22, 2026",
+  "weekday": "Sunday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-22 13:29:02+00:00",
+      "summary": "EXCLUSIVE: Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.4597,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "bb47a368e43eba4c"
+     },
+     {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-22 19:52:50+00:00",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0831,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "4f4de17ab998f9fa"
+     },
+     {
+      "title": "What's next after no deal at COP31 climate talks?",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-22 18:57:24+00:00",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0516,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "cf50087ab5713af1"
+     },
+     {
+      "title": "Reuters: Anthropic's unusual IPO process chafed some bankers - Digg",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBsbmR0WEx2TDE3d1M3UTg0QUJER2dhZDZ3Vml0TXNETHlkQ0g4NkZxQjA5UzlMRGR4a0ZxN3N4Qm95TGRPdHJEZjYyeHFody1CSkE?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-21 21:48:25+00:00",
+      "summary": "Reuters: Anthropic's unusual IPO process chafed some bankers \u00a0\u00a0 Digg",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.0089,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "5542172ca5ebea65"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Etzioni on AI: The outage conspiracy theories are wrong \u2014 our rush to patch and upgrade is the culprit",
+      "url": "https://www.geekwire.com/2026/etzioni-on-ai-the-outage-conspiracy-theories-are-wrong-our-rush-to-patch-and-upgrade-is-the-culprit/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 15:04:53+00:00",
+      "summary": "Oren Etzioni argues this month's outages at Microsoft, the FAA, Chase, Apple and the NSA weren't a coordinated attack. Each traces to its own bug, patch or upgrade, as AI finds security holes faster than anyone can safely fix them. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.3779,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "f55bfd9f01725b6c"
+     },
+     {
+      "title": "Data Processing Incidents on Inference Providers",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 02:14:14+00:00",
+      "summary": "265 points \u00b7 88 comments on HN",
+      "duration_min": null,
+      "popularity": 265.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50595554",
+       "ago": "18h ago"
+      },
+      "score": 2.0657,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "381628060ea95e20"
+     },
+     {
+      "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+      "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 08:57:34+00:00",
+      "summary": "706 points \u00b7 748 comments on HN",
+      "duration_min": null,
+      "popularity": 706.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50597612",
+       "ago": "11h ago"
+      },
+      "score": 1.8473,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "38c61351fe0dc3e7"
+     },
+     {
+      "title": "Week in Review: Most popular stories on GeekWire for the week of Nov. 15, 2026",
+      "url": "https://www.geekwire.com/2026/geekwire-weekly-roundup-2026-11-15/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 16:00:01+00:00",
+      "summary": "See the technology stories that people were reading on GeekWire for the week of Nov. 15, 2026. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 1.2218,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "6be731efc612d953"
+     },
+     {
+      "title": "Delta flights in and out of Atlanta delayed due to system outage",
+      "url": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 17:46:44+00:00",
+      "summary": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busiest airports in the world. While only Delta is impacted at the moment, disruptions at [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9951,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "78c2b15f8b0e26ae"
+     },
+     {
+      "title": "GLP-1 drugs could have a surprisingly large environmental payoff",
+      "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-22 12:07:41+00:00",
+      "summary": "GLP-1 drugs could cut food demand enough to free farmland larger than Italy.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 0.6246,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "f31db582746fc52f"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Muru",
+      "url": "https://simonwillison.net/2026/Nov/21/muru/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-21 23:56:28+00:00",
+      "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assisted Rust server that aims to provide the best possible tools for running ASGI and WSGI Python apps both in development and production. As he did with wrapture , he's been publishing an extraordinarily detailed account\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "20h ago"
+      },
+      "score": 0.9113,
+      "why": "",
+      "also_sections": [],
+      "ago": "20h ago",
+      "id": "4299cca1710d467f"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "MEM-STRESS: Longitudinal Field Study of a Wearable-Informed AI Chatbot for Stress Management",
+      "url": "https://arxiv.org/abs/2611.23691",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-18 01:34:51+00:00",
+      "summary": "Stress is an increasingly prevalent concern, creating a need for accessible and personalized support. Stress-management chatbots primarily rely on what users report, which may not capture their physiological changes. Wearables capture these changes, but chatbots rarely use them as memory across conversations. We therefore present MEM-STRESS, a\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.23691",
+       "arxiv_id": "2611.23691",
+       "authors": "Soorya Ram Shimgekar, Pragya Singh, Shivam Sharma, Chandrayee Roy et al.",
+       "ago": "4d ago"
+      },
+      "score": 1.9242,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "7b8728be7bfd677e"
+     },
+     {
+      "title": "Towards Scale-Up Networking: Challenges and Open Questions",
+      "url": "https://arxiv.org/abs/2611.26156",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-19 14:12:24+00:00",
+      "summary": "The rapid growth of AI models and the widespread use of distributed training and inference have made inter-accelerator communication a critical system bottleneck. Scale-up fabrics address this bottleneck by combining high per-accelerator bandwidth with low and predictable latency over tightly coupled accelerator domains. However, the appropriate\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.26156",
+       "arxiv_id": "2611.26156",
+       "authors": "Tingting Xu, Zixun Su, Xinyang Huang, Bowen Liu et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.8374,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "04166be7021276fc"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "LEDGE: An Efficient Simulator for Distributed LLM Serving on Heterogeneous Edge Devices",
+      "url": "https://arxiv.org/abs/2611.24085",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 09:11:43+00:00",
+      "summary": "Evaluating distributed large language model (LLM) serving on heterogeneous edge devices requires exploring diverse model partitions, device placements, and network conditions, making repeated physical experiments costly. An efficient simulator for edge LLM serving must support diverse, fine-grained placement configurations, capture runtime\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.24085",
+       "arxiv_id": "2611.24085",
+       "authors": "Zihao Wang, Ye Tian, Tajana Rosing, Nalini Venkatasubramanian",
+       "ago": "4d ago"
+      },
+      "score": 1.1145,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "d8af7bf4960ec9b9"
+     },
+     {
+      "title": "Dissecting an Unexplored SASS Control-Code Field: Barrier Exemption and Programmable Warp Priority",
+      "url": "https://arxiv.org/abs/2611.24437",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-18 13:53:40+00:00",
+      "summary": "Every instruction in NVIDIA's native GPU ISA (SASS) carries a control code that guides hardware scheduling, and prior work has decoded its known fields to optimize GPU kernels. However, one control-code field remains unexplored: it appears over 500000 times in NVIDIA's closed-source libraries such as cuBLAS and cuDNN, yet nvcc never emits it when\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.24437",
+       "arxiv_id": "2611.24437",
+       "authors": "Ziwen Wang, Qi Luo, Kunlin Li, Changxi Liu et al.",
+       "ago": "4d ago"
+      },
+      "score": 0.9292,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "992507e21138e181"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Since last year, we asked: \u201cWhat if AI solved the Riemann Hypothesis?\u201d",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "3Blue1Brown",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-22 02:02:12+00:00",
+      "summary": "Hypothetical no more Announcement by Levent Alp\u00f6ge: https://alpo.ge/remark.pdf Announcement by Alessandro Masullo on his (human) proof: https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/ ------------------ These\u2026",
+      "duration_min": null,
+      "popularity": 1808.937,
+      "weight": 1.5,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/zqzk43bSdDI/hqdefault.jpg",
+       "ago": "18h ago"
+      },
+      "score": 1.9306,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "1e86105a9efba353"
+     }
+    ]
+   },
+   {
+    "id": "newsletters",
+    "title": "\ud83d\udcec Sunday newsletter catch-up",
+    "items": [
+     {
+      "title": "\ud83e\udde0 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don\u2019t share what they\u2019re really working on",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-21 16:49:56+00:00",
+      "summary": "Community Wisdom 306",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "27h ago"
+      },
+      "score": 1.81,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "046340afda369c72"
+     },
+     {
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "source": "Lenny's Newsletter",
+      "section": "newsletters",
+      "kind": "article",
+      "published": "2026-11-22 13:31:53+00:00",
+      "summary": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.1465,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "62d043f2c9fa3c90"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-22:hearables-on-device-audio-ai-2-new-papers-1-more",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 2 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Joint Language Modeling for In-the-Wild Speech-Scene Generation with Distinct Token Representations",
+      "url": "https://arxiv.org/abs/2611.25503",
+      "kind": "paper"
+     },
+     {
+      "title": "Insight into Parametric First-Order Ambisonics Upscaling in Time and Frequency Domains",
+      "url": "https://arxiv.org/abs/2611.23089",
+      "kind": "paper"
+     },
+     {
+      "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+      "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+      "kind": "article"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-22:llm-reasoning-test-time-compute-4-new-papers",
+    "label": "Topic episode \u00b7 LLM reasoning & test-time compute",
+    "title": "LLM reasoning & test-time compute: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.24650",
+      "kind": "paper"
+     },
+     {
+      "title": "Max-Min Throughput in RSMA-Aided SWIPT for Sustainable Internet of Underground Things: A Deep Reinforcement Learning Approach",
+      "url": "https://arxiv.org/abs/2611.19865",
+      "kind": "paper"
+     },
+     {
+      "title": "Latent Lattice Language Models",
+      "url": "https://arxiv.org/abs/2611.21608",
+      "kind": "paper"
+     },
+     {
+      "title": "Reasoning Again with a Quarter of the Experts: Retry First, Then Train",
+      "url": "https://arxiv.org/abs/2611.20419",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 18,
+  "read_min": 51,
+  "listen_min": 15,
+  "generated": "12:21 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 2 new papers + 1 more",
+   "sources": [
+    {
+     "id": "arxiv:2611.25503",
+     "item_ids": [
+      "818f31cc517c2564"
+     ],
+     "title": "Joint Language Modeling for In-the-Wild Speech-Scene Generation with Distinct Token Representations",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.25503",
+     "page": "https://arxiv.org/abs/2611.25503",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 1,
+     "score": 2.2384,
+     "added": "2026-11-20"
+    },
+    {
+     "id": "arxiv:2611.23089",
+     "item_ids": [
+      "af9a41ba2ddbe6d4"
+     ],
+     "title": "Insight into Parametric First-Order Ambisonics Upscaling in Time and Frequency Domains",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.23089",
+     "page": "https://arxiv.org/abs/2611.23089",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 2.1358,
+     "added": "2026-11-18"
+    },
+    {
+     "added": "2026-11-21",
+     "hits": 2,
+     "id": "691eb797ab10fc3d",
+     "item_ids": [
+      "691eb797ab10fc3d"
+     ],
+     "kind": "article",
+     "page": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+     "score": 1.4309,
+     "section": "tech",
+     "source": "The Verge",
+     "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale"
+    }
+   ],
+   "date": "2026-11-22",
+   "key": "ep:2026-11-22:hearables-on-device-audio-ai-2-new-papers-1-more",
+   "item_ids": [
+    "818f31cc517c2564",
+    "af9a41ba2ddbe6d4",
+    "691eb797ab10fc3d"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM reasoning & test-time compute",
+   "title": "LLM reasoning & test-time compute: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.24650",
+     "item_ids": [
+      "0bd98442b5addd30"
+     ],
+     "title": "Self-Rewarded Reinforcement Learning for Better-Structured Medical Explanations in Small Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.24650",
+     "page": "https://arxiv.org/abs/2611.24650",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 4,
+     "score": 2.4811,
+     "added": "2026-11-19"
+    },
+    {
+     "id": "arxiv:2611.19865",
+     "item_ids": [
+      "7fec741c71885a54"
+     ],
+     "title": "Max-Min Throughput in RSMA-Aided SWIPT for Sustainable Internet of Underground Things: A Deep Reinforcement Learning Approach",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.19865",
+     "page": "https://arxiv.org/abs/2611.19865",
+     "topic": "LLM reasoning & test-time compute",
+     "hits": 2,
+     "score": 1.993,
+     "added": "2026-11-17"
+    },
+    {
+     "added": "2026-11-17",
+     "hits": 1,
+     "id": "arxiv:2611.21608",
+     "item_ids": [
+      "3557563a3768fdc3"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.21608",
+     "score": 1.8518,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Latent Lattice Language Models",
+     "topic": "LLM reasoning & test-time compute",
+     "url": "https://arxiv.org/pdf/2611.21608"
+    },
+    {
+     "added": "2026-11-17",
+     "hits": 2,
+     "id": "arxiv:2611.20419",
+     "item_ids": [
+      "ae3f1613e324307a"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.20419",
+     "score": 1.8339,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Reasoning Again with a Quarter of the Experts: Retry First, Then Train",
+     "topic": "LLM reasoning & test-time compute",
+     "url": "https://arxiv.org/pdf/2611.20419"
+    }
+   ],
+   "date": "2026-11-22",
+   "key": "ep:2026-11-22:llm-reasoning-test-time-compute-4-new-papers",
+   "item_ids": [
+    "0bd98442b5addd30",
+    "7fec741c71885a54",
+    "3557563a3768fdc3",
+    "ae3f1613e324307a"
+   ]
+  }
+ ]
+}
