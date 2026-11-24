@@ -1,0 +1,817 @@
+{
+ "ctx": {
+  "date_long": "Tuesday, November 24, 2026",
+  "weekday": "Tuesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTlJaWGxXTkJTQmxxa1djNFRERGhsZWM5TnMxYTRPQTRUNlNzRlNiZnFVOWNLYURZSEpmYlhpU0VuWThBVldDU243Zk56dC1zRDRDX1ZrZFdZc0lTSTVybWVYYnhhbF9SUWxaQ3d3bUU5WHFqcFZodkN2TkRndzVPaUwtczJsQnFObHY1Si0zenBDWVdjeDE4S1dVTUlBcVlpZjl0SENEOWhaalZqTFJDbFVFbGoycW41dnRjU2NSbjIwMXhvbzgxQ3VR?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-24 10:53:44+00:00",
+      "summary": "Moroccan federation reports incident to CAS during Senegal AFCON appeal, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "12h ago"
+      },
+      "score": 1.2679,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "38f20963c5d2d81c"
+     },
+     {
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "url": "https://www.bbc.co.uk/news/videos/crd910g5x882o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-23 22:59:07+00:00",
+      "summary": "ICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 1.0798,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "22a579222d70bb64"
+     },
+     {
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-24 22:24:23+00:00",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0782,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "5df2b711ba207b21"
+     },
+     {
+      "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-24 22:55:43+00:00",
+      "summary": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 0.9968,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "4837dbca5a5a4611"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "More art, less artificial: Seattle Art Museum billboards troll tech ads and tell people to look up",
+      "url": "https://www.geekwire.com/2026/more-art-less-artificial-seattle-art-museum-billboards-troll-tech-ads-and-tell-people-to-look-up/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 21:27:29+00:00",
+      "summary": "SAM's \"Dear Seattle\" campaign takes a swipe at Anthropic's Claude and the algorithm while urging people to get off their phones and see art in person. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 2.929,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "2962e094166d1911"
+     },
+     {
+      "title": "LLM agents work for their parent companies, not for you",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 12:40:15+00:00",
+      "summary": "855 points \u00b7 358 comments on HN",
+      "duration_min": null,
+      "popularity": 855.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50627340",
+       "ago": "10h ago"
+      },
+      "score": 2.4278,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "ef8096d74f5dfd33"
+     },
+     {
+      "title": "Living Computers closed, but its spirit and vintage machines live on at a museum south of Seattle",
+      "url": "https://www.geekwire.com/2026/living-computers-closed-but-its-spirit-and-vintage-machines-live-on-at-a-museum-south-of-seattle/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 19:08:38+00:00",
+      "summary": "Stephen Jones spent two decades restoring computers for Paul Allen. Now the nonprofit Interim Computer Museum in Tukwila, Wash., keeps dozens of vintage machines running and puts them in visitors' hands. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 2.2309,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "4528633d1b15a335"
+     },
+     {
+      "title": "Anthropic breaks below $83 IPO price",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 13:23:47+00:00",
+      "summary": "294 points \u00b7 587 comments on HN",
+      "duration_min": null,
+      "popularity": 294.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50627836",
+       "ago": "9h ago"
+      },
+      "score": 1.7831,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "bc9058b8abe3655e"
+     },
+     {
+      "title": "Microsoft's historic cloud outage exposed an engineering \u201cfog of war\u201d",
+      "url": "https://arstechnica.com/gadgets/2026/11/microsofts-historic-cloud-outage-exposed-an-engineering-fog-of-war/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 22:36:28+00:00",
+      "summary": "Internal memos reveal a \u201cCode Red\u201d overhaul and ambitious one-hour recovery goals.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.7363,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "44f6d57a797b432e"
+     },
+     {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-24 12:30:05+00:00",
+      "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 1.2919,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "fb7a1ad02384f987"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 18:04:55+00:00",
+      "summary": "Measuring and mitigating agent sandbox escape with Siren \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 2.6758,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "1e8f5837f20f34bf"
+     },
+     {
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 04:14:16+00:00",
+      "summary": "November 23, 2026 \u2014 Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.7512,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "a43a2373bab7de33"
+     },
+     {
+      "title": "datasette-charts 0.2a0",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 04:24:29+00:00",
+      "summary": "Release: datasette-charts 0.2a0 I introduced this new charting plugin for Datasette yesterday . Today it's gained integration with Datasette Agent , so now you can ask chat for a chart and it will create one for you using the same underlying chart suggestion and generation tools. Here's a demo video, recorded on agent.datasette.io where you can sign in with GitHub to try the plugin yourself:\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.4185,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "7417a834a3011534"
+     },
+     {
+      "title": "datasette-agent 0.7a1",
+      "url": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 03:45:57+00:00",
+      "summary": "Release: datasette-agent 0.7a1 A small improvement to Datasette Agent : chat sessions could already open an iframe side panel that could then navigate to different pages. This version improves navigation by fragment hashes, for deeper integration with other Datasette plugins that update fragment hashes when the user interacts with the plugin in a way that changes state. I built this in order to\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "19h ago"
+      },
+      "score": 1.3996,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "7b069e0257bdb532"
+     },
+     {
+      "title": "Working with AI - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QQWdUV21Fa2dHR25yU2RLd3Exd0ZQc3RERzMyZFBtWWhxS0NQZjlWR21rWXZqa3FYbmRlZEhPRGhXb19XR3UtTWd3YTdDR3JwM05VTzZoaW82UDdGQWNF?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-23 21:12:08+00:00",
+      "summary": "Working with AI \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "25h ago"
+      },
+      "score": 1.142,
+      "why": "",
+      "also_sections": [],
+      "ago": "25h ago",
+      "id": "70b1bc29fc3c3a28"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Triage Accuracy of Jev and Open-Weight System One Decision Models and Their Use for Early Emergency Recognition in Symptom-Assessment Applications",
+      "url": "https://arxiv.org/abs/2611.31012",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-23 16:58:56+00:00",
+      "summary": "Laypeople increasingly use large language models (LLMs) for triage advice, but LLMs answer in variable free text, which makes it hard to evaluate them for use in medical devices. Decision models, which assign a probability to each predefined triage category, may be easier to evaluate. To test their triage accuracy, we evaluated 16 decision models\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.31012",
+       "arxiv_id": "2611.31012",
+       "authors": "Marvin Kopka, Austen El-Osta, Christoph Kollwitz, Felix Balzer et al.",
+       "ago": "30h ago"
+      },
+      "score": 2.9052,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "c86bedfd75e97ca5"
+     },
+     {
+      "title": "Connected but Late: Sample Age of Commercial BLE Wearables under Wi-Fi Coexistence for Real-Time Clinical Applications",
+      "url": "https://arxiv.org/abs/2611.30774",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-23 14:41:52+00:00",
+      "summary": "Wearable sensors are increasingly being used in real-time clinical applications, such as rehabilitation robots and live therapy monitoring. As Healthcare 5.0 moves towards personalized therapies, their use will continue growing, potentially compromising communication reliability. Most wearables transmit over Bluetooth Low Energy, sharing 2.4 GHz\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.30774",
+       "arxiv_id": "2611.30774",
+       "authors": "Monica Perez-Serrano, H\u00fcmay Zehra \u00d6zer, Seung Ju Paek, Diego Paez-Granados",
+       "ago": "32h ago"
+      },
+      "score": 2.8658,
+      "why": "",
+      "also_sections": [],
+      "ago": "32h ago",
+      "id": "527cc08f4e73a304"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "TideSand: Performance-Accurate Sandbox Multiplexing for LLM Agents",
+      "url": "https://arxiv.org/abs/2611.31118",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-23 17:54:22+00:00",
+      "summary": "We propose TideSand, a sandbox system that intelligently multiplexes resources for performance-sensitive LLM agents, such as auto research agents working on system measurement tasks. TideSand combines three key ideas: agent-aware scheduling, which schedules sandbox execution intelligently at the tool call level to avoid resource contention;\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.31118",
+       "arxiv_id": "2611.31118",
+       "authors": "Shulu Li, Hanchen Li, Xiaokun Chen, Qiuyang Mang et al.",
+       "ago": "29h ago"
+      },
+      "score": 1.942,
+      "why": "",
+      "also_sections": [],
+      "ago": "29h ago",
+      "id": "92f4aa2f18321e5f"
+     },
+     {
+      "title": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+      "url": "https://muratbuffalo.blogspot.com/2026/11/meaningful-human-in-loop-checking-of.html",
+      "source": "Murat Demirbas (Metadata)",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-24 22:11:31+00:00",
+      "summary": "When the only comment on a PR is \"LGTM\", due diligence has not been done. A glance is not understanding. Understanding has levels, and we almost always overestimate ours. But the LGTM stamps the code as correct anyway. Make no mistake (pun intended), this is also true for LLM-generated code, even with so-called \"correct-by-construction\" approaches. Why does verification catch anything at all?\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.8098,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "ff915f70f4b7a674"
+     },
+     {
+      "title": "When Does Decomposition Help? Empirical Study on Workload-Architecture Affinity in LLM Inference Serving",
+      "url": "https://arxiv.org/abs/2611.29104",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-22 00:00:01+00:00",
+      "summary": "Large language model (LLM) inference can be organized as independent monolithic replicas, tensor- or pipeline-parallel serving groups, or disaggregated prefill and decode services. Although decomposition is often presented as a route to higher efficiency, its benefit depends on workload shape, model fit, and whether phase-specific resources can\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.29104",
+       "arxiv_id": "2611.29104",
+       "authors": "Jihui Yang, Wentai Wu, Jiahua Huang, Weiwei Lin et al.",
+       "ago": "2d ago"
+      },
+      "score": 1.7825,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "8a1a535b42589a34"
+     },
+     {
+      "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+      "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-24 19:16:38+00:00",
+      "summary": "How is AI changing the way we build software? Excerpts from three category winners of our recent essay contest, with links to 40 more by software engineers and experts",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.3651,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "e1da163523969220"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Steve Yegge on Building Software Factories",
+      "url": "https://softwareengineeringdaily.com/podcasts/steve-yegge-on-building-software-factories/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-24 10:00:00+00:00",
+      "summary": "Building software with AI agents has moved beyond using a single assistant. A growing number of engineers are now running what they call software factories, teams of named, persistent agents that talk to each other, hold roles, and produce code around the clock. That shift surfaces a strange new\u2026",
+      "duration_min": 60,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/b159157f/bd5804ae.mp3",
+       "ago": "13h ago"
+      },
+      "score": 1.488,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "1f44b2451ec55681"
+     },
+     {
+      "title": "Stop Paying for a Signature on a Piece of Paper with Dr. Lauren Grawert, MD",
+      "url": "https://rss.com/podcasts/no-prior-auth/3341501",
+      "source": "No Priors",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-24 22:00:00+00:00",
+      "summary": "Got something to say to this podcast? Send a voicemail, and you might hear yourself on the next episode! Dr. Lauren Grawert is a double board-certified addiction psychiatrist who led psychiatry and addiction for Kaiser in the mid-Atlantic for close to a decade \u2014 and she didn\u2019t even know what a\u2026",
+      "duration_min": 56,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "audio": "https://content.rss.com/episodes/381987/3341501/no-prior-auth/2026_11_21_19_56_17_6a202857-bfb6-4930-a39c-d04b8ce61fcf.mp3",
+       "ago": "1h ago"
+      },
+      "score": 1.3545,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "e70df48852cf6196"
+     },
+     {
+      "title": "Responding to objections to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/rsiobjections",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-24 21:45:30+00:00",
+      "summary": "I responded to the strongest objections that people had about the RSI essay. Watch on YouTube ; read the transcript . Timestamps (00:00:00) \u2013 \u201cDo you have a real job?\u201d (00:02:41) \u2013 Cindy Wu: Is AI research a verifiable domain? (00:11:10) \u2013 corsaren: The overarching objection (00:12:20) \u2013 corsaren:\u2026",
+      "duration_min": 65,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/226413128/4ad273437a5ffb5c6234fc0a6a855326.mp3",
+       "ago": "1h ago"
+      },
+      "score": 1.2889,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "943d9ed1df75c1d4"
+     },
+     {
+      "title": "Trump's Push To Reinstate Huang, Market Reacts To Nvidia, Russia-Ukraine War Widening",
+      "url": "https://www.npr.org/2026/11/24/nx-s1-6052075/trumps-push-to-reinstate-huang-market-reacts-to-nvidia-russia-ukraine-war-widening",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-24 11:01:14+00:00",
+      "summary": "President Trump says he pushed Nvidia to bring Jensen Huang back as CEO, raising questions about why the White House is getting involved in who runs a private company. Nvidia gained nearly a trillion dollars in value after Huang returned, showing how much of the A-I economy is tied to one company\u2026",
+      "duration_min": 13,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5e7452ac-2de2-4336-8d0b-8f08ad9a0495/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5e7452ac-2de2-4336-8d0b-8f08ad9a0495&feed=HMwRVgVt&t=podcast&e=nx-s1-6052075&p=510318&d=796&size=12745709",
+       "ago": "12h ago"
+      },
+      "score": 0.636,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "c7b34511ed21bf36"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "The \u201cGodfather of AI\u201d on the Risks That Worry Him Most | Geoffrey Hinton | TED",
+      "url": "https://www.youtube.com/watch?v=L8HdlknRkA4",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-24 18:00:35+00:00",
+      "summary": "Geoffrey Hinton helped create the neural networks behind today's AI, won a Nobel Prize for it \u2014 and has spent the years since warning about where it's headed. In conversation with journalist Nicholas Thompson, Hinton shares the AI risks he's\u2026",
+      "duration_min": null,
+      "popularity": 33.238,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/L8HdlknRkA4/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.1135,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "08d3559a91428b2f"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-24:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Connected but Late: Sample Age of Commercial BLE Wearables under Wi-Fi Coexistence for Real-Time Clinical Applications",
+      "url": "https://arxiv.org/abs/2611.30774",
+      "kind": "paper"
+     },
+     {
+      "title": "Health Ikigai: Semantic Conversational Interfaces for Wearable Health Data to Support Behavioral Change for Senior Indian",
+      "url": "https://arxiv.org/abs/2611.28883",
+      "kind": "paper"
+     },
+     {
+      "title": "Leveraging Fast Healthcare Interoperability Resources (FHIR) for the Exchange of Wearable Inertial Sensor Data: Design and Development Study",
+      "url": "https://arxiv.org/abs/2611.30956",
+      "kind": "paper"
+     },
+     {
+      "title": "ArrythML-II: An Optimized TinyML Framework for ECG Arrhythmia Detection and Multi-Class Beat Classification on Wearable Devices",
+      "url": "https://arxiv.org/abs/2611.28791",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-24:recommendation-production-ml-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Recommendation & production ML",
+    "title": "Recommendation & production ML: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "EE-Motion: An EEG-based Web Architecture for Live Affective Music Recommendation",
+      "url": "https://arxiv.org/abs/2611.21032",
+      "kind": "paper"
+     },
+     {
+      "title": "More art, less artificial: Seattle Art Museum billboards troll tech ads and tell people to look up",
+      "url": "https://www.geekwire.com/2026/more-art-less-artificial-seattle-art-museum-billboards-troll-tech-ads-and-tell-people-to-look-up/",
+      "kind": "article"
+     },
+     {
+      "title": "What Do Sound Event Embeddings Reveal? Auditing Speaker Leakage in Audio Representations",
+      "url": "https://arxiv.org/abs/2611.31043",
+      "kind": "paper"
+     },
+     {
+      "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recommenders",
+      "url": "https://arxiv.org/abs/2611.21920",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 26,
+  "read_min": 63,
+  "listen_min": 209,
+  "generated": "3:01 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.30774",
+     "item_ids": [
+      "527cc08f4e73a304"
+     ],
+     "title": "Connected but Late: Sample Age of Commercial BLE Wearables under Wi-Fi Coexistence for Real-Time Clinical Applications",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.30774",
+     "page": "https://arxiv.org/abs/2611.30774",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.8658,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.28883",
+     "item_ids": [
+      "2606a68edd1cfbcf"
+     ],
+     "title": "Health Ikigai: Semantic Conversational Interfaces for Wearable Health Data to Support Behavioral Change for Senior Indian",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.28883",
+     "page": "https://arxiv.org/abs/2611.28883",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.8464,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.30956",
+     "item_ids": [
+      "0b9a070473d53361"
+     ],
+     "title": "Leveraging Fast Healthcare Interoperability Resources (FHIR) for the Exchange of Wearable Inertial Sensor Data: Design and Development Study",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.30956",
+     "page": "https://arxiv.org/abs/2611.30956",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 1.8107,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.28791",
+     "item_ids": [
+      "a5a2311a41434100"
+     ],
+     "title": "ArrythML-II: An Optimized TinyML Framework for ECG Arrhythmia Detection and Multi-Class Beat Classification on Wearable Devices",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.28791",
+     "page": "https://arxiv.org/abs/2611.28791",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 1.7554,
+     "added": "2026-11-24"
+    }
+   ],
+   "date": "2026-11-24",
+   "key": "ep:2026-11-24:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "527cc08f4e73a304",
+    "2606a68edd1cfbcf",
+    "0b9a070473d53361",
+    "a5a2311a41434100"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "Recommendation & production ML",
+   "title": "Recommendation & production ML: 3 new papers + 1 more",
+   "sources": [
+    {
+     "added": "2026-11-17",
+     "hits": 2,
+     "id": "arxiv:2611.21032",
+     "item_ids": [
+      "6b80c444d334bb44"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.21032",
+     "score": 3.1155,
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "title": "EE-Motion: An EEG-based Web Architecture for Live Affective Music Recommendation",
+     "topic": "Recommendation & production ML",
+     "url": "https://arxiv.org/pdf/2611.21032"
+    },
+    {
+     "id": "2962e094166d1911",
+     "item_ids": [
+      "2962e094166d1911"
+     ],
+     "title": "More art, less artificial: Seattle Art Museum billboards troll tech ads and tell people to look up",
+     "kind": "article",
+     "section": "tech",
+     "source": "GeekWire",
+     "url": "https://www.geekwire.com/2026/more-art-less-artificial-seattle-art-museum-billboards-troll-tech-ads-and-tell-people-to-look-up/",
+     "page": "https://www.geekwire.com/2026/more-art-less-artificial-seattle-art-museum-billboards-troll-tech-ads-and-tell-people-to-look-up/",
+     "topic": "Recommendation & production ML",
+     "hits": 2,
+     "score": 2.929,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.31043",
+     "item_ids": [
+      "8131aa30077e4fc8"
+     ],
+     "title": "What Do Sound Event Embeddings Reveal? Auditing Speaker Leakage in Audio Representations",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.31043",
+     "page": "https://arxiv.org/abs/2611.31043",
+     "topic": "Recommendation & production ML",
+     "hits": 2,
+     "score": 2.3804,
+     "added": "2026-11-24"
+    },
+    {
+     "added": "2026-11-18",
+     "hits": 3,
+     "id": "arxiv:2611.21920",
+     "item_ids": [
+      "c66a2a010c44810d"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.21920",
+     "score": 1.6382,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recommenders",
+     "topic": "Recommendation & production ML",
+     "url": "https://arxiv.org/pdf/2611.21920"
+    }
+   ],
+   "date": "2026-11-24",
+   "key": "ep:2026-11-24:recommendation-production-ml-3-new-papers-1-more",
+   "item_ids": [
+    "6b80c444d334bb44",
+    "2962e094166d1911",
+    "8131aa30077e4fc8",
+    "c66a2a010c44810d"
+   ]
+  }
+ ]
+}
