@@ -1,0 +1,777 @@
+{
+ "ctx": {
+  "date_long": "Monday, November 23, 2026",
+  "weekday": "Monday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-23 23:16:08+00:00",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0458,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "4c58bde15cba0013"
+     },
+     {
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-23 20:48:35+00:00",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.9693,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "b8094b8c71133671"
+     },
+     {
+      "title": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+      "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-23 22:29:53+00:00",
+      "summary": "California Congressman Rep. Jimmy Gomez says he will resign after a House Ethics report concluded Gomez's actions violated House rules by \"making unwelcome sexual advances.\"",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.928,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "31d777bedd56f55a"
+     },
+     {
+      "title": "They attended Trump's controversial meme coin dinner. It didn't go well",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6045883/they-attended-trumps-controversial-meme-coin-dinner-it-didnt-go-well",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-23 22:17:59+00:00",
+      "summary": "Trump held another meme coin dinner for top holders of his cryptocurrency \u2014 an event that has raised intense controversy. Here's an inside account from two guests who attended.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 0.9223,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "90bbaccf085a247e"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Tech Moves: AWS nabs Salesforce exec; former OpenAI employees launch Seattle startup; Portal hire",
+      "url": "https://www.geekwire.com/2026/tech-moves-aws-nabs-salesforce-exec-former-openai-employees-launch-seattle-startup-portal-hire/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 22:39:07+00:00",
+      "summary": "Muralidhar Krishnaprasad \"MK\" leaves Salesforce to join AWS as VP of analytics, storage and databases; three former OpenAI employees depart to launch stealth startup; Portal name a principal satellite guidance, navigation and control (GNC) engineer; and more tech moves. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "2h ago"
+      },
+      "score": 3.9162,
+      "why": "",
+      "also_sections": [],
+      "ago": "2h ago",
+      "id": "1c5371e2499a2af7"
+     },
+     {
+      "title": "From dorm delivery robots to real\u2011world video games, UW students show off inventions",
+      "url": "https://www.geekwire.com/2026/from-dorm-delivery-robots-to-real-world-video-games-uw-students-show-off-inventions/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 23:29:27+00:00",
+      "summary": "CSEED, a University of Washington student club, showed off 30 student-built inventions at its Demo Day, including an autonomous robot that delivers dining hall food to dorms and a wearable gaming console. Nearly half took aim at social media. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 3.4849,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "d9cebdb351c4ccb5"
+     },
+     {
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 10:06:43+00:00",
+      "summary": "1039 points \u00b7 339 comments on HN",
+      "duration_min": null,
+      "popularity": 1039.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50609685",
+       "ago": "14h ago"
+      },
+      "score": 1.7378,
+      "why": "",
+      "also_sections": [],
+      "ago": "14h ago",
+      "id": "5094532b4e2e63d2"
+     },
+     {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 19:17:55+00:00",
+      "summary": "818 points \u00b7 164 comments on HN",
+      "duration_min": null,
+      "popularity": 818.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50617499",
+       "ago": "5h ago"
+      },
+      "score": 1.3714,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "98b8cb7955b891cb"
+     },
+     {
+      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
+      "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 15:23:26+00:00",
+      "summary": "COP31 ended without a consensus deal for the first time since 2009.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 0.9665,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "d41873ee6e5dcf74"
+     },
+     {
+      "title": "Amazon fights Delivery Protection Act by putting stickers on its packages",
+      "url": "https://arstechnica.com/tech-policy/2026/11/amazon-fights-delivery-protection-act-by-putting-stickers-on-its-packages/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-23 19:38:13+00:00",
+      "summary": "Amazon now uses its packages for political purposes.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.953,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "370bd57ddc704d23"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Supercharging transformer residual connections",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-23 17:21:12+00:00",
+      "summary": "Algorithms & Theory",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "7h ago"
+      },
+      "score": 1.4344,
+      "why": "",
+      "also_sections": [],
+      "ago": "7h ago",
+      "id": "77ab3d65a27896e8"
+     },
+     {
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-23 21:46:35+00:00",
+      "summary": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components - things like HarfBuzz for text shaping, Skia for 2D graphics, ffmpeg for video, and SQLite for the things you do with SQLite. Everything else is part of\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.1797,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "fd55bcaf9c9946f4"
+     },
+     {
+      "title": "datasette-charts 0.1a0",
+      "url": "https://simonwillison.net/2026/Nov/23/datasette-charts/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-23 00:37:20+00:00",
+      "summary": "Release: datasette-charts 0.1a0 I've been thinking about this problem for over a year now, but on Sunday I finally fired up Claude Fable 5.2 to build an initial prototype. The prototype went so well that this is now a full plugin. You can try it out in Datasette Lite here . It looks like this: The new charts plugin works against any table or arbitrary SQL query in Datasette. It defines several\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "24h ago"
+      },
+      "score": 0.7067,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "e5f23ea887a64757"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "ZoionNET: Low-Power Animal Intrusion Detection Using an Acoustic Deep-Learning Classifier for a Cellular Remote-Sensing System",
+      "url": "https://arxiv.org/abs/2611.26112",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-19 13:40:38+00:00",
+      "summary": "Crop raiding and village intrusion by elephants and large felids impose a recurring cost on communities along forest boundaries in southern India, and existing camera-based monitoring has proven difficult to sustain on the power budgets available at such sites. We present ZoionNET, a battery-powered sensing node that detects animal intrusion\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.26112",
+       "arxiv_id": "2611.26112",
+       "authors": "Prasanna Vijay, Adarsh Gupta, Vansh Panwar, Vatsalya Singh et al.",
+       "ago": "4d ago"
+      },
+      "score": 1.621,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "49e16815b4456dd4"
+     },
+     {
+      "title": "Towards wearable-scale, transition-aware sleep staging for clinical populations",
+      "url": "https://arxiv.org/abs/2611.21040",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-16 12:57:50+00:00",
+      "summary": "Automatic sleep staging models are predominantly developed on healthy sleepers and generalize poorly to clinical populations with fragmented sleep. Across three cohorts (patients with stroke, isolated REM sleep behaviour disorder, and other sleep disorders), we observe 2-3x more awakenings per hour, nearly twice as much N1, and less REM sleep\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.21040",
+       "arxiv_id": "2611.21040",
+       "authors": "Suvadeep Maiti, Keya Sinha, Raju S. Bapi",
+       "ago": "7d ago"
+      },
+      "score": 1.5833,
+      "why": "",
+      "also_sections": [],
+      "ago": "7d ago",
+      "id": "8a905dcf11d7f2f4"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Dugong: Composing Uncertified DAG Consensus",
+      "url": "https://arxiv.org/abs/2611.27473",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-20 11:24:47+00:00",
+      "summary": "There is a significant number of uncertified DAG consensus protocols spanning partial synchrony and asynchrony as well as crash, Byzantine, and hybrid fault models, yet each protocol is designed, proved, and implemented from scratch. We introduce Dugong, a single parameterized protocol that unifies uncertified DAG consensus protocols. Its core\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.27473",
+       "arxiv_id": "2611.27473",
+       "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino",
+       "ago": "3d ago"
+      },
+      "score": 1.2215,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "0a0ec22c56f97396"
+     },
+     {
+      "title": "DoorDash Dispatch: Building a Lightning-Fast Delivery System",
+      "url": "https://blog.bytebytego.com/p/doordash-dispatch-building-a-lightning",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-23 16:31:03+00:00",
+      "summary": "In this article, we\u2019ll look at how DoorDash Dispatch built a lightning-fast delivery system.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.1352,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "af0bdb2c13d16d2e"
+     },
+     {
+      "title": "Weave: Routing-Adaptive Runtime Warp Scheduling for MoE Megakernels",
+      "url": "https://arxiv.org/abs/2611.27765",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-20 15:55:34+00:00",
+      "summary": "The Mixture-of-Experts (MoE) architecture is widely used in mainstream large language models. Under expert parallelism (EP), state-of-the-art systems fuse each MoE layer into a persistent megakernel for high performance. By the nature of EP, each GPU's communication and computation volumes vary with the routing result. However, prior work either\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.27765",
+       "arxiv_id": "2611.27765",
+       "authors": "Ziyu Huang, Yangjie Zhou, Chenhao Zhu, Hongzhe Yan et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.0203,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "06d01714843d9f0b"
+     },
+     {
+      "title": "Probing DNS at Cloudflare",
+      "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-23 14:00:00+00:00",
+      "summary": "At Cloudflare we\u2019ve built tools to enable teams to extend our internal testing framework and build test tooling for networking protocols. This is the story of how this was used for DNS.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "10h ago"
+      },
+      "score": 0.9306,
+      "why": "",
+      "also_sections": [],
+      "ago": "10h ago",
+      "id": "9f50a7fbeba1dd18"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "375 | Karen Lutfey Spencer on Dying and How to Prepare for It",
+      "url": "https://preposterousuniverse.com/podcast/2026/11/23/375-karen-lutfey-spencer-on-dying-and-how-to-prepare-for-it/",
+      "source": "Sean Carroll's Mindscape",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-23 12:07:00+00:00",
+      "summary": "It is one thing to recognize, in an intellectual and abstract sense, that each of us will one day die. It is another to be practical about it, facing up to the challenges of the end of our lives with open eyes. As emphasized by today's guest Karen Lutfey Spencer in her book Your Good Death , these\u2026",
+      "duration_min": 61,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "audio": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/traffic.libsyn.com/secure/1d1ac211-8392-45fe-82db-99fa7f77076e/karen_lutfey_spencer.mp3?dest-id=5264190",
+       "ago": "12h ago"
+      },
+      "score": 0.7354,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "39011d25f44386c5"
+     },
+     {
+      "title": "Access the Power of Now to Experience Life More Fully | Eckhart Tolle",
+      "url": "https://www.hubermanlab.com/episode/access-the-power-of-now-to-experience-life-more-fully-eckhart-tolle",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-23 09:00:00+00:00",
+      "summary": "Eckhart Tolle is a world-revered spiritual teacher and author known for sharing practical tools that allow people to experience life more richly. We discuss, and Eckhart demonstrates, how you can access greater inner peace, authenticity, creativity, and connection in your everyday life. Eckhart\u2026",
+      "duration_min": 126,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM2906825276.mp3",
+       "ago": "15h ago"
+      },
+      "score": 0.6308,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "4c4e299b88e43230"
+     },
+     {
+      "title": "AI Impact On Economy, Russia-Ukraine War Spills Into Poland, No Deal At COP31",
+      "url": "https://www.npr.org/2026/11/23/nx-s1-6050781/ai-impact-on-economy-russia-ukraine-war-spills-into-poland-no-deal-at-cop31",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-23 11:01:52+00:00",
+      "summary": "The AI boom is driving huge investment across the economy, but the buildout is also pushing up prices and adding new pressure to inflation. NATO holds an emergency meeting after three Russian cruise missiles entered Poland, as Warsaw pushes the alliance for more air defenses. Global climate talks\u2026",
+      "duration_min": 14,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/5ed55f35-ad34-4ac9-9417-564dcf9d6f12/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=5ed55f35-ad34-4ac9-9417-564dcf9d6f12&feed=HMwRVgVt&t=podcast&e=nx-s1-6050781&p=510318&d=831&size=13299923",
+       "ago": "13h ago"
+      },
+      "score": 0.6082,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "beb0c5ea9fcad0b7"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Claude AI Solved The Secret Of Black Holes",
+      "url": "https://www.youtube.com/watch?v=1jPdehG3Hms",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-23 07:37:52+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The paper is available here: https://www.anthropic.com/research/claude-black-hole-physics https://hexagonmath.org/2611.00175v1 \ud83d\ude4f We would like to thank our\u2026",
+      "duration_min": null,
+      "popularity": 172.69,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/1jPdehG3Hms/hqdefault.jpg",
+       "ago": "17h ago"
+      },
+      "score": 2.1798,
+      "why": "",
+      "also_sections": [],
+      "ago": "17h ago",
+      "id": "245cb695b1f98640"
+     },
+     {
+      "title": "Opus just lost to the last company you'd expect...",
+      "url": "https://www.youtube.com/watch?v=jP9yjEDlc4k",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-23 19:14:30+00:00",
+      "summary": "Railway is the smoothest way to deploy software: https://railway.com/?referralCode=fireship Google just dropped Gemini 4 Neon, a mid tier model that somehow outscores its own three week old flagship. Let's break it down. Want more Fireship? \ud83d\uddde\ufe0f\u2026",
+      "duration_min": null,
+      "popularity": 593.701,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/jP9yjEDlc4k/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.6094,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "79a9a2f576697dc5"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-23:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "TempQuant: Learning Adaptive Temperatures for Quantized Language Models",
+      "url": "https://arxiv.org/abs/2611.22128",
+      "kind": "paper"
+     },
+     {
+      "title": "JointQ: Joint Scale-and-Integer Quantization for Large Language Models",
+      "url": "https://arxiv.org/abs/2611.20384",
+      "kind": "paper"
+     },
+     {
+      "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+      "url": "https://arxiv.org/abs/2611.21974",
+      "kind": "paper"
+     },
+     {
+      "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+      "url": "https://arxiv.org/abs/2611.23388",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-23:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+      "url": "https://arxiv.org/abs/2611.27973",
+      "kind": "paper"
+     },
+     {
+      "title": "Efficient and Robust Drafting with Multi-Token Prediction",
+      "url": "https://arxiv.org/abs/2611.25813",
+      "kind": "paper"
+     },
+     {
+      "title": "Berth: SLO-Preserving GPU Sharing Without New Preemption",
+      "url": "https://arxiv.org/abs/2611.25091",
+      "kind": "paper"
+     },
+     {
+      "title": "Cannot Wait to Verify: Parallel Drafting to Eliminate Verifier Idle Time in Speculative Decoding",
+      "url": "https://arxiv.org/abs/2611.27477",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 24,
+  "read_min": 57,
+  "listen_min": 231,
+  "generated": "4:50 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "added": "2026-11-18",
+     "hits": 2,
+     "id": "arxiv:2611.22128",
+     "item_ids": [
+      "e57edce7c67c311b"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.22128",
+     "score": 2.3058,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "TempQuant: Learning Adaptive Temperatures for Quantized Language Models",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.22128"
+    },
+    {
+     "added": "2026-11-17",
+     "hits": 2,
+     "id": "arxiv:2611.20384",
+     "item_ids": [
+      "eb16f987f4bef8e6"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.20384",
+     "score": 2.2777,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "JointQ: Joint Scale-and-Integer Quantization for Large Language Models",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.20384"
+    },
+    {
+     "added": "2026-11-18",
+     "hits": 2,
+     "id": "arxiv:2611.21974",
+     "item_ids": [
+      "df06c166884451d6"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.21974",
+     "score": 2.2518,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "Beyond Bitwidth: Deployment-Constrained Mixed-Precision Quantization for Multilingual LLM Inference on NVIDIA Blackwell",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.21974"
+    },
+    {
+     "added": "2026-11-19",
+     "hits": 2,
+     "id": "arxiv:2611.23388",
+     "item_ids": [
+      "5541d6f2d814f14f"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.23388",
+     "score": 2.2015,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "QDA: Closed-Loop LLM Quantization Design with Agents",
+     "topic": "On-device & efficient ML",
+     "url": "https://arxiv.org/pdf/2611.23388"
+    }
+   ],
+   "date": "2026-11-23",
+   "key": "ep:2026-11-23:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "e57edce7c67c311b",
+    "eb16f987f4bef8e6",
+    "df06c166884451d6",
+    "5541d6f2d814f14f"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.27973",
+     "item_ids": [
+      "9965f17ee5bcd8de"
+     ],
+     "title": "MemOnce: A Scalable Memory Architecture for Large Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.27973",
+     "page": "https://arxiv.org/abs/2611.27973",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.9154,
+     "added": "2026-11-23"
+    },
+    {
+     "id": "arxiv:2611.25813",
+     "item_ids": [
+      "b342dcee6bfb1b56"
+     ],
+     "title": "Efficient and Robust Drafting with Multi-Token Prediction",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.25813",
+     "page": "https://arxiv.org/abs/2611.25813",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 1,
+     "score": 1.7576,
+     "added": "2026-11-20"
+    },
+    {
+     "id": "arxiv:2611.25091",
+     "item_ids": [
+      "aa8633c863386b59"
+     ],
+     "title": "Berth: SLO-Preserving GPU Sharing Without New Preemption",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.25091",
+     "page": "https://arxiv.org/abs/2611.25091",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.7264,
+     "added": "2026-11-20"
+    },
+    {
+     "id": "arxiv:2611.27477",
+     "item_ids": [
+      "d97472418928d0a4"
+     ],
+     "title": "Cannot Wait to Verify: Parallel Drafting to Eliminate Verifier Idle Time in Speculative Decoding",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.27477",
+     "page": "https://arxiv.org/abs/2611.27477",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 3,
+     "score": 1.6043,
+     "added": "2026-11-23"
+    }
+   ],
+   "date": "2026-11-23",
+   "key": "ep:2026-11-23:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "9965f17ee5bcd8de",
+    "b342dcee6bfb1b56",
+    "aa8633c863386b59",
+    "d97472418928d0a4"
+   ]
+  }
+ ]
+}
