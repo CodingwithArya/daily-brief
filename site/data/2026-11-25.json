@@ -1,0 +1,837 @@
+{
+ "ctx": {
+  "date_long": "Wednesday, November 25, 2026",
+  "weekday": "Wednesday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Anthropic's slide tests Wall Street's lofty bets on future AI profits - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZE1sRHlKd3Y1aUpqaUVpeFQ3QjFmX191blVmM1gyS0hidW81RjFjSXJjQndnODAwQU9qb3VkYkJfZ3ppYzdBQ1J5cTRUaDMzamxvZVNsYzB6RUpiVzd2RlhxV2hKaDRjTFdhamRKZ3g3MXZDY1c5c3NMalpmc09aQ3JnNGEyQTR5NG85OW9VTEE1NW9md1VKdFYxeTlnbWNjd25UcjVwamhDX1pIaXc?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-25 18:35:00+00:00",
+      "summary": "Anthropic's slide tests Wall Street's lofty bets on future AI profits \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 1.5898,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "29a328d7cf7c6557"
+     },
+     {
+      "title": "What to know before using AI agents for Black Friday shopping",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6048524/what-to-know-before-using-ai-agents-for-black-friday-shopping",
+      "source": "NPR News",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-25 13:51:56+00:00",
+      "summary": "59% of U.S. shoppers plan to use AI for holiday shopping this weekend, according to the National Retail Federation",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.3881,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "de478ea7a63aa850"
+     },
+     {
+      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
+      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-25 22:18:06+00:00",
+      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0914,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "693ce7b8936612eb"
+     },
+     {
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-25 21:51:17+00:00",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0758,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "a91019eaed5c4c1c"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "1Password Security Incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 17:18:26+00:00",
+      "summary": "914 points \u00b7 389 comments on HN",
+      "duration_min": null,
+      "popularity": 914.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50644817",
+       "ago": "5h ago"
+      },
+      "score": 2.1224,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "2da10ebf7215a41b"
+     },
+     {
+      "title": "Meta\u2019s teen restrictions have a gap: TikTok, Snapchat and YouTube leave teens room to scroll",
+      "url": "https://www.geekwire.com/2026/metas-teen-restrictions-have-a-gap-tiktok-snapchat-and-youtube-leave-teens-room-to-scroll/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 16:00:00+00:00",
+      "summary": "A new study co-authored by a Seattle Children\u2019s researcher suggests Meta\u2019s teen scrolling limits will have limited reach unless TikTok, Snapchat and YouTube adopt similar rules. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.6045,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "41f22a5ce5d63ef3"
+     },
+     {
+      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 02:34:21+00:00",
+      "summary": "440 points \u00b7 187 comments on HN",
+      "duration_min": null,
+      "popularity": 440.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50637686",
+       "ago": "19h ago"
+      },
+      "score": 1.5896,
+      "why": "",
+      "also_sections": [],
+      "ago": "19h ago",
+      "id": "195905a09dfcaa6d"
+     },
+     {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 16:00:59+00:00",
+      "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can record your calls, while their charging case can record, transcribe, and summarize your conversations. Like the Ear 3, the Ear Note's microphone-equipped case comes with a \"Talk\" button that you [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.2777,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "6b1c4ab3d056003c"
+     },
+     {
+      "title": "Etzioni on AI: 18 ways to use AI this Thanksgiving",
+      "url": "https://www.geekwire.com/2026/etzioni-on-ai-18-ways-to-use-ai-this-thanksgiving/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 16:17:42+00:00",
+      "summary": "Oren Etzioni lists 18 ways to use AI this Thanksgiving, from flight delay forecasting and oven scheduling to a live interpreter for multilingual families. He also offers four don'ts, starting with trusting an AI turkey recipe on its own. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.1558,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "e4289062c2c5a087"
+     },
+     {
+      "title": "Backblaze explains why it's sharing customer information with advertisers",
+      "url": "https://arstechnica.com/information-technology/2026/11/backblaze-explains-why-its-sharing-customer-information-with-advertisers/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 18:38:29+00:00",
+      "summary": "Backblaze tells Ars it won't share users' backup, storage files with advertisers.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "3h ago"
+      },
+      "score": 0.991,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "45e1e19ee7511dc9"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Migrating our Messages API to Rust - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91blh2eENvd0hsR25fTlhrSkktUlc3djUxb3NYdGo2dm1maGJfZlhvU3NhSS1rWk45WDczZnpiUzVrOEFWVVA1aDRfSXo3YkpfY0RuSzdESDVlU1FqN1VBV1N3Mm5ZdTQ?oc=5",
+      "source": "Anthropic news",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 17:15:45+00:00",
+      "summary": "Migrating our Messages API to Rust \u00a0\u00a0 Anthropic",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.2418,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "b30d63c96d18ef35"
+     },
+     {
+      "title": "Verifiable Social Reasoning for LLM Assistants",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants/",
+      "source": "Google Research blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 17:10:27+00:00",
+      "summary": "Generative AI",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.2021,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "e2ee4ad335699ba8"
+     },
+     {
+      "title": "Three LLM inflection points in twelve months",
+      "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 23:02:07+00:00",
+      "summary": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the video of the talk. In this post I'm going to pull out the major inflection point theme and interrogate it more deeply. Coding agents in November 2025 Today,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 1.8612,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "1b98f5994fabd855"
+     },
+     {
+      "title": "The Revolution vs The Renaissance \u2014 Thariq Shihipar, OpenAI",
+      "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 22:28:01+00:00",
+      "summary": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size of a rock in t...",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.5392,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "c7e5de5fee49fb0c"
+     },
+     {
+      "title": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+      "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 04:29:07+00:00",
+      "summary": "November 24, 2026 \u2014 Neon beats Astra and Fable on LiveBench and cuts Theo\u2019s TS Rust benchmark runtime by 48.6%.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "18h ago"
+      },
+      "score": 1.1729,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "190619a69a1b2dac"
+     },
+     {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-24 16:53:59+00:00",
+      "summary": "GPT 6.2 Astra Solves a Historical Mystery Here's an interesting case-study in using GPT-6.2 Astra for historical research, from history professor Mark Humphries: With only minimal prompting, GPT-6.2 Astra was able to autonomously identify the creator of an anonymous 1808 sketchbook held at Yale\u2019s Beinecke Library . It did so extremely quickly (in just 22 minutes), using publicly available\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "29h ago"
+      },
+      "score": 0.6469,
+      "why": "",
+      "also_sections": [],
+      "ago": "29h ago",
+      "id": "ef9ac47854f6637d"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "Mask-Based Speech Enhancement for Spatial Audio: Effects of Signal Representation and Channel-Specific Masking",
+      "url": "https://arxiv.org/abs/2611.32910",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-24 16:29:52+00:00",
+      "summary": "Speech enhancement for spatial audio needs to improve speech quality and intelligibility while preserving the spatial characteristics of the acoustic scene. Time-frequency masking provides an effective approach for speech enhancement, but its performance and spatial fidelity may depend strongly on the signal representation in which the mask is\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.32910",
+       "arxiv_id": "2611.32910",
+       "authors": "Sheli Hendel, Boaz Rafaely, Dorothea Kolossa",
+       "ago": "30h ago"
+      },
+      "score": 2.9051,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "395b6d3e8f2f3f69"
+     },
+     {
+      "title": "Health Ikigai: Semantic Conversational Interfaces for Wearable Health Data to Support Behavioral Change for Senior Indian",
+      "url": "https://arxiv.org/abs/2611.28883",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-21 15:59:43+00:00",
+      "summary": "In ubiquitous health contexts, wearable feedback is often encountered in brief, interrupted moments of everyday life. However, many wearable and mobile health systems still present personal health data through numerical dashboards, leaving users and health coaches to interpret trends, thresholds, and deviations on their own. This interpretive\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.28883",
+       "arxiv_id": "2611.28883",
+       "authors": "Md Haseen Akhtar, Hansoo Lee, Rafael A. Calvo",
+       "ago": "4d ago"
+      },
+      "score": 2.5686,
+      "why": "",
+      "also_sections": [],
+      "ago": "4d ago",
+      "id": "2606a68edd1cfbcf"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+      "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+      "source": "The Pragmatic Engineer",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-25 17:31:32+00:00",
+      "summary": "Katelyn Lesse explains how Anthropic rewrote Claude\u2019s API in Rust and how AI agents are changing engineering at the company.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 3.2488,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "8bc07deb0c8ad96d"
+     },
+     {
+      "title": "RePrism: Joint Request and Representation Scheduling for LLM Agent Serving",
+      "url": "https://arxiv.org/abs/2611.32545",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-24 13:02:57+00:00",
+      "summary": "Agentic workflows often invoke large language models multiple times. When the dependencies are visible to the serving system, it can use them to schedule requests and cache reusable content, improving workflow execution efficiency. Prior work has largely focused on ordering requests or managing shared resources under a fixed caching scheme. A\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.32545",
+       "arxiv_id": "2611.32545",
+       "authors": "Xijiang Shen, Aoli Zhu, Yanbo Tan, Xiyuan Hu et al.",
+       "ago": "33h ago"
+      },
+      "score": 2.1831,
+      "why": "",
+      "also_sections": [],
+      "ago": "33h ago",
+      "id": "56f13e9c14977b44"
+     },
+     {
+      "title": "Joule is FLOP: Optimizing Tensor-Core Kernels Beyond Latency Hiding at the GPU Power Wall",
+      "url": "https://arxiv.org/abs/2611.32440",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-24 11:40:37+00:00",
+      "summary": "For a tensor-core kernel whose average board power stays near the GPU's power cap, runtime is approximately the energy consumed per call divided by that cap. Data movement whose latency is hidden by computation still consumes energy; reducing this traffic can raise the sustained clock and shorten execution even without reducing cycle count. We\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.32440",
+       "arxiv_id": "2611.32440",
+       "authors": "Taowen Liu, Zhiwen Mo, Hongxiang Fan, Aaron Zhao",
+       "ago": "34h ago"
+      },
+      "score": 1.8768,
+      "why": "",
+      "also_sections": [],
+      "ago": "34h ago",
+      "id": "e2dc4720e3e2b771"
+     },
+     {
+      "title": "Introducing Search for Agents",
+      "url": "https://blog.cloudflare.com/search-for-agents/",
+      "source": "Cloudflare blog",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-25 14:00:00+00:00",
+      "summary": "Flip one toggle to make your site searchable by AI agents \u2014 complete with automatic content indexing, a discoverable search API, and native HTTP QUERY support.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "8h ago"
+      },
+      "score": 1.7004,
+      "why": "",
+      "also_sections": [],
+      "ago": "8h ago",
+      "id": "170ba12c1bada862"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Army Explosives Detonation In Iowa, Abrego Garcia Leaves The US, Congress And Nvidia",
+      "url": "https://www.npr.org/2026/11/25/nx-s1-6053785/army-explosives-detonation-in-iowa-abrego-garcia-leaves-the-us-congress-and-nvidia",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-25 11:03:03+00:00",
+      "summary": "The Army is set to destroy thousands of pounds of unstable explosives in Iowa after several delays, as residents prepare for the potential spread of toxic lead dust. Kilmar Abrego Garcia, the Salvadoran immigrant who was mistakenly deported and brought back to the U.S., has voluntarily left the\u2026",
+      "duration_min": 12,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/801857a0-f121-4480-9603-6098df5bb7b2/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=801857a0-f121-4480-9603-6098df5bb7b2&feed=HMwRVgVt&t=podcast&e=nx-s1-6053785&p=510318&d=741&size=11862143",
+       "ago": "11h ago"
+      },
+      "score": 0.6443,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "b8de535fc79124f0"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "Claude AI\u2019s Biggest Math Breakthrough Has A Problem.",
+      "url": "https://www.youtube.com/watch?v=hwWlEuI359w",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-25 09:54:23+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The paper is available here: https://nasqret.github.io/riemann-rev/guide/proof-guide.pdf https://alpo.ge/remark.pdf Compression and building in public:\u2026",
+      "duration_min": null,
+      "popularity": 112.627,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/hwWlEuI359w/hqdefault.jpg",
+       "ago": "12h ago"
+      },
+      "score": 1.8012,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "6124de19df3e500d"
+     },
+     {
+      "title": "17 million lines of AI slop just cracked a 167-year-old math problem...",
+      "url": "https://www.youtube.com/watch?v=Jatwf_XOncE",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-25 17:19:51+00:00",
+      "summary": "Start a free 14-day CodeRabbit Explain trial, no credit card required: https://coderabbit.link/fireship-012 A 41 day conversation with Claude just spat out 17 million lines of Lean that claim to prove the Riemann Hypothesis, the most famous\u2026",
+      "duration_min": null,
+      "popularity": 543.999,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/Jatwf_XOncE/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.621,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "32376d81c4104232"
+     },
+     {
+      "title": "The strongest objections to RSI",
+      "url": "https://www.youtube.com/watch?v=Em6tbhj9o6A",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-24 21:43:11+00:00",
+      "summary": "I read your comments. Link to the original essay: https://www.youtube.com/watch?v=1NHPDzpfR6Y (00:00:00) \u2013 \u201cDo you have a real job?\u201d (00:02:41) \u2013 Cindy Wu: Is AI research a verifiable domain? (00:11:10) \u2013 corsaren: The overarching objection\u2026",
+      "duration_min": null,
+      "popularity": 209.758,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/Em6tbhj9o6A/hqdefault.jpg",
+       "ago": "24h ago"
+      },
+      "score": 1.3667,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "cc235fd0f9458d94"
+     },
+     {
+      "title": "Can You Spot the Lies in Your News Feed? | Laura Smythe | TED",
+      "url": "https://www.youtube.com/watch?v=39-b_QsTfjU",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-24 20:00:17+00:00",
+      "summary": "Laura Smythe spent years in legacy newsrooms, and she thinks the habits journalists use to vet information should belong to all of us. Using Fyre Festival as a cautionary tale, she explains why media literacy is a vital skill in our age of\u2026",
+      "duration_min": null,
+      "popularity": 55.843,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/39-b_QsTfjU/hqdefault.jpg",
+       "ago": "26h ago"
+      },
+      "score": 0.7437,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "d2821f03993381e2"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-25:hearables-on-device-audio-ai-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 Hearables & on-device audio AI",
+    "title": "Hearables & on-device audio AI: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Mask-Based Speech Enhancement for Spatial Audio: Effects of Signal Representation and Channel-Specific Masking",
+      "url": "https://arxiv.org/abs/2611.32910",
+      "kind": "paper"
+     },
+     {
+      "title": "From Spatial Perception to Speech Recovery: Binaural Semantic Adaptation for Spatially Grounded Multi-Talker Transcription",
+      "url": "https://arxiv.org/abs/2611.29012",
+      "kind": "paper"
+     },
+     {
+      "title": "SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models on Clinical Speech",
+      "url": "https://arxiv.org/abs/2611.27810",
+      "kind": "paper"
+     },
+     {
+      "title": "Nothing offers a full look at its AI earbuds and charging case",
+      "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "kind": "article"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-25:ai-agents-tool-use-3-new-papers-1-more",
+    "label": "Topic episode \u00b7 AI agents & tool use",
+    "title": "AI agents & tool use: 3 new papers + 1 more",
+    "url": null,
+    "sources": [
+     {
+      "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+      "kind": "article"
+     },
+     {
+      "title": "Audio-Visual Rearrangement",
+      "url": "https://arxiv.org/abs/2611.30171",
+      "kind": "paper"
+     },
+     {
+      "title": "RePrism: Joint Request and Representation Scheduling for LLM Agent Serving",
+      "url": "https://arxiv.org/abs/2611.32545",
+      "kind": "paper"
+     },
+     {
+      "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+      "url": "https://arxiv.org/abs/2611.33093",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 27,
+  "read_min": 66,
+  "listen_min": 72,
+  "generated": "2:32 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Hearables & on-device audio AI",
+   "title": "Hearables & on-device audio AI: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "arxiv:2611.32910",
+     "item_ids": [
+      "395b6d3e8f2f3f69"
+     ],
+     "title": "Mask-Based Speech Enhancement for Spatial Audio: Effects of Signal Representation and Channel-Specific Masking",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.32910",
+     "page": "https://arxiv.org/abs/2611.32910",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 4,
+     "score": 2.9051,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.29012",
+     "item_ids": [
+      "752bb951dac6e854"
+     ],
+     "title": "From Spatial Perception to Speech Recovery: Binaural Semantic Adaptation for Spatially Grounded Multi-Talker Transcription",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.29012",
+     "page": "https://arxiv.org/abs/2611.29012",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 3,
+     "score": 2.0699,
+     "added": "2026-11-24"
+    },
+    {
+     "added": "2026-11-23",
+     "hits": 2,
+     "id": "arxiv:2611.27810",
+     "item_ids": [
+      "b4fe9c5d1482ce32"
+     ],
+     "kind": "paper",
+     "page": "https://arxiv.org/abs/2611.27810",
+     "score": 1.6427,
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "title": "SLP-Bench: Evaluating and Improving Acoustic Claims of Reasoning Audio Language Models on Clinical Speech",
+     "topic": "Hearables & on-device audio AI",
+     "url": "https://arxiv.org/pdf/2611.27810"
+    },
+    {
+     "id": "6b1c4ab3d056003c",
+     "item_ids": [
+      "6b1c4ab3d056003c"
+     ],
+     "title": "Nothing offers a full look at its AI earbuds and charging case",
+     "kind": "article",
+     "section": "tech",
+     "source": "The Verge",
+     "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "page": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+     "topic": "Hearables & on-device audio AI",
+     "hits": 2,
+     "score": 1.2777,
+     "added": "2026-11-25"
+    }
+   ],
+   "date": "2026-11-25",
+   "key": "ep:2026-11-25:hearables-on-device-audio-ai-3-new-papers-1-more",
+   "item_ids": [
+    "395b6d3e8f2f3f69",
+    "752bb951dac6e854",
+    "b4fe9c5d1482ce32",
+    "6b1c4ab3d056003c"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "AI agents & tool use",
+   "title": "AI agents & tool use: 3 new papers + 1 more",
+   "sources": [
+    {
+     "id": "1e8f5837f20f34bf",
+     "item_ids": [
+      "1e8f5837f20f34bf"
+     ],
+     "title": "Measuring and mitigating agent sandbox escape with Siren - Anthropic",
+     "kind": "article",
+     "section": "ai",
+     "source": "Anthropic news",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+     "page": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1fZjR4dUV6eU1kNy1Ub1BpVmxfRXA2c3A5cU5rX2RZZFY3aU1WRGloYkUxZ1pqQmltVjQtTXFDYjhPLXJDbVlBYWxuTC1qQ2JJQW9OeEoyUQ?oc=5",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.6758,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.30171",
+     "item_ids": [
+      "89100d435c6ab9f9"
+     ],
+     "title": "Audio-Visual Rearrangement",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.30171",
+     "page": "https://arxiv.org/abs/2611.30171",
+     "topic": "AI agents & tool use",
+     "hits": 2,
+     "score": 2.2452,
+     "added": "2026-11-24"
+    },
+    {
+     "id": "arxiv:2611.32545",
+     "item_ids": [
+      "56f13e9c14977b44"
+     ],
+     "title": "RePrism: Joint Request and Representation Scheduling for LLM Agent Serving",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.32545",
+     "page": "https://arxiv.org/abs/2611.32545",
+     "topic": "AI agents & tool use",
+     "hits": 3,
+     "score": 2.1831,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.33093",
+     "item_ids": [
+      "2fb481c9fca185e3"
+     ],
+     "title": "AIChipBench: Benchmarking LLM Agents for Automated AI Accelerator Design",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.33093",
+     "page": "https://arxiv.org/abs/2611.33093",
+     "topic": "AI agents & tool use",
+     "hits": 3,
+     "score": 2.1716,
+     "added": "2026-11-25"
+    }
+   ],
+   "date": "2026-11-25",
+   "key": "ep:2026-11-25:ai-agents-tool-use-3-new-papers-1-more",
+   "item_ids": [
+    "1e8f5837f20f34bf",
+    "89100d435c6ab9f9",
+    "56f13e9c14977b44",
+    "2fb481c9fca185e3"
+   ]
+  }
+ ]
+}
