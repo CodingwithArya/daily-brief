@@ -1,0 +1,766 @@
+{
+ "ctx": {
+  "date_long": "Thursday, November 26, 2026",
+  "weekday": "Thursday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "Reuters: US chip curbs and anti-distillation moves delay Chinese AI models - MLQ.ai",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNME1rVTBzSi1Dd2ZZVG91M0Z2Vm1fVzlBeHhuQmQ1bldFemR4X0VkNDdXRjA5elRTRVI4N3I4cFhXd0dSbVRDZXNqLU04bDh1REdyUWI2OUNpbjZEMmtFbnV4MURmNFdLd0NFQjdnQTVYLWJiYjFyemlEbE9FWDdnZExLMnpFUDljTzVKcVc3RXlTN0EwY3ZxMnR3?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-26 10:24:13+00:00",
+      "summary": "Reuters: US chip curbs and anti-distillation moves delay Chinese AI models \u00a0\u00a0 MLQ.ai",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "11h ago"
+      },
+      "score": 1.2736,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "bdd63a813a6f2d0a"
+     },
+     {
+      "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-26 07:19:00+00:00",
+      "summary": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "15h ago"
+      },
+      "score": 1.1816,
+      "why": "",
+      "also_sections": [],
+      "ago": "15h ago",
+      "id": "adeaf6f455ee06a4"
+     },
+     {
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-26 22:01:22+00:00",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0882,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "81d2157c2dbc3c5d"
+     },
+     {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-26 21:17:53+00:00",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0632,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "10830513add91db6"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "\u2018Aether & Iron\u2019: Seattle-area indie game studio builds a noir detective RPG in the sky",
+      "url": "https://www.geekwire.com/2026/aether-iron-seattle-area-indie-game-studio-builds-a-noir-detective-rpg-in-the-sky/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-26 16:51:26+00:00",
+      "summary": "Issaquah, Wash., studio Seismic Squirrel's Aether & Iron is a 30-hour noir detective RPG set in a flying 1938 New York, with turn-based combat fought from customized cars. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.1262,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "d9d758bd0a167fc5"
+     },
+     {
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "url": "https://github.com/lsernau/grh-lean",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-25 21:48:10+00:00",
+      "summary": "542 points \u00b7 343 comments on HN",
+      "duration_min": null,
+      "popularity": 542.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50648050",
+       "ago": "24h ago"
+      },
+      "score": 1.4713,
+      "why": "",
+      "also_sections": [],
+      "ago": "24h ago",
+      "id": "f63f4cad14680799"
+     },
+     {
+      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-26 03:36:58+00:00",
+      "summary": "449 points \u00b7 258 comments on HN",
+      "duration_min": null,
+      "popularity": 449.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50651117",
+       "ago": "18h ago"
+      },
+      "score": 1.3302,
+      "why": "",
+      "also_sections": [],
+      "ago": "18h ago",
+      "id": "244a3e8cb4f170fa"
+     },
+     {
+      "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-26 17:07:00+00:00",
+      "summary": "If you\u2019re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, while the 512GB model with Touch ID is [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 0.8162,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "b8b8a9d24770a802"
+     },
+     {
+      "title": "FCC clears SpaceX to put up to a million satellites in orbit for Starmind data center network",
+      "url": "https://www.geekwire.com/2026/fcc-clears-spacex-million-satellites-starmind-data-center/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-26 00:46:39+00:00",
+      "summary": "First-of-its-kind authorization calls for SpaceX to start launching data-processing satellites by 2033; other companies are waiting in the wings. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "21h ago"
+      },
+      "score": 0.7994,
+      "why": "",
+      "also_sections": [],
+      "ago": "21h ago",
+      "id": "51748b8b2f104688"
+     },
+     {
+      "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+      "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+      "source": "Ars Technica",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-26 18:00:29+00:00",
+      "summary": "Ford enters the World Endurance Championship in 2027 with the new prototype.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.8,
+      "extra": {
+       "ago": "4h ago"
+      },
+      "score": 0.6984,
+      "why": "",
+      "also_sections": [],
+      "ago": "4h ago",
+      "id": "2052fac71c2c77ca"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "Where scientists draw the line on AI agents - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5VndRVUtYbVJNbjZOaHFBcTEzZ2xrNkJxaWljeVUwLTZYaWY2TFZaNWNROUFESTFZTnBwOWU4SWNrYzFaMDZHWUNiX0ZVYWI3c3NLSjRqWndFX0VqRm12enYybUkwTG1pU0hKa2lBX3ZFNWNubUtB?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 19:50:35+00:00",
+      "summary": "Where scientists draw the line on AI agents \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "26h ago"
+      },
+      "score": 3.0353,
+      "why": "",
+      "also_sections": [],
+      "ago": "26h ago",
+      "id": "e106828d0d7c582c"
+     },
+     {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation | Ai2 - Allen Institute for Artificial Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fRzBMSHFUMkI1OHJGNjdfeThCTlBtdDVRWUZTYVVFSW1ZdXI3aldNVmxud0MtQmEwTTNLR0NWOHRjZ09IOXdwRXN3?oc=5",
+      "source": "AI2 blog",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-23 18:03:27+00:00",
+      "summary": "RoboTrack: Point tracking for real-world robotic manipulation | Ai2 \u00a0\u00a0 Allen Institute for Artificial Intelligence",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "3d ago"
+      },
+      "score": 2.3169,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "dd8c26cd70853dc2"
+     },
+     {
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-26 06:08:25+00:00",
+      "summary": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only today that I understood one of its most attractive characteristics. Normally, if you want to grab a snapshot copy of a SQLite database, you need to use either the\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "16h ago"
+      },
+      "score": 1.4951,
+      "why": "",
+      "also_sections": [],
+      "ago": "16h ago",
+      "id": "6fffe9822efcef75"
+     },
+     {
+      "title": "datasette-charts 0.3a0",
+      "url": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 18:16:50+00:00",
+      "summary": "Release: datasette-charts 0.3a0 I added chart annotations to datasette-charts ! You can now render a chart and then annotate it with lines, shaded areas, labels, or a combination of the three. A chart with annotations looks like this: Here's that same chart in Datasette Lite , where you can tweak the annotations using the chart builder UI: If you also install Datasette Agent the agent can build\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "28h ago"
+      },
+      "score": 1.1927,
+      "why": "",
+      "also_sections": [],
+      "ago": "28h ago",
+      "id": "02136c8fa50a1b8c"
+     },
+     {
+      "title": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+      "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-25 22:23:41+00:00",
+      "summary": "November 25, 2026 \u2014 From Erd\u0151s problems to new bounds for matrix multiplication and Fourier transforms.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "23h ago"
+      },
+      "score": 0.9421,
+      "why": "",
+      "also_sections": [],
+      "ago": "23h ago",
+      "id": "c7c801f91e25b992"
+     },
+     {
+      "title": "Why Linear says Issue Tracking is Dead \u2014 Cristina Cordova, COO",
+      "url": "https://latent.space/p/why_linear_says_issue_tracking_is_dead_cristina_cordova_coo/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-19 23:38:57+00:00",
+      "summary": "Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" ( https://linear.app/next ) In this episode, we chat with Cristina Cordova ( htt...",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "6d ago"
+      },
+      "score": 0.5109,
+      "why": "",
+      "also_sections": [],
+      "ago": "6d ago",
+      "id": "9926f8a4697f8a86"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "MoS: Mixture-of-Modality Streaming for Low-Latency Online Video LLM Analytics over Dynamic Networks",
+      "url": "https://arxiv.org/abs/2611.33898",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-25 07:17:19+00:00",
+      "summary": "The serving model for next-generation video analytics systems is shifting from traditional task-specific vision models to general-purpose online video Large Language Models (LLMs). Online video LLMs enable flexible, contextual understanding of continuously arriving video content via natural language. However, their substantial resource\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.33898",
+       "arxiv_id": "2611.33898",
+       "authors": "Zekai Li, Xiaoyi Fan, Yifei Zhu",
+       "ago": "1d ago"
+      },
+      "score": 3.7569,
+      "why": "",
+      "also_sections": [],
+      "ago": "1d ago",
+      "id": "aaebca5f6682572d"
+     },
+     {
+      "title": "MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects",
+      "url": "https://arxiv.org/abs/2611.34945",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-25 18:59:59+00:00",
+      "summary": "While wearable displays can bring digital workspaces anywhere, interaction remains limited by mid-air gestures that lack tactile feedback and induce fatigue, or controllers that are cumbersome to carry. We present MidasTUI, a system that instantly transforms arbitrary everyday objects into opportunistic tangible user interfaces through brief\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.34945",
+       "arxiv_id": "2611.34945",
+       "authors": "Wen Ying, Xuweiyi Chen, Zezhou Cheng, Seongkook Heo",
+       "ago": "27h ago"
+      },
+      "score": 2.9527,
+      "why": "",
+      "also_sections": [],
+      "ago": "27h ago",
+      "id": "50829a585ef8975a"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+      "url": "https://arxiv.org/abs/2611.34615",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-25 16:03:12+00:00",
+      "summary": "Pipeline parallelism can serve long-context language models on PCIe servers and across heterogeneous GPU clusters. Existing engines split prefill into token chunks to limit decode stalls. The chunk size also sets the GPU batch width and the size of activation transfers between stages. Small chunks reload model weights more often. Large chunks can\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.34615",
+       "arxiv_id": "2611.34615",
+       "authors": "Xiaoqiang Guo, Yifan Lin, Yang Liu, Jianan Zhang et al.",
+       "ago": "30h ago"
+      },
+      "score": 2.2249,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "d1a8b60664721976"
+     },
+     {
+      "title": "D\u00e9j\u00e0Vu: Plurality Consensus by First Repetition",
+      "url": "https://arxiv.org/abs/2611.34534",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-25 15:17:53+00:00",
+      "summary": "We analyze D\u00e9j\u00e0Vu, a simple protocol for plurality consensus: in each synchronous round, each agent samples one uniformly random agent and adopts the first opinion it observes twice, resetting its memory after every adoption. The rule requires neither frequency counters nor knowledge of the population size or the number of opinions. It relies\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.34534",
+       "arxiv_id": "2611.34534",
+       "authors": "Niccol\u00f2 D'Archivio, George Giakkoupis, Fr\u00e9d\u00e9ric Giroire, Emanuele Natale",
+       "ago": "31h ago"
+      },
+      "score": 2.2149,
+      "why": "",
+      "also_sections": [],
+      "ago": "31h ago",
+      "id": "d0a9990adb79a934"
+     },
+     {
+      "title": "The Life of a Database Row: What Really Happens Behind the Scenes",
+      "url": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-26 16:30:34+00:00",
+      "summary": "In this article, we\u2019ll look at the life of a row in the database with respect to these operations.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.077,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "56f631e4291ab340"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "Temporal and Durable Execution for AI Agents",
+      "url": "https://softwareengineeringdaily.com/podcasts/temporal-and-durable-execution-for-ai-agents/",
+      "source": "Software Engineering Daily",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-26 10:00:00+00:00",
+      "summary": "Coordinating long-running processes on top of distributed systems is one of the persistent hard problems in software. A process that runs across many steps can\u2019t count on finishing in one clean pass, since the machines running it may crash, stall, or drop connections. To handle this fragility,\u2026",
+      "duration_min": 47,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "audio": "https://media.transistor.fm/9d768b37/782f9b88.mp3",
+       "ago": "12h ago"
+      },
+      "score": 2.0172,
+      "why": "",
+      "also_sections": [],
+      "ago": "12h ago",
+      "id": "cfb460a2700c1424"
+     },
+     {
+      "title": "Storm Postpones Thanksgiving Day Parade, Trump's New Tariffs, Iowa Post-Detonation",
+      "url": "https://www.npr.org/2026/11/26/nx-s1-6054761/storm-postpones-thanksgiving-day-parade-trumps-new-tariffs-iowa-post-detonation",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-26 10:46:47+00:00",
+      "summary": "Powerful storms threaten to disrupt Thanksgiving travel for millions of Americans and have forced the Macy\u2019s Thanksgiving Day Parade to be postponed for the first time in its history. The Trump administration is proposing new tariffs on goods from fourteen major trading partners, setting up\u2026",
+      "duration_min": 12,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/279fc4ff-e0a4-439a-94e6-b438da225b54/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=279fc4ff-e0a4-439a-94e6-b438da225b54&feed=HMwRVgVt&t=podcast&e=nx-s1-6054761&p=510318&d=740&size=11846261",
+       "ago": "11h ago"
+      },
+      "score": 0.6429,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "b4bd7900e9cad7aa"
+     },
+     {
+      "title": "Essentials: How to Learn Better & Create Your Best Future | Tim Ferriss",
+      "url": "https://www.hubermanlab.com/episode/essentials-how-to-learn-better-and-create-your-best-future-tim-ferriss",
+      "source": "Huberman Lab",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-26 09:00:00+00:00",
+      "summary": "In this episode of Huberman Lab Essentials, my guest is Tim Ferriss, a bestselling author, technology investor, and host of The Tim Ferriss Show podcast. We discuss Tim\u2019s approach to exploration, self-experimentation, and mastery, as well as his own experiences with depression, suicidal thoughts,\u2026",
+      "duration_min": 37,
+      "popularity": 0.0,
+      "weight": 0.7,
+      "extra": {
+       "audio": "https://traffic.megaphone.fm/SCIM6636160771.mp3",
+       "ago": "13h ago"
+      },
+      "score": 0.6409,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "c639756d1c4c4d07"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "How to Make Friends (and Keep Them) | Sheridan Voysey | TED",
+      "url": "https://www.youtube.com/watch?v=1YlG1FeOqoQ",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-26 16:00:04+00:00",
+      "summary": "Who could you call at 2am when everything\u2019s gone wrong? Friendship expert Sheridan Voysey believes we\u2019re in a friendship recession, with many of us forgetting how to foster meaningful relationships. He explores three hidden barriers keeping us\u2026",
+      "duration_min": null,
+      "popularity": 24.782,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/1YlG1FeOqoQ/hqdefault.jpg",
+       "ago": "6h ago"
+      },
+      "score": 1.0938,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "e93e2175a9978ad6"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-26:lora-low-rank-adaptation-of-large-language-models",
+    "label": "Classic paper 10/15 \u00b7 On-device & efficient ML",
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models \u2014 then & now",
+    "url": null,
+    "sources": [
+     {
+      "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+      "url": "https://arxiv.org/pdf/2106.09685",
+      "kind": "paper"
+     },
+     {
+      "title": "Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence",
+      "url": "https://arxiv.org/abs/2611.31331",
+      "kind": "paper"
+     },
+     {
+      "title": "Shifter Quantization: Compact Representations for Native Integer Computation",
+      "url": "https://arxiv.org/abs/2611.33080",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-26:llm-serving-ml-infrastructure-4-new-papers",
+    "label": "Topic episode \u00b7 LLM serving & ML infrastructure",
+    "title": "LLM serving & ML infrastructure: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "MoS: Mixture-of-Modality Streaming for Low-Latency Online Video LLM Analytics over Dynamic Networks",
+      "url": "https://arxiv.org/abs/2611.33898",
+      "kind": "paper"
+     },
+     {
+      "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+      "url": "https://arxiv.org/abs/2611.33111",
+      "kind": "paper"
+     },
+     {
+      "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+      "url": "https://arxiv.org/abs/2611.34615",
+      "kind": "paper"
+     },
+     {
+      "title": "Same Seed, Different Top Prediction: Cross-Platform Reproducibility of AlphaFold 3 Inference on TPUs, GPUs, and CPUs",
+      "url": "https://arxiv.org/abs/2611.34462",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 25,
+  "read_min": 63,
+  "listen_min": 111,
+  "generated": "2:21 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "classic",
+   "topic": "On-device & efficient ML",
+   "title": "LoRA: Low-Rank Adaptation of Large Language Models \u2014 then & now",
+   "sources": [
+    {
+     "id": "classic:https://arxiv.org/pdf/2106.09685",
+     "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+     "kind": "paper",
+     "url": "https://arxiv.org/pdf/2106.09685",
+     "page": "https://arxiv.org/pdf/2106.09685",
+     "source": "Classic \u00b7 MLE Foundations"
+    },
+    {
+     "id": "arxiv:2611.31331",
+     "item_ids": [
+      "6f0a257a8665a3e9"
+     ],
+     "title": "Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.31331",
+     "page": "https://arxiv.org/abs/2611.31331",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5069,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.33080",
+     "item_ids": [
+      "08504ae82ac4a1d3"
+     ],
+     "title": "Shifter Quantization: Compact Representations for Native Integer Computation",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.33080",
+     "page": "https://arxiv.org/abs/2611.33080",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.5022,
+     "added": "2026-11-25"
+    }
+   ],
+   "date": "2026-11-26",
+   "key": "ep:2026-11-26:lora-low-rank-adaptation-of-large-language-models",
+   "item_ids": [
+    "classic:https://arxiv.org/pdf/2106.09685",
+    "6f0a257a8665a3e9",
+    "08504ae82ac4a1d3"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "LLM serving & ML infrastructure",
+   "title": "LLM serving & ML infrastructure: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.33898",
+     "item_ids": [
+      "aaebca5f6682572d"
+     ],
+     "title": "MoS: Mixture-of-Modality Streaming for Low-Latency Online Video LLM Analytics over Dynamic Networks",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.33898",
+     "page": "https://arxiv.org/abs/2611.33898",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 1,
+     "score": 3.7569,
+     "added": "2026-11-26"
+    },
+    {
+     "id": "arxiv:2611.33111",
+     "item_ids": [
+      "7805514c92106f95"
+     ],
+     "title": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching Draft and Target Distributions",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.33111",
+     "page": "https://arxiv.org/abs/2611.33111",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 2.5091,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.34615",
+     "item_ids": [
+      "d1a8b60664721976"
+     ],
+     "title": "PipeAxes: Decoupling Compute and Communication Granularities for Pipeline-Parallel LLM Serving",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.34615",
+     "page": "https://arxiv.org/abs/2611.34615",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 4,
+     "score": 2.2249,
+     "added": "2026-11-26"
+    },
+    {
+     "id": "arxiv:2611.34462",
+     "item_ids": [
+      "1ef3320808fcdbc7"
+     ],
+     "title": "Same Seed, Different Top Prediction: Cross-Platform Reproducibility of AlphaFold 3 Inference on TPUs, GPUs, and CPUs",
+     "kind": "paper",
+     "section": "swe",
+     "source": "arXiv \u2014 distributed systems",
+     "url": "https://arxiv.org/pdf/2611.34462",
+     "page": "https://arxiv.org/abs/2611.34462",
+     "topic": "LLM serving & ML infrastructure",
+     "hits": 2,
+     "score": 1.9115,
+     "added": "2026-11-26"
+    }
+   ],
+   "date": "2026-11-26",
+   "key": "ep:2026-11-26:llm-serving-ml-infrastructure-4-new-papers",
+   "item_ids": [
+    "aaebca5f6682572d",
+    "7805514c92106f95",
+    "d1a8b60664721976",
+    "1ef3320808fcdbc7"
+   ]
+  }
+ ]
+}
