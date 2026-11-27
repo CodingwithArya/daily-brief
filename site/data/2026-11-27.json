@@ -1,0 +1,758 @@
+{
+ "ctx": {
+  "date_long": "Friday, November 27, 2026",
+  "weekday": "Friday",
+  "sections": [
+   {
+    "id": "world",
+    "title": "\ud83c\udf0d World \u2014 be the person who knows what's going on",
+    "items": [
+     {
+      "title": "US Restrictions and Distillation Crackdown Hinder Chinese AI Model Development - ForkLog",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbjlnUlQwNG5GS1NsQ2E0M0xFZTRMalZmMG1KdVZXUWl1WTBNVzF5dWc5TnlCdVI3LXljdUlWa3U3ZzJET3RXTS1sZHF2Ul9femRtazV5SEFKa0lwTll2eGdRTkcyQXVOcFFRaVdHSkFONlg2NTJjOGFHajBzazBtV3BBV01WaWktOE9mQlozcktBRlJXMWY3b09nMWZLRUNHeUVjYw?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-27 12:00:00+00:00",
+      "summary": "US Restrictions and Distillation Crackdown Hinder Chinese AI Model Development \u00a0\u00a0 ForkLog",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "9h ago"
+      },
+      "score": 1.3408,
+      "why": "",
+      "also_sections": [],
+      "ago": "9h ago",
+      "id": "1c0b952580f906f8"
+     },
+     {
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-27 21:55:53+00:00",
+      "summary": "Prime Minister Pedro S\u00e1nchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0988,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "cd7f3d69fb5e70ac"
+     },
+     {
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-27 20:34:45+00:00",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.0521,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "a94c60a55837c9ca"
+     },
+     {
+      "title": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQnhWb2oyc2Qta3k0bUhwbGZTcWZMREZ0VU41eVNZWDJZTDlBcmMxZzFrLXlmVGJpUHBRbVdBRlNoQU9lWUlIcVpMcXQwWWpyYVJ2eDJQa1ZvNFU5MUFHLWdpQW1BVloyUW5lTUlVSlFpLXJwVHNLMl9fQnBFTTNnemY4Q0JiUkN3SXFndG1pX1l1TmdySFJDOHJlWC1fMnE3cjlaVFB5M1hWbU0?oc=5",
+      "source": "Reuters (via Google News)",
+      "section": "world",
+      "kind": "article",
+      "published": "2026-11-27 20:56:01+00:00",
+      "summary": "EXCLUSIVE: Hackers breach US Air Force flagship Cloud One computing platform \u00a0\u00a0 Reuters",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.0,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 0.9673,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "48186df8d2fe43bd"
+     }
+    ]
+   },
+   {
+    "id": "tech",
+    "title": "\ud83d\udcf0 Tech & Seattle",
+    "items": [
+     {
+      "title": "Seattle skier vibe-codes \u2018Pow Pow,\u2019 a new snow report app that doesn\u2019t sugarcoat the conditions",
+      "url": "https://www.geekwire.com/2026/seattle-skier-vibe-codes-pow-pow-a-new-snow-report-app-that-doesnt-sugarcoat-the-conditions/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 16:30:12+00:00",
+      "summary": "Microsoft product designer Jeremy Sanford used AI tools to build the app he always wanted: snow reports he can trust, with a little attitude. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "5h ago"
+      },
+      "score": 2.365,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "38eb3b1c3dce6f28"
+     },
+     {
+      "title": "Nothing\u2019s ANC-equipped earbuds are on sale for less than $20 for Black Friday",
+      "url": "https://www.theverge.com/gadgets/1041717/nothing-cmf-buds-2a-earbuds-black-friday-2026-deal-sale",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 20:30:00+00:00",
+      "summary": "If our sub-$30 Black Friday roundup has you hungry for more great gadgets at low prices, you can currently grab the Nothing CMF Buds 2A in black starting at $17.89 on Amazon for Black Friday, which is about $11 less than the MSRP and the lowest price we\u2019ve seen. The wireless earbuds are discounted in [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "1h ago"
+      },
+      "score": 1.6028,
+      "why": "",
+      "also_sections": [],
+      "ago": "1h ago",
+      "id": "79cb4c669107ae2a"
+     },
+     {
+      "title": "Companies want AI-ready workers. Are they willing to adapt, too?",
+      "url": "https://www.geekwire.com/2026/companies-want-ai-ready-workers-are-they-willing-to-adapt-too/",
+      "source": "GeekWire",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 21:00:00+00:00",
+      "summary": "Employers want AI-ready workers. Arif Gursel of 8genC says they need to be AI-ready workplaces, too. A new Washington study shows how wide the gap is between what employers expect and what young adults feel prepared for. Read More",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.4,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.3571,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "cb34a4e4588859f0"
+     },
+     {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 15:40:31+00:00",
+      "summary": "329 points \u00b7 174 comments on HN",
+      "duration_min": null,
+      "popularity": 329.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50668145",
+       "ago": "6h ago"
+      },
+      "score": 1.324,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "9b67ad13d3381ff0"
+     },
+     {
+      "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "source": "Hacker News",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 15:01:50+00:00",
+      "summary": "299 points \u00b7 92 comments on HN",
+      "duration_min": null,
+      "popularity": 299.0,
+      "weight": 1.0,
+      "extra": {
+       "discussion": "https://news.ycombinator.com/item?id=50667726",
+       "ago": "6h ago"
+      },
+      "score": 1.3007,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "64f11cc42feb5246"
+     },
+     {
+      "title": "The absolute best Black Friday deals we\u2019ve found (so far)",
+      "url": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+      "source": "The Verge",
+      "section": "tech",
+      "kind": "article",
+      "published": "2026-11-27 21:09:43+00:00",
+      "summary": "This year\u2019s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we\u2019ve seen in-store and online for video games, wireless earbuds, TVs, e-readers, robot vacuums, and so much more. We can\u2019t guarantee a deal you\u2019ve had [\u2026]",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.6,
+      "extra": {
+       "ago": "just now"
+      },
+      "score": 1.0523,
+      "why": "",
+      "also_sections": [],
+      "ago": "just now",
+      "id": "7c1769739d070ca9"
+     }
+    ]
+   },
+   {
+    "id": "ai",
+    "title": "\ud83e\udd16 AI / ML \u2014 news & analysis",
+    "items": [
+     {
+      "title": "How Clay Builds GTM Agents \u2014 Jeff Barg, Head of AI",
+      "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+      "source": "Latent Space",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-26 23:02:48+00:00",
+      "summary": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.1,
+      "extra": {
+       "ago": "22h ago"
+      },
+      "score": 1.7067,
+      "why": "",
+      "also_sections": [],
+      "ago": "22h ago",
+      "id": "00bb51c293be1538"
+     },
+     {
+      "title": "Quoting Jack Despain Zhou",
+      "url": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+      "source": "Simon Willison",
+      "section": "ai",
+      "kind": "article",
+      "published": "2026-11-26 15:09:31+00:00",
+      "summary": "Among the many already existing effects of AI has been a great de-individualization. I open a YouTube video, and I hear Claude. I sit in a conference presentation, and I hear Claude. I open my email inbox, and I find pitches and articles from ostensibly serious people with ostensibly serious credentials attached to ostensibly serious institutions who want to publish things attached to their\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "ago": "30h ago"
+      },
+      "score": 0.6361,
+      "why": "",
+      "also_sections": [],
+      "ago": "30h ago",
+      "id": "c8321eecfefe0a98"
+     }
+    ]
+   },
+   {
+    "id": "lab",
+    "title": "\ud83c\udfa7 Mobile Intelligence Lab radar (hearables \u00b7 sensing \u00b7 on-device)",
+    "items": [
+     {
+      "title": "EgoCARBS: Egocentric Video Meets Active Acoustics for Kitchen Action Understanding",
+      "url": "https://arxiv.org/abs/2611.33565",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-25 00:26:12+00:00",
+      "summary": "Egocentric video records what a person looks at, but often misses what their body does: the hands leave the frame, and arm motion goes unseen. An exocentric camera recovers this context, but it must be installed wherever the activity happens. Active acoustic sensing can recover it from the wearables themselves: a device's speaker emits inaudible\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.33565",
+       "arxiv_id": "2611.33565",
+       "authors": "Saif Mahmud, Vineet Parikh, Bharath Hariharan, Cheng Zhang",
+       "ago": "2d ago"
+      },
+      "score": 2.5538,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "7891e5792c7bfa68"
+     },
+     {
+      "title": "GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision",
+      "url": "https://arxiv.org/abs/2611.33760",
+      "source": "arXiv \u2014 your lab's area",
+      "section": "lab",
+      "kind": "paper",
+      "published": "2026-11-25 04:18:15+00:00",
+      "summary": "Wearable assistants must localize interface elements from camera observations when direct screenshot access is unavailable, yet existing GUI grounding benchmarks primarily evaluate native screenshots. We introduce GlassGround, a new benchmark that pairs native screenshots with wearable camera observations while holding GUI states, instructions,\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.6,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.33760",
+       "arxiv_id": "2611.33760",
+       "authors": "Yun Wang, Siyue Sun, Jiaying Du, Xinyi Wei et al.",
+       "ago": "2d ago"
+      },
+      "score": 2.3865,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "42f4b87e28eb5db4"
+     }
+    ]
+   },
+   {
+    "id": "swe",
+    "title": "\ud83d\udee0\ufe0f SWE & distributed systems",
+    "items": [
+     {
+      "title": "Same Seed, Different Top Prediction: Cross-Platform Reproducibility of AlphaFold 3 Inference on TPUs, GPUs, and CPUs",
+      "url": "https://arxiv.org/abs/2611.34462",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-25 14:35:24+00:00",
+      "summary": "AlphaFold 3 returns the highest-ranked of several sampled structures and computes each prediction on one device. Computing centers may schedule them on different GPU types or CPU nodes. Floating-point results can differ between devices, so the same input and seed may return another structure. Neither AlphaFold 3's documentation nor its outputs\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.34462",
+       "arxiv_id": "2611.34462",
+       "authors": "Lorenzo Pazienza",
+       "ago": "2d ago"
+      },
+      "score": 1.6733,
+      "why": "",
+      "also_sections": [],
+      "ago": "2d ago",
+      "id": "1ef3320808fcdbc7"
+     },
+     {
+      "title": "Generalized Tensor Parallelism: Powering Trillion-Parameter LLM Training at 10+ EFLOP/s",
+      "url": "https://arxiv.org/abs/2611.32057",
+      "source": "arXiv \u2014 distributed systems",
+      "section": "swe",
+      "kind": "paper",
+      "published": "2026-11-24 06:45:36+00:00",
+      "summary": "Pretraining state-of-the-art large language models (LLMs) with up to trillions of parameters is memory- and compute-intensive. Existing parallelization schemes compromise on either per-GPU memory or throughput: data parallelism replicates parameters; tensor parallelism and fully sharded data parallelism (FSDP) add communication of activations and\u2026",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "pdf": "https://arxiv.org/pdf/2611.32057",
+       "arxiv_id": "2611.32057",
+       "authors": "Shiqing Fan, Deepak Narayanan, Jimmy Zhang, Jiangfei Duan et al.",
+       "ago": "3d ago"
+      },
+      "score": 1.4322,
+      "why": "",
+      "also_sections": [],
+      "ago": "3d ago",
+      "id": "583f3b6a4dceb0c9"
+     },
+     {
+      "title": "\u23f3 LIMITED TIME OFFER: All in One Interview Prep Black Friday Sale",
+      "url": "https://blog.bytebytego.com/p/limited-time-offer-all-in-one-interview-33c",
+      "source": "ByteByteGo newsletter",
+      "section": "swe",
+      "kind": "article",
+      "published": "2026-11-27 15:30:45+00:00",
+      "summary": "Yearly Black Friday sale is now live!",
+      "duration_min": null,
+      "popularity": 0.0,
+      "weight": 1.2,
+      "extra": {
+       "ago": "6h ago"
+      },
+      "score": 1.1493,
+      "why": "",
+      "also_sections": [],
+      "ago": "6h ago",
+      "id": "f17647f3ca125b52"
+     }
+    ]
+   },
+   {
+    "id": "listen",
+    "title": "\ud83c\udf99\ufe0f Listen (runs + commute)",
+    "items": [
+     {
+      "title": "AI researchers debate what we should do next \u2013 Daniel Kokotajlo and Ege Erdil",
+      "url": "https://www.dwarkesh.com/p/daniel-kokotajlo-ege-erdil",
+      "source": "Dwarkesh Podcast",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-27 18:01:14+00:00",
+      "summary": "New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected. Their main point of disagreement is how likely it is that we get some intelligence explosion that gives us AIs more competent than any\u2026",
+      "duration_min": 96,
+      "popularity": 0.0,
+      "weight": 1.3,
+      "extra": {
+       "audio": "https://api.substack.com/feed/podcast/226789196/89485c0543b57f829184d38024dba666.mp3",
+       "ago": "3h ago"
+      },
+      "score": 1.266,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "ee98a806290f1c55"
+     },
+     {
+      "title": "Thanksgiving Storm Aftermath, Black Friday Economy, Eisenkot's Coalition Talks",
+      "url": "https://www.npr.org/2026/11/27/nx-s1-6055516/thanksgiving-storm-aftermath-black-friday-economy-eisenkots-coalition-talks",
+      "source": "Up First NPR",
+      "section": "listen",
+      "kind": "podcast",
+      "published": "2026-11-27 10:50:27+00:00",
+      "summary": "Powerful storms left nearly a million customers without power on Thanksgiving and disrupted travel across much of the country, but conditions are expected to improve heading into the weekend. Americans are expected to spend a record amount this holiday season, even as inflation forces many\u2026",
+      "duration_min": 12,
+      "popularity": 0.0,
+      "weight": 0.9,
+      "extra": {
+       "audio": "https://prfx.byspotify.com/e/play.podtrac.com/npr-510318/npr.simplecastaudio.com/d52bee4a-b10a-40f8-9417-45064e6b8632/episodes/a275f0a7-48cf-4f04-96fe-c3202580075b/audio/128/default.mp3?awCollectionId=d52bee4a-b10a-40f8-9417-45064e6b8632&awEpisodeId=a275f0a7-48cf-4f04-96fe-c3202580075b&feed=HMwRVgVt&t=podcast&e=nx-s1-6055516&p=510318&d=743&size=11896835",
+       "ago": "11h ago"
+      },
+      "score": 0.6504,
+      "why": "",
+      "also_sections": [],
+      "ago": "11h ago",
+      "id": "2009e41a12fc8ecd"
+     }
+    ]
+   },
+   {
+    "id": "watch",
+    "title": "\ud83d\udcfa Watch (instead of Netflix)",
+    "items": [
+     {
+      "title": "DeepMind\u2019s New AI Just Changed The AI Race",
+      "url": "https://www.youtube.com/watch?v=u6UYsl-KEoc",
+      "source": "Two Minute Papers",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-27 08:42:30+00:00",
+      "summary": "\u2764\ufe0f Check out Lambda here and sign up for their GPU Cloud: https://lambda.com/papers \ud83d\udcdd The security report is available here: https://storage.googleapis.com/deepmind-media/gemini/gemini_4_neon_safety_report.pdf Sources: -\u2026",
+      "duration_min": null,
+      "popularity": 150.395,
+      "weight": 1.0,
+      "extra": {
+       "thumb": "https://i2.ytimg.com/vi/u6UYsl-KEoc/hqdefault.jpg",
+       "ago": "13h ago"
+      },
+      "score": 2.1876,
+      "why": "",
+      "also_sections": [],
+      "ago": "13h ago",
+      "id": "07fd1ba67776eb5e"
+     },
+     {
+      "title": "The wild world of tech in 2027...",
+      "url": "https://www.youtube.com/watch?v=sPGzM3ktJVE",
+      "source": "Fireship",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-27 16:08:25+00:00",
+      "summary": "Get 67% off VPS hosting with Hostinger's Black Friday sale. Use code FIRESHIP for an extra discount - https://hostinger.com/fireship The junior dev job is dead, open source is drowning in slop, and npm install is a gamble. Here are 10 trends every\u2026",
+      "duration_min": null,
+      "popularity": 557.831,
+      "weight": 1.2,
+      "extra": {
+       "thumb": "https://i4.ytimg.com/vi/sPGzM3ktJVE/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 1.6029,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "316a0bd4c3164ef6"
+     },
+     {
+      "title": "An honest conversation about what's happening in AI",
+      "url": "https://www.youtube.com/watch?v=TbKkN1cesTo",
+      "source": "Dwarkesh Patel",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-27 18:33:23+00:00",
+      "summary": "New podcast episode between Ege Erdil and Daniel Kokotajlo. I thought this was going to be a debate, but they ended up agreeing on a lot more than I expected. Their main point of disagreement is how likely it is that we get some intelligence\u2026",
+      "duration_min": null,
+      "popularity": 53.939,
+      "weight": 0.9,
+      "extra": {
+       "thumb": "https://i1.ytimg.com/vi/TbKkN1cesTo/hqdefault.jpg",
+       "ago": "3h ago"
+      },
+      "score": 1.3089,
+      "why": "",
+      "also_sections": [],
+      "ago": "3h ago",
+      "id": "2d30116263ac8991"
+     },
+     {
+      "title": "The Surprising Beauty of Mosquitos | Felix Hol | TED",
+      "url": "https://www.youtube.com/watch?v=Zsc9B3-1kTI",
+      "source": "TED",
+      "section": "watch",
+      "kind": "video",
+      "published": "2026-11-27 16:00:05+00:00",
+      "summary": "Most people hate mosquitoes, but biotechnologist and TED Fellow Felix Hol thinks they're beautiful. He takes us inside his lab, where his team developed some unusual ways to study how these blood-sucking insects find us and feed so fast. He also\u2026",
+      "duration_min": null,
+      "popularity": 15.563,
+      "weight": 0.6,
+      "extra": {
+       "thumb": "https://i3.ytimg.com/vi/Zsc9B3-1kTI/hqdefault.jpg",
+       "ago": "5h ago"
+      },
+      "score": 0.8909,
+      "why": "",
+      "also_sections": [],
+      "ago": "5h ago",
+      "id": "d342bac8f54f2296"
+     }
+    ]
+   }
+  ],
+  "queue": [],
+  "episodes": [
+   {
+    "key": "ep:2026-11-27:wireless-acoustic-sensing-4-new-papers",
+    "label": "Topic episode \u00b7 Wireless & acoustic sensing",
+    "title": "Wireless & acoustic sensing: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects",
+      "url": "https://arxiv.org/abs/2611.34945",
+      "kind": "paper"
+     },
+     {
+      "title": "EgoCARBS: Egocentric Video Meets Active Acoustics for Kitchen Action Understanding",
+      "url": "https://arxiv.org/abs/2611.33565",
+      "kind": "paper"
+     },
+     {
+      "title": "GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision",
+      "url": "https://arxiv.org/abs/2611.33760",
+      "kind": "paper"
+     },
+     {
+      "title": "AutoRSP: An AI Agent for Radar Sensing Pipeline Design",
+      "url": "https://arxiv.org/abs/2611.34754",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   },
+   {
+    "key": "ep:2026-11-27:on-device-efficient-ml-4-new-papers",
+    "label": "Topic episode \u00b7 On-device & efficient ML",
+    "title": "On-device & efficient ML: 4 new papers",
+    "url": null,
+    "sources": [
+     {
+      "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+      "url": "https://arxiv.org/abs/2611.33031",
+      "kind": "paper"
+     },
+     {
+      "title": "MXFP4 for LLM Inference: Complementary Post-Training Quantization Techniques and Their Interactions",
+      "url": "https://arxiv.org/abs/2611.32873",
+      "kind": "paper"
+     },
+     {
+      "title": "ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.32755",
+      "kind": "paper"
+     },
+     {
+      "title": "Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes",
+      "url": "https://arxiv.org/abs/2611.34402",
+      "kind": "paper"
+     }
+    ],
+    "note": "Audio appears here after the NotebookLM run"
+   }
+  ],
+  "tldr": [],
+  "opinions": [],
+  "n_items": 23,
+  "read_min": 51,
+  "listen_min": 168,
+  "generated": "1:57 PM PST",
+  "feed_url": "podcasts/feed.xml"
+ },
+ "jobs": [
+  {
+   "kind": "topic",
+   "topic": "Wireless & acoustic sensing",
+   "title": "Wireless & acoustic sensing: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.34945",
+     "item_ids": [
+      "50829a585ef8975a"
+     ],
+     "title": "MidasTUI: Instant Tangible User Interfaces for Wearable Displays using Everyday Objects",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.34945",
+     "page": "https://arxiv.org/abs/2611.34945",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.9527,
+     "added": "2026-11-26"
+    },
+    {
+     "id": "arxiv:2611.33565",
+     "item_ids": [
+      "7891e5792c7bfa68"
+     ],
+     "title": "EgoCARBS: Egocentric Video Meets Active Acoustics for Kitchen Action Understanding",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.33565",
+     "page": "https://arxiv.org/abs/2611.33565",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.8911,
+     "added": "2026-11-26"
+    },
+    {
+     "id": "arxiv:2611.33760",
+     "item_ids": [
+      "42f4b87e28eb5db4"
+     ],
+     "title": "GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.33760",
+     "page": "https://arxiv.org/abs/2611.33760",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.7084,
+     "added": "2026-11-26"
+    },
+    {
+     "id": "arxiv:2611.34754",
+     "item_ids": [
+      "8b58cb566a2af149"
+     ],
+     "title": "AutoRSP: An AI Agent for Radar Sensing Pipeline Design",
+     "kind": "paper",
+     "section": "lab",
+     "source": "arXiv \u2014 your lab's area",
+     "url": "https://arxiv.org/pdf/2611.34754",
+     "page": "https://arxiv.org/abs/2611.34754",
+     "topic": "Wireless & acoustic sensing",
+     "hits": 2,
+     "score": 2.3932,
+     "added": "2026-11-26"
+    }
+   ],
+   "date": "2026-11-27",
+   "key": "ep:2026-11-27:wireless-acoustic-sensing-4-new-papers",
+   "item_ids": [
+    "50829a585ef8975a",
+    "7891e5792c7bfa68",
+    "42f4b87e28eb5db4",
+    "8b58cb566a2af149"
+   ]
+  },
+  {
+   "kind": "topic",
+   "topic": "On-device & efficient ML",
+   "title": "On-device & efficient ML: 4 new papers",
+   "sources": [
+    {
+     "id": "arxiv:2611.33031",
+     "item_ids": [
+      "2164a3d31daa40a6"
+     ],
+     "title": "Can a Frontier LLM Repair a Quantized Network by Tool-Free Weight-Space Programming?",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.33031",
+     "page": "https://arxiv.org/abs/2611.33031",
+     "topic": "On-device & efficient ML",
+     "hits": 1,
+     "score": 2.4942,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.32873",
+     "item_ids": [
+      "3c2460218ef534a0"
+     ],
+     "title": "MXFP4 for LLM Inference: Complementary Post-Training Quantization Techniques and Their Interactions",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.32873",
+     "page": "https://arxiv.org/abs/2611.32873",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.4703,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.32755",
+     "item_ids": [
+      "87f93a554c9c22b2"
+     ],
+     "title": "ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.32755",
+     "page": "https://arxiv.org/abs/2611.32755",
+     "topic": "On-device & efficient ML",
+     "hits": 2,
+     "score": 2.454,
+     "added": "2026-11-25"
+    },
+    {
+     "id": "arxiv:2611.34402",
+     "item_ids": [
+      "95344572df03debf"
+     ],
+     "title": "Any-Rate: Half-Bit Multi-Precision LLM Quantization with Coded Bit-Planes",
+     "kind": "paper",
+     "section": "pool",
+     "source": "arXiv \u2014 efficient / on-device / audio ML",
+     "url": "https://arxiv.org/pdf/2611.34402",
+     "page": "https://arxiv.org/abs/2611.34402",
+     "topic": "On-device & efficient ML",
+     "hits": 3,
+     "score": 2.4423,
+     "added": "2026-11-26"
+    }
+   ],
+   "date": "2026-11-27",
+   "key": "ep:2026-11-27:on-device-efficient-ml-4-new-papers",
+   "item_ids": [
+    "2164a3d31daa40a6",
+    "3c2460218ef534a0",
+    "87f93a554c9c22b2",
+    "95344572df03debf"
+   ]
+  }
+ ]
+}
